@@ -1,0 +1,48 @@
+---
+#zenetöri #tétel
+title: A német opera
+feed: show
+date: 2023-02-09 21:10
+permalink: /A német opera
+---
+[[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]
+
+- [[Beethoven]] - [[Fidelio]] ![[Fidelio]]
+---
+- [[Wagner]] - [[Undine]] ![[Undine]] 
+
+### Műfaja
+
+- "romantikus opera" -> műfajtípus
+- 19. század első felében bemutatott német operákat jelöl
+	- [[Carl Maria von Weber]] - [[A bűvös vadász]]
+	- [[Wagner]] - [[A bolygó hollandi]], [[Tannhäuser]], [[Lohengrin]]
+- német irodalmi irányzatokhoz kapcsolódik
+	- [[E T A Hoffmann]]: *Der Dichter und der Komponist* írás
+		- költő és zeneszerző (Ferdinand, [Ludwig](Beethoven)) *beszélget* a háború közben az operakomponálásról
+		- zene és ének egy távoli országból származik
+		- regényes opera - **természetfeletti elemek**, tündérek, stb. - az igaz Ludwig szerint
+		- Hoffmann saját operája, az Undine (német rom. opera első művének tekintik)
+		- [[Carl Maria von Weber]] - *Bűvös vadász*
+
+### Prózai & végigkomponált operák
+
+- prózaiságot befolyásolja a **kevés operára szakosodott német színház**
+	- **kevés a végigkomponált mű**
+- mindenféle műfaj (prózadrámáktól a szórakoztató repertoáron át az operáig)
+- énekes
+	- énekel
+	- prózai szöveget deklamál
+	 -> az operák is alkalmazzák mindkettőt ([[Undine]], [[A bűvös vadász]])
+- első végigkomponált mű: [[Carl Maria von Weber]] - [[Euryanthe]]
+- [[Wagner]] nagy operái már **nem alkalmaznak prózát**
+	- **végigkomponált**
+	- saját szövegkönyv
+
+### [[Wagner]]
+
+- karrierje, élete
+- botrányai
+- életműve
+	- [[Lohengrin]]
+	- [[Trisztán és Izolda]]

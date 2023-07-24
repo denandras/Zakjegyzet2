@@ -1,0 +1,45 @@
+---
+#zenetöri #személy
+title: Brahms
+feed: show
+date: 2023-02-22 10:28
+permalink: /Brahms
+---
+> <mark>1833-1897</mark>
+> Johannes Brahms
+> [[Ludwik Erhardt - Brahms]]
+
+### Johannes Brahms
+
+- **német**
+- romantikus zeneszerzők között fiatal generáció tagja
+	- német dalrepertoár jelentős szerzője
+- hamburgi születés -> **Bécs**
+- koncertező zongorista
+- karnagy Singakademie-n
+- konzervatívabb irányzat
+- **[[Schumann]] a felfedezője** (cikk róla)
+
+### Dalciklusai
+
+- **szívesen publikálják a dalokat kötetbe foglalva** - dalciklus
+- Romanzen aus L Tiecks *Magelone* (Románcok [[Ludwig Tieck]] *Magelonéjéből*)
+	- **[[Stochkausen]]nek** (énekes) írta [[Ludwig Tieck]] elbeszélésének versbetéteire
+		- **nem a teljes művet**, csak egyes részeit **zenésíti meg**
+		- kísérte is őt
+		- **ő tette divattá az egyben történő előadást**
+	- Péter lovagi tornán mindenkit legyőz
+		- uralkodó lányát megszökteti, mert apja máshoz adná
+		- amíg a lány elalszik, egy holló ellopja a 3 gyűrűt, amit a fiú adott neki
+		- beleesik a tengerbe, Péter utánamegy
+		- pogányok fogságába kerül, megszökik, hazatér
+
+### Szimfóniái (kimaradt)
+
+- 4. e-moll (5 tétel)
+	- e-E-e
+	- 4. tétel, minore
+		- passacaglia témája [[Bach]](?) kantátájából ereteztethető
+			- feldolgozásmódja más
+		- ostinato téma nem marad végig a basszusban
+	- *Négy komoly ének* - hasonlóság (terc a szerkezeti egység)

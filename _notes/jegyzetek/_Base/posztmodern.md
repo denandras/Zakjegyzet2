@@ -1,0 +1,462 @@
+---
+title: posztmodern
+feed: hide
+date: 2023-02-20 19:34
+permalink: /posztmodern
+#posztmodern
+
+alias:
+---
+P. Sloterdijk: *"Aki szédül, az nincs informálva"*
+(de nem mindenki szeret szédülni)
+
+- [[Kovács Zoltán]], bölcsész
+- esszé, vagy jelenléti jegykérés
+
+#### Említések
+- [[Vajda Mihály]]
+- [[Varró Dániel]]
+- [[Nemes Z Márió]]
+- [[Pethő Barnabás]] filozófus
+- [[Agyak a tartályban]] (Putnam, filozófiai szemle)
+- [[Bibó István]]
+- [[Joh Luck]]
+- [[A holtak nem halnak meg]] film
+- [[Kosztolányi - Édes Anna]]
+- [[Krúdy - Szindbád-regények]]
+- [[Márai - Szindbád hazamegy]]
+- [[Orbán Ottó - Vanitatum vanitas]] (későmodern)
+- [[Hadik]] film - nem ajánlott
+- [[Ich bin dein Mensch]] film
+- [[Koyaanisqatsi]] film
+- [[Lázár Ervin - Szegény Dzsoni és Árnika]]
+- [[A szurkos kezű királyfiak]]
+- [[Báró Kemény Zsigmond]]
+- [[Jean Paul Sartre - A fal]]
+- [[Tóth Krisztina - Porhó]]
+- [[Szinyei - Eigel István]]
+- [[Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok]]
+- [[Jihn Adams - Nixon Kínában]]
+- [[Melis László - Bakkhánsnők]]
+
+### Fogalma
+- egy olyan korszakjelölő fogalom, amely egy másik korszakhoz viszonyítja magát
+- nem modernellenes, hanem kritikával viszonyul a modernitáshoz
+- *korszak*: postmodernity, kb. 1960-
+	- [[Liotar]] esszéje
+- *stílus*: postmodernism
+	- a magyarban nincs különválasztva
+- a korszaknak nincs vége, kivéve egy posztapokaliptikus világban, vagy Észak-Koreában
+	- belefér a diktatúra
+- hagyományos keresztény vallások arányának megváltozása
+	- katolikus
+	- nem protestáns, hanem új protestáns (Hit gyülekezete itthon)
+- boszorkányégetés
+	- Domonkos szerzetesek írása alapján
+	- magyar: sámánszerű, gyógyíthat, tehát betegséget is okozhat
+- Miért?
+	- aki szerint a tudomány az egyedül érvényes világértelmezés, modern; aki szerint a tudomány hamis, az premodern
+		- arab országok, tudósok
+	- gondolkodó vallásos vezetők nem premodernek
+
+> 	posztmodern az, aki azt állítja, hogy együtt létezik sokminden (nem minden törvény együttműködő egymással, de ettől még létezhet minden együtt. pl. Isten létezik, de a tudomány is jó)
+
+### Modernitás
+
+- 1620-1960
+- [[Francis Bacon]]: Novum Organum
+	- 1620: az életet tudományos kutatásokkal, matematikával meg tudjuk érteni
+	- 1960-72: lakótelep felrobbantása az építészetben, Gadamer: Igazság és módszer (eljutunk-e az igazságig, amikor egy műalkotással dolgozunk - szemben a régi "már tartalmazza" elmélettel)
+		- a műalkotásban soha nem bírhat rejtett jelentéssel, mindig az alkotó és befogadó párbeszédje
+		- minden előadás jó: parttalan relativizmus
+- [[racionalizmus]]
+	- [[Descartes]], Leibnitz, Kant
+	- [[empirizmus]]
+	- az ember racionális megértése, [[Rousseau]], [[Diderot]]
+	- cél/értékracionalizmus
+		- meg kell tudnunk valamit indokolni
+	- instrumentális/eszközracionalizmus ^31e09a
+		- előbbitől független
+		- Hogyan lehet hatékonyan megvalósítani az ötletet?
+		- (nem kérdezi meg, hogy miért)
+		- [[Sigmund Baumann]] elemzése a holokauszttal kapcsolatban
+			- zsidóság -> Madagaszkár
+		- a töltény drága
+- [[univerzalizmus]]: ha valaki máshogy gondolja, az helytelen
+- [[centralizmus]]: minden központilag van működtetve
+- [[globalizmus]]
+- a posztmodern szereti a technikát, ha uralhatja
+- haladáselvűség: a modernitásban fejlődés
+- művészeti élet
+	- intézmények elkezdenek működni (sajtó, kritikus dönt)
+	- a nemesség vezeti az országot, de a szerkesztő visszautasítja a verset
+	- múzeumok: elmegyek egy intézménybe, ami dönt a szépről
+	- hierarchikus beállítás (magas művészet)
+- már akkor is pluralizmus volt, mostmár ezt látjuk
+	- az absztrakt geometrikusok utálják a velük párhuzamosan jelen lévő szürrealistákat
+
+#### Későmodernitás 20. sz. második fele
+- irodalomban
+- szkepszis
+- Sigmund [[Freud]] pszichoanalízis-elmélete
+	- a tudattalant soha sem érhetjük el, de irányít minket
+- csoport-, genderalapú politizálás
+- művészet
+	- csomó válság
+	- áttételesen csapódik le egy művészre a száraz, absztrakt tudomány és világkép
+	- kvázi rajtuk csapódik le, életérzést közvetít
+	- *antropocén* -> az ember beavatkozása a Földre nézve visszafordíthatatlan
+- neo-avantgárd **Happening** mozgalom
+	- nem kell létrehozni eladható tárgyat
+	- zene-szöveg-mozgás
+
+### Posztmodern
+
+- filozófiai érveink vannak arra, hogy a pluraliznusban lehetetlen dönteni
+- csak ott lehetséges, ahol demokrácia van
+	- a vitahelyzetet nem zárjuk le erőszakkal
+	- identitás
+- erős gazdaság, fogyasztói társadalom
+- technológia, tájékozódás
+	- elidegenedés
+		- átlátható tudás volt az őskorban
+			- forma, anyag, idea (Platón)
+			- tökéletes fűcsomó
+		- felhasználók vagyunk
+			- veszélyes
+			- AI
+- megváltozott a lét egésze
+	- [[Platón]]: itt vagyunk, látjuk a hamis világot, az ideákból egy van, és az igaz, szép és jó
+	- a létező kerüljön közel a léthez
+	- [[Nietzsche]] - Esztelen ember: elfelejtettük Istent
+	- az van, amit mi magunk adunk a világunknak, elfelejtettük a világlényeg létezését
+		- civilizátum, jó is és rossz is
+	- egzisztencializmus van, nincs elidegenedés sem, nincs más cél
+	- megtört boldogság
+- posztmodern ember nem törődik, csak van, az irónia marad
+- van dallam, tonalitás, kevesebb a radikális posztmodern
+	- [[Dragomán - Fehér király]]
+- happening -> totálisan magányos művészet
+- egy érthetetlen, összetett világban vagyunk, ami kicsit félelmetes, de rengeteg kiteljesedési, cél-ehetőség van
+	- [[Koyaanisqatsi]] film - késő modern kritika
+	- elidegenedésből fakadó elutasítás
+- [[Varró Dániel]] - Szívdesszert
+- káosz és szabadság egyszerre
+	- elfogadás és elutasítás
+	- Értékviszonylagos esztétikai minőség
+	- nincs tragédia, van kis szomorúság
+	- nincs természet már, tájak vannak és környezet
+- újabb fogalmak
+	- transzhumanizmus
+		- tovább él a modern
+		- semmilyen gond nincs a fejlődéssel
+		- AI - transz (túl vagyunk az emberen) ([[I'm your man]] film)
+	- poszthumanizmus
+		- mindez embertelen és nem lesz ennek jó vége
+		- egy hagyományt nem lerombolunk, hanem leépítjük (hogy megértsük benne a rosszat) majd újjáépítjük
+			- a zenében: kotta jelentése a fontos, a tradíció nem számít
+		- nem örül, rezignáltan viszonyul a klónokhoz, hibridekhez
+		- [[Legújabb testamentum]] film
+		- [[Világba borult apokalipszis]] film
+		- a tabu bármilyen lehet, dekonstruálni érdemes
+- egy művész jól kérdez, nem feltétlenül kínál megoldást
+	- [[Patricia Piccinini]] opusa
+		- poszthumán
+		- ha elutasítunk, át kell gondolnunk, hogy mit utasítunk el
+	- neo-avantgárd
+	- hiperrealizmus
+	- <mark>Bukta Imre kiállítás Godot labor</mark>
+		- leszámol a vidég-ideállal
+		- az okoskapa - kapitalizmus-kritika (mit ad helyébe?)
+		- marxizmus as helyette valamit (ami még rosszabb)
+- elutasítás: a posztmodernitás plurális világ
+	- felújított hagyományok
+		- kialakul egy szubkultúra (a posztmodernben minden szubkuktúra)
+	- újvallásosság - a pluralizmust radikálisan nem veszi tudomásul
+		- egy vallásos ember nem relativista
+			- kivéve: Mi a véleménye a protestánsokról?
+		- fundamentalizmus
+		- evangelikalizmus, evangelikálok (show-szerű prédikációk fanatikusoknak)
+		- abortuszellenes mozgalom
+
+### Kultúra
+
+- iskolázottság
+	- nagyon egyszerű ember nem posztmodern
+	- türelmesebbé és nyitottabbá tesz
+- média
+	- félretájékoztatás
+	- a konkrét média erősebben hat ránk a szövegnél
+		- a kép hat, kihagyja az elaborációs "munkát"
+	- szimulákrum: valóság nélküli kép, fake news
+		- kritika nélküli emberek
+	- manipulálás: a közönség irányít, élő adás egyénektől (addigi riporterek, stb)
+
+### Globalizáció
+
+- konzerválja az egyenlőtlenséget és elnyomást
+- a kultúra teljesen elérhetővé vált
+- túláradás
+	- túl sok -> felszínes
+		- nem lehet befogadni
+		- semmivel sem ismerkedünk meg mélyen
+			- egy indológusból nem lesz jó sinológus
+	- ellenállás
+		- érthető jelenség
+		- kulturális szempontból nem elfogadható ez a buborék
+
+### Filozófia
+
+- különböző stílusú filozófiák
+- dekonstruálja a metafizikát
+- végeredmény: detotalizál, dekonstruál, szkepszis
+	- az igazság detotalizálása (nem fogadjuk el, hogy mindig igaz)
+- szkepszis mindig is volt, de amikor erősebb lesz, mint amiben kételkedik, posztmodernről beszélünk
+- a 2000 éves európai hagyományt feladva (igazság keresése) elfogadjuk a relativizmust, toleranciát
+	- ismeretelmélet
+	- félreértettük Platónt, az eredmények felszíniek
+- [[Mátrix]]: ez nem az igazi világ -> végtelen regresszus, szkepticizmus
+- előzmény: [[Nietzsche]]
+	- modernitással kapcsolatos kritika
+	- mindannyian Übermenschekké válhatunk
+		- gyávák vagyunk bevallani, hogy nincs cél, de aki bátor ezt belátni, Übermensch
+	- ha a tigrisek verődnek nyájjá, az is nyáj
+	- ismerte [[Wagner]]t
+- pszichoanalízis
+	- [[Freud]]
+		- az emberi gondolkodás nem tudja kezelni magát a tudattalan jelenléte miatt
+		- nem az észhasználat a lényeges
+	- [[Jacques Lacan]]
+- [[Wittgenstein]]: nyelvjátékok relativizmusa
+	- teljesen totális tudás
+	- nincs önálló gondolkodás, tehát a nyelvünk befolyásolja, hogy egyáltalán mit gondolhatunk
+	- a nyelvhasználatunk dekonstruálása, a szavak mögött nincs valós jelentés, mert magára alapoz
+	- Isten, morális értékek, tudományos bizonyítás: a jó szó jelentése önmagában nem értelmezhető egyféleképpen, egyszerre több nyelvjátékot játszunk
+- [[Gadamer]]: [[hermeneutika]]
+	- nincs abszolút jelentés
+	- mindig értelmezünk
+	- [[Igazság és módszer]]
+	- Hermész tolmácsisten (istenek értelmezése)
+	- lehetetlen, hogy mindenki ugyanúgy értelmezzen egy dolgot
+	- hatástörténeti horizont
+	- befogadásesztétika
+		- nem a mű számít
+		- biztosan nem a szerző számít
+		- mit tudok kezdeni a művel?
+- [[Thomas Kuhn]]
+	- logikai pozitivizmusnak belső problémái vannak - [[Lakatos Imre]]: az elméletek versenyhelyzete
+	- belső feloldódás
+	- a tudományt nem csak racionális és empirikus dolgok határozzák meg
+	- tudományfilozófia
+		- mi a tudomány?
+		- közösségek, kísérletek, stb.
+- [[Rorty]]
+	- a pragmatizmus hasonlít a posztmodern gondolkodásra
+	- ami működik, azt tartják igaznak
+	- neopragmatizmus: az igazság relatív
+- posztstrukturaliznus
+	- [[R Barthes]]: a szöveg öröme
+		- [[A szerző halála]]
+- dekonstrukció
+	- [[Derrida]]
+	- szétbontok és újraértelmezve felépítek
+	- mindig van "csalás", probléma, ezért mindig kicsit ki kell hagyni az újraértelmezésből
+	- párhuzamosan ugyanazt kigondolják filozófusok, csak más nyelveken, így Derrida is
+- [[Lyotard]] - a posztmodern megfogalmazása
+	- vannak nagy narratívák, egzisztencializmus, marxizmus, ezek relativizálódnak, mert egyszerre léteznek
+	- sok kis narratíva lesz
+
+### Művészet
+
+- high art - low art
+	- osztályozó jelleg
+	- a posztmodern összemos
+	- de mégis meg tudjuk állapítani a csupán szórakoztatókat (low art)
+- 5 paradigma
+	- klasszikus
+	- 20-21. sz-i avantgárd
+	- posztmodern
+	- szórakoztató (közhely, első befogadásra érthető)
+	- (folklór) - nálunk is nagyon erős, megkésett társadalomfejlődés miatt
+- posztmodern művészet kialakulása
+	- művészeti trend
+	- az avantgárd elutasította a piacot, magával dolgozott
+		- kiüresedik az avantgárd
+		- mert megjelenik a **piacon** a neoavantgárd
+	- elválik egymástól a magas és a szórakozató művészet - neoavantgárd
+- metafikció (önmagáról beszél)
+	- hangsúlyozza saját fikcionalitását
+	- [[Lázár Ervin - Szegény Dzsoni és Árnika]]
+	- [[A szurkos kezű királyfiak]]
+	- nem igazság a mű, hanem gondolatébresztés
+		- akkor igaz, ha a jelenben az adott környezetben igaz
+	- tudjuk, hogy nem igaz a fikció, de szeretjük
+- művészi autonómia megszűnik
+	- nem lesz fontos megírni, amit még nem írtak meg, mert nincs ilyen
+	- nem fontos, hogy kié
+	- idézetek, intertextualitás, juxtapozíció
+- irónia
+	- politikai jelentés: mást mond, mint amit gondol
+	- esztétikai minőség (mint tragikum, komikum): a műben egymást kizáró ellentétek jelennek meg, a szerző nem akar vele kezdeni semmit
+		- értékek feloldás nélküli ütköztetése
+	- [[Az ember tragédiája]]
+	- [[Báró Kemény Zsigmond]]
+- [[Jean Paul Sartre - A fal]] - egzisztencialista
+- hierarchiaellenes: elit és pop közötti határ megszűnése
+- [[Martin McDonald]]
+- Turing-teszt
+- eklektika
+	- bizonyos stílusok szabadon való összekeveredése
+	- először középkorban
+- pastiche/palimpszeszt
+	- régi műalkotás felülírása (élősködve azon, vagy tisztelettel beszélve róla)
+	- sem eredetiség, sem önállóság
+	- egy hosszú sor láncai vagyunk, nem tehetünk úgy, mintha nem létezett volna semmi előttünk
+	- [[Tóth Krisztina - Porhó]]
+	- Manet - Magritte pastiche
+	- [[Szinyei - Eigel István]]
+- fragmentalitás, töredékesség
+	- befejezetlen művek
+- mellérendelő, nyitott szerkezetek
+	- a világ nem hierarchikusan rendezett
+	- korlátlan mennyiségű epizód összefüggéstelenül ír le egy sorsot
+	- nincs sorsív, vagy isteni akarat
+- időbeliség felborulása, kronotoposzok
+	- barangolás az elvarázsolt kastélyban
+	- [[Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok]]
+	- alternatív megoldás
+- patetikusság vége, de gondolkodás a kérdésről
+	- [[Örkény - Egypercesek]]
+- ha a szerző nyilatkozik, az sem ad bizonyosságot
+	- ő is hazudhat
+	- [[Prokofiev]] - Klasszikus szimfónia
+- detotalizáció
+	- amikor totális volt, kb. 1747
+	- [[Charles Batteux]]
+	- megmondható, mi a szép, *szép*művészet
+	- utánzáselmélet, kifejezésesztétika, formalizmus, befogadásesztétika (szerző-mű-befogadó), intézményelmélet
+- esztétikai kutatások hármasa
+	- szerző-mű-befogadó
+	- mimesis eltekint a szerzőtől
+	- modernitás a műtől
+	- befogadásesztétika eltekint a műtől és a szerzőtől (nem a formák elemzendők, hanem én) - a műveknek nincs jelentése, mert nincs két ugyanolyan ember
+	- intézményelmélet mindegyiktől eltekint
+- mai művészetfilozófia
+	- osztályozás eltűnt (nincs besorolás és értelmezés)
+	- minden elképzelhető, ha van közönsége
+	- példák:
+		- [[Jihn Adams - Nixon Kínában]]
+		- [[Melis László - Bakkhánsnők]]
+- esztétika
+	- amikor ítélek, hogyan működik, milyen alapelvek alapján?
+	- "azért tetszik, mert szép" (megértettem, hogy tőlem függetlenül szép, ha nem tetszik, képzetlen vagyok)
+	- "azért szép, mert nekem tetszik" (romantika óta) - esztétikai *szubjektivizmus*
+	- -> relativizmus: bármi lehet jó mű?
+	- -> bárki bármit megítélhet?
+		- [[Hume]]: bevezetünk kritériumokat, bárkinek a véleményét nem fogadjuk el
+		- (értelmező közösségek elmélete)
+		- [[Új Zenei Újság! ]]- mai művészetkritika
+		- wittgensteini nyelvjáték a kritika is (tehát folytatni tudjuk az értelmezést)
+		- ízlésünk igazodik, érzékenységünk mélyül
+- minek van műalkotás?
+	- eddig:
+		- tudást adnak, bevezetnek minket a világunkba, de metaforikusan
+		- [[Mátépassió]] bár más módon, de ugyanúgy mondja el a történetet, mint a pap
+		- parasztbarokk - mindent tudnak a világról, értenek mindent
+		- a műalkotás az életünkben kitüntetett jelenség, kiemel minket -> időleges, ezt most beláthatjuk
+			- jobb emberré válás, emancipáció - [[Schiller]]
+	- most:
+		- [[Mátépassió]] élvezetet okozhat
+		- [[Kant]] - találkozzunk a műalkotásokkal és kezdjük el megérteni saját életünket
+#később  képek beszúrása
+[[John Adams]], [[Philippe Glass]]
+- körkép a posztmodern művészetről
+	- `20.` század végén a magas művészet visszaszorul
+		- a plurális társadalmunkban képtelenség egy nézőpontot vallani
+		- a klasszikus műalkotások emberképe tűnt el
+		- miért legyek magasan képzett művész?
+		- a közepesen kereső embernek tökéletesen kellemes élete lehet
+	- nehezen érthető "kód"
+		- pl. opera narratív része
+		- nem a mi világunk
+	- avantgárd - miért nem hatott?
+		- még a kortársaknak is túl érthetetlen
+		- kései neoavantgárd - concept, pop-art, neodada
+- építészet
+	- szecesszió és art deco
+	- purizmus, racionalizmus
+	- bauhaus, (kicsit [manierista](manierizmus)) brutalizmus
+	- Pruitt-Igoe lakótelep lerombolása
+		- emberbarát, élhető hely volt
+	- társadalmi problémák voltak, nem esztétikai
+	- posztmodern - posztfunkcionális
+	- dekonstruktivista építészet
+		- organikus anyagok
+	- regionalizmus (bauhaus helyekhez való alkalmazkodása)
+	- [[Hundertwasser]] híres posztmodern építész
+	- hagyomány fogalma átalakul, hermeneutikai kérdés - az hagyomány, amit annak tartok
+	- [[Fudzsimoto Szószuke]] - Magyar Zene Háza
+- képzőművészet
+	- együtt él a késő modern és a posztmodern
+	- [[Bak Imre]], Ráder(?) András
+	- [[Mauer Dóra]], [[Vera Molnár]]
+	- angolszász újrealizmus
+	- [[Liszt]]-szobrok
+		- Liszt-tér, avantgárd, expresszionista
+		- Pécs, Dóm tér, posztmodern, giccses, filmszerű jelenet
+	- Solti-emlékművek
+		- Farkasréti temető - bárki fölé emelhető szobor, geometrikus absztrakt
+		- Liszt-tér, posztmodern eklektikus
+- történeti események megjelenítése
+	- land-art: a pop-art-ból létrjövő művészeti ág, a 90-es évekből
+	- komceptualizmus, [[Josef Kosut]]
+		- művészeti gondolat a fontos
+		- már a levél is a gondolat kifejezése
+	- lengyel művész, [[Zbigniew Libera]]
+		- LEGO-haláltábor
+
+----
+#később óra bepótolandusz
+
+- [[Bukta Imre]]
+- [[Elekes Károly]]
+	- tuning-projektek
+	- renovál (elfogad), felújít (elutasít) katasztrofálisan rossz műveket
+	- interjú: túl sok kép van a világban
+- [[Konkoly Gyula]]
+	- posztimpresszionizmus, Szinyei pipacsai
+- [[Keresztes Zsófia]]
+	- posztmodern, amely felidéz valamit (pl. ókort)
+	- magánmitológia
+### Posztmodern film
+
+> - egyszerre van jelen a posztmodern film a (kevés) modernnel és a szórakoztatóval
+> 	- a modern nem ironikus, csak ha elutasít egy elutasítható rendszert
+> 	- [[A szomorúság háromszöge]]
+> - a művészet képes a leginkább valóságutánzattá válni, a fotó statikus -> a film valóságutánzatnak **tűnik** - mimézis
+> - minden irodalmi mű a kihagyásra épül, az a lényeg, ami nincs benne - az a lényeg, ami benne van
+> - lehet szórakoztatva tanítani
+> 	- az eszközök által egyértelművé tehető
+> - jelentősség (nem kelk értelem, mindenki számára lehet jelentős)
+> - [[Az andakúziai kutya]] film
+> - [[Az élet értelme]] film
+
+avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával jelentőset akar alkotni
+
+<img src="../assets/img/Késő modern művészfilmek.jpg" width="100%">
+
+![[Késő modern művészfilmek.jpg]]
+
+- [[Huszárik - Elégia]], igazi avantgárd
+- Szindbád
+- posztmodern film: nevetségesnek tartja az alaphelyzetet, a komoly kinyilatkoztatást
+	- nem akar társadalmilag történelmit és történelmi szinten alkotni, hanem egy ember egyéni helyzete pl. a fontos
+	- a "kisvilág" konfliktusai
+		- [[Kávé és cigaretta]]
+- önreflexivitás
+	- arról mutatok képet, hogy filmet forgatok
+	- a néző szemébe belenéz
+	- [[Régi idők focija]]
+	- tévét/mozifilmet néz a filmszereplő
+
+#később óra bepótolandusz
