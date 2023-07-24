@@ -25,3 +25,5 @@ alias: Egyéb megosztott tudás
 
 - [[Dr. Steven Laureys - A meditációról érthetően]]
 - [[Osho - The Book of Secrets]]
+
+### [[légzés]]
