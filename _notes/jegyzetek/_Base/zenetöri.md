@@ -74,9 +74,9 @@ permalink: /zenetöri
 
 8. [[Mozart]] és a [[Singspiel]]
 
-9. *[[Beethoven operája]]* (kimaradt, függőben)
+9. *[[Beethoven operája]]* (kimaradt -> [[A német opera]])
 
-10. *[[Haydn és az oratórium]]* (kimaradt, függőben)
+10. [[Haydn és az oratórium]] (kimaradt, kész)
 
 ## Negyedik félév - Romantika (BP)
 

@@ -7,6 +7,8 @@ permalink: /A német opera
 ---
 [[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]
 
+[[Pierre Gaveaux]] - Fidelio
+
 - [[Beethoven]] - [[Fidelio]] ![[Fidelio]]
 ---
 - [[Wagner]] - [[Undine]] ![[Undine]] 

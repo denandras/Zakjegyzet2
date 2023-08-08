@@ -23,7 +23,7 @@ __________________
 			- [Emilioé] az első, amit színpadon bemutatták
 				- test és a lélek
 				- vallásos tárgyú
-			- Eurudice
+			- *Eurudice*
 				- [Peri], aki az első mitológiai tárgyú operát megírta
 				- [Caccini] Eurudice-je, amit először kiadtak
 	- versengés a politikában (kinek van a legjobb zenésze)
@@ -48,11 +48,11 @@ __________________
 
 ## Fázisai
 ### Udvari opera ~1630-ig
-* Peri, Caccini, Cavalieri
+* [[Jacopo Peri]], [[Giulio Caccini]], [[Emilio Cavaliere]]
 * `1608:` egy esküvő
 	* vendégek főleg Itáliából
 	* Gonzaga család villája
-	* [[Monteverdi]]: Arianna (4-6000 néző)
+	* [[Monteverdi]]: *Arianna* (4-6000 néző)
 		* 1608
 		* pszichés állapotok amikor az embert elhagyják (ugyanolyan volt mindig is)
 		* első verzió az opera, később 5 szólamú madrigállá írta át
@@ -69,7 +69,7 @@ __________________
 ### Velencei opera
 - anyagi alap -><- mindig veszteséges
 - fontos a közönség ízlése
-- Barberini család (Róma)
+- [[Barberini család]] (Róma)
 	- (pápát is adtak a világnak)
 	- imádták az operát
 	- szentek életét dolgozták fel
@@ -85,10 +85,10 @@ __________________
 	- fiatalok kérnek új darabot
 	- Arianne közepesen sikeres bemutatója
 	- [[Poppea megkoronázása]]
-- független városállam
-	- dózse és szenátus
-	- karnevál
-	- Pápa kiközösíti
+	- független városállam
+		- dózse és szenátus
+		- karnevál
+		- Pápa kiközösíti
 
 ## Adalék
 ###  [[Rupert Christiansen - The Faber Pocket Guide to Opera]]

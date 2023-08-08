@@ -4,7 +4,7 @@ feed:
 date: 2022-12-24 13:21
 permalink: Oliver-Burkeman-Az-élet-rövid
 ---
-[[Oliver Burkeman]]
+[[Oliver Burkeman]] - 4000 Weeks
 
 ### Említések
 
@@ -42,8 +42,10 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[Gregg Krech - The Art of taking Action]]
 - [[John Tarrant - You Don't Have to Know]]
 - [[David Cain - You Never Have Time, Only Intentions]]
+- [[Blaise Pascal - Gondolatok]]
 - [[Steve Taylor - Back to Sanity]]
-- [[Alan Watts]] "spirituális humorista"
+- [[Alan Watts]] "spirituális humorista", New Age-filozófus
+	- [[Alan Watts - From Time to Eternity]]
 - [[Alexander Herzen]] filozófus
 - [[Sam Harris]] podcastja
 - [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
@@ -52,6 +54,9 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[Max Weber - A protestáns etika és a kapitalizmus szelleme]]
 - [[Kieran Setiya - Midlife]]
 - [[Lao ce - Tao te king]]
+- [[Shaila Catherine - Planning an the Busy Mind]]
+- [[Tara Branch]]
+- [[Tom Stoppard - The Coast of Utopia]] színmű
 
 # Outline
 
@@ -207,7 +212,6 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[David Cain - You Never Have Time, Only Intentions]]
 	- eleve azzal a gondolattal is baj van, hogy valamire "lesz időnk"
 	- sosem lesz a *valamire szánt idő* a "miénk"
-	- 
 
 > A megrögzött tervező tulajdonképpen biztosítékokat követel a jövőtől - csakhogy a jövő képtelen megadni azokat a biztosítékokat, amelyekre ő vágyik, már csak azon nyilvánvaló oknál fogva is, hogy a jövő egyszerűen még nem létezik.
 
@@ -215,9 +219,23 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 
 > a jövőben csak akkor lehetsz biztos, miután múlt lett belőle
 
+> A bizonyosságért folytatott küzdelmünk eleve reménytelen - ami azt jelenti, hogy nyugodtan fel is hagyhatunk vele.
+
+> Ne uralkodjatok végtelen lehetőségek képzeletbeli lehetőségein. (Gesh Shawopa)
+
 ### Itt és most
 
+- könnyű kizárólag a jövőre koncentrálni, de ekkor elfelejtünk élni
+	- jogászok és kiszámlázható óráik
+- gyereknevelés: fontos a jövő, de a jelen elmúlik, és hiányozni fog
+- a gyermek célja, hogy gyermek legyen
+- minden élményt olyan tisztelettel kezeljünk, mintha ez lenne az utolsó alkalom
+- ezzel is csak hatalomra vágyunk a jövő felett
+	- aki nem eszi meg a lekvárt, hanem tartogatja, stb.
 
+> Bármivel foglalkozunk is, mindenre úgy tekintünk - vagyis az egész életünkre - hogy csak akkor értékes, ha valami másnak az alapjául szolgál.
+
+> úgy hisszük, "Egy gyermeknevelési módszer helyessége vagy helytelensége csak azzal mérhető, hogy milyen felnőtt lesz a gyerekből" ([[Adam Gopnik]])
 
 ### Pihenés újratöltve
 
