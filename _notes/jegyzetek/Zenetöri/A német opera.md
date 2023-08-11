@@ -11,7 +11,7 @@ permalink: /A német opera
 
 - [[Beethoven]] - [[Fidelio]] ![[Fidelio]]
 ---
-- [[Wagner]] - [[Undine]] ![[Undine]] 
+- [[Undine]] ![[Undine]] 
 
 ### Műfaja
 

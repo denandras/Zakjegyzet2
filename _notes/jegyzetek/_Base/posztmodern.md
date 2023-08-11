@@ -106,7 +106,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- áttételesen csapódik le egy művészre a száraz, absztrakt tudomány és világkép
 	- kvázi rajtuk csapódik le, életérzést közvetít
 	- *antropocén* -> az ember beavatkozása a Földre nézve visszafordíthatatlan
-- neo-avantgárd **Happening** mozgalom
+- neo-avantgárd Happening mozgalom
 	- nem kell létrehozni eladható tárgyat
 	- zene-szöveg-mozgás
 
@@ -368,7 +368,6 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- most:
 		- [[Mátépassió]] élvezetet okozhat
 		- [[Kant]] - találkozzunk a műalkotásokkal és kezdjük el megérteni saját életünket
-#később  képek beszúrása
 [[John Adams]], [[Philippe Glass]]
 - körkép a posztmodern művészetről
 	- `20.` század végén a magas művészet visszaszorul
@@ -414,17 +413,60 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 		- már a levél is a gondolat kifejezése
 	- lengyel művész, [[Zbigniew Libera]]
 		- LEGO-haláltábor
-
-----
-#később óra bepótolandusz
-
+- művészetben a saját előadás, létezés megfogalmazása is nehéz
+	- szubjektív
+	- nem fogadom el a magyarázatot, hagyományokat
+		- saját értelmezési horizont szűkebb lehet egy esztétájáénál
+	- Covid - megszólalhat a ma embere, halállal való szembenézés
+		- egy ilyen szituáció lebonthatja a tradíciót
+- gender-téma
+	- politikában pénzkérdés
+	- nem lehet etikai téma, mert etikai hiányosságra mutat rá
+- "Anything Goes" - [[Paul Feierabend]]
+	- tudásszociológiai kifejezés
+	- a régi metafizikai bázisok eltűnnek
+		- tehát elismeri, hogy nem ismerhető meg az igazság
+	- [[Karl Popper]]: a tenyérjóslás nem lehet tudás
+		- de, ez ugyanolyan tudás lehet, mint az atomfizika
+	- eklektika
+		- korábban ismeretlen, vagy nem műalkotásnak tekintett műfajok jelennek meg
+- "régi újítás" - absztrakt, geometriai absztrakt
+	- posztmodern reflektál rá, hogy senki nem érti, mert reprezentatív
+	- új narrativitás/figurativitás
+	- szürrealizmus
+	- [[Keresztes Zsófia]]
+	- [[David Hockney]]
+	- [[John Baldessari]]
+	- [[Liza Lou]] - The Kitchen
+- tradíció = értelmezés
+	- az tradíció, amit annak tartok
+- vallás
+	- Amerikában az emberek 80%-a vallásos
+	- fogyasztói társadalom
+		- elutasítható?
+			- kinevethető, de nem kell
+		- megdicsőül a banális ([[Liza Lou]] - The Kitchen)
+		- egyszerre semmit mondó, és sokat mondó
+			- irodalomban: minden napi életből banális szerkezeteket, beszélgetéseket emel be, pl. [[Esterházy Péter]]
+- [Societé Realiste](http://mezosfera.org/the-obscure-object-of-desire/)
+	- poszt-egzisztencialista
+	- az igény szerinti Európa-térkép
+	- iróniával dolgozik, ezzel mutat rá a hülyeségre
+- [[Banksy]]
+	- kiléte kérdéses
+	- hihetetlen híresség
+	- politizál
 - [[Bukta Imre]]
+	- vidék, hazaköltözött 20 év távollét után
+	- "mezőgazdasági művész"
+	- festmények, installációk a falusi környezet által ihletve
+	- cenzúra 1974-ben - "a szocialista művész nem így néz ki"
 - [[Elekes Károly]]
 	- tuning-projektek
 	- renovál (elfogad), felújít (elutasít) katasztrofálisan rossz műveket
 	- interjú: túl sok kép van a világban
 - [[Konkoly Gyula]]
-	- posztimpresszionizmus, Szinyei pipacsai
+	- posztimpresszionizmus, [[Szinyei]] pipacsai
 - [[Keresztes Zsófia]]
 	- posztmodern, amely felidéz valamit (pl. ókort)
 	- magánmitológia
@@ -438,7 +480,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 > - lehet szórakoztatva tanítani
 > 	- az eszközök által egyértelművé tehető
 > - jelentősség (nem kelk értelem, mindenki számára lehet jelentős)
-> - [[Az andakúziai kutya]] film
+> - [[Az andalúziai kutya]] film
 > - [[Az élet értelme]] film
 
 avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával jelentőset akar alkotni
@@ -455,7 +497,7 @@ avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával 
 		- [[Kávé és cigaretta]]
 - önreflexivitás
 	- arról mutatok képet, hogy filmet forgatok
-	- a néző szemébe belenéz
+	- pl. a néző szemébe belenéz
 	- [[Régi idők focija]]
 	- tévét/mozifilmet néz a filmszereplő
 

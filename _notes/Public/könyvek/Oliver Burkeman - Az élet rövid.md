@@ -49,14 +49,18 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[Alexander Herzen]] filozófus
 - [[Sam Harris]] podcastja
 - [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
-- [[Jay J Matthews - Radically Condensed Instructions for Being Just as You Are]]
+- [[Thich Nhat Hanh - The Miracle of Mindfulness]]
+- [[Jay Jennifer Matthews - Radically Condensed Instructions for Being Just as You Are]]
 - [[Walter Kerr - The Decline of Pleasure]]
 - [[Max Weber - A protestáns etika és a kapitalizmus szelleme]]
+- [[David Zahl - Seculosity: How Career, Parenting, Technology, Food, Politics, and Romance Became Our New Religion and What to Do About It]]
+- [[Walter Beueggemann - Sabbath as Resistance]]
 - [[Kieran Setiya - Midlife]]
 - [[Lao ce - Tao te king]]
 - [[Shaila Catherine - Planning an the Busy Mind]]
 - [[Tara Branch]]
 - [[Tom Stoppard - The Coast of Utopia]] színmű
+- 
 
 # Outline
 
@@ -232,6 +236,10 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - minden élményt olyan tisztelettel kezeljünk, mintha ez lenne az utolsó alkalom
 - ezzel is csak hatalomra vágyunk a jövő felett
 	- aki nem eszi meg a lekvárt, hanem tartogatja, stb.
+- a belemerülés problémája
+	- ha túlzottan bele akarsz merülni, erőszakosan, akkor nem fog sikerülni, elvész az élvezet
+		- instrumentalista törekvés
+	- ne akard a jelen pillanattal való kapcsolatod módosítani, hiszen a jelen te magad vagy
 
 > Bármivel foglalkozunk is, mindenre úgy tekintünk - vagyis az egész életünkre - hogy csak akkor értékes, ha valami másnak az alapjául szolgál.
 
@@ -239,7 +247,19 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 
 ### Pihenés újratöltve
 
-
+- "a jó életminőség jót tesz a gazdaságnak" - miért nézzük az életet gazdasági szempontból?
+- a szabadidő is feladattá válik
+- [[Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
+- az ünnep régen kötelező pihenés volt
+- ipari forradalom
+	- pihenés = erőforrás, instrumentalizálódik
+	- a szabadságért küzdő szakszervezet érte el a célja ellentettjét: a nyolcórás munkanap miatt (is) lett az átlagembernek annyi szabadideje, hogy arra már erőforrásként lehessen tekinteni
+- egészségtelen helyzet, ha a munka menedékként szolgál
+	- tétlenségi averzió
+	- kálvinizmus, eleve elrendelés
+- zsidó vallási szabályok
+	- kötelező pihenés
+	- 
 
 ### A türelmetlenség spirálja
 
