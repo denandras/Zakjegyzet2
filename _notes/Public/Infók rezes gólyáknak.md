@@ -111,8 +111,5 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 			- egyszeri bejelentkezés, de nem mindenkinek működik
 		- LFZE-CP
 			- neptunos bejelentkezés minden alkalommal
-.
-.
-.
-.
+
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
