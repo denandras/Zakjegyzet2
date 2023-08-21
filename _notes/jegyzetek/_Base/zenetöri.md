@@ -2,9 +2,9 @@
 title: Zenetöri
 feed: hide
 date: 2023-02-20 19:34
-permalink: /zenetöri
+permalink: /zenetori
 ---
-[Zenetöri olvasnivalók, ajánlott irodalom](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
+[Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
 
 ## Első félév - Középkor-reneszánsz (FG)
 [[zenetöri 1 félév vizsga]]

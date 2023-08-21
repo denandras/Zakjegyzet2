@@ -4,7 +4,7 @@ feed: hide
 date: 2023-08-21 19:13
 permalink: infok-rezes-golyaknak
 ---
-# [INFORMÁCIÓK FELVETT HALLGATÓK RÉSZÉRE](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
+## [INFORMÁCIÓK FELVETT HALLGATÓK RÉSZÉRE](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
 
 - diákigazolvány
 	- az előző félévi okt. 31-ig jó
@@ -39,7 +39,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 ## a Zeneakadémia működése
 
 - a mindent felülíró rektori/kancellári körlevelek és rendeletek
-	- a jelenlegi rektor: Dr. Vigh Andrea hárfaművész
+	- a jelenlegi rektor: Vigh Andrea hárfaművész
 - [HÖK](https://lfze.hu/hallgatoknak/hallgatoi-onkormanyzat-118419)
 	- hallgatói közgyűlési tag lehetsz
 		- legfontosabb döntések, 16 hallgató, évfolyamonként
@@ -49,7 +49,6 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 		- bármilyen kérdést feltehetsz
 	- bizottságok
 		- választási biz., kiértékelő biz., ellenőrző biz. (a hököt, papírjait)
-		- gólyabálnál milyen pénz hova ment
 	- [HÖOK](https://hook.hu/cms/szervezetunk)
 		- a magyarországi felsőoktatási intézmények hallgatói önkormányzatainak demokratikus alapon szerveződő és működő országos érdekképviseleti szervezete
 		- kapcsolatépítésre kiváló
@@ -74,7 +73,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 	- a megfelelő félévet aktívra állítani az Ügyintézés/Beiratkozás fülön
 - a megfelelő [kredithálót](https://lfze.hu/kredithalok) letöltve
 	- látszanak a *kötelező tárgyak*, először ezeket érdemes felvenni
-		- mindegyiket a megfelelő tanárnál, pl. szolfézsnál és zenetörinél oda lesz írva, hogy "CSAK RÉZFÚVÓSOK"
+		- mindegyiket a megfelelő tanárnál, pl. szolfézsnál és [zenetöri](https://denandras.github.io/zakjegyzet/zenet%C3%B6ri)nél oda lesz írva, hogy "CSAK RÉZFÚVÓSOK"
 		- a megfelelő tárgykódú tárgyat vedd fel, pl. ne az OT-t, ha BA-s vagy
 		- a tárgy melletti szám az ajánlott félévet jelenti
 		- a valóságot felülírja a Neptun, pl. zenekar esetén
@@ -83,7 +82,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 		- amennyiben nem az ajánlott szabvált választod, meg kell beszélni az adott tanárral, hogy szeretnéd felvenni az óráját, stb.
 			- aztán Neptun: kérelem szakirányon kívüli tárgyak felvételéhez
 - [órarendek](https://apps.lfze.hu/scheduler/query/form)
-	- van olyan óra, ahova több időpontban is be lehet járni, pl. zenetöri
+	- van olyan óra, ahova több időpontban is be lehet járni, pl. [zenetöri](https://denandras.github.io/zakjegyzet/zenet%C3%B6ri)
 		- ezeket érdemes a többi órához igazítani
 	- aláírás(?) csoportos óráknál
 	- kamaránál, főtárgynál nem kőbevésett tény az órarend
@@ -92,7 +91,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 	- kapsz egy fiókot, ahol az órák digitális anyagát (ha van ilyen) megkapod
 		- neptunfelhasználó@student.lfze.hu
 		- jelszó: [neptunjelszó]
-		- Fazekas a [[zenetöri]] óráinak anyagait a Google Classroomon osztja meg (tanárfüggő a platform)
+		- Fazekas a [zenetöri](https://denandras.github.io/zakjegyzet/zenet%C3%B6ri) óráinak anyagait a Google Classroomon osztja meg (tanárfüggő a platform)
 	- ne pipáld be a "a szervezet megfigyelheti az eszközömet" mezőt bejelentkezésnél
 	- Teams
 - gólyabál
@@ -112,3 +111,5 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 			- egyszeri bejelentkezés, de nem mindenkinek működik
 		- LFZE-CP
 			- neptunos bejelentkezés minden alkalommal
+
+![[https://i.ibb.co/pPXg0YX/qrchimp-X256.png]]
