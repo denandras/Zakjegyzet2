@@ -82,7 +82,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 		- amennyiben nem az ajánlott szabvált választod, meg kell beszélni az adott tanárral, hogy szeretnéd felvenni az óráját, stb.
 			- aztán Neptun: kérelem szakirányon kívüli tárgyak felvételéhez
 - [órarendek](https://apps.lfze.hu/scheduler/query/form)
-	- van olyan óra, ahova több időpontban is be lehet járni, pl. [zenetöri](https://denandras.github.io/zakjegyzet/zenet%C3%B6ri)
+	- van olyan óra, ahova több időpontban is be lehet járni, pl. [[zenetöri]]
 		- ezeket érdemes a többi órához igazítani
 	- aláírás(?) csoportos óráknál
 	- kamaránál, főtárgynál nem kőbevésett tény az órarend
