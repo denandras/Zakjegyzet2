@@ -36,7 +36,7 @@ permalink: infok-rezes-golyaknak
 
 Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu)
 
-## a Zeneakadémia működése
+## A Zeneakadémia működése
 
 - a mindent felülíró rektori/kancellári körlevelek és rendeletek
 	- a jelenlegi rektor: Vigh Andrea hárfaművész
@@ -55,10 +55,10 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 - gyakorlás
 	- főépület: nem kell termet foglalni
 		- hivatalosan nagytestű hangszeresek gyakorolhatnak itt, gyakorlatilag minden rezes a *36-38. termek*ben
-	- Wesselényi 3. emelet
+	- [Wesselényi](http://gyakorlas.lisztakademia.hu/home) 3. emelet
 		- két nappal a gyakorlás ideje előtt foglalható [itt](http://gyakorlas.lisztakademia.hu/home)
 		- max. 4 óra/nap (nem tisztességes pepitában, lyukakat hagyva foglalni)
-	- kürt & trombita -> néha a Semmelweis utcai épületben is
+	- kürt & trombita -> néha a Semmelweis utcai épületben is találni szabad termet
 - kamara
 	- [kamara foglalás](https://lfze.hu/tanulmanyi-hirek/kamarazene-gyakorlofoglalas-119863)
 		- csak meghatározott célra (pl. órára való készülés/verseny) adják ki
@@ -112,4 +112,4 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 		- LFZE-CP
 			- neptunos bejelentkezés minden alkalommal
 
-![[https://i.ibb.co/pPXg0YX/qrchimp-X256.png]]
+![](https://i.ibb.co/qW668QB/qrchimp-X256.png)

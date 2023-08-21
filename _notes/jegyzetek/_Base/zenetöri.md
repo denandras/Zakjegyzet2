@@ -1,5 +1,5 @@
 ---
-title: Zenetöri
+title: zenetori
 feed: hide
 date: 2023-02-20 19:34
 permalink: /zenetori

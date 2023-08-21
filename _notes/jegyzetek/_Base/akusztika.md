@@ -1,6 +1,6 @@
 ---
 #akusztika
-title: akusztika
+title: Akusztika
 feed: hide
 date: 2023-02-20 07:09
 permalink: /akusztika
