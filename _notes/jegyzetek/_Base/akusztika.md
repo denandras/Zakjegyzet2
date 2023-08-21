@@ -17,15 +17,15 @@ permalink: /akusztika
 - "A világűr zenéje csendes"
 - [Quizlet](https://quizlet.com/558890153/akusztika-fogalmak-flash-cards/)
 
-[[akuszika képek]]
-## [link](https://ibb.co/album/XSczxC)
+## [[akuszika képek]] - [link](https://ibb.co/album/XSczxC)
 
 - Athéni hangiskola
 - görögök sokat tudtak a hangról
 - Epideuszi színház, (kisebb odeonok Jordániában)
 	- [[Wagner]] ez alapján építette sajátját
 - minden városnak van egy fajta hangulata, müezzin ének
-- az emberi hallás gyermekkorban alakul ki, környezettől függően (pl. temperált vagy keleti hangzásvilág)
+- az emberi hallás gyermekkorban alakul ki, környezettől függően
+	- (pl. temperált vagy keleti hangzásvilág)
 
 - [[A fül anatómiai szerkezete]]
 - [[Békésy György]]
@@ -34,6 +34,6 @@ permalink: /akusztika
 - [[Időérzékelés]]
 - [[hangterjedés]]
 
-### [[Akusztika tételek]]
+### ([[Akusztika tételek]])
 
 ### [[Akusztika fogalmak]]
