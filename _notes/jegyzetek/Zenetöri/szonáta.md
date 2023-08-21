@@ -10,6 +10,7 @@ permalink: /szonáta
 `16. sz-ban` az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar
 
 ### Barokk szonáta
+
 [[sonata da chiesa]]
 [[sonata da camera]]
 
@@ -26,18 +27,20 @@ permalink: /szonáta
 	- Op. 5 első hegedűszonátamű
 		- nagyon lassú zene, burjánzó díszítések
 	
-* ### Definíciók változása
-> - [[Sebastien Brossard]] zenei lexikonja (**1703**):
-		> sonata (suonata): *suonare = hangzik, (mert csak hangszerek vannak benne)*
-		> nagyszabású darabok, amelyekben egy szóval mindenféle váltakozik, **Az ellenponton kívül semmi nem köti meg a zeneszerző kezét**
-		> 1-sok szólam (általában szóló vagy két hegedű [[basso continuo]] kísérettel)
-		> **de** az olaszoknál két típusa van:
-		> 	[[sonata da chiesa]] = templomi szonáta
-		> 	[[sonata da camera]] = szobai szonáta (tánc)
+### Definíciók változása
+
+- [[Sebastien Brossard]] zenei lexikonja (**1703**):
+	- sonata (suonata): *suonare = hangzik, (mert csak hangszerek vannak benne)*
+- nagyszabású darabok, amelyekben egy szóval mindenféle váltakozik, **Az ellenponton kívül semmi nem köti meg a zeneszerző kezét**
+	- 1-sok szólam (általában szóló vagy két hegedű [[basso continuo]] kísérettel)
+	- **de** az olaszoknál két típusa van:
+		- [[sonata da chiesa]] = templomi szonáta
+		- [[sonata da camera]] = szobai szonáta (tánc)
 	* [[Johann Gottfried Walter]] (**1733**):
-		> 4 tételből álló mű, ami általában ezekre a hangszerekre íródott
+		- 4 tételből álló mű, ami általában ezekre a hangszerekre íródott
 
 
 ### Klasszikus szonáta
+
 *például: [[Mozart]] [[k 292]]*
 
