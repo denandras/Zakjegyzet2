@@ -73,7 +73,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 	- a megfelelő félévet aktívra állítani az Ügyintézés/Beiratkozás fülön
 - a megfelelő [kredithálót](https://lfze.hu/kredithalok) letöltve
 	- látszanak a *kötelező tárgyak*, először ezeket érdemes felvenni
-		- mindegyiket a megfelelő tanárnál, pl. szolfézsnál és [zenetöri](https://denandras.github.io/zakjegyzet/zenet%C3%B6ri)nél oda lesz írva, hogy "CSAK RÉZFÚVÓSOK"
+		- mindegyiket a megfelelő tanárnál, pl. szolfézsnál és [[zenetöri]]nél oda lesz írva, hogy "CSAK RÉZFÚVÓSOK"
 		- a megfelelő tárgykódú tárgyat vedd fel, pl. ne az OT-t, ha BA-s vagy
 		- a tárgy melletti szám az ajánlott félévet jelenti
 		- a valóságot felülírja a Neptun, pl. zenekar esetén

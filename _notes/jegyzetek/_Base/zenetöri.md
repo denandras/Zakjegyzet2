@@ -2,7 +2,7 @@
 title: zenetöri
 feed: hide
 date: 2023-02-20 19:34
-permalink: /zenetöri
+permalink: zenetöri
 ---
 [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
 
