@@ -55,11 +55,18 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[Max Weber - A protestáns etika és a kapitalizmus szelleme]]
 - [[David Zahl - Seculosity: How Career, Parenting, Technology, Food, Politics, and Romance Became Our New Religion and What to Do About It]]
 - [[Walter Beueggemann - Sabbath as Resistance]]
+- [[John Gray - Straw Dogs: Thoughts on Humans and Other Animals]]
 - [[Kieran Setiya - Midlife]]
+- [[Schopenhauer - A világ mint akarat és képzet]]
 - [[Lao ce - Tao te king]]
-- [[Shaila Catherine - Planning an the Busy Mind]]
+- [[Shaila Catherine - Planning in the Busy Mind]]
 - [[Tara Branch]]
 - [[Tom Stoppard - The Coast of Utopia]] színmű
+- [[Jennifer Roberts - The Power of Patience]] cikk
+- [[Robert Grudin]]
+- [[M Scott Peck - The Road Less Travelled]] (A keskeny ösvény) könyv
+- [[Robert Boice - How Writers Journey to Comfort and Fluency]]
+- [[Arno Minkkinen]] fényképész
 - 
 
 # Outline
@@ -259,15 +266,54 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 	- kálvinizmus, eleve elrendelés
 - zsidó vallási szabályok
 	- kötelező pihenés
-	- 
+	- "a sabbát azt a gondolatot testesíti meg, hogy amit péntek vagy szombat estig sikerült elvégezned, annak elégnek kell lennie
+- digitális sabbath - nehéz, mert nem áll mögötte társadalmi támogatás, mások az elvárások
+- túrázás: példa az *atelikus tevékenységek*re
+	- nem a cél érdekében
+	- hobbik (az időt instrumentalizáló emberek ellensége, főleg ha kiderül, hogy egyes embereket mennyire boldoggá tesz a hobbija)
+	- jobb, ha "ciki" a hobbid, hülyén néznek rád, hogy önmagáért csinálod
+	- jobb, ha középszerű vagy benne, nem muszáj fejlődni
+	- türelem, alázat, elszántság, szabadság
+		- bénázhatsz anélkül, hogy rágódnál rajta
 
 ### A türelmetlenség spirálja
 
+- az értelmetlen türelmetlenség
+	- a dolgok úgy vannak, ahogy [[Lao ce - Tao te king]]
+	- lassítják az adott tevékenységet
+	- nem egészséges a türelmetlenre nézve
+- minden technológiai újítás kicsit közelebb visz ahhoz a nem létező ponthoz, amikor átléphetnénk a saját korlátainkat
+	- egyre gyorsabbak akarunk lenni
+- pörgés = érzelmi elkerülés
+- a függőség ördögi köre: az érzelmek elkerülése
+	- az eszközre egyetlen kiútként tekinti, amíg az magává az okká válik
+	- az alkoholizmustól való különbség: a barátaink nem megállítani, hanem megdicsérni fognak ezért
+- "másodrendű változás" - nem csak javulás történik, hanem szemléletváltás is
 
+> Azon aggódunk, hogy nem érjük utol magunkat, nem bírjuk tartani a lépést; s annak érdekében, hogy csökkentsük a szorongást, és hogy az életünket a saját kezünkben tartsuk, egyre gyorsabban tesszük a dolgunkat.
 
 ### Maradj a buszon
 
-
+- türelem: alkalmazkodás ahhoz, hogy valakinek nincsen valami fölött hatalma
+- nézz egy kiállított képet 3 órán át
+- [[Robert Grudin]]: a türelem megtapasztalása tapintható, szinte ehető
+- hiányosságainknál gyakran csak nem szánunk a problémára elég időt
+- fontosabb a türelem a kontroll illúziójánál
+- a 3 alapszabály
+	- szokj hozzá, hogy mindig vannak problémák
+		- duplán fogjuk fel a problémát, mert azt is problémának látjuk, hogy egyáltalán vannak problémáink
+		- probléma: tevékenység, amivel érdemes foglalkozni, tehát problémák nélkül nincs az életnek értelme
+	- radikális mértékletesség
+		- legproduktívabb és legsikeresebb emberek sokkal többet foglalkoznak a munkájukon kívüli dolgokkal
+		- kisebb szerepet játszik a munka, ezért könnyebben foglalkoznak vele
+		- le kell tudni állni a napi idő lejártával akkor is, ha épp tele vagy energiával
+			- mert ez a késztetés is a türelmetlenségből fakad
+		- ha megállsz, az erősíti a "türelemizmodat"
+	- az eredetiség a középszerűség után jön
+		- [[Arno Minkkinen]] és a buszmegállók (Finding Your Own Vision)
+			- mindenki ugyanazon a pár megállón megy keresztül először, aztán lesz valaki egyedi
+		- mások utánzása, új képességek, tapasztalatgyűjtés
+		- 
 
 ### A digitális nomádok magányos élete
 

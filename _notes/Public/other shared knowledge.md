@@ -3,7 +3,7 @@ title: Egyéb megosztott tudás
 feed: show
 date: 2022-12-24 13:21
 permalink: other-shared-knowledge
-alias: Egyéb megosztott tudás
+alias: egyéb megosztott tudás
 ---
 
 [Ajánlott appok](https://denandras.notion.site/Aj-nlott-appok-c02d4f121e35456485199001d6d01911)
