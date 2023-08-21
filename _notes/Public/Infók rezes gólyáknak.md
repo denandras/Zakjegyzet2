@@ -82,7 +82,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 		- amennyiben nem az ajánlott szabvált választod, meg kell beszélni az adott tanárral, hogy szeretnéd felvenni az óráját, stb.
 			- aztán Neptun: kérelem szakirányon kívüli tárgyak felvételéhez
 - [órarendek](https://apps.lfze.hu/scheduler/query/form)
-	- van olyan óra, ahova több időpontban is be lehet járni, pl. [zenetöri](https://denandras.github.io/zakjegyzet/zenet%C3%B6ri)
+	- van olyan óra, ahova több időpontban is be lehet járni, pl. [[zenetöri]]
 		- ezeket érdemes a többi órához igazítani
 	- aláírás(?) csoportos óráknál
 	- kamaránál, főtárgynál nem kőbevésett tény az órarend
@@ -91,7 +91,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 	- kapsz egy fiókot, ahol az órák digitális anyagát (ha van ilyen) megkapod
 		- neptunfelhasználó@student.lfze.hu
 		- jelszó: [neptunjelszó]
-		- Fazekas a [zenetöri](https://denandras.github.io/zakjegyzet/zenet%C3%B6ri) óráinak anyagait a Google Classroomon osztja meg (tanárfüggő a platform)
+		- Fazekas a [[zenetöri]] óráinak anyagait a Google Classroomon osztja meg (tanárfüggő a platform)
 	- ne pipáld be a "a szervezet megfigyelheti az eszközömet" mezőt bejelentkezésnél
 	- Teams
 - gólyabál
@@ -111,8 +111,8 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 			- egyszeri bejelentkezés, de nem mindenkinek működik
 		- LFZE-CP
 			- neptunos bejelentkezés minden alkalommal
-
-
-
-
+.
+.
+.
+.
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
