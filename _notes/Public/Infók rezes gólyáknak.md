@@ -22,7 +22,7 @@ permalink: infok-rezes-golyaknak
 	- inkább emailt írj, ha van rá lehetőség
 		- azt is lehetőleg a megfelelő személynek, ezzel időt spórolsz
 - [Kredithálók](https://lfze.hu/kredithalok)
-	- amikor felvettek, az alapján kell teljesíteni (a legtöbb embernek ez a 2023/24-es, **kreditátvitel** esetén)
+	- amikor felvettek, az alapján kell teljesíteni (a legtöbb embernek ez a 2023/24-es, kreditátvitel esetén a tanulmányok megkezdésének évfolyamát nézd)
 	- a szabvál és kötelező tárgyak teljesítési ideje rád van bízva, érdemes elsőben több mindent felvenni, pl. [[akusztika]], hogy később kevesebb dolgod legyen
 - [A tanév rendje](https://lfze.hu/tanev-rendje)
 	- szorgalmi időszak első napja: szept. 11
@@ -87,6 +87,8 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 	- aláírás(?) csoportos óráknál
 	- kamaránál, főtárgynál nem kőbevésett tény az órarend
 
+## Egyéb
+
 - Microsoft
 	- kapsz egy fiókot, ahol az órák digitális anyagát (ha van ilyen) megkapod
 		- neptunfelhasználó@student.lfze.hu
@@ -111,5 +113,11 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 			- egyszeri bejelentkezés, de nem mindenkinek működik
 		- LFZE-CP
 			- neptunos bejelentkezés minden alkalommal
+- automatikus emailek
+	- kamara gyakorló foglalásnál
+	- random a hallgatói követelményekről félévente egyszer (tehát nyugi, nem csináltál rosszul semmit)
+- hiányzások
+	- minden felvett órarend szerint megtartott óra (tehát kivéve mesterkurzus, stb.) háromszorosát lehet hiányozni, azután a tanár jóindulatán múlik a félév aláírása
+	- igazolás nem szükséges
 
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
