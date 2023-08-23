@@ -82,6 +82,8 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 		- amennyiben nem az ajánlott szabvált választod, meg kell beszélni az adott tanárral, hogy szeretnéd felvenni az óráját, stb.
 			- aztán Neptun: kérelem szakirányon kívüli tárgyak felvételéhez
 - [órarendek](https://apps.lfze.hu/scheduler/query/form)
+	- érdemes először a szak szerintit lekérdezni, abban általában benne van az összes kreditháló szerint ajánlott kötelező tárgy
+		- ezután az ajánlott félév előtt felvenni kívánt tárgyakat az "oktatók" fülön érdemes lekérdezni
 	- van olyan óra, ahova több időpontban is be lehet járni, pl. [[zenetöri]]
 		- ezeket érdemes a többi órához igazítani
 	- aláírás(?) csoportos óráknál
@@ -119,5 +121,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 - hiányzások
 	- minden felvett órarend szerint megtartott óra (tehát kivéve mesterkurzus, stb.) háromszorosát lehet hiányozni, azután a tanár jóindulatán múlik a félév aláírása
 	- igazolás nem szükséges
+- órák anyagai
+	- [ezen a linken](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok) elérhető a tanárok által feltöltött egyetemi anyag
 
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)

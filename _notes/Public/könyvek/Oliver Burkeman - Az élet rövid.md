@@ -67,7 +67,31 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[M Scott Peck - The Road Less Travelled]] (A keskeny ösvény) könyv
 - [[Robert Boice - How Writers Journey to Comfort and Fluency]]
 - [[Arno Minkkinen]] fényképész
-- 
+- [[Lance Oppenheim - The Happiest Guy in the World]] film
+- [[Scott Adams - How to Fail at Almost Everything snd Still Win Big]]
+- [[Judith Shulevitz]] író
+- [[William McNeill- Keeping Together in Time]]
+- [[Hannah Arendt - A totalitarizmus gyökerei]]
+- [[James Hollis]] jungiánus pszichiáter
+- [[Julio Vincent Gambuto]] író és filmrendező
+- [[Bryan Magee]] filozófus
+	- [[Bryan Magee - Ultimate Questions]]
+- Richard Holloway - Looking in the Distance
+- [[Johnny Truant - The Universe Doesn't Give a Flying Fuck About You]]
+- [[Iddo Landau - Finding Meaning in an Imperfect World]]
+- [[Jorge Luis Borges - Az idő újabb cáfolata]]
+- [[Charlotte Joko Beck]] zen mester
+- [[Joan Tollifson - Death, The End of Self-Improvement]]
+- [[Christian Bobin]]
+- [[Christophe André - Looking at Mindfulness, Twenty-Five Paintings to Change the Way You Live]]
+- [[Rilke]]
+	- [[Rilke - Levelek egy ifjú költőhöz]]
+- [[Stephen Cope]] pszichiáter
+- [[Susan Piver - Getting Stuff Done by Not Being Mean to Yourself]]
+- [[David Licata - A Life's Work]] doku film
+- [[Mahábhárata]]
+- [[Derrick Jensen - Beyond Hope]] cikk
+- [[Pema Chödrön - Amikor minden darabokra hullik]]
 
 # Outline
 
@@ -313,14 +337,75 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 		- [[Arno Minkkinen]] és a buszmegállók (Finding Your Own Vision)
 			- mindenki ugyanazon a pár megállón megy keresztül először, aztán lesz valaki egyedi
 		- mások utánzása, új képességek, tapasztalatgyűjtés
-		- 
 
 ### A digitális nomádok magányos élete
 
+- az idő olyan, mint a telefon, ami annyit ér, ahány embert fel tudsz hívni vele
+- úgy tekintünk az időnkre, mint felhalmozandó erőforrásra, pedig mások nélkül nem ér semmit
+- a digitális nomáddal ellentétben a nomád a legmagányosabb életforma annak ellenére, hogy közösségekkel kellhet együttműködnie
+- az összehangolt szabadság nyugalmat hoz
+	- svéd kísérlet: kevesebb anridepresszáns fogyott, amikor valaki elment nyaralni, de sokkal kevesebb, amikor a társadalom nagy százaléka ment nyaralni
+	- a hajléktalanok is boldogabbak hétvégén
+- kijelölt idő a közös szünetre
+- Szovjetúnió: kísérlet a gyárak mindennapos működtetésére
+	- 4 nap munka, 1 nap szünet
+	- mindenkinek máskor
+- az együttes mozgás (és zene) megkönnyíti az aktuális feladat elvégzését
+- mindenki maga osztja be az idejét -> sokkal nehezebb összehangolni másokéval
+- politikai következmények: autokrata vezetők könnyebben elérik az egymástól elidegenedett polgárokat
+- megoldás: a fizikai világ, emberi kapcsolatok és közösségi tevékenységek előnyben részesítése
 
+> Egy átlagbéren foglalkoztatott munkavállaló sokkal boldogabbnak érzi magát a rugalmas munkaidő mellett, mint az a gazdag menedzser, akinek be van táblázva az egész napja ([[Scott Adams - How to Fail at Almost Everything snd Still Win Big|Scott Adams könyve]])
 
 ### Kozmikus jelentéktelenség terápia
 
-
+- az, hogy megfogalmazódik benned a "mi a fenéért csinálom ezt" kérdése, máris egy lépéssel előrébb jutottál
+- az egész történelmünket borzalmasan rövid idő öleli fel
+- minden mindegy
+- egyértelműnek tűnik, hogy körülötted forog a Föld (a megkönnyebbülés miatt, mely után rájövünk, hogy nincs így)
+	- evolúciós védekezés (motivációt ad a további élethez, fajfenntartáshoz)
+- "úgy gondoljuk, túl kell lépnünk a közönséges és a világi szinten"
+- nem leget helyesen felhasználni az időt, tehát rengeteg lehetőségünk van
+- akkor becsüljük meg igazán az életet, ha nem engedünk tovább a jelentős eredmények elvárásainak
 
 ### Az emberiség nagy kórsága
+
+- kudarcra ítélt harcot vívunk az időnkkel
+	- kozmikus jelentőséggel akarunk bírni
+	- mindenki minden kérését teljesíteni szeretnénk
+- nem tudunk kilépni az időből
+- attól, hogy szembenézünk a végtelenséggel és a problémák végtelenségével, még nem szűnnek meg létezni, nem garantált a boldogság
+- [[Rilke]]: "Élje át a kérdéseket"
+	- Hol törekszel kényelmességre, amikor annak az ellentétével kell szembenézned?
+		- az adott döntés kisebbé vagy nagyobbá tesz engem?
+		- kényelmetlen nöbekedés a kényelmes sorvadás helyett
+	- Olyan hatékonyságra törekszel, amelyet képtelenség teljesíteni?
+	- Mely területeken nem fogadtad még el, hogy nem az vagy, aki lenni szeretnél?
+		- "az ember igazolni próbálja a létezését valamilyen külső autoritás szemében"
+		- bűntudat "egyéb" tevékenységeknél
+		- a szabadságérzetet nem az hozza, hogy valaki megengedi, hogy élj, hanem hogy rájössz: erre az engedélyre semmi szükséged
+	- Mely területeken fogod vissza magad és érzed úgy, hogy az adott dologhoz nem is értesz?
+		- sokan úgy élnek évekig, mintha főpróba lenne, miközben az egész élet csak egy szárnypróbálgatás
+		- talán soha nem fogod úgy érezni, hogy tényleg értesz ahhoz, amit csinálsz (mindenki máshoz hasonlóan)
+	- Min változtatnál, ha nem azt néznéd, lesz-e a cselekedeteidnek gyümölcse?
+		- Milyen tevékenységeket éreznél fontosnak, ha nem lenne az életedben belátható következménye tetteidnek?
+- a lemondást követően kihozhatod magadból a legtöbbet
+- *Szép csendben tedd csak a következő legszükségesebb dolgot. Ha úgy érzed, nem tudod, mi az, az azt jelenti, sok pénzed van, amit értelmetlen spekulációkra költhet.* ([[Carl Jung]])
+
+> Azért nem tudunk az életünk pillanatai fölé kerekedni, mert mi magunk vagyunk azok a pillanatok.
+
+> Az idő szubsztancia, amelyből vagyok. Az idő folyó, amely magával ragad, de én vagyok a folyó; a tigris, amely szétmarcangol, de én vagyok a tigris; a tűz, amely elhamvaszt, de én vagyok a tűz. ([[Jorge Luis Borges - Az idő újabb cáfolata|Jorge Luis Borges könyve]])
+
+> Engedd csak nyugodtan el a lehetetlent, hadd csapódjon a földbe. Aztán szedj ki a roncsokból néhány értelmes feladatot, és kezdj el még ma dolgozni rajtuk.
+
+## Túl a reményen
+
+- minden el van cseszve
+	- hindu időszámítás szerinti Kali-juga: minden lebomlik, szétesik
+- egy ilyen világban felesleges lenne az időgazdálkodás?
+	- nem, mert az előtted álló nehézségekkel csak akkor tudsz megküzdeni, ha jól használod ki a nap 24 óráját
+- a remény átok, mert a felelősségérzetet elveszi
+- aki feladja a reményt, az újra felfedezi saját erejét
+- 
+
+"Remélni egy bizonyos eredményt annyit jelent, mint valami önmagadon és a jelen pillanaton kívüli dologban hinni."

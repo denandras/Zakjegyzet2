@@ -97,5 +97,6 @@ permalink: zenetöri
 
 6. [[Szimfonikus zene a 19. században]]
 
-## Ötödik félév - 
+## Ötödik félév - (KS)
 
+[Az órák anyaga](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok/Kov%C3%A1cs%20S%C3%A1ndor)
