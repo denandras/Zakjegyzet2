@@ -80,7 +80,7 @@ permalink: zenetöri
 
 ## Negyedik félév - Romantika (BP)
 
-<a href="https://denandras.github.io/assets/img/4.%20f%C3%A9l%C3%A9v.png">
+<a href="https://denandras.github.io/zakjegyzet/assets/img/4.%20f%C3%A9l%C3%A9v.png">
 <img src="../assets/img/4. félév.png" width="100%">
 </a>
 ![[4. félév.canvas|4. félév]]
