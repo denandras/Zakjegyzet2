@@ -4,6 +4,7 @@ feed: hide
 date: 2023-08-21 19:13
 permalink: infok-rezes-golyaknak
 ---
+# [SOS](mailto:denesandras@akademista.hu)
 ## [INFORMÁCIÓK FELVETT HALLGATÓK RÉSZÉRE](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
 
 - diákigazolvány
@@ -123,5 +124,14 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 	- igazolás nem szükséges
 - órák anyagai
 	- [ezen a linken](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok) elérhető a tanárok által feltöltött egyetemi anyag
+- ösztöndíjak
+	- tanulmányi
+		- minden előző félév alapján átlagból számítva (kb. 4,95 szokott lenni)
+	- Zeneakadémia Baráti Köre
+		- használhatatlan honlap
+		- tavasszal és ősszel figyeld/figyeltesd alkalmazással a weboldalt
+	- egyéb
+		- facebookon és a honlapon hirdetve
 
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
+*(erre az oldalra mutató QR kód)*
