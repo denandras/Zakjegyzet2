@@ -122,6 +122,7 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 - hiányzások
 	- minden felvett órarend szerint megtartott óra (tehát kivéve mesterkurzus, stb.) háromszorosát lehet hiányozni, azután a tanár jóindulatán múlik a félév aláírása
 	- igazolás nem szükséges
+	- a Zeneakadémia által szervezett programok nem számítanak bele ebbe a maximumba (koncert, zenekar, díjátadó, egyéb)
 - órák anyagai
 	- [ezen a linken](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok) elérhető a tanárok által feltöltött egyetemi anyag
 - ösztöndíjak
@@ -129,9 +130,27 @@ Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu
 		- minden előző félév alapján átlagból számítva (kb. 4,95 szokott lenni)
 	- Zeneakadémia Baráti Köre
 		- használhatatlan honlap
-		- tavasszal és ősszel figyeld/figyeltesd alkalmazással a weboldalt
+		- tavasszal és ősszel figyeld/[figyeltesd alkalmazással](https://visualping.io) a weboldalt
 	- egyéb
 		- facebookon és a honlapon hirdetve
+- zenekarok
+	- szimfit a tanszakok általában egymás között osztják be
+		- a próba minden felett, kivéve előre bejelentett (és elfogadott!), indokolt hiányzás
+		- a projektek [ezen az oldalon](https://lfze.hu/tanulmanyi-hirek/a-zeneakademia-szimfonikus-zenekaranak-hangversenyei-beosztasa-es-probarendje-114751) találhatók (erre is érdemes [figyelő appot](https://visualping.io) beállítani)
+	- idén indul fúvószenekar, erről nem tudni semmit, csak hogy Szentpáli Roland fogja dirigálni
+	- fúvósegyüttes
+		- eddig órarend szerinti óra volt (felirakozásos alapú, de minden próbán teljes szólamnak kell lennie)
+		- most lesz koncert is (elvileg)
+- Müpa hangulatkoncertek
+	- ingyen koncert adható a Müpa üvegtermében
+	- jóváhagyásra van szükség egy műsor leadását követően
+	- [link](https://lfze.hu/tanulmanyi-hirek/kozremukodesi-lehetoseg-a-mupaban-124169)
+	- jó lehetőség diploma előtt
+- könyvtár
+	- [kereshető itt](https://primo-36lfz.hosted.exlibrisgroup.com/primo-explore/search?vid=36LFZ_VU1&fromRedirectFilter=false)
+	- hallgatóknak ingyenes
+
+- [ ] felvett és nem teljesített tárgyak
 
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
 *(erre az oldalra mutató QR kód)*

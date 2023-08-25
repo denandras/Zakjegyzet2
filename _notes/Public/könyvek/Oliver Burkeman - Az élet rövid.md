@@ -76,7 +76,7 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[Julio Vincent Gambuto]] író és filmrendező
 - [[Bryan Magee]] filozófus
 	- [[Bryan Magee - Ultimate Questions]]
-- Richard Holloway - Looking in the Distance
+- [[Richard Holloway - Looking in the Distance]]
 - [[Johnny Truant - The Universe Doesn't Give a Flying Fuck About You]]
 - [[Iddo Landau - Finding Meaning in an Imperfect World]]
 - [[Jorge Luis Borges - Az idő újabb cáfolata]]
@@ -84,14 +84,22 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 - [[Joan Tollifson - Death, The End of Self-Improvement]]
 - [[Christian Bobin]]
 - [[Christophe André - Looking at Mindfulness, Twenty-Five Paintings to Change the Way You Live]]
-- [[Rilke]]
-	- [[Rilke - Levelek egy ifjú költőhöz]]
+- [[Rilke - Levelek egy ifjú költőhöz]]
 - [[Stephen Cope]] pszichiáter
 - [[Susan Piver - Getting Stuff Done by Not Being Mean to Yourself]]
 - [[David Licata - A Life's Work]] doku film
 - [[Mahábhárata]]
 - [[Derrick Jensen - Beyond Hope]] cikk
 - [[Pema Chödrön - Amikor minden darabokra hullik]]
+- [[George Orwell - Some Thoughts on the Common Toad]]
+- [[Cal Newport - Deep Work]]
+- [[John Acuff - Finish, Give Yourself the Gift of Done]]
+- [[Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone]]
+- [[William James - The Principle of Psychology]]
+- [[Shizen Young - The Science of Enlightment]]
+- [[Susan Jeffers - Embracing Uncertainty]]
+- [[Blaise Pascal - Gondolatok]]
+- [[Jenny Odell - How to Do Nothing]]
 
 # Outline
 
@@ -406,6 +414,74 @@ permalink: Oliver-Burkeman-Az-élet-rövid
 	- nem, mert az előtted álló nehézségekkel csak akkor tudsz megküzdeni, ha jól használod ki a nap 24 óráját
 - a remény átok, mert a felelősségérzetet elveszi
 - aki feladja a reményt, az újra felfedezi saját erejét
-- 
+- ismerjük fel, hpgy a dolgok nem lesznek rendben. Sőt, már most sincsenek rendben
+- ez a felfogás megöl benned valamit: a félelemvezérelt, mindent irányítani akaró, egoista énedet, amelyik folyamatosan másoknak akar megfelelni
 
-"Remélni egy bizonyos eredményt annyit jelent, mint valami önmagadon és a jelen pillanaton kívüli dologban hinni."
+> "Remélni egy bizonyos eredményt annyit jelent, mint valami önmagadon és a jelen pillanaton kívüli dologban hinni."
+
+> A lemondás a reményről egyet jelent az élet igenlésével, a kezdet kezdetével. ([[Pema Chödrön - Amikor minden darabokra hullik|Pemma Chödrön könyve]])
+
+> Ha már nem kell magadat arról győzködnöd, hogy te aztán igenis meg fogsz tenni mindent, amit kell, akkor már nyugodtan koncentrálhatsz arra a néhány dologra, ami igazán számít.
+
+## Tíz módszer a véges emberi lét elfogadására
+
+### 1. A "fix mennyiség" elve
+
+- nyitott és zárt feladatlista
+	- nyitott: borzalmasan hosszú dolgod lesz velük
+	- a nyitottból a zártba áttenni, max egyszerre 10 lehet rajta
+	- addig nem tehetsz rá másikat, amíg egyet be nem fejeztél
+	- harmadik opcionális: "másra vár"
+- a napi max. időtartam korlátozása
+	- mert a határidő kötelez
+
+### 2. Csak szép sorjában
+
+- egy nagy projekt legyen összesen (vagy egy-egy munkához kapcsolódó és azt nem érintő)
+	- csak akkor kezdj újba, ha az előzőnek vége
+
+### 3. Döntsd el előre, hogy miben nem leszel jó
+
+- a szégyenérzet hiányát eredményezi
+- nem lesznek komoly, teljesíthetetlen elvárások
+- az időd és energiád véges
+- a rivaldafény hullámzása, egyes dolgok tudatos elhanyagolása nem rossz dolog
+
+### 4. Arra koncentrálj, amit eddig már végigcsináltál, ne mindig csak arra, amit még be kell fejezned
+
+- nézz rá biztatásul az elvégzett teendők listájára
+- a kis győzelmek is motivációs tényezők
+
+### 5. Te döntsd el, mivel foglalkozol
+
+- mindenki a figyelmünket akarja
+	- és helyzetét a legfontosabbnak állítja be (pl. adománygyűjtő cégek)
+
+### 6. Használj unalmas és egyfunkciós eszközöket
+
+- a buta telefont te irányítod és nem fordítva
+- ne legyen a telefon az egyértelmű unaloműző eszköz
+
+### 7. Találd meg az újat a hétköznapokban
+
+- azért telik az idő folyása egyre gyorsabbnak, mert egyre kevesebb új dolgot tapasztalunk
+	- de ez erősíti az egzisztenciális túlterheltséget
+- fordíts több figyelmet minden pillanatra
+
+### 8. Légy kíváncsi a másikra
+
+- unalmas feladat esetén próbáld meg magadban tudatosan felkelteni az érdeklődést
+- a cél ne a feladat megoldása legyen, hanem a partner megismerése
+- aggodalom helyett elgondolkozni a lehetőségeken, szcenáriókon
+
+### 9. Gyakorold az azonnali nagylelkűséget
+
+- ha van egy impulzus (pl. fel kéne hívnom az egyik barátomat), azonnal cselekedj így
+
+### 10. Gyakorold a semmittevést
+
+- ha nem bírod elviselni a semmittevést, rosszabb döntéseket hozhatsz
+	- érezni akarod, hog, cselekszel
+- unalom
+- semmittevés-meditáció
+	- ne figyelj semmire, légzésre se
