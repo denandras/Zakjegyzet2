@@ -22,20 +22,21 @@ permalink: infok-rezes-golyaknak
 - [TO (Tanulmányi Osztály)](https://lfze.hu/oto-elerhetosegek)
 	- inkább emailt írj, ha van rá lehetőség
 		- azt is lehetőleg a megfelelő személynek, ezzel időt spórolsz
-- [Kredithálók](https://lfze.hu/kredithalok)
-	- amikor felvettek, az alapján kell teljesíteni (a legtöbb embernek ez a 2023/24-es, kreditátvitel esetén a tanulmányok megkezdésének évfolyamát nézd)
-	- a szabvál és kötelező tárgyak teljesítési ideje rád van bízva, érdemes elsőben több mindent felvenni, pl. [[akusztika]], hogy később kevesebb dolgod legyen
-- [A tanév rendje](https://lfze.hu/tanev-rendje)
-	- szorgalmi időszak első napja: szept. 11
-	- utolsó nap: dec. 20
-	- vizsgaidőszak: dec. 21 - jan. 27
+	- Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu)
+	- tanulmányi osztályvezető: Gazsi Olívia
 
 > Félfogadási idő hallgatók részére a szorgalmi időszakban:
 >
 > hétfő, szerda, péntek: 9:30-12:00  
 > kedd, csütörtök: 13:00-15:30
 
-Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu)
+- [Kredithálók](https://lfze.hu/kredithalok)
+	- amikor felvettek, az alapján kell teljesíteni (a legtöbb embernek ez a 2023/24-es, kreditátvitel esetén a tanulmányok megkezdésének évfolyamát nézd)
+	- a szabvál és kötelező tárgyak teljesítési ideje rád van bízva, érdemes elsőben több mindent felvenni, pl. [[akusztika]], hogy később kevesebb dolgod legyen
+- [A tanév rendje](https://lfze.hu/tanev-rendje) (nyisd meg a szünetek miatt)
+	- szorgalmi időszak első napja: szept. 11
+	- utolsó nap: dec. 20
+	- vizsgaidőszak: dec. 21 - jan. 27
 
 ## A Zeneakadémia működése
 
