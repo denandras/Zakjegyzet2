@@ -1,12 +1,13 @@
 ---
 title: posztmodern
-feed: hide
-date: 2023-02-20 19:34
-permalink: /posztmodern
-#posztmodern
-
-alias:
+feed: show
+created: 2023-08-23 14:59
+date: 2023-08-27 22:53
+permalink: posztmodern
+subject: posztmodern
+type: témakör
 ---
+
 P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 (de nem mindenki szeret szédülni)
 

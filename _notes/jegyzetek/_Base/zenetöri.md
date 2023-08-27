@@ -1,9 +1,13 @@
 ---
 title: zenetöri
-feed: hide
-date: 2023-02-20 19:34
+feed: show
+created: 2023-08-21 20:35
+date: 2023-08-27 22:52
 permalink: zenetöri
+subject: zenetöri
+type: témakör
 ---
+
 [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
 
 ## Első félév - Középkor-reneszánsz (FG)

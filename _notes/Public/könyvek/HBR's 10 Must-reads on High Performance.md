@@ -49,10 +49,10 @@ type: könyv
 - mentorok
 	- fontos szerepet játszanak a profik életében
 	- először dicsérő, lelkesítő tanárra van szükség
-		- aztán olyanokra, amikké válni akarnak, nemzetközi szintű profikra
+		- aztán olyanokra, amikké válni akarsz, nemzetközi szintű profikra
 		- valamint konstruktív, építő kritikára, ami néha fájdalmas lehet
 - ha profi lettél
-	- ideális helyzetben a mentorod segített függetlenedni tőle
+	- ideális helyzetben a mentorod segített függetlenedni magától
 	- saját mérföldköveket helyezel kilátásba
 	- önelemzés, belső mentor
 	- más profikhoz hasonlítsd magad
@@ -63,7 +63,7 @@ type: könyv
 
 > Living in a cave doesn't make you a geologist.
 
-> If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor Auer)
+> If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor Auer, violin)
 
 ## Managing Oneself
 [[Peter F Drucker]]
@@ -78,7 +78,7 @@ type: könyv
 		- 14. században használták először, majd [[Kálvin]] és [[Loyolai Szent Ignác]] is alkalmazták
 		- megmutatja, hol nem vagy igazán kompetens, és hol nincs egyáltalán esélyed
 - koncentrálj az erősségeidre
-- fejleszd azokat
+	- fejleszd azokat
 - fedezd fel, hogy hol rombol intellektuális arroganciád
 	- pl. mérnökök, akik még büszkék is rá, hogy nem értenek az emberekhez
 	- de egy mérnöknek kivitelezők kellenek, el kell tudni magyarázni nekik, valamint ismerni a pontot, ahol nem érdemes folytatni
@@ -96,6 +96,23 @@ type: könyv
 	- sokan tudják a módszerüket, de nem alkalmazzák azt
 - hogyan dolgozom emberekkel?
 	- felettük, alattuk, mellettük, milyen viszonyban a legjobb?
+- döntéshozó vagyok, vagy tanácsadó?
+	- sokszor egy nagy cég jobbkeze rossz vezető lesz
+- stressz, vagy megszokott környezet?
+- nagy szervezet, vagy kicsi az ideális?
+- ne próbálj magadon változtatni, igazítsd a körülményeidet a személyiségedhez
+- értékrend
+	- nehéz egy olyan szervezetnek dolgozni, ami eltérő értékrendet, morált képvisel
+	- nem lesz effektív a munka
+	- ha a hatékony munkamódszer nem egyeztethető össze egy munka értékrendjével, nem érdemes egy életet rááldozni
+- hova tartozom?
+	- kevesen tudják korán a választ, pl. zenészek, séfek
+	- ezzel szemben sokaknak problémát jelent az elhelyezkedés
+	- érdemes tudni a húszas évekre, hogy hogyan dolgozol jól (és hogy hogyan nem, és nemet tudj mondani az ilyen lehetőségekre)
+		- egy állásnál ismerni a saját feltételeidet
+- a sikeres karrier nincs megtervezve
+	- lehetőségekre adott jó válaszok
+	- önismeret
 
 > He believes that ideas move mountains. But bulldozers move mountains; ideas show where the bulldozers should go work.
 

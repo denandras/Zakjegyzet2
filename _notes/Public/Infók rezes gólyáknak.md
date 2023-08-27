@@ -1,6 +1,6 @@
 ---
 title: Infók rezes gólyáknak
-feed: 
+feed: hide
 created: 2023-08-27 09:11
 date: 2023-08-27 09:20
 permalink: infok-rezes-golyaknak
@@ -12,37 +12,40 @@ type: poszt
 ## [INFORMÁCIÓK FELVETT HALLGATÓK RÉSZÉRE](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
 
 - diákigazolvány
-	- az előző félévi okt. 31-ig jó
+	- az előző félévi **okt. 31-ig** jó
 	- [Kormányablak](https://idopontfoglalo.kh.gov.hu/kormanyablak-66/ugykor-valasztas) -> NEK adatlap igénylés
 		- előbb jelentkezz be, mint hogy kiválasztanád az ügykört!
 	- Neptun -> Ügyintézés/Diákigazolvány igénylés
+	- kapsz egy ideigleneset a TO-n
 
 ## Általános infók
 
 - [Honlap](https://www.lfze.hu)
 	- nem összetévesztendő a *zeneakademia.hu* oldallal, ami a koncertlátogató vendégeknek van
 	- az aloldalakon a felhasználónév és a jelszó a Neptun adatokkal kitöltendő
-		- sokszori kitöltés megelőzhető egy egyszerű webes link elkészítésével és elmentésével (könyvjelzőként): https://**felhasználó**:**jelszó**@apps.lfze.hu/scheduler/query/form
+
+>  sokszori kitöltés megelőzhető egy egyszerű webes link elkészítésével és elmentésével (könyvjelzőként): https://**felhasználó**:**jelszó**@apps.lfze.hu/scheduler/query/form
+
 - [TO (Tanulmányi Osztály)](https://lfze.hu/oto-elerhetosegek)
 	- inkább emailt írj, ha van rá lehetőség
 		- azt is lehetőleg a megfelelő személynek, ezzel időt spórolsz
 		- "Tisztelt Ügyintéző!" mindig beválik
-	- Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu)
-	- tanulmányi osztályvezető: Gazsi Olívia
+	- Rézfúvósok ügyintézője: **[Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu)**
+	- tanulmányi osztályvezető: [Gazsi Olívia](mailto:gazsi.olivia@zeneakademia.hu)
 
 > Félfogadási idő hallgatók részére a szorgalmi időszakban:
 >
 > hétfő, szerda, péntek: 9:30-12:00  
 > kedd, csütörtök: 13:00-15:30
 
-- [Kredithálók](https://lfze.hu/kredithalok) [^1]
+- [kredithálók](https://lfze.hu/kredithalok) [^1]
 	- amikor felvettek, az alapján kell teljesíteni (a legtöbb embernek ez a 2023/24-es, kreditátvitel esetén a tanulmányok megkezdésének évfolyamát nézd)
 	- a szabvál és kötelező tárgyak teljesítési ideje rád van bízva, érdemes elsőben több mindent felvenni, pl. [[akusztika]], hogy később kevesebb dolgod legyen
-- [A tanév rendje](https://lfze.hu/tanev-rendje) (nyisd meg a szünetek miatt)
+- [a tanév rendje](https://lfze.hu/tanev-rendje) (nyisd meg a szünetek miatt)
 	- szorgalmi időszak első napja: szept. 11
 	- utolsó nap: dec. 20
 	- vizsgaidőszak: dec. 21 - jan. 27
-- [minden a fúvós tanszékről](https://lfze.hu/fuvos-tanszek) (tanszékvezető: Szatmári Zsolt, klarinét)
+- [minden a fúvós tanszékről](https://lfze.hu/fuvos-tanszek) (tanszékvezető: **Szatmári Zsolt**, klarinét)
 
 ## A Zeneakadémia működése
 
@@ -112,13 +115,17 @@ type: poszt
 - órák anyagai
 	- [ezen a linken](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok) elérhető a tanárok által feltöltött egyetemi anyag
 - zenekarok
-	- szimfit a tanszakok általában egymás között osztják be
+	- **szimfi**t a tanszakok általában egymás között osztják be
 		- a próba minden felett, kivéve előre bejelentett (és elfogadott!), indokolt hiányzás
 		- a projektek [ezen az oldalon](https://lfze.hu/tanulmanyi-hirek/a-zeneakademia-szimfonikus-zenekaranak-hangversenyei-beosztasa-es-probarendje-114751) találhatók *(erre is érdemes [figyelő appot](https://visualping.io) beállítani)*
-	- idén indul fúvószenekar, erről nem tudni semmit, csak hogy Szentpáli Roland fogja dirigálni
-	- fúvósegyüttes
+	- idén indul **fúvószenekar**, erről nem tudni semmit, csak hogy Szentpáli Roland fogja dirigálni
+	- **fúvósegyüttes**
 		- eddig órarend szerinti óra volt (felirakozásos alapú, de minden próbán teljes szólamnak kell lennie)
 		- most lesz koncert is (elvileg)
+		- péntekenként 14:00-16:00, Kupola
+- [kötelező tárgyak jegyzetei](denandras.github.io/zakjegyzet)
+- vizsgák
+	- fel kell venni egyenként a neptunban a vizsgaidőszak kezdetekor (gyakorlatilag előtte már egy héttel le lehet csapni a legjobb időpontokra)
 
 ### Tech
 
@@ -172,6 +179,7 @@ type: poszt
 - [könyvtár](https://lfze.hu/konyvtar)
 	- [kereshető itt](https://primo-36lfz.hosted.exlibrisgroup.com/primo-explore/search?vid=36LFZ_VU1&fromRedirectFilter=false)
 	- hallgatóknak ingyenes
+	- [Könyvtári beiratkozási nyilatkozat](https://lfze.hu/data/LFZE.HU/konyvtar/beiratkozasi_nyilatkozat_magyar_adatkezelesivel_2018-szept-tol.pdf)
 
 ---
 

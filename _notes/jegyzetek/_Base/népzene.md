@@ -1,21 +1,24 @@
 ---
 title: népzene
-feed: hide
-date: 2023-02-20 07:09
-permalink: /népzene
+feed: show
+created: 2023-08-21 20:35
+date: 2022-08-27 22:55
+permalink: népzene
+subject: népzene
+type: témakör
 ---
 
-*népzene az, amit sokan, sokáig énekelnek*
+> *népzene az, amit sokan, sokáig énekelnek*
 
 - gyűjtők-gyűjtések
-	- Lajta László
-	- Sárosi Bálint
+	- [[Lajta László]]
+	- [[Sárosi Bálint]]
 
 >  hangszer: olyan eszköz, melynek rendeltetése a hangkeltés
 
 >  népi hangszer: a falu hagyományában hosszabb használatban van, rajta jellegzetes játékmód és repertoár alakult ki
 
-Hangszerfélék (Curt Sachs, Erich Hornbostel)
+Hangszerfélék ([[Curt Sachs]], [[Erich Hornbostel]])
 > - **idiofon**: az anyag rezeg
 > 	- fa + fém: *deszkadob, kereplő, szekrényes kereplő, szélkereplő, facimbalom (szalmamuzsika)*
 > 	- fém: *csengő, pergő, pásztorszimfónia (nyáj csengői)*
@@ -70,8 +73,8 @@ Hangszerfélék (Curt Sachs, Erich Hornbostel)
 - ### Összefoglalás
 - sokan sokáig
 
-	- **Sunda Vencel József** lábas cimbalma tompítópedállal (sikeres elterjedt)
-	- **Rácz Aladár** klasszikus zenei átiratai
+	- **[[Sunda Vencel József]]** lábas cimbalma tompítópedállal (sikeres elterjedt)
+	- **[[Rácz Aladár]]** klasszikus zenei átiratai
 
 - ##### Hangszerek
 	- hosszúfurulya
@@ -98,14 +101,14 @@ Hangszerfélék (Curt Sachs, Erich Hornbostel)
 	- amatőrök: citera
 
 - ##### Cimbalom, kisebbségek
-	- **Balogh Kálmán, Lukács Miklós**
+	- **[[Balogh Kálmán]], [[Lukács Miklós]]**
 	- sok lehetőség a cimbalomtechnikában egy zongorához képest
 	- a verő borítása fontos
 	- tambura mintáját a cigányzenekar adta
 	- és a parasztbandákét is
 		○ félprofik, kétéltűek (vonós/fúvós)
 		○ egyszerűbb harmonizáció
-			- Gyimes
+		- Gyimes
 		○ gardon itt és Csíki székelyek
 		○ csángók
 
@@ -114,17 +117,17 @@ Hangszerfélék (Curt Sachs, Erich Hornbostel)
 		○ profi: tambura, vonósok, cimbalom klarinét
 		○ alkalmi: cimbalom=tambura(néha)
 	- vannak cigány hárfások
-		○ **Gärtner Dezső**
+		○ [[**Gärtner Dezső**]]
 		○ néhány hangnemben tud játszani
 		○ arpeggiok, akkordok
 
 - ##### Gyűjtések, kutatások
-	- Bartók - magyar, szerb, szlovák, török, román zenne gyűjtése
+	- [[Bartók]] - magyar, szerb, szlovák, török, román zenne gyűjtése
 		○ összehasonlító népzenekutatás
 		○ célja, hogy a népek testvérré váljanak
-		○ hangszeres népzene kutatása kicsit később indul el, nagy volt a lemaradás - behozta: Sárosi Bálint (+Tari Lujza), Lajta László
+		○ hangszeres népzene kutatása kicsit később indul el, nagy volt a lemaradás - behozta: [[Sárosi Bálint]] (+ [[Tari Lujza]]), [[Lajta László]]
 	- beugrató, tréfás kérdés
-	- **Curt Sachs, Erich Hornbostel** - ők találták ki a hangszerek csoportosítását
+	- **[[Curt Sachs]], [[Erich Hornbostel]]** - ők találták ki a hangszerek csoportosítását
 	- pásztor - duda, furulya, nyáj, kanásztülök
 
 

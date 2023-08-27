@@ -1,9 +1,11 @@
 ---
-#akusztika
-title: Akusztika
-feed: hide
-date: 2023-02-20 07:09
+title: akusztika
+feed: show
+created: 2023-08-21 20:35
+date: 2023-08-27 22:52
 permalink: akusztika
+subject: akusztika
+type: témakör
 ---
 
 **Dr. Pap János**

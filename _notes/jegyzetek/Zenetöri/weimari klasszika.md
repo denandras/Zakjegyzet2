@@ -1,9 +1,11 @@
 ---
-#zenetöri #korszak
 title: weimari klasszika
 feed: show
-date: 2022-12-23 17:30
-permalink: /weimari klasszika
+created: 2023-08-21 20:35
+date: 2023-08-27 23:02
+permalink: weimari-klasszika
+subject: zenetöri
+type: 
 ---
 
 [[Goethe]] és [[Schiller]] költészetére használt irodalomtörténeti megjelölés
