@@ -93,7 +93,7 @@ type: könyv
 - [[Susan Piver - Getting Stuff Done by Not Being Mean to Yourself]]
 - [[David Licata - A Life's Work]] doku film
 - [[Mahábhárata]]
-- [[Derrick Jensen - Beyond Hope]] cikk
+- [[Derrick Jensen - Beyond Hope]] [cikk]((https://orionmagazine.org/article/beyond-hope)
 - [[Pema Chödrön - Amikor minden darabokra hullik]]
 - [[George Orwell - Some Thoughts on the Common Toad]]
 - [[Cal Newport - Deep Work]]

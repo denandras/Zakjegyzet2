@@ -13,6 +13,7 @@ type:
 ### Szó, eredet
 
 > Lingua romana, népnyelven íródott francia irodalom
+
 - szó eredete, jelentése
 	- [FR] le roman, [DE] Roman = regény
 	- művészeti irányzat-stílus-mozgalom
