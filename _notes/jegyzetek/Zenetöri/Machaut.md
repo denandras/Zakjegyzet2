@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy #tétel
 title: Machaut
 feed: show
-date: 2022-12-23 17:30
-permalink: /Machaut
+created: 2023-08-21 20:35
+date: 2023-08-27 08:19
+permalink: machaut
+subject: zenetöri
+type: 
 ---
+
 Gillaume de Machaut
 
 -   izoritmikus motetták

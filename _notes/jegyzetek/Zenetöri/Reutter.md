@@ -1,9 +1,13 @@
 ---
 title: Reutter
 feed: show
-date: 2022-12-23 17:30
-permalink: /Reutter
+created: 2023-08-21 20:35
+date: 2023-08-27 08:33
+permalink: reutter
+subject: zenetöri
+type: 
 ---
+
 Johann Georg Reutter
 
-https://www.wikiwand.com/en/Johann_Georg_Reutter#/Reutter_and_Haydn
+# [Wiki](https://www.wikiwand.com/en/Johann_Georg_Reutter#/Reutter_and_Haydn)

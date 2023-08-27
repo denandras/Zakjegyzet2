@@ -1,10 +1,14 @@
 ---
-#zenetöri #fogalom
 title: Sturm und Drang
 feed: show
-date: 2022-12-23 17:30
-permalink: /Sturm und Drang
+created: 2023-08-21 20:35
+date: 2023-08-27 08:37
+permalink: sturm-und-drang
+subject: zenetöri
+type: 
 ---
+
 vihar és vágy
-[[Klinger]]: Sturm und Drang
-[[Haydn]] moll szimfóniái pl. [[45. szimfónia]]
+
+- [[Klinger]]: Sturm und Drang
+- [[Haydn]] moll szimfóniái pl. [[45. szimfónia]]

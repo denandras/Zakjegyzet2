@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: racionalizmus
 feed: show
-date: 2022-12-23 17:30
-permalink: /racionalizmus
+created: 2023-08-21 20:35
+date: 2023-08-27 08:33
+permalink: racionalizmus
+subject: zenetöri
+type: 
 ---
 
-[[Descartes]]
+[[René Descartes]]

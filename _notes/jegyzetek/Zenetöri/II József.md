@@ -1,8 +1,10 @@
 ---
-#zenetöri #személy
 title: II József
 feed: show
-date: 2023-01-10 22:34
-permalink: /II József
+created: 2023-08-21 20:35
+date: 2023-08-27 07:54
+permalink: ii-jozsef
+subject: zenetöri
+type: 
 ---
 

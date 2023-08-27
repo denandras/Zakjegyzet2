@@ -1,9 +1,11 @@
 ---
 title: duális meditáció
 feed: hide
-date: 2022-06-01 11:14
-permalink: /duális meditáció
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:56
+permalink: dualis-meditacio
+subject: meditáció
+type: 
 ---
 
 [[meditáció]]

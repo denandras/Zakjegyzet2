@@ -1,12 +1,15 @@
 ---
 title: Butejko-légzéstechnikák
 feed: hide
-date: 2022-12-29 19:36
-permalink: /Butejko-légzéstechnikák
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:50
+permalink: butejko-legzestechnikak
+subject: légzés
+type:
 ---
 
 - szervezet metabolizmusához alkalmazkodik
+
 [[Patrick McKeown - The Oxygen Advantage]]
 www.consciousbreathing.com
 www.breathingcenter.com

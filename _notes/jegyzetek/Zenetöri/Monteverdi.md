@@ -1,10 +1,13 @@
 ---
 title: Monteverdi
 feed: show
-date: 2022-12-23 17:30
-permalink: /Monteverdi
-#zenetöri #személy
+created: 2023-08-21 20:35
+date: 2023-08-27 08:23
+permalink: monteverdi
+subject: zenetöri
+type: 
 ---
+
 Claudio Monteverdi
 - <mark>1567-1643</mark>
 

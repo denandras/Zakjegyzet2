@@ -1,13 +1,16 @@
 ---
 title: Händel
 feed: show
-date: 2022-12-23 17:30
-permalink: /Händel
-#zenetöri #személy
+created: 2023-08-21 20:35
+date: 2023-08-27 07:51
+permalink: handel
+subject: zenetöri
+type: 
 ---
+
 Georg Friedrich Händel
 - <mark>1685-1759</mark>
 
-Szerepe az operában: 
-[[opera]]
+[Szerepe az operában](opera)
+![[opera#^handelopera]]
 

@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom #formatan
 title: ritornello
 feed: show
-date: 2022-12-23 17:30
-permalink: /ritornello
+created: 2023-08-21 20:35
+date: 2023-08-27 08:34
+permalink: ritornello
+subject: zenetöri
+type: 
 ---
 
 - tonálisan zárt egység

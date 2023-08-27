@@ -1,9 +1,11 @@
 ---
 title: vizualizációs meditáció
 feed: hide
-date: 2022-06-05 20:12
-permalink: /vizualizációs meditáció
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 09:00
+permalink: vizualizacios-meditacio
+subject: meditáció
+type: 
 ---
 
 - lassú/lassuló légzés

@@ -1,10 +1,13 @@
 ---
-#zenetöri #könyv #mű
 title: Szabolcsi Bence Művei
 feed: show
-date: 2022-12-23 17:30
-permalink: /Szabolcsi Bence Művei
+created: 2023-08-21 20:35
+date: 2023-08-27 08:38
+permalink: szabolcsi-bence-muvei
+subject: zenetöri
+type: 
 ---
+
 1984
 
 [[barokk a hétköznapokban]]

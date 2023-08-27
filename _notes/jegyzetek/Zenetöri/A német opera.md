@@ -1,17 +1,20 @@
 ---
-#zenetöri #tétel
 title: A német opera
 feed: show
-date: 2023-02-09 21:10
-permalink: /A német opera
+created: 2023-08-21 20:34
+date: 2023-08-27 07:30
+permalink: a-nemet-opera
+subject: zenetöri
+type: 
 ---
+
 [[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]
 
 [[Pierre Gaveaux]] - Fidelio
 
-- [[Beethoven]] - [[Fidelio]] ![[Fidelio]]
+- [[Beethoven]] - ![[Fidelio]]
 ---
-- [[Undine]] ![[Undine]] 
+- ![[Undine]] 
 
 ### Műfaja
 
@@ -48,3 +51,7 @@ permalink: /A német opera
 - életműve
 	- [[Lohengrin]]
 	- [[Trisztán és Izolda]]
+
+---
+[^]: [[10. Beethoven operája.pdf]]
+[^]: [[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]

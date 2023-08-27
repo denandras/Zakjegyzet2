@@ -1,11 +1,14 @@
 ---
 title: Figyeld meg a levegővételed megállását
 feed: hide
-date: 2023-05-29 03:55
-permalink: /Figyeld meg a levegővételed megállását
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:57
+permalink: figyeld-meg-a-levegoveteled-megallasat
+subject: meditáció
+type: 
 ---
-[[meditáció]], [[Ayurveda]], [[Zen]], [wisdomlib.org]([Forrás](https://www.wisdomlib.org/definition/tantra))
+
+[[Ayurveda]], [[Zen]], [wisdomlib.org]([Forrás](https://www.wisdomlib.org/definition/tantra))
 
 > Or, when breath is all out (up) and stopped of itself, or all in (down) and stopped – in such universal pause, one’s small self vanishes. This is difficult only for the impure.
 

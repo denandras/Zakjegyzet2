@@ -1,10 +1,11 @@
 ---
-alias: francia barokk
-#zenetöri #tétel
 title: Francia barokk
 feed: show
-date: 2022-12-23 17:30
-permalink: /Francia barokk
+created: 2023-08-21 20:35
+date: 2023-08-27 07:46
+permalink: francia-barokk
+subject: zenetöri
+type: 
 ---
 
 -   arokk zene a feledésbe merül
@@ -51,4 +52,4 @@ permalink: /Francia barokk
     -   Tragédie en musique (= francia barokk [[opera]])
         -   [[Mazarin]] bíboros többször megpróbálta bevinni az olasz operát, ez kudarcba fulladt <- színjátszás mély hagyománya
 
-[[Lully]] ![[Lully]]
+![[Lully]]

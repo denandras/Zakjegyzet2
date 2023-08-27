@@ -1,9 +1,11 @@
 ---
 title: Yoga
 feed: hide
-date: 2023-06-10 09:36
-permalink: /Yoga
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 09:00
+permalink: yoga
+subject: meditáció
+type: 
 ---
 
 A jóga egy több ezer éves gyakorlatrendszer, amely testi, mentális és szellemi gyakorlatokat egyesít. A jóga ászanák (testhelyzetek), légzőgyakorlatok, meditáció és erkölcsi irányelvek segítségével törekszik a testi és lelki egészség, valamint a tudatosság és spirituális fejlődés elérésére.

@@ -1,10 +1,11 @@
 ---
-#zenetöri #műfaj #fogalom
-alias: versenymű
 title: concerto
 feed: show
-date: 2022-12-23 17:30
-permalink: /concerto
+created: 2023-08-21 20:34
+date: 2023-08-27 07:36
+permalink: concerto
+subject: zenetöri
+type: 
 ---
 
 - szólóhangszerre és zenekarra írt zenemű, amely a barokk zenében már ismert műfaj, de a klasszikus stílus ezt is a maga képére formálta

@@ -1,10 +1,13 @@
 ---
-title: Vigyan Bhairav Tantra
+title: Tantra
 feed: hide
-date: 2022-06-06 22:44
-permalink: /Vigyan Bhairav Tantra
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:59
+permalink: tantra
+subject: meditáció
+type: 
 ---
+
 [[Osho - The Book of Secrets]]
 
 ### Eredet

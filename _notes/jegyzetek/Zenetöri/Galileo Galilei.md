@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Galileo Galilei
 feed: show
-date: 2022-12-23 17:30
-permalink: /Galileo Galilei
+created: 2023-08-21 20:35
+date: 2023-08-27 07:48
+permalink: galileo-galilei
+subject: zenetöri
+type: 
 ---
 
 [[Vincenzo Galilei]] fia

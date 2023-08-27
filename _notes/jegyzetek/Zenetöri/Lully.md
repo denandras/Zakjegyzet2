@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Lully
 feed: show
-date: 2022-12-23 17:30
-permalink: /Lully
+created: 2023-08-21 20:35
+date: 2023-08-27 08:19
+permalink: lully
+subject: zenetöri
+type: 
 ---
+
 Giovanni Battista Lully
 [[Francia barokk]] megteremtője, olasz táncos-énekes
 
@@ -28,6 +31,6 @@ Giovanni Battista Lully
         -   5 szólamú
             -   Hegedű + continuo + 3 brácsa
             -   Trió
-            -   Innen a [[Trio]] rész
+            -   Innen a trio rész
     -   metrum változik, igazodik a francia nyelvhez
-    -   [[haut-contre]] - magas tenor
+    -   [[haut-contre]]

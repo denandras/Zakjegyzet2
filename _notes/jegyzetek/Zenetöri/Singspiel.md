@@ -1,10 +1,13 @@
 ---
-#zenetöri #műfaj
 title: Singspiel
 feed: show
-date: 2023-01-10 22:34
-permalink: /Singspiel
+created: 2023-08-21 20:35
+date: 2023-08-27 08:37
+permalink: singspiel
+subject: zenetöri
+type: 
 ---
+
 > Hamburg: nagyobb opera
 > néhány fejedelmi opera (Bécs, Drezda)
 > populáris: Singspiel
@@ -30,3 +33,5 @@ permalink: /Singspiel
 - Mozart: ![[Varázsfuvola]]
 - [[Johann Adam Hiller]]
 
+---
+[^]: [[9. Mozart és a Singspiel.pdf]]

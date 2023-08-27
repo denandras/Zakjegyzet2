@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: Clavichord
 feed: show
-date: 2022-12-23 17:30
-permalink: /Clavichord
+created: 2023-08-21 20:34
+date: 2023-08-27 07:36
+permalink: clavichord
+subject: zenetöri
+type: 
 ---
 
 Tafelklavier, klavikord, clavecin

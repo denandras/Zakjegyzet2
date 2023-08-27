@@ -1,14 +1,15 @@
 ---
 title: JN-Lélegzet
 feed: hide
-date: 2023-05-29 05:27
-permalink: /JN-Lélegzet
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:51
+permalink: jn-lelegzet
+subject: légzés
+type: 
 ---
 
-[[könyvek]]
+[[James Nestor]]: Lélegzet
 
-James Nestor: Lélegzet
 Egy elveszett tudás újrafelfedezése
 
 1. fejezet

@@ -1,10 +1,13 @@
 ---
 title: Orfeo
 feed: show
-date: 2022-12-23 17:30
-permalink: /Orfeo
-#zenetöri #mű
+created: 2023-08-21 20:35
+date: 2023-08-27 08:25
+permalink: orfeo
+subject: zenetöri
+type: 
 ---
+
 Orfeo et Eurudice
 - [[Monteverdi]], 1607, Mantova
 - műfaj: *"favola di musica"* = zenei színmű, *"dramma per musica"* = dráma zenén keresztül

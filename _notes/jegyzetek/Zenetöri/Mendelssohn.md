@@ -1,11 +1,15 @@
 ---
-#zenetöri #személy
 title: Mendelssohn
 feed: show
-date: 2022-12-23 17:30
-permalink: /Mendelssohn
+created: 2023-08-21 20:35
+date: 2023-08-27 08:22
+permalink: mendelssohn
+subject: zenetöri
+type: 
 ---
+
 Felix Mendelssohnn-Bartholdy
+
 <mark>1809–1847</mark>
 
 - Hamburg, asszimilált zsidó család

@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Domenico Scarlatti
 feed: show
-date: 2023-01-06 19:14
-permalink: /Domenico Scarlatti
+created: 2023-08-21 20:35
+date: 2023-08-27 07:39
+permalink: domenico-scarlatti
+subject: zenetöri
+type: 
 ---
 
 ![](https://www.br-klassik.de/themen/klassik-entdecken/domenico-scarlatti-komponist-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=f30a2)
@@ -26,4 +28,4 @@ permalink: /Domenico Scarlatti
 
 [^1]: gyermekkorában hatással volt rá az olasz billentyűs gyakorlat
 míg az olaszoknál az orgona dominált, az angolok elismerték, a németek tökélyre fejlesztették az európai csembalózenét
-[[Frescobaldi]] után csak az olaszok mikor emigráltak, kezdett népszerűsödni az ágazat
+[[Girolamo Frescobaldi]] után csak az olaszok mikor emigráltak, kezdett népszerűsödni az ágazat

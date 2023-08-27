@@ -1,10 +1,13 @@
 ---
 title: Don Carlos
 feed: show
-date: 2023-03-13 08:52
-permalink: /Don Carlos
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 07:39
+permalink: don-carlos
+subject: zenetöri
+type: 
 ---
+
 [[Verdi]], **[[Giacomo Meyerbeer]]**
 
 > 1867 -- 48-as politikai [[idealizmus]], az emberek hisznek a haladásban -> az emberekben realizálódik a reménytelenség

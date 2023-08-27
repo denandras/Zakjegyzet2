@@ -1,9 +1,11 @@
 ---
 title: Zazen
 feed: hide
-date: 2022-12-24 13:42
-permalink: /Zazen
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 09:00
+permalink: zazen
+subject: meditáció
+type: 
 ---
 
 Japán [[meditáció]]s technika

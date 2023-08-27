@@ -1,9 +1,11 @@
 ---
-#akusztika
-title: Időérzékelés
+title: időérzékelés
 feed: show
-date: 2022-12-23 17:30
-permalink: /Időérzékelés
+created: 2023-08-21 20:34
+date: 2023-08-27 09:05
+permalink: idoerzekeles
+subject: akusztika
+type: 
 ---
 
 - relatív

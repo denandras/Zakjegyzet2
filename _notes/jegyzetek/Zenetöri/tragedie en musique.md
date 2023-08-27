@@ -1,9 +1,11 @@
 ---
-#zenetöri #műfaj
 title: tragedie en musique
 feed: show
-date: 2022-12-23 17:30
-permalink: /tragedie en musique
+created: 2023-08-21 20:35
+date: 2023-08-27 08:40
+permalink: tragedie-en-musique
+subject: zenetöri
+type: 
 ---
 
 francia [[opera seria]]

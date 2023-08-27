@@ -1,7 +1,9 @@
 ---
-#zenetöri #személy
 title: Schiller
 feed: show
-date: 2022-12-23 17:30
-permalink: /Schiller
+created: 2023-08-21 20:35
+date: 2023-08-27 08:35
+permalink: schiller
+subject: zenetöri
+type: 
 ---

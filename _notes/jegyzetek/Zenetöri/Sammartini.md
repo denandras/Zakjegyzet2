@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Sammartini
 feed: show
-date: 2023-01-05 17:48
-permalink: /Sammartini
+created: 2023-08-21 20:35
+date: 2023-08-27 08:35
+permalink: sammartini
+subject: zenetöri
+type: 
 ---
+
 Giovanni Battista Sammartini
 
 - Milanoban született egyházzenész

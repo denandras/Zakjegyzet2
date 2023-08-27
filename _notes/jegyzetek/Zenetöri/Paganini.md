@@ -1,10 +1,13 @@
 ---
 title: Paganini
 feed: show
-date: 2023-05-01 14:25
-permalink: /Paganini
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:25
+permalink: paganini
+subject: zenetöri
+type: 
 ---
+
 
 > Nicolo Paganini
 

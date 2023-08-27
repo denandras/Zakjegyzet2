@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Schumann
 feed: show
-date: 2023-02-22 10:28
-permalink: /Schumann
+created: 2023-08-21 20:35
+date: 2023-08-27 08:36
+permalink: schumann
+subject: zenetöri
+type: 
 ---
+
 [[Robert Schumann - Válogatott írások]]
 
 ### Robert Schumann

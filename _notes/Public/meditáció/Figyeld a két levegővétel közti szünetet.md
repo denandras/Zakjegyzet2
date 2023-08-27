@@ -1,12 +1,12 @@
 ---
 title: Figyeld a két levegővétel közti szünetet
 feed: hide
-date: 2022-06-07 16:37
-permalink: /Figyeld a két levegővétel közti szünetet
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:57
+permalink: figyeld-a-ket-levegovetel-kozti-szunetet
+subject: meditáció
+type: 
 ---
-
-[[meditáció]]
 
 ### A Lényeg
 

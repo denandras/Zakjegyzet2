@@ -1,10 +1,13 @@
 ---
 title: Undine
 feed: show
-date: 2023-03-22 09:43
-permalink: /Undine
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:41
+permalink: undine
+subject: zenetöri
+type: 
 ---
+
 [[E T A Hoffmann]][^1]
 
 > hasonlóság [[Tannhäuser]]rel, [[A bolygó hollandi]]val, [[Lohengrin]]nel, stb.

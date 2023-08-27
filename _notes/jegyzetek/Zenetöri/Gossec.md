@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Gossec
 feed: show
-date: 2023-01-06 19:14
-permalink: /Gossec
+created: 2023-08-21 20:35
+date: 2023-08-27 07:51
+permalink: gossec
+subject: zenetöri
+type: 
 ---
 
 Francois-Joseph Gossec

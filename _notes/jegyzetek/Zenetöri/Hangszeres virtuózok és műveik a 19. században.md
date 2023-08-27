@@ -1,13 +1,14 @@
 ---
-#zenetöri #tétel
 title: Hangszeres virtuózok és műveik a 19. században
 feed: show
-date: 2023-02-09 21:11
-permalink: /Hangszeres virtuózok és műveik a 19 században
+created: 2023-08-21 20:35
+date: 2023-08-27 07:53
+permalink: hangszeres-virtuozok-es-muveik-a-19-szazadban
+subject: zenetöri
+type: 
 ---
-[[Általános zenetörténet IV. szemeszter - 5.tétel Hangszeres virtuózok és műveik a 19. században.pdf]]
 
-> Hangversenyetűd, hangszeres átiratok, noktürn, mazurka, polonéz, Paganini, Liszt, Chopin
+> Hangversenyetűd, hangszeres átiratok, noktürn, mazurka, polonéz, [[Paganini]], [[Liszt]], [[Chopin]]
 
 ### Fontos szerzők
 
@@ -33,3 +34,6 @@ permalink: /Hangszeres virtuózok és műveik a 19 században
 - triolás jellegű kísérő szólam, dallamosabb felső szólam
 - ízléses díszítések
 - pedálhasználat
+
+---
+[^]: [[Hangszeres virtuózok és műveik a 19. században]]

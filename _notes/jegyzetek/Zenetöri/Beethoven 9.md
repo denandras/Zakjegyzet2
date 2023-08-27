@@ -1,9 +1,11 @@
 ---
-#zenetöri #mű
 title: Beethoven 9
 feed: show
-date: 2023-01-10 12:36
-permalink: /Beethoven 9
+created: 2023-08-21 20:34
+date: 2023-08-27 07:34
+permalink: beethoven-9
+subject: zenetöri
+type: 
 ---
 
 ### Keletkezése

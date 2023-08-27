@@ -1,11 +1,15 @@
 ---
-#zenetöri #mű
 title: Schubert - An der Mond
 feed: show
-date: 2023-02-09 21:16
-permalink: /Schubert - An der Mond
+created: 2023-08-21 20:35
+date: 2023-08-27 08:36
+permalink: schubert-an-der-mond
+subject: zenetöri
+type: 
 ---
+
 [A Holdoz]
+
 [[Schubert]]
 
 - az indivídum a természeti környezetben

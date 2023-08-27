@@ -1,9 +1,11 @@
 ---
 title: jógalégzés
 feed: hide
-date: 2022-12-26 21:04
-permalink: /jógalégzés
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:51
+permalink: jogalegzes
+subject: légzés
+type: 
 ---
 
 ### 1. fázis

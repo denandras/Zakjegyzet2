@@ -1,9 +1,11 @@
 ---
 title: transzcendentális meditáció
 feed: hide
-date: 2022-06-01 11:18
-permalink: /transzcendentális meditáció
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:59
+permalink: transzcendentalis-meditacio
+subject: meditáció
+type: 
 ---
 
 - végy mély lélegzetet, hogy megnyugtasd agyad

@@ -1,10 +1,13 @@
 ---
 title: Figyeld meg két lélegzeted fúzióját
 feed: hide
-date: 2023-02-26 23:00
-permalink: /Figyeld meg két lélegzeted fúzióját
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:58
+permalink: figyeld-meg-ket-lelegzeted-fuziojat
+subject: meditáció
+type: 
 ---
+
 
 > Or, whenever in-breath and out-breath fuse, at this instant touch the energy-less[^1], energy-filled center.
 

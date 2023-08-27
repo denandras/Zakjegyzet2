@@ -1,7 +1,11 @@
 ---
-#zenetöri #mű
 title: Fumeux fux parfume
 feed: show
-date: 2022-12-23 17:30
-permalink: /Fumeux fux parfume
+created: 2023-08-21 20:35
+date: 2023-08-27 07:48
+permalink: fumeux-fux-parfume
+subject: zenetöri
+type: 
 ---
+
+# [link](https://www.youtube.com/watch?v=0_rH2a-rg6Y)

@@ -1,10 +1,13 @@
 ---
-#zenetöri #tétel
 title: klasszika fogalma
 feed: show
-date: 2023-01-06 19:14
-permalink: /klasszika fogalma
+created: 2023-08-21 20:35
+date: 2023-08-27 08:01
+permalink: klasszika-fogalma
+subject: zenetöri
+type: 
 ---
+
 ![](https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232)
 
 <mark>1750-1820</mark>
@@ -20,9 +23,9 @@ egyszerűsége -><- barokk polifónia
 - [[Haydn]], [[Mozart]], [[Beethoven]] ([[Gluck]], [[Schubert]])
 - `20. sz.`  elején kezdték el használni
 - különbségek
-	- b. k. **stílus** [[Fischer a klasszikáról]]
+	- b. k. **stílus** [[Fischer - a klasszikáról]]
 	- b. k. iskola [[Adler - a bécsi klasszikus iskola]]
-	- k. korszak [[Dent Italian Opera]]
+	- k. korszak [[Dent - Italian Opera]]
 - [[E T A Hoffmann]] romantikusnak mondta [[Beethoven]]t, pedig már akkoriban a klasszikussal szemben állt jelentése
 
 ### Fogalma, periodizálása
@@ -35,7 +38,7 @@ egyszerűsége -><- barokk polifónia
 - Bécs
 	- egyikük sem ott született
 	- mozgalmas zenei élet
-- "Első bécsi modernség" (Webster)
+- "Első bécsi modernség" ([[James Webster - 19th Century Music]])
 	- "Második bécsi iskola"
 	- sokféle tagolás
 	- **preklasszika**: [[gáláns stílus]], [[Empfindsamkeit]], [[Sturm und Drang]]
@@ -58,6 +61,6 @@ egyszerűsége -><- barokk polifónia
 - csembaló helyett önmagában kísér a zenekar
 - nagy karmester-egyéniségek: [[Gossec]], [[Sammartini]], [[Jommelli]], [[Johann Stamitz]], [[Gluck]], [[Haydn]]
 
-
+---
 [^1]: [[Edward J Dent Italian Opera in the 18th Century]], [[Fischer A bécsi klasszikus stílus fejlődéséhez]], [[Adler a bécsi klasszikus iskola]], [[Charles Rosen A klasszikus stílus]], [[Jones Music in Vienna]], [[Webster 19th Century Music]], [[Komlós Katalin Fortepianók és zenéjük]]
 [^]: [[1. A „bécsi klasszika” fogalma és a 18. századi zenetörténet periodizálásának problémái.pdf]]

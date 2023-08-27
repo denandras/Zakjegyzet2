@@ -1,10 +1,13 @@
 ---
-#zenetöri
 title: Schubert dalciklusai
 feed: show
-date: 2023-02-20 19:34
-permalink: /Schubert dalciklusai
+created: 2023-08-21 20:35
+date: 2023-08-27 08:36
+permalink: schubert-dalciklusai
+subject: zenetöri
+type: 
 ---
+
 [[Schubert]]
 
 - op. 3-tól 3-5 dalt kapcsol egybe

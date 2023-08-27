@@ -1,10 +1,13 @@
 ---
-#zenetöri #tétel
 title: romantikus dal
 feed: show
-date: 2023-01-22 10:28
-permalink: /romantikus dal
+created: 2023-08-21 20:35
+date: 2023-08-27 08:34
+permalink: romantikus-dal
+subject: zenetöri
+type: 
 ---
+
 [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
 
 > privát műfaj eleinte
@@ -18,3 +21,5 @@ permalink: /romantikus dal
 	- könnyen megzenésíthető
 - [[Schubert]] - központi jelentőség
 - ![[Schubert - An der Mond]]
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

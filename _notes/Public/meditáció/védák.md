@@ -1,9 +1,11 @@
 ---
 title: védák
 feed: hide
-date: 2023-06-10 09:49
-permalink: /védák
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 09:00
+permalink: vedak
+subject: meditáció
+type: 
 ---
 
 - [[Rigvéda]] - egyik legősibb szent szöveg

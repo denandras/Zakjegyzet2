@@ -1,10 +1,13 @@
 ---
-#zenetöri #fogalom
 title: mediáns
 feed: show
-date: 2023-01-11 16:25
-permalink: /mediáns
+created: 2023-08-21 20:35
+date: 2023-08-27 08:21
+permalink: medians
+subject: zenetöri
+type: 
 ---
+
 tercrokon
 
 <mark>Három és négy kvint távolságú</mark> dúrok *(pl. C-dúr — Á-dúr, C-dúr — Eszdúr,

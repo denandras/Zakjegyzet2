@@ -1,9 +1,11 @@
 ---
-#akusztika
 title: Akusztika tételek
 feed: show
-date: 2023-01-24 14:29
-permalink: /Akusztika tételek
+created: 2023-08-21 20:34
+date: 2023-08-27 09:05
+permalink: akusztika-tetelek
+subject: akusztika
+type: 
 ---
 
 - A csillaggal jelzett tételekhez használható segédanyag: Pap János: A zenei akusztika alapjai.

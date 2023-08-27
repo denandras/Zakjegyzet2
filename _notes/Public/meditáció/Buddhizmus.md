@@ -1,10 +1,13 @@
 ---
 title: Buddhizmus
 feed: hide
-date: 2023-06-10 09:55
-permalink: /Buddhizmus
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:56
+permalink: buddhizmus
+subject: meditáció
+type: 
 ---
+
 
 > A buddhizmus nem rendelkezik saját védikus szövegekkel. A buddhista hagyományokban a buddhista kánonnak nevezett kollekción belül találhatóak a buddhizmus szent szövegei, amelyek a buddhista tanításokat és gyakorlatokat tartalmazzák.
 

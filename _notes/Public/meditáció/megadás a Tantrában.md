@@ -1,12 +1,14 @@
 ---
 title: megadás a Tantrában
 feed: hide
-date: 2022-06-06 22:44
-permalink: /megadás a Tantrában
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:58
+permalink: megadas-a-tantraban
+subject: meditáció
+type: 
 ---
 
-[[meditáció]] [[Tantra|Tantra]] [[osztatlan meditáció]]
+[[Tantra]], [[osztatlan meditáció]]
 
 - a szerelmen alapszik, tulajdonképpen maga a szerelem
 - nem írható le, mert ha elárulják, használhatatlanná válik

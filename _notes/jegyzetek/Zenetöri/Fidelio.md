@@ -1,10 +1,13 @@
 ---
 title: Fidelio
 feed: show
-date: 2023-03-22 08:33
-permalink: /Fidelio
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 07:41
+permalink: fidelio
+subject: zenetöri
+type: 
 ---
+
 <mark>1805</mark>
 - **modellként szolgál** a későbbiekben
 

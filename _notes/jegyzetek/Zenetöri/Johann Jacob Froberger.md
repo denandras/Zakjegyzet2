@@ -1,10 +1,12 @@
 ---
-#zenetöri #személy
 title: Johann Jacob Froberger
 feed: show
-date: 2022-12-23 17:30
-permalink: /Johann Jacob Froberger
+created: 2023-08-21 20:35
+date: 2023-08-27 07:58
+permalink: johann-jacob-froberger
+subject: zenetöri
+type: 
 ---
 
-- tanult [[Frescobaldi]]nál
+- tanult [[Girolamo Frescobaldi]]nál
 - Bécsi császári udvar csemballistája

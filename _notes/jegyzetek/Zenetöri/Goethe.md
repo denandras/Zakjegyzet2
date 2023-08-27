@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Goethe
 feed: show
-date: 2022-12-23 17:30
-permalink: /Goethe
+created: 2023-08-21 20:35
+date: 2023-08-27 07:51
+permalink: goethe
+subject: zenetöri
+type: 
 ---
+
 <mark>1749-1832</mark>
 
 - német irodalmi népiesség irányzata

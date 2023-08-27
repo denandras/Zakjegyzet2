@@ -1,9 +1,11 @@
 ---
-#zenetöri #mű
 title: Idomeneo
 feed: show
-date: 2022-12-23 17:30
-permalink: /Idomeneo
+created: 2023-08-21 20:35
+date: 2023-08-27 07:54
+permalink: idomeneo
+subject: zenetöri
+type: 
 ---
 
 > A mű színpadra állítása nem kis feladat. Technikai és hangi követelmények szempontjából az Idomeneo nagy igényeket támaszt. Nagyszabású és bonyolult színházi apparátust, nagy létszámú kórust igényel.

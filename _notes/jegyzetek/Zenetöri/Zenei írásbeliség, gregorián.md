@@ -1,12 +1,14 @@
 ---
-#zenetöri #tétel
 title: Zenei írásbeliség, gregorián
 feed: show
-date: 2023-01-19 17:25
-permalink: /Zenei írásbeliség, gregorián
+created: 2023-08-21 20:35
+date: 2023-08-27 08:47
+permalink: zenei-irasbeliseg-gregorian
+subject: zenetöri
+type: 
 ---
 
--   Nyitógondolatok
+-   nyitógondolatok
     -   függöny metafora
     -   modern kotta tartalmaz hangmagasságot és hosszt - középkori kotta épp ezeket nem
     -   a kottaírás kevesek kiváltsága, a zenészek egyébként is fejből énekelnek
@@ -18,7 +20,7 @@ permalink: /Zenei írásbeliség, gregorián
 -   neumák (helyenként más)
     -   `10.  századi` kódex (Sankt Gallen)(Hartker antifóna)
     -   sokáig nem nagyon használják
--   600 körül Gergely pápa összegyűjti az egyházi énekeket
+-   600 körül [[Gergely pápa]] összegyűjti az egyházi énekeket
 -   meghatározó írásbeliség
     -   dallam íve, rezgés = szám, kisgyerekek, sok metafora
 -   mise felépítése (rítus, a mise lényege Jézus utolsó vacsorájának újraátélése)

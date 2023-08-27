@@ -1,11 +1,15 @@
 ---
-#zenetöri #személy
-title: Christoph Willibald Gluck
+title: Gluck
 feed: show
-date: 2022-12-23 17:30
-permalink: /Christoph Willibald Gluck
+created: 2023-08-21 20:35
+date: 2023-08-27 07:51
+permalink: gluck
+subject: zenetöri
+type: 
 ---
+
 Christoph Willibald Gluck
+
 ![](https://g.denik.cz/13/31/mostgluack_denik-630-16x9.jpg)
 
 - 1714-87

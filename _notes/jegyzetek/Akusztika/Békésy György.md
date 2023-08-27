@@ -1,9 +1,11 @@
 ---
-#akusztika #személy
 title: Békésy György
 feed: show
-date: 2022-12-23 17:30
-permalink: /Békésy György
+created: 2023-08-21 20:34
+date: 2023-08-27 09:05
+permalink: bekesy-gyorgy
+subject: akusztika
+type: 
 ---
 
 - Nobel-díj a halláskutatásért

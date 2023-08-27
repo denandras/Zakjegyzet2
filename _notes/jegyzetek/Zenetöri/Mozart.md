@@ -1,18 +1,21 @@
 ---
-
-#zenetöri #személy
 title: Mozart
 feed: show
-date: 2023-01-16 10:52
-permalink: /Mozart
+created: 2023-08-21 20:35
+date: 2023-08-27 08:23
+permalink: mozart
+subject: zenetöri
+type: 
 ---
+
 Wolfgang Amadeus Mozart
+
 ![](https://st4.depositphotos.com/13128258/20871/v/600/depositphotos_208715060-stock-illustration-wolfgang-amadeus-mozart-great-composer.jpg)
 
 <mark>1756-1791</mark>
-[[k 292]]
 
 ### Billentyűs szonátái (18)
+
 - szerepe az utókorban túlértékelt
 - számára kevésbé fontos, mint a [[kíséretes szonáta]]
 - növendékeknek írta, inkább etűdszerű, nem mutatja úgy személyiségét benne, mint [[zongoraverseny]]eiben, vagy kamaraműveiben
@@ -34,6 +37,7 @@ Wolfgang Amadeus Mozart
 	- a szakértők még vitáznak a kiadók miatt is
 		- a korabeli hangszerek kiismerése (1770-80-as Stein vagy Walter zongorák) kiismerése sokszor biztosabb támpontot nyújt
 ### Szimfóniái (változatos, sokféle)
+
 - alapvetően az operákra koncentrált
 - háromtételes, korai olaszos szimfóniák: London, Hága
 - 1767-68 Bécs - szimfonikus gyakorlat megfogta
@@ -51,3 +55,6 @@ Wolfgang Amadeus Mozart
 *David Carins: Mozart és operái*
 	- [[Le nozze di Figaro]] *([[opera buffa]])*
 	- [[Idomeneo]] *([[opera seria]])*
+
+---
+[^]: [[9. Mozart és a Singspiel.pdf]]

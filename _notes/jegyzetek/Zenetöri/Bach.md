@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy #tétel
 title: Bach
 feed: show
-date: 2022-12-23 17:30
-permalink: /Bach
+created: 2023-08-21 20:34
+date: 2023-08-27 07:33
+permalink: bach
+subject: zenetöri
+type: 
 ---
+
 Johann Sebastian Bach
 
 ![](https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/johann-sebastian-bach-black-and-white.png)

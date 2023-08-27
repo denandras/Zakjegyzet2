@@ -1,8 +1,11 @@
 ---
-#zenetöri #személy
 title: Klinger
 feed: show
-date: 2022-12-23 17:30
-permalink: /Klinger
+created: 2023-08-21 20:35
+date: 2023-08-27 08:08
+permalink: klinger
+subject: zenetöri
+type: 
 ---
+
 Friedrich Maximilian Klinger

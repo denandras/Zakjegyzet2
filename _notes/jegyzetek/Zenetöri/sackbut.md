@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: sackbut
 feed: show
-date: 2022-12-23 17:30
-permalink: /sackbut
+created: 2023-08-21 20:35
+date: 2023-08-27 08:35
+permalink: sackbut
+subject: zenetöri
+type: 
 ---
 
 korai harsona

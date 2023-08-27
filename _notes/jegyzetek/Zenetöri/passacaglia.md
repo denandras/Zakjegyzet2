@@ -1,11 +1,13 @@
 ---
-#zenetöri #fogalom #műfaj
 title: passacaglia
 feed: show
-date: 2022-12-23 17:30
-permalink: /passacaglia
+created: 2023-08-21 20:35
+date: 2023-08-27 08:26
+permalink: passacaglia
+subject: zenetöri
+type: 
 ---
 
 Ereszkedő, ostinato basszusmenettel rendelkező tánczene, a [[ciaccona]] rokonműfaja
 
-https://www.wikiwand.com/hu/Passacaglia
+# [Wiki](https://www.wikiwand.com/hu/Passacaglia)

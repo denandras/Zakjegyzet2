@@ -1,9 +1,11 @@
 ---
 title: Farkas András - Liszt - Mazeppa
 feed: show
-date: 2023-05-08 17:48
-permalink: /Farkas András Liszt Mazeppa
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 07:41
+permalink: farkas-andras-liszt-mazeppa
+subject: zenetöri
+type: 
 ---
 
 Hasonlóan a [[Richard Strauss]] "[[Imígyen szóla Zarathustra]]" című szimfonikus költeményéhez mindig valami misztikus dolognak tűnt a Liszt Ferenc "Mazeppa" című szimfonikus költeménye. Nem tudtam, ki az a Mazeppa. És most a Hangversenykalauz és a Google segítségével utánanézhettem, és találtam egy YouTube-videót a "mazeppa liszt" címszó mellett, amit saját álló képeire [[Kóta Sára]] készített [[Liszt]] zenéjének részleteivel, és a képeken idézetekkel a Byron-féle Mazeppa-változatból [[Kosztolányi]] [fordításában](https://www.arcanum.com/en/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/kosztolanyi-dezso-19890/anglia-es-irorszag-1ACF9/mazeppa-1AE1C/). Hát csodálatos, nézzék meg feltétlen.

@@ -29,9 +29,8 @@ permalink: zenetöri
 
 
 ## Második félév - Barokk (FG)
-[[zenetöri 2 félév syllabus]]
-
-[[zenetöri 2 félév összefoglalás]]
+- [[zenetöri 2 félév syllabus]]
+- [[zenetöri 2 félév összefoglalás]]
 
 1. [[A barokk zenéről általában]]
 
@@ -79,7 +78,6 @@ permalink: zenetöri
 10. [[Haydn és az oratórium]] (kimaradt, kész)
 
 ## Negyedik félév - Romantika (BP)
-
 <a href="https://denandras.github.io/zakjegyzet/assets/img/4.%20f%C3%A9l%C3%A9v.png">
 <img src="../assets/img/4. félév.png" width="100%">
 </a>
@@ -98,5 +96,6 @@ permalink: zenetöri
 6. [[Szimfonikus zene a 19. században]]
 
 ## Ötödik félév - (KS)
-
 [Az órák anyaga](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok/Kov%C3%A1cs%20S%C3%A1ndor)
+
+1. 

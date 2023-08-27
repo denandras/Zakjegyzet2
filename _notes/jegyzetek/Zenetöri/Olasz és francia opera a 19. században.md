@@ -1,11 +1,13 @@
 ---
-#zenetöri #tétel
 title: Olasz és francia opera a 19. században
 feed: show
-date: 2023-02-22 10:28
-permalink: /Olasz és francia opera a 19 században
+created: 2023-08-21 20:35
+date: 2023-08-27 08:24
+permalink: olasz-es-francia-opera-a-19-szazadban
+subject: zenetöri
+type: 
 ---
-[[Általános zenetörténet IV. szemeszter - 3.tétel Olasz és francia opera a 19. században.pdf]]
+
 [[Julian Budden - Verdi]]
 
 - nemzeti operák, nemzeti törekvések a 19. században
@@ -69,6 +71,8 @@ permalink: /Olasz és francia opera a 19 században
 	- az opera végén kitör a Vezúv
 - [[Halévy]] - *A zsidónő*
 
-### Verdi ![[Verdi]]
-#### [[Don Carlos]] ![[Don Carlos]]
+![[Verdi]]
+![[Don Carlos]]
 
+---
+[^]: [[Olasz és francia opera a 19. században]]

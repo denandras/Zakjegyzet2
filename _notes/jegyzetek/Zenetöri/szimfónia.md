@@ -1,10 +1,11 @@
 ---
-#zenetöri #fogalom
-alias: Symphonie, symphony
 title: szimfónia
 feed: show
-date: 2023-01-16 10:52
-permalink: /szimfónia
+created: 2023-08-21 20:35
+date: 2023-08-27 08:38
+permalink: szimfonia
+subject: zenetöri
+type: 
 ---
 
 ### Eredete
@@ -33,3 +34,6 @@ permalink: /szimfónia
 - ![[Sammartini]]
 - ![[Johann Stamitz]]
 - [[Mozart]] szimfóniái
+
+---
+[^]: [[5. A szimfónia a 18. században.pdf]]

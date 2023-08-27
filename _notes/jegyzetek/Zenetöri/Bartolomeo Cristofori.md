@@ -1,7 +1,9 @@
 ---
 #zenetöri #személy
-title: Christopher Die
+title: Cristofori
 feed: show
 date: 2022-12-23 17:30
-permalink: /Christopher Die
+permalink: /Cristofori
 ---
+
+[[fortepiano]]

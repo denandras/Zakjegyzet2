@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Jean Racine
 feed: show
-date: 2022-12-23 17:30
-permalink: /Jean Racine
+created: 2023-08-21 20:35
+date: 2023-08-27 07:55
+permalink: jean-racine
+subject: zenetöri
+type: 
 ---
 
 [[Moliére]] kortársa, drámaíró

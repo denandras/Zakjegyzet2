@@ -1,9 +1,11 @@
 ---
 title: Lohengrin
 feed: show
-date: 2023-04-23 12:49
-permalink: /Lohengrin
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:19
+permalink: lohengrin
+subject: zenetöri
+type: 
 ---
 
 - **középkori legenda**

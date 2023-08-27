@@ -1,9 +1,11 @@
 ---
-#zenetöri #tétel
 title: A középkori zene
 feed: show
-date: 2023-01-16 10:52
-permalink: /A-középkori-zene
+created: 2023-08-21 20:34
+date: 2023-08-27 07:30
+permalink: a-kozepkori-zene
+subject: zenetöri
+type: 
 ---
 
 ### Idő

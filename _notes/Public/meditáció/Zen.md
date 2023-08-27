@@ -1,9 +1,11 @@
 ---
 title: Zen
 feed: hide
-date: 2023-06-10 09:38
-permalink: /Zen
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 09:00
+permalink: zen
+subject: meditáció
+type: 
 ---
 
 A zen egy meditatív gyakorlat és filozófiai irányzat, amely eredetileg a kínai Chán buddhizmusból fejlődött ki, majd Japánba került és ott Zen buddhizmus néven vált ismertté. A zen a **közvetlen megélés**re és az **éber jelenlét** állapotára helyezi a hangsúlyt.

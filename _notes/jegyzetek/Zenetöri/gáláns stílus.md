@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: gáláns stílus
 feed: show
-date: 2022-12-23 17:30
-permalink: /gáláns stílus
+created: 2023-08-21 20:35
+date: 2023-08-27 07:48
+permalink: galans-stilus
+subject: zenetöri
+type: 
 ---
 
 <mark>~1720~1770</mark>

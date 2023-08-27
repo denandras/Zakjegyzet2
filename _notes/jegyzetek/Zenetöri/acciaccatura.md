@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: acciaccatura
 feed: show
-date: 2023-01-06 19:14
-permalink: /acciaccatura
+created: 2023-08-21 20:34
+date: 2023-08-27 07:30
+permalink: acciaccatura
+subject: zenetöri
+type: 
 ---
 
 > = szimultán mordent

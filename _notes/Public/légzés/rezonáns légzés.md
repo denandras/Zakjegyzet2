@@ -1,9 +1,11 @@
 ---
 title: rezonáns légzés
 feed: hide
-date: 2022-12-26 21:04
-permalink: /rezonáns légzés
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:52
+permalink: rezonans-legzes
+subject: légzés
+type: 
 ---
 
 - csúcshatékonyságú rendszer

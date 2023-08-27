@@ -1,12 +1,12 @@
 ---
-alias: romantika
-#zenetöri #korszak #fogalom #tétel
 title: romantika fogalma
 feed: show
-date: 2023-01-20 07:09
-permalink: /romantika fogalma
+created: 2023-08-21 20:35
+date: 2023-08-27 08:34
+permalink: romantika-fogalma
+subject: zenetöri
+type: 
 ---
-[[Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf]]
 
 > szó, irodalom, [[Schlegel-fivérek]], [[E T A Hoffmann]], irodalmi-zenei jelentés, kontrasztos ellentét, műfajok, kritikák és koncertélet, abszolút zene, nacionalizmus, *újromantika/későromantika*
 
@@ -59,3 +59,6 @@ permalink: /romantika fogalma
 > **nacionalizmus**
 	- a romantika és nacionalizmus ugyanannak a történelmi, szellemi irányzatnak kétféle megjelenési formája
 	- az európai mainstream zenén kívül is vannak zeneszerzők [[Erkel]], [[Ivan Zajc]]
+
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf]]

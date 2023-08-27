@@ -1,10 +1,13 @@
 ---
 title: Hugo Wolf
 feed: show
-date: 2023-02-22 10:28
-permalink: /Hugo Wolf
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 07:54
+permalink: hugo-wolf
+subject: zenetöri
+type: 
 ---
+
 <mark>1860-1903</mark>
 
 - **[[Möricke]], [[Eichendorf]], [[Goethe]] versei**

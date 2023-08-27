@@ -1,10 +1,13 @@
 ---
-#zenetöri #fogalom #tétel #műfaj
 title: opera
 feed: show
-date: 2022-12-23 17:30
-permalink: /opera
+created: 2023-08-21 20:35
+date: 2023-08-27 08:25
+permalink: opera
+subject: zenetöri
+type: 
 ---
+
 [[Humanizmus]], [[semi-opera]], [[opera buffa]], [[opera seria]], udvari opera, velencei opera, [[monódikus stílus]], [[Hyppolyte et Aricie]]
 __________________
 

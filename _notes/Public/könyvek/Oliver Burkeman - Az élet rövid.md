@@ -1,9 +1,13 @@
 ---
 title: Oliver Burkeman - Az élet rövid
 feed: 
-date: 2022-12-24 13:21
-permalink: Oliver-Burkeman-Az-élet-rövid
+created: 2023-08-25 22:10
+date: 2023-08-27 08:49
+permalink: oliver-burkeman-az-elet-rovid
+subject: 
+type: könyv
 ---
+
 [[Oliver Burkeman]] - 4000 Weeks
 
 ### Említések

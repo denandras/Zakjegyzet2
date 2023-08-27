@@ -1,9 +1,11 @@
 ---
 title: Chopin
 feed: show
-date: 2023-05-12 12:02
-permalink: /Chopin
-#zenetöri
+created: 2023-08-21 20:34
+date: 2023-08-27 07:35
+permalink: chopin
+subject: zenetöri
+type: 
 ---
 
 <mark>1810-1849</mark>

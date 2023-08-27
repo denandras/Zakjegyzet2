@@ -1,9 +1,12 @@
 ---
-#zenetöri #mű
 title: Die Entführung aus dem Serail
 feed: show
-date: 2023-01-10 22:34
-permalink: /Die Entführung aus dem Serail
+created: 2023-08-21 20:35
+date: 2023-08-27 07:38
+permalink: die-entfuhrung-aus-dem-serail
+subject: zenetöri
+type: 
 ---
+
 Szöktetés a Szerájból
 [[Mozart]]

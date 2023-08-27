@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Leopold Mozart
 feed: show
-date: 2022-12-23 17:30
-permalink: /Leopold Mozart
+created: 2023-08-21 20:35
+date: 2023-08-27 08:19
+permalink: leopold-mozart
+subject: zenetöri
+type: 
 ---
 
 [[Mozart]] édesapja

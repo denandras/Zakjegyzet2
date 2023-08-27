@@ -1,12 +1,17 @@
 ---
-#zenetöri #személy #tétel
 title: Schubert
 feed: show
-date: 2023-02-20 07:09
-permalink: /Schubert
+created: 2023-08-21 20:35
+date: 2023-08-27 08:36
+permalink: schubert
+subject: zenetöri
+type: 
 ---
+
 Franz Schubert
+
 ![](https://koncert.zeneakademia.hu/data/ZENEAKADEMIA.HU/2021_osz/sajat/schubert_triok_2021_osz_focuspoint_900x510.jpg)
+
 Ajánlott irodalom: [[Christopher H Gibbs - The life of Schubert]]
 
 <mark>1797-1828</mark>
@@ -30,3 +35,5 @@ Ajánlott irodalom: [[Christopher H Gibbs - The life of Schubert]]
 ----
 - [[Schubert dalciklusai]]
 - [[Schubert C-dúr szimfónia]]
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

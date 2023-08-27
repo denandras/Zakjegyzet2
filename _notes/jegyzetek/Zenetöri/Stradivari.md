@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Stradivari
 feed: show
-date: 2022-12-23 17:30
-permalink: /Stradivari
+created: 2023-08-21 20:35
+date: 2023-08-27 08:37
+permalink: stradivari
+subject: zenetöri
+type: 
 ---
+
 Antonio Stradivari
 <mark>1644-1737</mark>
 Született: Cremona

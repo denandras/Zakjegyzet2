@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Alberti
 feed: show
-date: 2023-01-06 19:14
-permalink: /Alberti
+created: 2023-08-21 20:34
+date: 2023-08-27 07:31
+permalink: alberti
+subject: zenetöri
+type: 
 ---
+
 Domenico Alberti
 ![](https://prabook.com/web/show-photo.jpg?id=1561778)
 > <mark>1710-1746</mark> Velence

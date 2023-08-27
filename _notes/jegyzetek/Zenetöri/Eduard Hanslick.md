@@ -1,9 +1,11 @@
 ---
 title: Eduard Hanslick
 feed: show
-date: 2023-02-08 09:53
-permalink: /Eduard Hanslick
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 07:39
+permalink: eduard-hanslick
+subject: zenetöri
+type: 
 ---
 
 zenei kritikus, esztéta, a zene gyakorlatából indult ki

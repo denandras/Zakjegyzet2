@@ -1,10 +1,13 @@
 ---
 title: Infók rezes gólyáknak
-feed: hide
-date: 2023-08-21 19:13
+feed: 
+created: 2023-08-27 09:11
+date: 2023-08-27 09:20
 permalink: infok-rezes-golyaknak
+subject: 
+type: poszt
 ---
-# [SOS](mailto:denesandras@akademista.hu)
+# [SOS email](mailto:denesandras@akademista.hu)
 ## [INFORMÁCIÓK FELVETT HALLGATÓK RÉSZÉRE](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
 
 - diákigazolvány
@@ -22,6 +25,7 @@ permalink: infok-rezes-golyaknak
 - [TO (Tanulmányi Osztály)](https://lfze.hu/oto-elerhetosegek)
 	- inkább emailt írj, ha van rá lehetőség
 		- azt is lehetőleg a megfelelő személynek, ezzel időt spórolsz
+		- "Tisztelt Ügyintéző!" mindig beválik
 	- Rézfúvósok ügyintézője: [Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu)
 	- tanulmányi osztályvezető: Gazsi Olívia
 
@@ -37,6 +41,7 @@ permalink: infok-rezes-golyaknak
 	- szorgalmi időszak első napja: szept. 11
 	- utolsó nap: dec. 20
 	- vizsgaidőszak: dec. 21 - jan. 27
+- [minden a fúvós tanszékről](https://lfze.hu/fuvos-tanszek) (tanszékvezető: Szatmári Zsolt, klarinét)
 
 ## A Zeneakadémia működése
 
@@ -67,10 +72,13 @@ permalink: infok-rezes-golyaknak
 		- kamaracsoportokba szerveződésnél fontos lehet megbeszélni, hogy ki milyen rendszerességgel próbálna
 	- A rézfúvós kamaracsoportok pontos beosztása miatt kérjük, hogy mindenképpen egyeztessenek _**Hőna Gusztáv, Varga Zoltán, Seleljo Erzsébet, Szőke Zoltán**_ és _**Szentpáli Roland**_ oktatókkal.
 	- A fúvós kamarákra feliratkozni [ITT](https://lfze-my.sharepoint.com/:x:/g/personal/teremfoglalas_academy_liszt_hu/EV7XaNuBwtZEmyjtN06Vr-kBU3flWeoNnkAGwB_ckWdqXA?e=VH67eS) lehet.
+- felvételkészítés, nagyobb termek
+- tanszakik
 
 ## [Neptun](https://neptun.lfze.hu/hallgato/login.aspx)
 
-- azonosító + jelszó (aug. 23-i emailben)
+- mit tehet az ügyintéző?
+	- bármit (pl. tárgyra feliratkoztathat, felvehet plusz tárgyat, ilyesmi)
 - beiratkozás, anélkül nem lehet ügyet intézni
 	- a megfelelő félévet aktívra állítani az Ügyintézés/Beiratkozás fülön
 - a megfelelő [kredithálót](https://lfze.hu/kredithalok) letöltve
@@ -81,7 +89,7 @@ permalink: infok-rezes-golyaknak
 		- a valóságot felülírja a Neptun, pl. zenekar esetén
 	- szabadon választott (*szabvál*) tárgyak
 		- a honlapon elérhető listából választva
-		- amennyiben nem az ajánlott szabvált választod, meg kell beszélni az adott tanárral, hogy szeretnéd felvenni az óráját, stb.
+		- amennyiben nem az ajánlott szabválak közül választasz, meg kell beszélni az adott tanárral, hogy szeretnéd felvenni az óráját, pl. BigBand
 			- aztán Neptun: kérelem szakirányon kívüli tárgyak felvételéhez
 - [órarendek](https://apps.lfze.hu/scheduler/query/form)
 	- érdemes először a szak szerintit lekérdezni, abban általában benne van az összes kreditháló szerint ajánlott kötelező tárgy
@@ -137,7 +145,7 @@ permalink: infok-rezes-golyaknak
 - zenekarok
 	- szimfit a tanszakok általában egymás között osztják be
 		- a próba minden felett, kivéve előre bejelentett (és elfogadott!), indokolt hiányzás
-		- a projektek [ezen az oldalon](https://lfze.hu/tanulmanyi-hirek/a-zeneakademia-szimfonikus-zenekaranak-hangversenyei-beosztasa-es-probarendje-114751) találhatók (erre is érdemes [figyelő appot](https://visualping.io) beállítani)
+		- a projektek [ezen az oldalon](https://lfze.hu/tanulmanyi-hirek/a-zeneakademia-szimfonikus-zenekaranak-hangversenyei-beosztasa-es-probarendje-114751) találhatók *(erre is érdemes [figyelő appot](https://visualping.io) beállítani)*
 	- idén indul fúvószenekar, erről nem tudni semmit, csak hogy Szentpáli Roland fogja dirigálni
 	- fúvósegyüttes
 		- eddig órarend szerinti óra volt (felirakozásos alapú, de minden próbán teljes szólamnak kell lennie)
@@ -147,11 +155,9 @@ permalink: infok-rezes-golyaknak
 	- jóváhagyásra van szükség egy műsor leadását követően
 	- [link](https://lfze.hu/tanulmanyi-hirek/kozremukodesi-lehetoseg-a-mupaban-124169)
 	- jó lehetőség diploma előtt
-- könyvtár
+- [könyvtár](https://lfze.hu/konyvtar)
 	- [kereshető itt](https://primo-36lfz.hosted.exlibrisgroup.com/primo-explore/search?vid=36LFZ_VU1&fromRedirectFilter=false)
 	- hallgatóknak ingyenes
-
-- [ ] felvett és nem teljesített tárgyak
 
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
 *(erre az oldalra mutató QR kód)*

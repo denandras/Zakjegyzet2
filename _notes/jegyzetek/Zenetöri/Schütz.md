@@ -1,10 +1,13 @@
 ---
 title: Schütz
 feed: show
-date: 2022-12-23 17:30
-permalink: /Schütz
-#zenetöri #személy
+created: 2023-08-21 20:35
+date: 2023-08-27 08:36
+permalink: schutz
+subject: zenetöri
+type: 
 ---
+
 Heinrich Schütz
 <mark>1585-1672</mark>
 

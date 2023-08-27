@@ -1,9 +1,11 @@
 ---
 title: diszpenzáció
 feed: show
-date: 2023-05-08 16:52
-permalink: /diszpenzáció
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 07:39
+permalink: diszpenzacio
+subject: zenetöri
+type: 
 ---
 
 A házasság kivételes esetben való, hatóság általi engedélyezése, vagy a kihirdetés elhagyásának engedélye.

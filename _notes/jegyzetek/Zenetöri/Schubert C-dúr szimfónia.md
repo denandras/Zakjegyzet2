@@ -1,10 +1,13 @@
 ---
 title: Schubert C-dúr szimfónia
 feed: show
-date: 2023-05-18 00:27
-permalink: /Schubert C-dúr szimfónia
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:36
+permalink: schubert-c-dur-szimfonia
+subject: zenetöri
+type: 
 ---
+
 
 ![[Robert Schumann - Válogatott írások]]
 

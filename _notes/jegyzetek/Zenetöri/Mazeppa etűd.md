@@ -1,9 +1,11 @@
 ---
 title: Mazeppa etűd
 feed: show
-date: 2023-05-08 17:13
-permalink: /Mazeppa etűd
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:21
+permalink: mazeppa-etud
+subject: zenetöri
+type: 
 ---
 
 > Hogyan lesz egy billentyűs etűdből szimfonikus darab?

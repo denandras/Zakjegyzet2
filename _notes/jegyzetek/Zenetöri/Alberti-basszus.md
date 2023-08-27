@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: Alberti-basszus
 feed: show
-date: 2022-12-23 17:30
-permalink: /Alberti-basszus
+created: 2023-08-21 20:34
+date: 2023-08-27 07:31
+permalink: alberti-basszus
+subject: zenetöri
+type: 
 ---
 
 - akkordfelbontás, elmossa a szólamok kontrapunktikus önállóságát

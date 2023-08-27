@@ -1,11 +1,15 @@
 ---
-#zenetöri #személy #tétel
 title: Beethoven
 feed: show
-date: 2022-12-23 17:30
-permalink: /Beethoven
+created: 2023-08-21 20:34
+date: 2023-08-27 07:34
+permalink: beethoven
+subject: zenetöri
+type: 
 ---
+
 ![](https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg)
+
 > - <mark>1770-1827</mark>, Bonn, flamand származású
 > - apja és nagyapja is zenész
 > - 19 évesen apját elvitte az alkoholizmus, ő lett a családfő (jogilag, elvesztett anya és testvér helyzetben)
@@ -83,5 +87,7 @@ permalink: /Beethoven
 	- egyetlen szimfónia, a [[Beethoven 9]]
 
 -----
+[^]: [[3. Beethoven zongoraszonátái.pdf]]
+[^]: [[6. Beethoven szimfóniái.pdf]]
 [^]: szimfóniái: [[Beethoven 9]]
 

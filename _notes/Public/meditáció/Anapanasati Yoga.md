@@ -1,9 +1,11 @@
 ---
 title: Anapanasati Yoga
 feed: hide
-date: 2022-06-07 16:55
-permalink: /Anapanasati Yoga
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:55
+permalink: anapanasati-yoga
+subject: meditáció
+type: 
 ---
 
 Buddha said, “Be aware of your breath as it is coming in, going out – coming in, going out.” He never mentions the gap because there is no need. Buddha thought and felt that if you become concerned with the gap, the gap between two breaths, that concern may disturb your awareness. So he simply said, “Be aware. When the breath is going in move with it, and when the breath is going out move with it. Do simply this: going in, going out, with the breath.” He never says anything about the latter part of the technique.

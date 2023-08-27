@@ -1,9 +1,11 @@
 ---
-#zenetöri #tétel
 title: A barokk zenéről általában
 feed: show
-date: 2022-12-23 17:30
-permalink: /A barokk zenéről általában
+created: 2023-08-21 20:34
+date: 2023-08-27 07:30
+permalink: a-barokk-zenerol-altalaban
+subject: zenetöri
+type: 
 ---
 
 > *[[Bach]] túl nagy hangsúlyt kapott az oktatásban, saját idejében kevésbé volt meghatározó*
@@ -47,7 +49,7 @@ permalink: /A barokk zenéről általában
 ### Egyéges korszak?
 * változó világkép
 * [[Vincenzo Galilei]] fia: a Nap a világ középpontja ([[Galileo Galilei]])
-* [[Descartes]]
+* [[René Descartes]]
 * mai napig meghatározza a zenét
 	* zenei nyelv
 	* hangaztok

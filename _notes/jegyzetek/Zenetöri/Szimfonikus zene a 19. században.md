@@ -1,12 +1,12 @@
 ---
-#zenetöri #tétel
 title: Szimfonikus zene a 19. században
 feed: show
-date: 2023-02-09 21:11
-permalink: /Szimfonikus zene a 19 században
+created: 2023-08-21 20:35
+date: 2023-08-27 08:38
+permalink: szimfonikus-zene-a-19-szazadban
+subject: zenetöri
+type: 
 ---
-
-[[Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf]]
 
 > szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az abszolút zene eszméje és az Újnémet Iskola]
 
@@ -32,3 +32,6 @@ permalink: /Szimfonikus zene a 19 században
 	- zene mint autonóm művészet
 	- [[Eduard Hanslick]] - *a zenei szép*
 	- nem függ rajta kívüli tartalomtól, egyedül a hangokban és azok művészi összekapcsolásában rejlik szépsége, önmagukban vonzó hangzások
+
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 6.tétel Szimfonikus zene a 19.sz.ban.pdf]]

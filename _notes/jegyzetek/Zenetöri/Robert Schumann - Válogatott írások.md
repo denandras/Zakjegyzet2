@@ -1,11 +1,14 @@
 ---
 title: Robert Schumann - Válogatott írások
 feed: show
-date: 2023-05-18 00:29
-permalink: /Robert Schumann - Válogatott írások
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:34
+permalink: robert-schumann-valogatott-irasok
+subject: zenetöri
+type: 
 ---
-> [[Schumann]]
+
+[> [][Schumann]]
 
 - Bécs
 - währingi temető említése

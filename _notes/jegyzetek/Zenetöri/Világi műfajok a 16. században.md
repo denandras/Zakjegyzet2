@@ -1,9 +1,11 @@
 ---
-#zenetöri #tétel
 title: Világi műfajok a 16. században
 feed: show
-date: 2021-01-19 17:25
-permalink: /Világi műfajok a 16 században
+created: 2023-08-21 20:35
+date: 2023-08-27 08:41
+permalink: vilagi-mufajok-a-16-szazadban
+subject: zenetöri
+type: 
 ---
 
 -   francia területeken lévő műfajok
@@ -17,7 +19,7 @@ permalink: /Világi műfajok a 16 században
             -   dallam + harmóniák alatta (a szólamok együtt mozognak) **POP**
             -   karakteresebb ritmika, dallam (kevesebb a zenei információ)
         -   **[[Janequin]]** [zsanekin]
-            -   egészen új témák - **[[programzene]]**
+            -   egészen új témák - **[programzene](programatikus)**
                 -   madarak éneke - 1529
                 -   csata
     -   [[madrigál]] (nincs refrén)

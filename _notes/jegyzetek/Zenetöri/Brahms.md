@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Brahms
 feed: show
-date: 2023-02-22 10:28
-permalink: /Brahms
+created: 2023-08-21 20:34
+date: 2023-08-27 07:34
+permalink: brahms
+subject: zenetöri
+type: 
 ---
+
 > <mark>1833-1897</mark>
 > Johannes Brahms
 > [[Ludwik Erhardt - Brahms]]
@@ -43,3 +46,6 @@ permalink: /Brahms
 			- feldolgozásmódja más
 		- ostinato téma nem marad végig a basszusban
 	- *Négy komoly ének* - hasonlóság (terc a szerkezeti egység)
+
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

@@ -1,9 +1,11 @@
 ---
 title: binaural beats meditáció
 feed: hide
-date: 2022-06-01 11:41
-permalink: /binaural beats meditáció
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:55
+permalink: binaural-beats-meditacio
+subject: meditáció
+type: 
 ---
 
 -   Binaural beats in the **delta** (1 to 4 Hz) range [have been associated](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2005.04287.x) with deep sleep and relaxation.

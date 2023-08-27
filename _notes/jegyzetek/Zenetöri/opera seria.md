@@ -1,10 +1,11 @@
 ---
-#zenetöri #műfaj
-alias: opera seria
 title: opera seria
 feed: show
-date: 2022-12-23 17:30
-permalink: /opera seria
+created: 2023-08-21 20:35
+date: 2023-08-27 08:25
+permalink: opera-seria
+subject: zenetöri
+type: 
 ---
 
 ### A barokkban
@@ -29,4 +30,4 @@ Szerkezete da capo jellegű, ABAv díszített formával.
 	- fiatalon, 14 évesen kísérletet tett komoly op. megírására
 		- glucki opera-alapok
 	- választófejedelem vitte magával az udvart Münchenbe
-	- [[Idomeneo]] ![[Idomeneo]]
+	- ![[Idomeneo]]

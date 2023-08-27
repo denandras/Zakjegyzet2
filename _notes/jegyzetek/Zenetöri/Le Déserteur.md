@@ -1,9 +1,11 @@
 ---
 title: Le Déserteur
 feed: show
-date: 2022-12-23 17:30
-permalink: /Le Déserteur
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:12
+permalink: le-deserteur
+subject: zenetöri
+type: 
 ---
 
 - egy katona elszökik, hogy találkozzon a párjával, aki aztán eléri, hogy ne ítéljék halálra őt emiatt

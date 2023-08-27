@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Johann Christian Bach
 feed: show
-date: 2022-12-23 17:30
-permalink: /Johann Christian Bach
+created: 2023-08-21 20:35
+date: 2023-08-27 07:57
+permalink: johann-christian-bach
+subject: zenetöri
+type: 
 ---
 
 > [[Bach]] gyermeke, Lipcsében született, <mark>1735-1782</mark>

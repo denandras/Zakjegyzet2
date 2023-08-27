@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: scherzo
 feed: show
-date: 2022-12-23 17:30
-permalink: /scherzo
+created: 2023-08-21 20:35
+date: 2023-08-27 08:35
+permalink: scherzo
+subject: zenetöri
+type: 
 ---
 
 ABA triós forma [[Haydn]] által bevezetve

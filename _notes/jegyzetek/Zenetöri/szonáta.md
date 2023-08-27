@@ -1,10 +1,11 @@
 ---
-#zenetöri #fogalom #műfaj #tétel
-alias: sonata, szonáta
 title: szonáta
 feed: show
-date: 2022-12-23 17:30
-permalink: /szonáta
+created: 2023-08-21 20:35
+date: 2023-08-27 08:38
+permalink: szonata
+subject: zenetöri
+type: 
 ---
 
 `16. sz-ban` az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar
@@ -38,9 +39,4 @@ permalink: /szonáta
 		- [[sonata da camera]] = szobai szonáta (tánc)
 	* [[Johann Gottfried Walter]] (**1733**):
 		- 4 tételből álló mű, ami általában ezekre a hangszerekre íródott
-
-
-### Klasszikus szonáta
-
-*például: [[Mozart]] [[k 292]]*
 

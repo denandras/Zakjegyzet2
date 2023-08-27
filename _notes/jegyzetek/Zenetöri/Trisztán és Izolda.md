@@ -1,9 +1,11 @@
 ---
 title: Trisztán és Izolda
 feed: show
-date: 2023-04-27 18:10
-permalink: /Trisztán és Izolda
-#zenetöri
+created: 2023-08-21 20:35
+date: 2023-08-27 08:40
+permalink: trisztan-es-izolda
+subject: zenetöri
+type: 
 ---
 
 ### Életrajzi indíttatás

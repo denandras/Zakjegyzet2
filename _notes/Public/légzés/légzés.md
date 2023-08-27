@@ -1,9 +1,11 @@
 ---
 title: légzés
 feed: hide
-date: 2022-12-23 23:54
-permalink: /légzés
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:51
+permalink: legzes
+subject: légzés
+type: 
 ---
 
 - [[JN-Lélegzet]]

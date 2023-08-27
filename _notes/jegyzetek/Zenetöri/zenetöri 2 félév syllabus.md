@@ -1,11 +1,11 @@
 ---
 title: zenetöri 2 félév syllabus
 feed: show
-date: 2022-12-23 17:30
-permalink: /zenetöri 2 félév syllabus
-#zenetöri
-
-alias:
+created: 2023-08-21 20:35
+date: 2023-08-27 08:48
+permalink: zenetori-2-felev-syllabus
+subject: zenetöri
+type: 
 ---
 
 1. BAROKK ZENE?

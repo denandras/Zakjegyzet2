@@ -1,9 +1,13 @@
 ---
 title: Arnold Bennett - How to Live on 24 Hours a Day
-feed: hide
-date: 2022-12-24 13:21
-permalink: Arnold-Bennett-How-to-Live-on-24-Hours-a-Day
+feed: 
+created: 2023-08-21 20:34
+date: 2023-08-27 08:48
+permalink: arnold-bennett-how-to-live-on-24-hours-a-day
+subject: 
+type: könyv
 ---
+
 [[Arnold Bennett]]
 
 [link](https://gutenberg.org/files/2274/2274-h/2274-h.htm)

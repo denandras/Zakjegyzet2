@@ -1,9 +1,11 @@
 ---
-#zenetöri #forrás
 title: Komlós - billentyűsök
 feed: show
-date: 2022-12-23 17:30
-permalink: /Komlós - billentyűsök
+created: 2023-08-21 20:35
+date: 2023-08-27 08:09
+permalink: komlos-billentyusok
+subject: zenetöri
+type: 
 ---
 
-Komlós Katalin Fortepianók és zenéjük
+[[Komlós Katalin]] - Fortepianók és zenéjük

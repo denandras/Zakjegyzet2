@@ -1,16 +1,19 @@
 ---
-#zenetöri #műfaj
 title: opera comique
 feed: show
-date: 2022-12-23 17:30
-permalink: /opera comique
+created: 2023-08-21 20:35
+date: 2023-08-27 08:25
+permalink: opera-comique
+subject: zenetöri
+type: 
 ---
+
 [[Kroó György - A szabadító opera]]
 
 > szélesebb nyilvánosság elé fordult (tehát a polgárok kiváltsága volt) (a vásári játékok művelése és befogadása persze elérhető volt bárki számára)
 
 - inkább daljáték, mint opera
-- tág körű a comique szó
+- tág a comique szó fogalma
 - komikus végkifejlet (többnyire, a 19. századig)
 - Bizet: Carmen
 - Párizs
@@ -29,6 +32,7 @@ permalink: /opera comique
 		- [[Francois-André-Danican Philidor]]: [[Tom Jones]]
 		- [[Pierre-Alexandre Monsigny]]: [[Le Déserteur]]
 
-(couplée)
+[[couplée]] (= együttes)
+
 - [[Rousseau]]: [[Le Devin du village]]
 - [[Dauvergne]]: [[Les Trosqueurs]] (kevés szereplős darabok)

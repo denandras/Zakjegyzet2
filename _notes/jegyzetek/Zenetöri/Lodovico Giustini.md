@@ -1,10 +1,11 @@
 ---
-#zenetöri #személy
-alias: Giustini
 title: Lodovico Giustini
 feed: show
-date: 2023-01-16 10:52
-permalink: /Lodovico Giustini
+created: 2023-08-21 20:35
+date: 2023-08-27 08:19
+permalink: lodovico-giustini
+subject: zenetöri
+type: 
 ---
 
 - észak-itáliai születésű
@@ -13,5 +14,5 @@ permalink: /Lodovico Giustini
 	- barokkosan régies és újszerű elemek keveréke
 	- Corellihez hasonlóan 12 szvitet tartalmaz ([[sonata da camera]])
 	- zenetörténet első *kalapácszongora*-darabgyűjteménye
-		- [[Cristofori fortepianója]]
+		- [[fortepiano]]
 

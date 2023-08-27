@@ -1,9 +1,11 @@
 ---
 title: dobozlégzés
 feed: hide
-date: 2022-12-26 21:04
-permalink: /dobozlégzés
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:50
+permalink: dobozlegzes
+subject: légzés
+type: 
 ---
 
 - maradj higgadt és fókuszált feszült helyzetekben is

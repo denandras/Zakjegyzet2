@@ -1,9 +1,11 @@
 ---
-#zenetöri #mű
 title: Tolvaj szarka
 feed: show
-date: 2022-12-23 17:30
-permalink: /Tolvaj szarka
+created: 2023-08-21 20:35
+date: 2023-08-27 08:40
+permalink: tolvaj-szarka
+subject: zenetöri
+type: 
 ---
 
 [[Rossini]] operája

@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom #műfaj
 title: zarzuela
 feed: show
-date: 2022-12-23 17:30
-permalink: /zarzuela
+created: 2023-08-21 20:35
+date: 2023-08-27 08:47
+permalink: zarzuela
+subject: zenetöri
+type: 
 ---
 
 spanyol barokk műfaj

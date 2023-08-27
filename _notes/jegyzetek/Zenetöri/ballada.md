@@ -1,10 +1,13 @@
 ---
-#zenetöri #tétel #műfaj
 title: ballada
 feed: show
-date: 2023-01-20 19:34
-permalink: /ballada
+created: 2023-08-21 20:34
+date: 2023-08-27 07:33
+permalink: ballada
+subject: zenetöri
+type: 
 ---
+
 
 - irodalmi divat, 18. század
 	- [[Thomas Percy]] balladáskötete
@@ -31,3 +34,6 @@ permalink: /ballada
 	- **[[Brahms]]** - 1877
 		- alt és tenor
 		- **strófikus variáció**, végigkomponáltnak hat
+
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

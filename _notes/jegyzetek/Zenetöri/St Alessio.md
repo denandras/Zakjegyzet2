@@ -1,10 +1,14 @@
 ---
-#zenetöri #mű
 title: St Alessio
 feed: show
-date: 2022-12-23 17:30
-permalink: /St Alessio
+created: 2023-08-21 20:35
+date: 2023-08-27 08:37
+permalink: st-alessio
+subject: zenetöri
+type: 
 ---
+
 Szent Elek
+
 [[Stefano Landi]] operája
 

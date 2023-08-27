@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Stefano Landi
 feed: show
-date: 2022-12-23 17:30
-permalink: /Stefano Landi
+created: 2023-08-21 20:35
+date: 2023-08-27 08:37
+permalink: stefano-landi
+subject: zenetöri
+type: 
 ---
 
 [[St Alessio]] szerzője

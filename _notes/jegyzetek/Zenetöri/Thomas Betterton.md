@@ -1,7 +1,9 @@
 ---
-#zenetöri #személy
 title: Thomas Betterton
 feed: show
-date: 2022-12-23 17:30
-permalink: /Thomas Betterton
+created: 2023-08-21 20:35
+date: 2023-08-27 08:40
+permalink: thomas-betterton
+subject: zenetöri
+type: 
 ---

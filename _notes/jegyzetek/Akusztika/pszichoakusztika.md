@@ -1,11 +1,12 @@
 ---
-#akusztika
 title: pszichoakusztika
 feed: show
-date: 2022-12-23 17:30
-permalink: /pszichoakusztika
+created: 2023-08-21 20:34
+date: 2023-08-27 09:05
+permalink: pszichoakusztika
+subject: akusztika
+type: 
 ---
-*Sachs könyve, a Szalontüdő*
 
 - a hangok pszichológiája
 - a hangok objektivitása (tudomány relatív objektivitása)
@@ -57,7 +58,7 @@ permalink: /pszichoakusztika
 		- x (cent) = 3986,3 * lg(f2/f1)
 - decibel
 	- a dB a hallásküszöbhöz képest van (130 már fáj, 0 a hallásküszöb) és nem lineáris
-	- ![[20221011_215220.webp]]
+	- <a href="https://ibb.co/jfPXrT6"><img src="https://i.ibb.co/h9Jzmy7/20221011-215220.webp" alt="20221011-215220" border="0"></a>
 	- PHON-skála
 		- 1000 Hz-es hang mellé bármilyen más frekvenciájú hang mikor lesz ugyanolyan hangos
 	- SON-skála: valódi hangosság
@@ -97,11 +98,12 @@ permalink: /pszichoakusztika
 	- Fourier (hővezetés) függvénye alapján
 
 
-> Kvantummechanika
-> 	Akusztikai határozatlansági reláció
-	([[Werner Heisenberg]])
-	a fizikai felfogásunk a *mi és hol lesz mikor*-on alapul
-	mikrorészek világában nem lehet ilyen
+- Kvantummechanika
+	- Akusztikai határozatlansági reláció
+
+- ([[Werner Heisenberg]])
+	- a fizikai felfogásunk a *mi és hol lesz mikor*-on alapul
+	- mikrorészek világában nem lehet ilyen
 
 - eltűnő alaphang vagy virtuális hang
 	- (pl. ütős hangszerek, vagy harangok)

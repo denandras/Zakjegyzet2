@@ -1,9 +1,11 @@
 ---
-#akusztika
 title: A fül anatómiai szerkezete
 feed: show
-date: 2022-12-23 17:30
-permalink: /A fül anatómiai szerkezete
+created: 2023-08-21 20:34
+date: 2023-08-27 09:05
+permalink: a-ful-anatomiai-szerkezete
+subject: akusztika
+type: 
 ---
 
 - *Hajtóvadászat öregekre* novella

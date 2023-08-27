@@ -1,9 +1,11 @@
 ---
 title: légzéskoordináció
 feed: hide
-date: 2022-12-27 23:47
-permalink: /légzéskoordináció
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:52
+permalink: legzeskoordinacio
+subject: légzés
+type: 
 ---
 
 - jobb rekeszizommozgás

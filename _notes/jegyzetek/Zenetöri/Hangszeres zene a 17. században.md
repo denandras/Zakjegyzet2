@@ -1,9 +1,11 @@
 ---
-#zenetöri #tétel
 title: Hangszeres zene a 17. században
 feed: show
-date: 2022-12-23 17:30
-permalink: /Hangszeres zene a 17 században
+created: 2023-08-21 20:35
+date: 2023-08-27 07:53
+permalink: hangszeres-zene-a-17-szazadban
+subject: zenetöri
+type: 
 ---
 
 - korabeli gondolkodás: vokális zene az első, hangszeres a vokális szolgája
@@ -30,7 +32,7 @@ permalink: /Hangszeres zene a 17 században
 	- vokális zene imitációja
 	- improvizáció
 	- *(Kosztolányi interjúja Bartókkal)*
-- [[Frescobaldi]]
+- [[Girolamo Frescobaldi]]
 	- elsősorban hangszeres zenéje miatt vált ismertté
 	- Toccatak és Partiták
 		- ne legyen egyenletes

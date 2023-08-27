@@ -1,10 +1,11 @@
 ---
-alias: Corelli
-#zenetöri #személy
 title: Arcangelo Corelli
 feed: show
-date: 2022-12-23 17:30
-permalink: /Arcangelo Corelli
+created: 2023-08-21 20:34
+date: 2023-08-27 07:32
+permalink: arcangelo-corelli
+subject: zenetöri
+type: 
 ---
 
 1653-1713

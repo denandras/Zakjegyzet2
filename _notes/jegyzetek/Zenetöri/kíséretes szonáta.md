@@ -1,9 +1,11 @@
 ---
-#zenetöri #műfaj
 title: kíséretes szonáta
 feed: show
-date: 2023-01-06 19:14
-permalink: /kíséretes szonáta
+created: 2023-08-21 20:35
+date: 2023-08-27 08:00
+permalink: kiseretes-szonata
+subject: zenetöri
+type: 
 ---
 
 - elterjedt

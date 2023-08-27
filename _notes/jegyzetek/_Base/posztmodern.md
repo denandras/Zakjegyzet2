@@ -70,7 +70,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 		- a műalkotásban soha nem bírhat rejtett jelentéssel, mindig az alkotó és befogadó párbeszédje
 		- minden előadás jó: parttalan relativizmus
 - [[racionalizmus]]
-	- [[Descartes]], Leibnitz, Kant
+	- [[René Descartes]], Leibnitz, Kant
 	- [[empirizmus]]
 	- az ember racionális megértése, [[Rousseau]], [[Diderot]]
 	- cél/értékracionalizmus
@@ -485,9 +485,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 
 avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával jelentőset akar alkotni
 
-<img src="../assets/img/Késő modern művészfilmek.jpg" width="100%">
-
-![[Késő modern művészfilmek.jpg]]
+<img src="https://denandras.github.io/zakjegyzet/assets/img/K%C3%A9s%C5%91%20modern%20m%C5%B1v%C3%A9szfilmek.jpg" width="100%">
 
 - [[Huszárik - Elégia]], igazi avantgárd
 - Szindbád

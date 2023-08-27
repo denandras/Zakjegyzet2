@@ -1,8 +1,11 @@
 ---
 title: HBR's 10 Must-reads on High Performance
-feed: hide
-date: 2022-12-24 13:21
+feed: 
+created: 2023-08-26 21:30
+date: 2023-08-27 08:49
 permalink: hbr-s-10-must-reads-on-high-performance
+subject: 
+type: könyv
 ---
 
 [[Harvard Business Review]]
@@ -15,11 +18,10 @@ permalink: hbr-s-10-must-reads-on-high-performance
 # Tartalom
 
 ## The Making of an Expert
-
 [[K Anders Ericsson]], [[Michael J Prietula]], [[Edward T Cokely]]
 
 - Polgár család története a gyerekeik sakktudásán keresztül
-- a "zseni", az expert sosem csak úgy lesz, mindig dolgotnak rajta
+- a "zseni", az expert sosem csak úgy lesz, mindig dolgoznak rajta
 	- kitartással és folyamatosan
 	- szorgalmas és lelkes emberek
 - az expert
@@ -63,7 +65,39 @@ permalink: hbr-s-10-must-reads-on-high-performance
 
 > If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor Auer)
 
+## Managing Oneself
+[[Peter F Drucker]]
 
+- a lehetőség felelősséggel jár: rajtad múlik, hogy végigmész-e a kijelölt úton, hogy mikor változtatsz irányt, és hogy élvezed-e a foglalkozásod egy akár 50 éves karrier útján
+	- ehhez meg kell ismerned önmagad, hogy hogyan tudsz másokkal jól együttműködni, hogy milyen értékeket képviselsz, és hogy milyen környezet hozza ki a legtöbbet belőled
+
+- a történelem nagy alakjai jól menedzselték magukat
+- régebben beleszülettél egy munkába, nem volt választásod, ezért nem volt fontos, miben vagy jó
+- sokan úgy hiszik, tudják, miben jók és rosszak, de sokszor tévednek
+	- megoldás: feedback analízis - amikor fontos döntést hozol, írd le a várt következményeket, és egy év múlva olvasd vissza őket
+		- 14. században használták először, majd [[Kálvin]] és [[Loyolai Szent Ignác]] is alkalmazták
+		- megmutatja, hol nem vagy igazán kompetens, és hol nincs egyáltalán esélyed
+- koncentrálj az erősségeidre
+- fejleszd azokat
+- fedezd fel, hogy hol rombol intellektuális arroganciád
+	- pl. mérnökök, akik még büszkék is rá, hogy nem értenek az emberekhez
+	- de egy mérnöknek kivitelezők kellenek, el kell tudni magyarázni nekik, valamint ismerni a pontot, ahol nem érdemes folytatni
+- sokkal nehezebb kezdőből haladóvá lenni, mint kompetensből a legjobbá válni
+	- és mégis a tanárok, rendszerek előbbit előnyben részesítik
+- a mit mellett a hogyan is ugyanolyan fontos
+	- sokan nem ismerik a legjobb munkamódszerüket
+- olvasó vagy, vagy hallgató?
+	- egyszerű kérdés, mégsem tudják sokan, hogy ez a két típus létezik, főleg nem, hogy melyikbe tartoznak
+	- fatális következményekkel járhat ezen ismeret hiánya
+		- pl. Kennedy utódja
+- hogyan tanulsz?
+	- olvasás, írás, hallgatás, vizuális memória, elmepalota, mozgás, beszéd, stb.
+	- az iskolák azt veszik alapul, hogy mindenki ugyanúgy tud tanulni, de ez nem igaz
+	- sokan tudják a módszerüket, de nem alkalmazzák azt
+- hogyan dolgozom emberekkel?
+	- felettük, alattuk, mellettük, milyen viszonyban a legjobb?
+
+> He believes that ideas move mountains. But bulldozers move mountains; ideas show where the bulldozers should go work.
 
 
 

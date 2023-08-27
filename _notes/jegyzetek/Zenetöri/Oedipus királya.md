@@ -1,10 +1,13 @@
 ---
-#zenetöri #mű
 title: Oedipus királya
 feed: show
-date: 2022-12-23 17:30
-permalink: /Oedipus királya
+created: 2023-08-21 20:35
+date: 2023-08-27 08:24
+permalink: oedipus-kiralya
+subject: zenetöri
+type: 
 ---
-[[Sophocles]] [[opera]]ja, [[monódikus stílus]]
-fordította: [[Giustiniani]]
+
+[[Sophocles]] operája, [[monódikus stílus]]
+fordította: [[Orsatto Giustiniani]]
 kísérőzene: [[Andrea Gabrieli]]

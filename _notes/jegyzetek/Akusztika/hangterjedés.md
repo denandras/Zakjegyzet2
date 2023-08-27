@@ -1,9 +1,11 @@
 ---
-#akusztika #fogalom
 title: hangterjedés
 feed: show
-date: 2022-12-23 17:30
-permalink: /hangterjedés
+created: 2023-08-21 20:34
+date: 2023-08-27 09:05
+permalink: hangterjedes
+subject: akusztika
+type: 
 ---
 
 - rugalmas közeg kell

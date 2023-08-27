@@ -31,7 +31,7 @@ permalink: /akusztika
 - [[Békésy György]]
 - [[Az agy]]
 - [[pszichoakusztika]]
-- [[Időérzékelés]]
+- [[időérzékelés]]
 - [[hangterjedés]]
 
 ### ([[Akusztika tételek]])

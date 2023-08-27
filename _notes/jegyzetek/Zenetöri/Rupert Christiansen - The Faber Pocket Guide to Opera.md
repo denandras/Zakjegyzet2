@@ -1,8 +1,11 @@
 ---
-#zenetöri #könyv #mű
 title: Rupert Christiansen - The Faber Pocket Guide to Opera
 feed: show
-date: 2022-12-23 17:30
-permalink: /Rupert Christiansen - The Faber Pocket Guide to Opera
+created: 2023-08-21 20:35
+date: 2023-08-27 08:34
+permalink: rupert-christiansen-the-faber-pocket-guide-to-opera
+subject: zenetöri
+type: 
 ---
+
 R. C. Pocket Guide to Opera

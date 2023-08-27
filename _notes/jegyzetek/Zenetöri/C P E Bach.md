@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: C P E Bach
 feed: show
-date: 2023-01-06 19:14
-permalink: /C P E Bach
+created: 2023-08-21 20:34
+date: 2023-08-27 07:34
+permalink: c-p-e-bach
+subject: zenetöri
+type: 
 ---
+
 Carl Philipp Emanuel Bach
 
 > [[Bach]] gyermeke, <mark>1714-1788</mark>, Weimarban született

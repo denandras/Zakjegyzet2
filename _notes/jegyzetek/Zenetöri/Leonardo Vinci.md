@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Leonardo Vinci
 feed: show
-date: 2023-01-06 19:14
-permalink: /Leonardo Vinci
+created: 2023-08-21 20:35
+date: 2023-08-27 08:14
+permalink: leonardo-vinci
+subject: zenetöri
+type: 
 ---
 
-Nem [[Leonardo da Vinci]]
+Nem összetévesztendő [[Leonardo da Vinci]]vel

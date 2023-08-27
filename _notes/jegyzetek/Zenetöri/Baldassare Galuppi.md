@@ -1,12 +1,14 @@
 ---
-#zenetöri #személy
-alias: Galuppi
 title: Baldassare Galuppi
 feed: show
-date: 2022-12-23 17:30
-permalink: /Baldassare Galuppi
+created: 2023-08-21 20:34
+date: 2023-08-27 07:33
+permalink: baldassare-galuppi
+subject: zenetöri
+type: 
 ---
-1706-85
+
+<mark>1706-85</mark>
 
 - önálló egész estés [[opera buffa]]kat írt
 - 1750 táján sikeressé vált Velencében a műfaj

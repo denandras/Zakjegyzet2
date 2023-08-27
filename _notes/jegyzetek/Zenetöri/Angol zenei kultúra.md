@@ -1,9 +1,11 @@
 ---
-#zenetöri #tétel
 title: Angol zenei kultúra
 feed: show
-date: 2023-02-08 23:12
-permalink: /Angol zenei kultúra
+created: 2023-08-21 20:34
+date: 2023-08-27 07:31
+permalink: angol-zenei-kultura
+subject: zenetöri
+type: 
 ---
 
 - ### **Angol polgári forradalom** (válság) 1642-51

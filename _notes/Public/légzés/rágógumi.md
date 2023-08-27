@@ -1,9 +1,11 @@
 ---
 title: rágógumi
 feed: hide
-date: 2022-12-26 21:04
-permalink: /rágógumi
-#légzés
+created: 2023-08-21 20:34
+date: 2023-08-27 08:52
+permalink: ragogumi
+subject: légzés
+type: 
 ---
 
 - bármilyen rágógumi jó, de a keményebb jobb

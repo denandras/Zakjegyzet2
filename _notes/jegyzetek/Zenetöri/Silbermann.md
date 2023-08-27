@@ -1,10 +1,11 @@
 ---
-#zenetöri #személy
-alias: Silbermann
-title: Gottfried Silbermann
+title: Silbermann
 feed: show
-date: 2023-01-10 22:34
-permalink: /Gottfried Silbermann
+created: 2023-08-21 20:35
+date: 2023-08-27 08:37
+permalink: silbermann
+subject: zenetöri
+type: 
 ---
 
 Gottfried Silbermann

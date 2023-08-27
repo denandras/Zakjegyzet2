@@ -1,9 +1,11 @@
 ---
 title: Osho - The Book of Secrets
 feed: hide
-date: 2023-04-19 20:53
-permalink: /Osho - The Book of Secrets
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:58
+permalink: osho-the-book-of-secrets
+subject: meditáció
+type: könyv
 ---
 
 ## Említések

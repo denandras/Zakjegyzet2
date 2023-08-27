@@ -1,9 +1,11 @@
 ---
 title: összpontosított figyelem meditáció
 feed: hide
-date: 2023-01-16 10:52
-permalink: /összpontosított figyelem meditáció
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:59
+permalink: osszpontositott-figyelem-meditacio
+subject: meditáció
+type: 
 ---
 
 Ennek a gyakorlatnak minden fajtája egy bizonyos dologra irányuló figyelemre alapul. Amint feltűnik egy gondolat, nem kell elhessegetni, hanem elfogadva (észrevéve azt) visszatérni az adott dologra. (tárgy, légzés, mantra, álmosság)

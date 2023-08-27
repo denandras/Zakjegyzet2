@@ -1,9 +1,11 @@
 ---
 title: Christopher H Gibbs - The life of Schubert
 feed: show
-date: 2023-02-08 23:12
-permalink: /Christopher H Gibbs - The life of Schubert
-#zenetöri
+created: 2023-08-21 20:34
+date: 2023-08-27 07:35
+permalink: christopher-h-gibbs-the-life-of-schubert
+subject: zenetöri
+type: 
 ---
 
 ### 00. Schubert tegnap

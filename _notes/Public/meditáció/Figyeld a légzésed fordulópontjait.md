@@ -1,12 +1,12 @@
 ---
 title: Figyeld a légzésed fordulópontjait
 feed: hide
-date: 2022-06-07 23:56
-permalink: /Figyeld a légzésed fordulópontjait
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:57
+permalink: figyeld-a-legzesed-fordulopontjait
+subject: meditáció
+type: 
 ---
-
-[[meditáció]]
 
 ### A Lényeg
 

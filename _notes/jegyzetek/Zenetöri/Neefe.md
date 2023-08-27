@@ -1,10 +1,13 @@
 ---
-#zenetöri #személy
 title: Neefe
 feed: show
-date: 2022-12-23 17:30
-permalink: /Neefe
+created: 2023-08-21 20:35
+date: 2023-08-27 08:24
+permalink: neefe
+subject: zenetöri
+type: 
 ---
+
 Christian Gottlob Neefe
 
 - helyettesítette [[Beethoven]] orgonista és udvari zenekari vezetőként

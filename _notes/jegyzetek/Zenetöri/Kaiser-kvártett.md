@@ -1,9 +1,11 @@
 ---
-#zenetöri #mű
 title: Kaiser-kvártett
 feed: show
-date: 2023-01-10 23:23
-permalink: /Kaiser-kvártett
+created: 2023-08-21 20:35
+date: 2023-08-27 08:00
+permalink: kaiser-kvartett
+subject: zenetöri
+type: 
 ---
 
 [[Haydn]]

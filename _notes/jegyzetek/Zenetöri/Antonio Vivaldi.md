@@ -8,4 +8,3 @@ permalink: /Antonio Vivaldi
 ---
 
 <mark>1768-1741</mark>
-

@@ -1,10 +1,13 @@
 ---
-#zenetöri #műfaj
 title: gyászinduló
 feed: show
-date: 2022-12-23 17:30
-permalink: /gyászinduló
+created: 2023-08-21 20:35
+date: 2023-08-27 07:51
+permalink: gyaszindulo
+subject: zenetöri
+type: 
 ---
+
 Marcia funébre
 
 - [[Gossec]] Marche lugubre - katonai felkelés áldozatainak emlékére, valamint [[Voltaire]] és [[Rousseau]] temetésekor is játszották

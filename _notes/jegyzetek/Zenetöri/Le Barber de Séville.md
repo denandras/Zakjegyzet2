@@ -1,9 +1,13 @@
 ---
-#zenetöri #mű
 title: Le Barber de Séville
 feed: show
-date: 2022-12-23 17:30
-permalink: /Le Barber de Séville
+created: 2023-08-21 20:35
+date: 2023-08-27 08:12
+permalink: le-barber-de-seville
+subject: zenetöri
+type: 
 ---
+
 Sevillai borbély
+
 - vígjátéknak indult

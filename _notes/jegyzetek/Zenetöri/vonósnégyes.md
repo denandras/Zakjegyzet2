@@ -1,9 +1,11 @@
 ---
-#zenetöri #műfaj #fogalom
 title: vonósnégyes
 feed: show
-date: 2023-01-11 16:40
-permalink: /vonósnégyes
+created: 2023-08-21 20:35
+date: 2023-08-27 08:41
+permalink: vonosnegyes
+subject: zenetöri
+type: 
 ---
 
 - a klasszika legfontosabb kamarazenei műfaja
@@ -45,3 +47,6 @@ permalink: /vonósnégyes
 			- variációs lassú tétel a központban
 			- kontrapunktikusan fejtegeti a témát
 			- egyéni, gyötrelmes hangvétel
+
+---
+[^]: [[4. A vonósnégyes a késő 18. és kora 19. században.pdf]]

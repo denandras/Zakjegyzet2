@@ -1,10 +1,11 @@
 ---
-#zenetöri #tétel #fogalom #műfaj
-alias: concerto
 title: Hangszeres concerto
 feed: show
-date: 2022-12-23 17:30
-permalink: /Hangszeres concerto
+created: 2023-08-21 20:35
+date: 2023-08-27 07:53
+permalink: hangszeres-concerto
+subject: zenetöri
+type: 
 ---
 
 - mindenféle hangszeres darab
@@ -33,23 +34,23 @@ permalink: /Hangszeres concerto
 				- támadták zenei lopások miatt, -> egyetlen hangból álló fúgatéma
 				- ABAv (ária)forma lehetőséget ad a kiteljesedésre
 	2. [[concerto a cinque]]
-			- Velence, [[Antonio Vivaldi]] 
-			- 5 szólamú
-				- szólóhegedű + 4 fő
-				- szólista kilép néha a zenekarból
-				- szólista fogja össze a zenekart, sokszor maga a zeneszerző
-			- gyors - lassú - gyors
-			- nyitótétel [[ritornello]] forma
-				- egyszerűségében a varázsa, rugalmas
-				- ritornellók + szólók váltakoznak
-				- moduláció a szólóban (I-V-VI-I)
-			- moduláció
-			- Op. 8 No. 6
-				- XYZ
-				- X statikus, Y modulál, Z befejeződik
-			- Quantz fuvolaiskolája
-				- nyitótétel ne legyen 2-3 percnél hosszabb
-				- Vivaldi együltőhelyében írta meg a nyitótételeket: a ritornellóknak van receptje, a hegedűvariációk viszik el másik hangnembe a darabot ^d616cb
+		- Velence, [[Antonio Vivaldi]] 
+		- 5 szólamú
+			- szólóhegedű + 4 fő
+			- szólista kilép néha a zenekarból
+			- szólista fogja össze a zenekart, sokszor maga a zeneszerző
+		- gyors - lassú - gyors
+		- nyitótétel [[ritornello]] forma
+			- egyszerűségében a varázsa, rugalmas
+			- ritornellók + szólók váltakoznak
+			- moduláció a szólóban (I-V-VI-I)
+		- moduláció
+		- Op. 8 No. 6
+			- XYZ
+			- X statikus, Y modulál, Z befejeződik
+		- Quantz fuvolaiskolája
+			- nyitótétel ne legyen 2-3 percnél hosszabb
+			- Vivaldi együltőhelyében írta meg a nyitótételeket: a ritornellóknak van receptje, a hegedűvariációk viszik el másik hangnembe a darabot ^d616cb
 	
 - [[Corelli]] concertohagyományát [[Händel]] vitte tovább
-- [[Vivaldi]]ét [[Bach]]
+	- [[Vivaldi]]ét [[Bach]]

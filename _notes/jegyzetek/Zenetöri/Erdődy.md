@@ -1,10 +1,13 @@
 ---
-#zenetöri #mű
 title: Erdődy
 feed: show
-date: 2023-01-10 23:22
-permalink: /Erdődy
+created: 2023-08-21 20:35
+date: 2023-08-27 07:40
+permalink: erdody
+subject: zenetöri
+type: 
 ---
-[[Haydn]] Erdődy-kvártettek
 
-- német himnusz ebben található ([[Kaiser-kvártett]]-kvártettben)
+[[Haydn]] - Erdődy-kvártettek
+
+- német himnusz ebben található ([[Kaiser-kvártett]]ben)

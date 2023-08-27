@@ -1,11 +1,13 @@
 ---
-#zenetöri #személy
-
 title: Haydn
 feed: show
-date: 2023-01-06 19:14
-permalink: /Haydn
+created: 2023-08-21 20:35
+date: 2023-08-27 07:53
+permalink: haydn
+subject: zenetöri
+type: 
 ---
+
 Joseph Haydn
 ![](https://www.mainpost.de/storage/image/1/1/7/5/2235711_fancybox_1u-pup_EomADw.jpg)
 

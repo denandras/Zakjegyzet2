@@ -1,9 +1,11 @@
 ---
-#zenetöri #fogalom
 title: dalciklus
 feed: show
-date: 2023-01-22 10:28
-permalink: /dalciklus
+created: 2023-08-21 20:35
+date: 2023-08-27 07:37
+permalink: dalciklus
+subject: zenetöri
+type: 
 ---
 
 - maguk a költemények ciklust alkotnak
@@ -20,3 +22,6 @@ permalink: /dalciklus
 - [[Schumann]] [dalciklusai](Schumann)
 - [[Brahms]] dalciklusai
 - [[Hugo Wolf]]
+
+---
+[^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

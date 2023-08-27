@@ -1,9 +1,12 @@
 ---
-#zenetöri #fogalom
 title: intermezzo
 feed: show
-date: 2022-12-23 17:30
-permalink: /intermezzo
+created: 2023-08-21 20:35
+date: 2023-08-27 07:54
+permalink: intermezzo
+subject: zenetöri
+type: 
 ---
+
 közjáték
 2 felvonás közé iktatott zene

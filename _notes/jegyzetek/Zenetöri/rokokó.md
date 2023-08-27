@@ -1,10 +1,13 @@
 ---
-#zenetöri #fogalom
 title: rokokó
 feed: show
-date: 2023-02-08 23:12
-permalink: /rokokó
+created: 2023-08-21 20:35
+date: 2023-08-27 08:34
+permalink: rokoko
+subject: zenetöri
+type: 
 ---
+
 [[gáláns stílus]], [[Empfindsamkeit]]
 
 - finom dallamosság, egyszerű harmóniák

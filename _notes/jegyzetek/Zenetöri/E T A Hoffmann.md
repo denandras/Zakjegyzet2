@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: E T A Hoffmann
 feed: show
-date: 2022-12-23 17:30
-permalink: /E T A Hoffmann
+created: 2023-08-21 20:35
+date: 2023-08-27 07:39
+permalink: e-t-a-hoffmann
+subject: zenetöri
+type: 
 ---
 
 kora legkítűnőbb zenekritikusa

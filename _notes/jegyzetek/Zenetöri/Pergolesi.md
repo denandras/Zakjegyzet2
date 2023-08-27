@@ -1,11 +1,15 @@
 ---
 title: Pergolesi
 feed: show
-date: 2023-01-06 19:14
-permalink: /Pergolesi
-#zenetöri #személy
+created: 2023-08-21 20:35
+date: 2023-08-27 08:27
+permalink: pergolesi
+subject: zenetöri
+type: 
 ---
+
 Giovanni Battista Pergolesi
+
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Giovanni_Battista_Pergolesi.jpg)
 
 - [[Úrhatnám szolgáló]]

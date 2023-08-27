@@ -1,9 +1,11 @@
 ---
-#akusztika
 title: teremtörténet
 feed: show
-date: 2022-12-23 17:30
-permalink: /teremtörténet
+created: 2023-08-21 20:34
+date: 2023-08-27 09:06
+permalink: teremtortenet
+subject: akusztika
+type: 
 ---
 
 - Epidaurosz

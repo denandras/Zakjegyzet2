@@ -1,9 +1,11 @@
 ---
-#akusztika
 title: Akusztika fogalmak
 feed: show
-date: 2023-01-24 14:23
-permalink: /Akusztika fogalmak
+created: 2023-08-21 20:34
+date: 2023-08-27 09:05
+permalink: akusztika-fogalmak
+subject: akusztika
+type: 
 ---
 
 afferens

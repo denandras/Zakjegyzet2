@@ -1,10 +1,11 @@
 ---
-alias: Francesco Petrarca
-#zenetöri #személy
 title: Petrarca
 feed: show
-date: 2023-02-08 09:53
-permalink: /Petrarca
+created: 2023-08-21 20:35
+date: 2023-08-27 08:27
+permalink: petrarca
+subject: zenetöri
+type: 
 ---
 
-
+Francesco Petrarca

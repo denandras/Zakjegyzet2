@@ -1,9 +1,11 @@
 ---
-#zenetöri #személy
 title: Johann Adam Hiller
 feed: show
-date: 2023-01-10 22:34
-permalink: /Johann Adam Hiller
+created: 2023-08-21 20:35
+date: 2023-08-27 07:55
+permalink: johann-adam-hiller
+subject: zenetöri
+type: 
 ---
 
-legfontosabb Singspiel szerző
+legfontosabb [[Singspiel]] szerző

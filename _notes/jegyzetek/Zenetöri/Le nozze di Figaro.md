@@ -1,10 +1,13 @@
 ---
 title: Le nozze di Figaro
 feed: show
-date: 2022-12-23 17:30
-permalink: /Le nozze di Figaro
-#zenetöri #mű
+created: 2023-08-21 20:35
+date: 2023-08-27 08:13
+permalink: le-nozze-di-figaro
+subject: zenetöri
+type: 
 ---
+
 - [[opera buffa]]
 - Figaro házassága
 
@@ -27,6 +30,6 @@ permalink: /Le nozze di Figaro
 	- a szobából korábban váratlanul Susanna lépett elő
 - hűségesen követi a szövegkönyvet
 	- második felvonást Mozart lezárja a kavalkáddal
-- Susanna egy *mezzo caratteré*
+- *Susanna* egy *mezzo caratteré*
 	- és áriái előtt accompaniata-k is hallhatóak (szokatlan)
 - szerepcserénél Susannanak új áriákat írt

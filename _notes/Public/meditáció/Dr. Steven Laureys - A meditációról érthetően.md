@@ -1,10 +1,14 @@
 ---
 title: Dr. Steven Laureys - A meditációról érthetően
-feed: hide
-date: 2023-05-28 20:52
-permalink: /Dr. Steven Laureys - A meditációról érthetően
-#meditáció
+feed: 
+created: 2023-08-21 20:34
+date: 2023-08-27 08:56
+permalink: dr-steven-laureys-a-meditaciorol-erthetoen
+subject: meditáció
+type: könyv
 ---
+
+[[Dr. Steven Laureys]]
 
 Elkülönül egymástól az elméleti és a gyakorlati rész:
 - **Elmélet**: 1-125

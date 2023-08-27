@@ -1,9 +1,11 @@
 ---
 title: szerető kedvesség meditáció
 feed: hide
-date: 2022-06-05 19:10
-permalink: /szerető kedvesség meditáció
-#meditáció
+created: 2023-08-21 20:34
+date: 2023-08-27 08:59
+permalink: szereto-kedvesseg-meditacio
+subject: meditáció
+type: 
 ---
 
 * feltétel nélküli szeretet

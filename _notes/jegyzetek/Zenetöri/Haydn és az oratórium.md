@@ -1,9 +1,11 @@
 ---
 title: Haydn és az oratórium
 feed: show
-date: 2023-08-08 14:26
+created: 2023-08-21 20:35
+date: 2023-08-27 07:53
 permalink: haydn-es-az-oratorium
-#zenetöri #mű
+subject: zenetöri
+type: 
 ---
 
 - 4 mű
@@ -71,3 +73,6 @@ permalink: haydn-es-az-oratorium
 	- szárazföldi állatok, ember
 3. rész
 	- hálaadás
+
+---
+[^]: [[11. Haydn és az oratórium.pdf]]

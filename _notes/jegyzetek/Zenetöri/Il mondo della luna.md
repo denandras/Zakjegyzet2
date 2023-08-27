@@ -1,9 +1,11 @@
 ---
-#zenetöri #mű
 title: Il mondo della luna
 feed: show
-date: 2022-12-23 17:30
-permalink: /Il mondo della luna
+created: 2023-08-21 20:35
+date: 2023-08-27 07:54
+permalink: il-mondo-della-luna
+subject: zenetöri
+type: 
 ---
 
 - [[Baldassare Galuppi]] 1750-es [[opera buffa]]ja
