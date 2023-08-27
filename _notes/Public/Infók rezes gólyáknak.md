@@ -7,7 +7,8 @@ permalink: infok-rezes-golyaknak
 subject: 
 type: poszt
 ---
-# [SOS email](mailto:denesandras@akademista.hu)
+## [SOS email](mailto:denesandras@akademista.hu)
+
 ## [INFORMÁCIÓK FELVETT HALLGATÓK RÉSZÉRE](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
 
 - diákigazolvány
@@ -34,7 +35,7 @@ type: poszt
 > hétfő, szerda, péntek: 9:30-12:00  
 > kedd, csütörtök: 13:00-15:30
 
-- [Kredithálók](https://lfze.hu/kredithalok)
+- [Kredithálók](https://lfze.hu/kredithalok) [^1]
 	- amikor felvettek, az alapján kell teljesíteni (a legtöbb embernek ez a 2023/24-es, kreditátvitel esetén a tanulmányok megkezdésének évfolyamát nézd)
 	- a szabvál és kötelező tárgyak teljesítési ideje rád van bízva, érdemes elsőben több mindent felvenni, pl. [[akusztika]], hogy később kevesebb dolgod legyen
 - [A tanév rendje](https://lfze.hu/tanev-rendje) (nyisd meg a szünetek miatt)
@@ -79,8 +80,10 @@ type: poszt
 
 - mit tehet az ügyintéző?
 	- bármit (pl. tárgyra feliratkoztathat, felvehet plusz tárgyat, ilyesmi)
+	- nem írhat alá tárgyat
 - beiratkozás, anélkül nem lehet ügyet intézni
 	- a megfelelő félévet aktívra állítani az Ügyintézés/Beiratkozás fülön
+	- két alkalommal tudsz passziváltatni félévet (pl. turné)
 - a megfelelő [kredithálót](https://lfze.hu/kredithalok) letöltve
 	- látszanak a *kötelező tárgyak*, először ezeket érdemes felvenni
 		- mindegyiket a megfelelő tanárnál, pl. szolfézsnál és [[zenetöri]]nél oda lesz írva, hogy "CSAK RÉZFÚVÓSOK"
@@ -101,20 +104,34 @@ type: poszt
 
 ## Egyéb
 
+### Órák
+- hiányzások
+	- minden felvett órarend szerint megtartott óra (tehát kivéve mesterkurzus, stb.) háromszorosát lehet hiányozni, azután a tanár jóindulatán múlik a félév aláírása
+	- igazolás nem szükséges
+	- a Zeneakadémia által szervezett programok nem számítanak bele ebbe a maximumba (koncert, zenekar, díjátadó, egyéb)
+- órák anyagai
+	- [ezen a linken](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok) elérhető a tanárok által feltöltött egyetemi anyag
+- zenekarok
+	- szimfit a tanszakok általában egymás között osztják be
+		- a próba minden felett, kivéve előre bejelentett (és elfogadott!), indokolt hiányzás
+		- a projektek [ezen az oldalon](https://lfze.hu/tanulmanyi-hirek/a-zeneakademia-szimfonikus-zenekaranak-hangversenyei-beosztasa-es-probarendje-114751) találhatók *(erre is érdemes [figyelő appot](https://visualping.io) beállítani)*
+	- idén indul fúvószenekar, erről nem tudni semmit, csak hogy Szentpáli Roland fogja dirigálni
+	- fúvósegyüttes
+		- eddig órarend szerinti óra volt (felirakozásos alapú, de minden próbán teljes szólamnak kell lennie)
+		- most lesz koncert is (elvileg)
+
+### Tech
+
 - Microsoft
 	- kapsz egy fiókot, ahol az órák digitális anyagát (ha van ilyen) megkapod
 		- neptunfelhasználó@student.lfze.hu
-		- jelszó: [neptunjelszó]
-		- Fazekas a [[zenetöri]] óráinak anyagait a Google Classroomon osztja meg (tanárfüggő a platform)
+		- jelszó: [eredeti neptunjelszó] (ez az egy független az egyetemi rendszertől)
+		- tanárfüggő a platform (pl. Fazekas a [[zenetöri]] óráinak anyagait a Google Classroomon osztja meg, más OneDrive-ot használ)
 	- ne pipáld be a "a szervezet megfigyelheti az eszközömet" mezőt bejelentkezésnél
 	- Teams
-- gólyabál
-	- kb. november
-- sporttámogatás (sporttám)
-	- HÖK-ön keresztül
-	- uszoda (Hajós)
-- Spotify
-	- hallgatói jogviszony a TO felelős alkalmazottjától emailben, angolul
+- Spotify 50 %-os kedvezmény
+	- hallgatói jogviszony igazolás a TO felelős alkalmazottjától emailben, angolul
+		- félévente
 	- [ezen az oldalon](https://www.spotify.com/hu/student/verification/)
 - wifi
 	- főép.
@@ -128,12 +145,17 @@ type: poszt
 - automatikus emailek
 	- kamara gyakorló foglalásnál
 	- random a hallgatói követelményekről félévente egyszer (tehát nyugi, nem csináltál rosszul semmit)
-- hiányzások
-	- minden felvett órarend szerint megtartott óra (tehát kivéve mesterkurzus, stb.) háromszorosát lehet hiányozni, azután a tanár jóindulatán múlik a félév aláírása
-	- igazolás nem szükséges
-	- a Zeneakadémia által szervezett programok nem számítanak bele ebbe a maximumba (koncert, zenekar, díjátadó, egyéb)
-- órák anyagai
-	- [ezen a linken](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok) elérhető a tanárok által feltöltött egyetemi anyag
+
+### Szervezés
+
+- gólyabál
+	- kb. november
+- sporttámogatás (sporttám)
+	- HÖK-ön keresztül
+	- uszoda (Hajós)
+
+### Lehetőségek
+
 - ösztöndíjak
 	- tanulmányi
 		- minden előző félév alapján átlagból számítva (kb. 4,95 szokott lenni)
@@ -142,14 +164,6 @@ type: poszt
 		- tavasszal és ősszel figyeld/[figyeltesd alkalmazással](https://visualping.io) a weboldalt
 	- egyéb
 		- facebookon és a honlapon hirdetve
-- zenekarok
-	- szimfit a tanszakok általában egymás között osztják be
-		- a próba minden felett, kivéve előre bejelentett (és elfogadott!), indokolt hiányzás
-		- a projektek [ezen az oldalon](https://lfze.hu/tanulmanyi-hirek/a-zeneakademia-szimfonikus-zenekaranak-hangversenyei-beosztasa-es-probarendje-114751) találhatók *(erre is érdemes [figyelő appot](https://visualping.io) beállítani)*
-	- idén indul fúvószenekar, erről nem tudni semmit, csak hogy Szentpáli Roland fogja dirigálni
-	- fúvósegyüttes
-		- eddig órarend szerinti óra volt (felirakozásos alapú, de minden próbán teljes szólamnak kell lennie)
-		- most lesz koncert is (elvileg)
 - Müpa hangulatkoncertek
 	- ingyen koncert adható a Müpa üvegtermében
 	- jóváhagyásra van szükség egy műsor leadását követően
@@ -159,5 +173,10 @@ type: poszt
 	- [kereshető itt](https://primo-36lfz.hosted.exlibrisgroup.com/primo-explore/search?vid=36LFZ_VU1&fromRedirectFilter=false)
 	- hallgatóknak ingyenes
 
+---
+
 ![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
 *(erre az oldalra mutató QR kód)*
+
+
+[^1]: BA tanterv ![[ba_tanterv_-_2023.xlsx]]
