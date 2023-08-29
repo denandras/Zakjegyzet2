@@ -10,16 +10,35 @@ type: könyv
 
 [[Arnold Bennett]]
 
-[link](https://gutenberg.org/files/2274/2274-h/2274-h.htm)
-
+[link a könyvhöz](https://gutenberg.org/files/2274/2274-h/2274-h.htm)
 ## Említések
-
+<a id="Említések"></a>
 - [[Herbert Spencer]]
-
-# Contents
-
+- [[Marcus Aurelius]]
+- [[Epictetus]]
+- [[Pascal]]
+- [[La Bruyere]]
+- [[Ralph Waldo Emerson]]
+- [[George Meredith]]
+- [[Mr Stephen Phillips]]
+- [[Krehbiel - How to Listen to Music]]
+- [[Clermont Witt - How to Look at Pictures]]
+- [[Russel Sturfis - How to Judge Architecture]]
+## Tartalom
+<a id="Contents"></a>
+- [[The Daily Miracle::#The Daily Miracle]]
+- [[The Desire to Exceed One's Programme::#The Desire to Exceed One's Programme]]
+- [[Precautions Before Beginning::#Precautions Before Beginning]]
+- [[The Cause of the Troubles::#The Cause of the Troubles]]
+- [[Tennis and the Immortal Soul::#Tennis and the Immortal Soul]]
+- [[Remember Human Nature::#Remember Human Nature]]
+- [[Controlling the Mind::#Controlling the Mind]]
+- [[The Reflective Mood::#The Reflective Mood]]
+- [[Interest in the Arts::#Interest in the Arts]]
+- [[Nothing in Life is Humdrum::#Nothing in Life is Humdrum]]
+- 
 ## The Daily Miracle
-
+<a id="The Daily Miracle"></a>
 > Philosophers have explained space. They have not explained time. It is the inexplicable raw material of everything. With it all is possible, without it nothing
 
 - az idő pénz, de előbbi jobb, mert nem veheti el senki, és mindenkinek egy nap ugyanannyi ideje van
@@ -28,7 +47,7 @@ type: könyv
 > You have to live on this twenty four hours of daily time. Out of it you have to spin health, pleasure, money, content, respect and the evolution of your immortal soul.
 
 ## The Desire to Exceed One's Programme
-
+<a id="The Desire to Exceed One's Programme"></a>
 - kényelmetlenség az elvárt dolgok/jövő miatt
 - különböző szinteken van jelen az élettől elválaszthatatlan jövőbe tekintés
 - aki "elindul" de nem biztos, hogy megérkezik, inkább él, mint aki el se indul
@@ -41,7 +60,7 @@ type: könyv
 - a tudásért való szomjazás, a kíváncsiság nem feltétlenül oltható az olvasással (sőt)
 
 ## Precautions Before Beginning
-
+<a id="Precautions Before Beginning"></a>
 - nincs titok, csak nagyon nehezen bejárható út, aminek a végén nincs tökéletes időbeosztás
 - ha mégis arra számítasz, bele se kezdj
 - nem lehet elrontani, mert mindig lesz holnap, egészen amíg nem
@@ -53,7 +72,7 @@ type: könyv
 > Most people who are ruined are ruined by attempting too much
 
 ## The Cause of the Troubles
-
+<a id="The Cause of the Troubles"></a>
 - az átlagember igazi oka az "időhiányra", hogy nem élvezettel végzi a munkáját, túl akar lenni rajta
 	- valamint úgy tekint a napja többi részére, mint prológusra és epilógusra
 - ahhoz, hogy ez a mindset átalakuljon, az "átlagembernek" 4 órát magával kell foglalkoznia munka előtt. Ilyenkor (és munka után) nem pénzkereső, nem gép.
@@ -65,6 +84,7 @@ type: könyv
 	- a vonattársaság, melynek járatára vár, minden nap meglopja pár perccel, amire az emberünk nem is gondol, tehát, nem tesz ellene
 
 ## Tennis and the Immortal Soul
+<a id="Tennis and the Immortal Soul"></a>
 
 - az emberünk időt hagy, talán **fél órát** az újság lapozgatására
 	- miközben azt sebesen gyártják naponta
@@ -84,7 +104,7 @@ type: könyv
 - aki unatkozik, nem él
 
 ## Remember Human Nature
-
+<a id="Remember Human Nature"></a>
 - persze meg lehet oldani, hogy a hétnapos munkahét hatnapos legyen, egy pihenőnappal
 	- de csak az tudja értékelni, értékesen megélni a pihenőnapot, aki csinált már hétnapos munkahetet
 	- s az ember öregszik
@@ -92,14 +112,13 @@ type: könyv
 - az okosabban eltöltött 7,5 óra gyorsabbá teszi az egész hetet, életet visz bele, és a banális teendőkhöz való hozzáállásunkat megváltoztatja
 - áldozatokra van ehhez szükség
 - engedj meg többet az esti másfél óráknál
-	- nem megy ellene ennek? [[Oliver Burkeman - Az élet rövid#^286983]]
 
 > You must safeguard your self-respect.
 
 > Start quietly, unostentatiously.
 
 ## Controlling the Mind
-
+<a id="Controlling the Mind"></a>
 - nem igaz, hogy nem kontrollálhatóak a gondolatok
 - minden az agyban történik, ott érzékeljük a történéseket
 	- fontos, hogy tudatosak legyünk
@@ -112,7 +131,7 @@ type: könyv
 - az aggodalom ezáltal legyőzhető
 
 ## The Reflective Mood
-
+<a id="The Reflective Mood"></a>
 - mire használjuk az engedelmeskedő agyat?
 	- egyértelműen önmagunk tanulására
 - ami az átlagemberből hiányzik, az a reflexió
@@ -121,7 +140,7 @@ type: könyv
 - fontos az értékrend
 	- ha erre építed fel a reflexiódat, boldog életet élhetsz
 	- hiszen folyamatosan gondolkozol azon, hogy helyes, értelmes dolgot tettél-e
-- ajánlja még: [[Pascal]], [[La Bruyere]], [[Emerson]]
+- ajánlja még: [[Pascal]], [[La Bruyere]], [[Ralph Waldo Emerson]]
 - gondolkozás tetteim múltján és jövőjén
 	- az esti órákban
 
@@ -134,9 +153,9 @@ type: könyv
 > And the less we reflect, the less reasonable we shall be. The next time you get cross with the waiter because your steak is over-cooked, ask reason to step into the cabinet-room of your mind, and consult her. She will probably tell you that the waiter did not cook the steak, and had no control over the cooking of the steak; and that even if he alone was to blame, you accomplished nothing good by getting cross; you merely lost your dignity, looked a fool in the eyes of sensible men, and soured the waiter, while producing no effect whatever on the steak.
 
 ## Interest in the Arts
-
-- [[Meredith]]
-- [[Mr Stephen Philips]] egy igazi költő?
+<a id="Interest in the Arts"></a>
+- [[George Meredith]]
+- [[Mr Stephen Phillips]] egy igazi költő?
 - elég a jó ízlés, a műveltség pótolható
 - [[Krehbiel - How to Listen to Music]]
 	- élnél a koncert közben, nem csak élveznéd
@@ -145,5 +164,5 @@ type: könyv
 - [[Russel Sturfis - How to Judge Architecture]]
 
 ## Nothing in Life is Humdrum
-
+<a id="Nothing in Life is Humdrum"></a>
 - 

@@ -11,13 +11,19 @@ type: könyv
 [[Harvard Business Review]]
 
 ## Említések
-
+<a id="Említések"></a>
 - [[Benjamin Bloom - Developing Talent in Young People]]
 - [[Cambridge University Press - The Cambridge Handbook of Expertise and Expert Performance]]
 
 # Tartalom
+<a id="Tartalom"></a>
+- [[The Making of an Expert::#The Making of an Expert]]
+- [[Managing Oneself::#Managing Oneself]]
+	- [[Munkamódszer::Munkamódszer]]
+	- [[Kapcsolatok::#Kapcsolatok]]
 
 ## The Making of an Expert
+<a id="The Making of an Expert"></a>
 [[K Anders Ericsson]], [[Michael J Prietula]], [[Edward T Cokely]]
 
 - Polgár család története a gyerekeik sakktudásán keresztül
@@ -66,6 +72,7 @@ type: könyv
 > 	If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor Auer, violin)
 
 ## Managing Oneself
+<a id="Managing Oneself"></a>
 [[Peter F Drucker]]
 
 - a lehetőség felelősséggel jár: rajtad múlik, hogy végigmész-e a kijelölt úton, hogy mikor változtatsz irányt, és hogy élvezed-e a foglalkozásod egy akár 50 éves karrier útján
@@ -86,7 +93,7 @@ type: könyv
 	- és mégis a tanárok, rendszerek előbbit előnyben részesítik
 
 ### Munkamódszer
-
+<a id="Munkamódszer"></a>
 - a mit mellett a hogyan is ugyanolyan fontos
 	- sokan nem ismerik a legjobb munkamódszerüket
 - olvasó vagy, vagy hallgató?
@@ -126,7 +133,7 @@ type: könyv
 	- elérhető, de nem könnyű cél az ideális
 
 ### Kapcsolatok
-
+<a id="Kapcsolatok"></a>
 - nagyon kevesen tudják magukat teljesen egyedül menedzselni
 - felelősség
 	- elfogadni, hogy mások ugyanúgy egyének, mint te

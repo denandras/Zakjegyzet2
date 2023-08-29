@@ -11,35 +11,30 @@ type: könyv
 [[Dr. Steven Laureys]]
 
 Elkülönül egymástól az elméleti és a gyakorlati rész:
-- **Elmélet**: 1-125
-- **Gyakorlat**: 125-249
+- **Elmélet**: 1-125. o.
+- **Gyakorlat**: 125-249. o.
 
 ### Említések
 
-#### személyek
+- [[Christophe André]]
+- [[Fréderic Lenoir]]
+- [[Kabat Zinn]]
+- [ ] [[Jules Evans - Breaking Open]]
+- [ ] [[Philosophy for Life and Other Dangerous Situations]]
+- [ ] [[David Wise - Headache in the Pelvis]]
+- [ ] [[Teach Us to Sit Still]]
+- [ ] [[Edel Maex - Mindfullness]]
+- [ ] [[Rinpoche - Tibeti könyv]]
+- [ ] [[The Anatomy of Doubt]]
+- [ ] [[The Art of Losing Control]]
+- [ ] [[3 perces légzéstér gyakorlat]]
 
-[[Christophe André]]
-[[Fréderic Lenoir]]
-[[Kabat Zinn]]
-
-#### művek
-
-[[Jules Evans - Breaking Open]]
-[[Philosophy for Life and Other Dangerous Situations]]
-[[David Wise - Headache in the Pelvis]]
-[[Teach Us to Sit Still]]
-[[Edel Maex - Mindfullness]]
-[[Rinpoche - Tibeti könyv]]
-[[The Anatomy of Doubt]]
-([[The Art of Losing Control]])
-([[3 perces légzéstér gyakorlat]])
-
-#### appok és eszközök
+#### Appok és eszközök
 
 Imagine Clarity
 Petit BamBou
 Mindfulness App
-[[Headspace]]
+Headspace
 Calm
 Waking Up
 Muse (viselhető eszköz)
