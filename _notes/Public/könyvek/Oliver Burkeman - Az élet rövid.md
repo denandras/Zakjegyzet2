@@ -10,9 +10,8 @@ type: könyv
 
 [[Oliver Burkeman]] - 4000 Weeks
 
-# Tartalom
-
-
+## Tartalom
+<a id="Tartalom"></a>
 - [[Említések::#Említések]]
 - [[Bevezetés Hosszú távon mindenki halott::#Bevezetés Hosszú távon mindenki halott]]
 - [[1. Ha úgy döntesz, hogy te döntesz::#1. Ha úgy döntesz, hogy te döntesz]]
@@ -36,7 +35,6 @@ type: könyv
 
 ## Említések
 <a id="Említések"></a>
-
 - [ ] [[Edward T Hall]]
 - [ ] [[Malcolm Harris]]
 - [ ] [[Carl Jung]]
@@ -131,16 +129,15 @@ type: könyv
 - [ ] [[Jenny Odell - How to Do Nothing]]
 
 ## Bevezetés: Hosszú távon mindenki halott
-
+<a id="Bevezetés: Hosszú távon mindenki halott"></a>
 - kevés jut, és az is egyre gyorsul
 - minél többet akarsz elvégezni, annál több marad hátra/zúdul rád
 - mentálisan folyton a jövőben élünk
 
-
 ## 1. Ha úgy döntesz, hogy te döntesz
-
+<a id="1. Ha úgy döntesz, hogy te döntesz"></a>
 ### Az élet korlátai
-
+<a id="Az élet korlátai"></a>
 - kapcsolat az idővel, régen, amikor a halál közel volt
 	- feladatorientált életmód
 - mély időben élt élet
@@ -156,7 +153,7 @@ type: könyv
 > Úgy tűnik, még a korlátaink elfogadása is bizonyos korlátokba ütközik
 
 ### Hatékonyságcsapda
-
+<a id="Hatékonyságcsapda"></a>
 - szembenézés a döntéssel, hogy miről mondjunk le
 - Arnold Bennett könyvével ellentétben soha sem lesz mindenre elég időnk
 - ha nem hiszel a túlvilágban, az életből akarod a legtöbbet kihozni
@@ -175,7 +172,7 @@ type: könyv
 > gyakran éppen azok a dolgok teszik az életet élhetővé, amelyek nem mennek simán.
 
 ### Szemtől szemben a végességgel
-
+<a id="Szemtől szemben a végességgel"></a>
 - [[Martin Heidegger]]
 	- vonatkozásnélküli és meghaladhatatlan lenni-tudástól való szorongás
 	- hihetetlen, hogy a semmi helyett van valami, létezik a világ
@@ -194,7 +191,7 @@ type: könyv
 > bármilyen döntést hozok is a tekintetben, hogy mit akarok kezdeni az időmmel, az csakis időben behatárolt döntés lehet. Egyrészt visszafelé is behatárolt, hiszen már most az vagyok, aki vagyok, és ott vagyok, ahol vagyok, ami pedig meghatározza, hogy milyen lehetőségek állnak nyitva előttem. De előretekintve sem kevésbé behatárolt, mert bármilyen tevékenység mellett döntök is, azzal automatikusan beáldozok végtelen számú alternatív lehetőséget.
 
 ### Halogatás magas fokon
-
+<a id="Halogatás magas fokon"></a>
 - jó dolgokat és jól kell halogatni
 - kreatív halogatás
 	- először magadat fizesd ki (idővel is)
@@ -224,7 +221,7 @@ type: könyv
 - tudatos elköteleződés: befejezzük a végtelen lehetőségekről való álmodozást a kimaradás öröméért
 
 ### A görögdinnye-probléma
-
+<a id="A görögdinnye-probléma"></a>
 - nehéz a legfontosabb tevékenységnek szentelmünk a figyelmünket
 - maga a munka is lehet figyelemelterelés
 - nem feltétlenül szándékos
@@ -257,7 +254,7 @@ type: könyv
 > [[T S Eliot - Burnt Norton in Four Quartets]]
 
 ### A belső megszakító
-
+<a id="A belső megszakító"></a>
 - [[Shizen Young]] példája
 - a késztetés, hogy eltávolodj a jelenben megért rossz érzéstől csak erősíti azt
 - jeges vödör: biológiai visszacsatoló mechanizmus, erősíti a koncentrációt azáltal, hogy jutalmaz csökkentett fájdalomérzettel, ha sikerül fókuszáltnak maradni, és büntet erős szenvedéssel, ha nem sikerül figyelmünk felett uralkodnunk
@@ -272,9 +269,9 @@ type: könyv
 > Igen, van olyan, hogy el kell fogadni, hogy nincs megoldás. És ez maga a megoldás.
 
 ## 2. Túl az irányításon
-
+<a id="2. Túl az irányításon"></a>
 ### Igazából soha nincs időnk
-
+<a id="soha nincs időnk"></a>
 - [[Douglas Hofstadter]] - Hofstadter-törvény
 	- bármilyen feladatot is tervezel elvégezni, az mindig tovább tart a vártnál, még akkor is, ha figyelembe vesszük a Hofstadter-törvényt
 - a túlzott tervezés fokozza a szorongást, amelynek csillapítására eredetileg szánták
@@ -294,7 +291,7 @@ type: könyv
 > Ne uralkodjatok végtelen lehetőségek képzeletbeli lehetőségein. (Gesh Shawopa)
 
 ### Itt és most
-
+<a id="Itt és most"></a>
 - könnyű kizárólag a jövőre koncentrálni, de ekkor elfelejtünk élni
 	- jogászok és kiszámlázható óráik
 - gyereknevelés: fontos a jövő, de a jelen elmúlik, és hiányozni fog
@@ -312,7 +309,7 @@ type: könyv
 > úgy hisszük, "Egy gyermeknevelési módszer helyessége vagy helytelensége csak azzal mérhető, hogy milyen felnőtt lesz a gyerekből" ([[Adam Gopnik]])
 
 ### Pihenés újratöltve
-
+<a id="Pihenés újratöltve"></a>
 - "a jó életminőség jót tesz a gazdaságnak" - miért nézzük az életet gazdasági szempontból?
 - a szabadidő is feladattá válik
 - [[Arisztotelész]] szerint az önmagunkról való gondolkodád, a filozofikus elmélyülés a legnagyobb erény, mert önmagáért van (más tevékenységekkel ellentétben)
@@ -336,7 +333,7 @@ type: könyv
 		- bénázhatsz anélkül, hogy rágódnál rajta
 
 ### A türelmetlenség spirálja
-
+<a id="A türelmetlenség spirálja"></a>
 - az értelmetlen türelmetlenség
 	- a dolgok úgy vannak, ahogy [[Lao ce - Tao te king]]
 	- lassítják az adott tevékenységet
@@ -352,7 +349,7 @@ type: könyv
 > Azon aggódunk, hogy nem érjük utol magunkat, nem bírjuk tartani a lépést; s annak érdekében, hogy csökkentsük a szorongást, és hogy az életünket a saját kezünkben tartsuk, egyre gyorsabban tesszük a dolgunkat.
 
 ### Maradj a buszon
-
+<a id="Maradj a buszon"></a>
 - türelem: alkalmazkodás ahhoz, hogy valakinek nincsen valami fölött hatalma
 - nézz egy kiállított képet 3 órán át
 - [[Robert Grudin]]: a türelem megtapasztalása tapintható, szinte ehető
@@ -374,7 +371,7 @@ type: könyv
 		- mások utánzása, új képességek, tapasztalatgyűjtés
 
 ### A digitális nomádok magányos élete
-
+<a id="A digitális nomádok magányos élete"></a>
 - az idő olyan, mint a telefon, ami annyit ér, ahány embert fel tudsz hívni vele
 - úgy tekintünk az időnkre, mint felhalmozandó erőforrásra, pedig mások nélkül nem ér semmit
 - a digitális nomáddal ellentétben a nomád a legmagányosabb életforma annak ellenére, hogy közösségekkel kellhet együttműködnie
@@ -393,7 +390,7 @@ type: könyv
 > Egy átlagbéren foglalkoztatott munkavállaló sokkal boldogabbnak érzi magát a rugalmas munkaidő mellett, mint az a gazdag menedzser, akinek be van táblázva az egész napja ([[Scott Adams - How to Fail at Almost Everything snd Still Win Big|Scott Adams könyve]])
 
 ### Kozmikus jelentéktelenség terápia
-
+<a id="Kozmikus jelentéktelenség terápia"></a>
 - az, hogy megfogalmazódik benned a "mi a fenéért csinálom ezt" kérdése, máris egy lépéssel előrébb jutottál
 - az egész történelmünket borzalmasan rövid idő öleli fel
 - minden mindegy
@@ -404,7 +401,7 @@ type: könyv
 - akkor becsüljük meg igazán az életet, ha nem engedünk tovább a jelentős eredmények elvárásainak
 
 ### Az emberiség nagy kórsága
-
+<a id="Az emberiség nagy kórsága"></a>
 - kudarcra ítélt harcot vívunk az időnkkel
 	- kozmikus jelentőséggel akarunk bírni
 	- mindenki minden kérését teljesíteni szeretnénk
@@ -434,7 +431,7 @@ type: könyv
 > Engedd csak nyugodtan el a lehetetlent, hadd csapódjon a földbe. Aztán szedj ki a roncsokból néhány értelmes feladatot, és kezdj el még ma dolgozni rajtuk.
 
 ## Túl a reményen
-
+<a id="Túl a reményen"></a>
 - minden el van cseszve
 	- hindu időszámítás szerinti Kali-juga: minden lebomlik, szétesik
 - egy ilyen világban felesleges lenne az időgazdálkodás?
@@ -451,7 +448,7 @@ type: könyv
 > Ha már nem kell magadat arról győzködnöd, hogy te aztán igenis meg fogsz tenni mindent, amit kell, akkor már nyugodtan koncentrálhatsz arra a néhány dologra, ami igazán számít.
 
 ## Tíz módszer a véges emberi lét elfogadására
-
+<a id="Tíz módszer a véges emberi lét elfogadására"></a>
 ### 1. A "fix mennyiség" elve
 
 - nyitott és zárt feladatlista
