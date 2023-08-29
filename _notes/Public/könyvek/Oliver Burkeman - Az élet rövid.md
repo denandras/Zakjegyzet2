@@ -10,102 +10,110 @@ type: könyv
 
 [[Oliver Burkeman]] - 4000 Weeks
 
+# Tartalom
+
+> [!NOTE] Tartalom
+> [[#Említések]]
+> 	[[#Bevezetés Hosszú távon mindenki halott]]
+> [[#1. Ha úgy döntesz, hogy te döntesz]]
+> 	[[#Az élet korlátai]]
+> 	[[#Hatékonyságcsapda]]
+
+
 ### Említések
 
-- [[Edward T Hall]]
-- [[Malcolm Harris]]
-- [[Carl Jung]]
-- [[Gary Eberle]]
-- [[Mumford - Technics and Civilization]]
-- [[Nietzsche]] 1887-es esszéje a multitasking egészségtelenségéről ([[Nietzsche - A vidám tudomány]])
-- [[Brian Tracy - Tartsd kézben az időt, tartsd kézben az életedet]]
-- [[Beuce Tift - Already Free]] pszichiáter
-- [[Morten Svenstrup - Towards a New Time Culture]]
-- [[Anne Helen Petersen - How Millenials Became The Burnout Generation]]
-- [[Charles Garfield Lott Du Cann - Teach Yourself to Live]]
-- [[Arnold Bennett - How to Live on 24 Hours a Day]]
-- [[Ruth Schwartz Cowan - More Work for Mother]]
-- [[Hartmut Rosa - Social Acceleration]] német szociológus
-- [[David Allen - Getting Things Done]]
-- [[Tim Wu - The Tyranny of Convenience]]
-- [[Martin Heidegger]] filozófus
-- [[Martin Hägglund - This Life]]
-- [[Paul Sagar - On Going On and On and On]]
-- [[David Cain - Your Whole Life Is Borrowed Time]]
-- Gregg Krech - The Art of Taking Action
-- [[DeMaria Barry - Personal Kanban]]
-- [[Costica Bradatan - Why Do Anything]] NY Times, 2016
-- [[Henri Bergson - Idő és szabadság]]
-- [[Robert Goodin - On Settling]]
-- [[Viktor Frankl - Az élet értelméről]]
-- [[Seneca - Az élet rövidségéről]]
-- [[Mary Oliver]] költő
-- [[Harry Frankfurt]] filozófus
-- [[James Williams - Stand Out for Our Light]]
-- [[T S Eliot - Burnt Norton in Four Quartets]]
-- [[Gregg Krech - The Art of taking Action]]
-- [[John Tarrant - You Don't Have to Know]]
-- [[David Cain - You Never Have Time, Only Intentions]]
-- [[Blaise Pascal - Gondolatok]]
-- [[Steve Taylor - Back to Sanity]]
-- [[Alan Watts]] "spirituális humorista", New Age-filozófus
-	- [[Alan Watts - From Time to Eternity]]
-- [[Alexander Herzen]] filozófus
-- [[Sam Harris]] podcastja
-- [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
-- [[Thich Nhat Hanh - The Miracle of Mindfulness]]
-- [[Jay Jennifer Matthews - Radically Condensed Instructions for Being Just as You Are]]
-- [[Walter Kerr - The Decline of Pleasure]]
-- [[Max Weber - A protestáns etika és a kapitalizmus szelleme]]
-- [[David Zahl - Seculosity: How Career, Parenting, Technology, Food, Politics, and Romance Became Our New Religion and What to Do About It]]
-- [[Walter Beueggemann - Sabbath as Resistance]]
-- [[John Gray - Straw Dogs: Thoughts on Humans and Other Animals]]
-- [[Kieran Setiya - Midlife]]
-- [[Schopenhauer - A világ mint akarat és képzet]]
-- [[Lao ce - Tao te king]]
-- [[Shaila Catherine - Planning in the Busy Mind]]
-- [[Tara Branch]]
-- [[Tom Stoppard - The Coast of Utopia]] színmű
-- [[Jennifer Roberts - The Power of Patience]] cikk
-- [[Robert Grudin]]
-- [[M Scott Peck - The Road Less Travelled]] (A keskeny ösvény) könyv
-- [[Robert Boice - How Writers Journey to Comfort and Fluency]]
-- [[Arno Minkkinen]] fényképész
-- [[Lance Oppenheim - The Happiest Guy in the World]] film
-- [[Scott Adams - How to Fail at Almost Everything snd Still Win Big]]
-- [[Judith Shulevitz]] író
-- [[William McNeill- Keeping Together in Time]]
-- [[Hannah Arendt - A totalitarizmus gyökerei]]
-- [[James Hollis]] jungiánus pszichiáter
-- [[Julio Vincent Gambuto]] író és filmrendező
-- [[Bryan Magee]] filozófus
-	- [[Bryan Magee - Ultimate Questions]]
-- [[Richard Holloway - Looking in the Distance]]
-- [[Johnny Truant - The Universe Doesn't Give a Flying Fuck About You]]
-- [[Iddo Landau - Finding Meaning in an Imperfect World]]
-- [[Jorge Luis Borges - Az idő újabb cáfolata]]
-- [[Charlotte Joko Beck]] zen mester
-- [[Joan Tollifson - Death, The End of Self-Improvement]]
-- [[Christian Bobin]]
-- [[Christophe André - Looking at Mindfulness, Twenty-Five Paintings to Change the Way You Live]]
-- [[Rilke - Levelek egy ifjú költőhöz]]
-- [[Stephen Cope]] pszichiáter
-- [[Susan Piver - Getting Stuff Done by Not Being Mean to Yourself]]
-- [[David Licata - A Life's Work]] doku film
-- [[Mahábhárata]]
-- [[Derrick Jensen - Beyond Hope]] [cikk]((https://orionmagazine.org/article/beyond-hope)
-- [[Pema Chödrön - Amikor minden darabokra hullik]]
-- [[George Orwell - Some Thoughts on the Common Toad]]
-- [[Cal Newport - Deep Work]]
-- [[John Acuff - Finish, Give Yourself the Gift of Done]]
-- [[Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone]]
-- [[William James - The Principle of Psychology]]
-- [[Shizen Young - The Science of Enlightment]]
-- [[Susan Jeffers - Embracing Uncertainty]]
-- [[Blaise Pascal - Gondolatok]]
-- [[Jenny Odell - How to Do Nothing]]
-
-# Outline
+- [ ] [[Edward T Hall]]
+- [ ] [[Malcolm Harris]]
+- [ ] [[Carl Jung]]
+- [ ] [[Gary Eberle]]
+- [ ] [[Mumford - Technics and Civilization]]
+- [ ] [[Nietzsche]] 1887-es esszéje a multitasking egészségtelenségéről ([[Nietzsche - A vidám tudomány]])
+- [ ] [[Brian Tracy - Tartsd kézben az időt, tartsd kézben az életedet]]
+- [ ] [[Beuce Tift - Already Free]] pszichiáter
+- [ ] [[Morten Svenstrup - Towards a New Time Culture]]
+- [ ] [[Anne Helen Petersen - How Millenials Became The Burnout Generation]]
+- [ ] [[Charles Garfield Lott Du Cann - Teach Yourself to Live]]
+- [ ] [[Arnold Bennett - How to Live on 24 Hours a Day]]
+- [ ] [[Ruth Schwartz Cowan - More Work for Mother]]
+- [ ] [[Hartmut Rosa - Social Acceleration]] német szociológus
+- [ ] [[David Allen - Getting Things Done]]
+- [ ] [[Tim Wu - The Tyranny of Convenience]]
+- [ ] [[Martin Heidegger]] filozófus
+- [ ] [[Martin Hägglund - This Life]]
+- [ ] [[Paul Sagar - On Going On and On and On]] [cikk](https://aeon.co/essays/theres-a-big-problem-with-immortality-it-goes-on-and-on)
+- [ ] [[David Cain - Your Whole Life Is Borrowed Time]]
+- [ ] Gregg Krech - The Art of Taking Action
+- [ ] [[DeMaria Barry - Personal Kanban]]
+- [ ] [[Costica Bradatan - Why Do Anything]] NY Times, 2016
+- [ ] [[Henri Bergson - Idő és szabadság]]
+- [ ] [[Robert Goodin - On Settling]]
+- [ ] [[Viktor Frankl - Az élet értelméről]]
+- [ ] [[Seneca - Az élet rövidségéről]]
+- [ ] [[Mary Oliver]] költő
+- [ ] [[Harry Frankfurt]] filozófus
+- [ ] [[James Williams - Stand Out for Our Light]]
+- [ ] [[T S Eliot - Burnt Norton in Four Quartets]]
+- [ ] [[Gregg Krech - The Art of taking Action]]
+- [ ] [[John Tarrant - You Don't Have to Know]]
+- [ ] [[David Cain - You Never Have Time, Only Intentions]]
+- [ ] [[Blaise Pascal - Gondolatok]]
+- [ ] [[Steve Taylor - Back to Sanity]]
+- [ ] [[Alan Watts]] "spirituális humorista", [[New Age]]-filozófus
+	- [ ] [[Alan Watts - From Time to Eternity]]
+- [ ] [[Alexander Herzen]] filozófus
+- [ ] [[Sam Harris]] podcastja
+- [ ] [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
+- [ ] [[Thich Nhat Hanh - The Miracle of Mindfulness]]
+- [ ] [[Jay Jennifer Matthews - Radically Condensed Instructions for Being Just as You Are]]
+- [ ] [[Walter Kerr - The Decline of Pleasure]]
+- [ ] [[Max Weber - A protestáns etika és a kapitalizmus szelleme]]
+- [ ] [[David Zahl - Seculosity: How Career, Parenting, Technology, Food, Politics, and Romance Became Our New Religion and What to Do About It]]
+- [ ] [[Walter Beueggemann - Sabbath as Resistance]]
+- [ ] [[John Gray - Straw Dogs: Thoughts on Humans and Other Animals]]
+- [ ] [[Kieran Setiya - Midlife]]
+- [ ] [[Schopenhauer - A világ mint akarat és képzet]]
+- [ ] [[Lao ce - Tao te king]]
+- [ ] [[Shaila Catherine - Planning in the Busy Mind]]
+- [ ] [[Tara Branch]]
+- [ ] [[Tom Stoppard - The Coast of Utopia]] színmű
+- [ ] [[Jennifer Roberts - The Power of Patience]] cikk
+- [ ] [[Robert Grudin]]
+- [ ] [[M Scott Peck - The Road Less Travelled]] (A keskeny ösvény) könyv
+- [ ] [[Robert Boice - How Writers Journey to Comfort and Fluency]]
+- [ ] [[Arno Minkkinen]] fényképész
+- [ ] [[Lance Oppenheim - The Happiest Guy in the World]] film
+- [ ] [[Scott Adams - How to Fail at Almost Everything snd Still Win Big]]
+- [ ] [[Judith Shulevitz]] író
+- [ ] [[William McNeill- Keeping Together in Time]]
+- [ ] [[Hannah Arendt - A totalitarizmus gyökerei]]
+- [ ] [[James Hollis]] jungiánus pszichiáter
+- [ ] [[Julio Vincent Gambuto]] író és filmrendező
+- [ ] [[Bryan Magee]] filozófus
+	- [ ] [[Bryan Magee - Ultimate Questions]]
+- [ ] [[Richard Holloway - Looking in the Distance]]
+- [ ] [[Johnny Truant - The Universe Doesn't Give a Flying Fuck About You]]
+- [ ] [[Iddo Landau - Finding Meaning in an Imperfect World]]
+- [ ] [[Jorge Luis Borges - Az idő újabb cáfolata]]
+- [ ] [[Charlotte Joko Beck]] zen mester
+- [ ] [[Joan Tollifson - Death, The End of Self-Improvement]]
+- [ ] [[Christian Bobin]]
+- [ ] [[Christophe André - Looking at Mindfulness, Twenty-Five Paintings to Change the Way You Live]]
+- [ ] [[Rilke - Levelek egy ifjú költőhöz]]
+- [ ] [[Stephen Cope]] pszichiáter
+- [ ] [[Susan Piver - Getting Stuff Done by Not Being Mean to Yourself]]
+- [ ] [[David Licata - A Life's Work]] doku film
+- [ ] [[Mahábhárata]]
+- [ ] [[Derrick Jensen - Beyond Hope]] [cikk]((https://orionmagazine.org/article/beyond-hope)
+- [ ] [[Pema Chödrön - Amikor minden darabokra hullik]]
+- [ ] [[George Orwell - Some Thoughts on the Common Toad]]
+- [ ] [[Cal Newport - Deep Work]]
+- [ ] [[John Acuff - Finish, Give Yourself the Gift of Done]]
+- [ ] [[Nellie Bowles - Is the Answer to Phone Addiction a Worse Phone]]
+- [ ] [[William James - The Principle of Psychology]]
+- [ ] [[Shizen Young - The Science of Enlightment]]
+- [ ] [[Susan Jeffers - Embracing Uncertainty]]
+- [ ] [[Blaise Pascal - Gondolatok]]
+- [ ] [[Jenny Odell - How to Do Nothing]]
 
 ### Bevezetés: Hosszú távon mindenki halott
 

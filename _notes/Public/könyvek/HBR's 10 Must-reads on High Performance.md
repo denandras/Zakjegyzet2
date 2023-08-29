@@ -59,11 +59,11 @@ type: könyv
 		- próbáld meg lemásolni
 		- vesd össze, majd elemezd, hogy hol hibáztál
 
-> Experts are always made, not born.
+> 	Experts are always made, not born.
 
-> Living in a cave doesn't make you a geologist.
+> 	Living in a cave doesn't make you a geologist.
 
-> If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor Auer, violin)
+> 	If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor Auer, violin)
 
 ## Managing Oneself
 [[Peter F Drucker]]
@@ -84,6 +84,9 @@ type: könyv
 	- de egy mérnöknek kivitelezők kellenek, el kell tudni magyarázni nekik, valamint ismerni a pontot, ahol nem érdemes folytatni
 - sokkal nehezebb kezdőből haladóvá lenni, mint kompetensből a legjobbá válni
 	- és mégis a tanárok, rendszerek előbbit előnyben részesítik
+
+### Munkamódszer
+
 - a mit mellett a hogyan is ugyanolyan fontos
 	- sokan nem ismerik a legjobb munkamódszerüket
 - olvasó vagy, vagy hallgató?
@@ -113,8 +116,31 @@ type: könyv
 - a sikeres karrier nincs megtervezve
 	- lehetőségekre adott jó válaszok
 	- önismeret
+- változás a '60-as években
+	- pályaválasztás
+	- mit követel a szituáció?
+	- az erősségeim adottak, hogy tudok a legjobb módon hozzájárulni a közjóhoz?
+	- milyen eredmények szükségesek a változáshoz?
+- fontos az időkeret, ez 18 hónapnál ideálisan belátható
+- nehézség
+	- elérhető, de nem könnyű cél az ideális
 
-> He believes that ideas move mountains. But bulldozers move mountains; ideas show where the bulldozers should go work.
+### Kapcsolatok
+
+- nagyon kevesen tudják magukat teljesen egyedül menedzselni
+- felelősség
+	- elfogadni, hogy mások ugyanúgy egyének, mint te
+		- ne csak magadat, hanem a veled dolgozó embereket is ismerd
+		- erősségek, munkamódszer kiismerése (egy főnöknél is!)
+		- a munkakapcsolatok ugyanannyira az embereken, amennyire a munkán múlnak
+	- kommunikálni
+		- és ezáltal megismerni mások értékeit, személyét és munkamódszerét
+		- elvárások helyett türelmesnek lenni és kérdezni, beszélgetni
+	- 
+
+> 	He believes that ideas move mountains. But bulldozers move mountains; ideas show where the bulldozers should go work.
+
+> 	Organizations are no longer built on force but on trust. The existence of trust between people does not necessarily mean that they like one another.
 
 
 
