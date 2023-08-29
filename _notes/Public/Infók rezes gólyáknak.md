@@ -16,7 +16,8 @@ type: poszt
 	- [Kormányablak](https://idopontfoglalo.kh.gov.hu/kormanyablak-66/ugykor-valasztas) -> NEK adatlap igénylés
 		- előbb jelentkezz be, mint hogy kiválasztanád az ügykört!
 	- Neptun -> Ügyintézés/Diákigazolvány igénylés
-	- kapsz egy ideigleneset a TO-n
+	- kapsz egy ideigleneset (dokumentum) a TO-n
+- tanévnyitó szept. 4. 10:00
 
 ## Általános infók
 
@@ -63,9 +64,9 @@ type: poszt
 	- [HÖOK](https://hook.hu/cms/szervezetunk)
 		- a magyarországi felsőoktatási intézmények hallgatói önkormányzatainak demokratikus alapon szerveződő és működő országos érdekképviseleti szervezete
 		- kapcsolatépítésre kiváló
-- gyakorlás
-	- főépület: nem kell termet foglalni
-		- hivatalosan nagytestű hangszeresek gyakorolhatnak itt, gyakorlatilag minden rezes a *36-38. termek*ben
+- **gyakorlás**
+	- főépület: nem kell termet foglalni (**szept. 1-én nyit**, a szokottnál később)
+		- hivatalosan nagytestű hangszeren játszó hallgatók gyakorolhatnak itt (tuba, nagybőgő, stb.), gyakorlatilag minden rezes a *36-38. termek*ben
 	- [Wesselényi](http://gyakorlas.lisztakademia.hu/home) 3. emelet
 		- két nappal a gyakorlás ideje előtt foglalható [itt](http://gyakorlas.lisztakademia.hu/home)
 		- max. 4 óra/nap (nem tisztességes pepitában, lyukakat hagyva foglalni)
@@ -74,6 +75,7 @@ type: poszt
 	- [kamara foglalás](https://lfze.hu/tanulmanyi-hirek/kamarazene-gyakorlofoglalas-119863)
 		- csak meghatározott célra (pl. órára való készülés/verseny) adják ki
 		- kamaracsoportokba szerveződésnél fontos lehet megbeszélni, hogy ki milyen rendszerességgel próbálna
+		- [email](teremfoglalas@academy.liszt.hu)
 	- A rézfúvós kamaracsoportok pontos beosztása miatt kérjük, hogy mindenképpen egyeztessenek _**Hőna Gusztáv, Varga Zoltán, Seleljo Erzsébet, Szőke Zoltán**_ és _**Szentpáli Roland**_ oktatókkal.
 	- A fúvós kamarákra feliratkozni [ITT](https://lfze-my.sharepoint.com/:x:/g/personal/teremfoglalas_academy_liszt_hu/EV7XaNuBwtZEmyjtN06Vr-kBU3flWeoNnkAGwB_ckWdqXA?e=VH67eS) lehet.
 - felvételkészítés, nagyobb termek
@@ -95,6 +97,7 @@ type: poszt
 		- a valóságot felülírja a Neptun, pl. zenekar esetén
 	- szabadon választott (*szabvál*) tárgyak
 		- a honlapon elérhető listából választva
+			- a kredithálók alatt
 		- amennyiben nem az ajánlott szabválak közül választasz, meg kell beszélni az adott tanárral, hogy szeretnéd felvenni az óráját, pl. BigBand
 			- aztán Neptun: kérelem szakirányon kívüli tárgyak felvételéhez
 - [órarendek](https://apps.lfze.hu/scheduler/query/form)
