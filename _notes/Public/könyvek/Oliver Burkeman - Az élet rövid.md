@@ -14,19 +14,27 @@ type: könyv
 
 
 - [[Említések::#Említések]]
-- [[Oliver Burkeman - Az élet rövid#Bevezetés Hosszú távon mindenki halott]]
-- [[#1. Ha úgy döntesz, hogy te döntesz]]
-	- [[#Az élet korlátai]]
-	- [[#Hatékonyságcsapda]]
-	- [[#Szemtől szemben a végességgel]]
-	- [[#Halogatás magas fokon]]
-	- [[#A görögdinnye-probléma]]
-	- [[#A belső megszakító]]
-- [[#2. Túl az irányításon]]
+- [[Bevezetés Hosszú távon mindenki halott::#Bevezetés Hosszú távon mindenki halott]]
+- [[1. Ha úgy döntesz, hogy te döntesz::#1. Ha úgy döntesz, hogy te döntesz]]
+	- [[Az élet korlátai::#Az élet korlátai]]
+	- [[Hatékonyságcsapda::#Hatékonyságcsapda]]
+	- [[Szemtől szemben a végességgel::#Szemtől szemben a végességgel]]
+	- [[Halogatás magas fokon::#Halogatás magas fokon]]
+	- [[A görögdinnye-probléma::#A görögdinnye-probléma]]
+	- [[A belső megszakító::#A belső megszakító]]
+- [[2. Túl az irányításon::#2. Túl az irányításon]]
+	- [[Igazából soha nincs időnk::#Igazából soha nincs időnk]]
+	- [[Itt és most::#Itt és most]]
+	- [[Pihenés újratöltve::#Pihenés újratöltve]]
+	- [[A türelmetlenség spirálja::#A türelmetlenség spirálja]]
+	- [[Maradj a buszon::#Maradj a buszon]]
+	- [[A digitális nomádok magányos élete::#A digitális nomádok magányos élete]]
+	- [[Kozmikus jelentéktelenség terápia::#Kozmikus jelentéktelenség terápia]]
+	- [[Az emberiség nagy kórsága::#Az emberiség nagy kórsága]]
+- [[Túl a reményen::#Túl a reményen]]
+- [[Tíz módszer a véges emberi lét elfogadására::#Tíz módszer a véges emberi lét elfogadására]]
 
-
-
-### Említések
+## Említések
 
 - [ ] [[Edward T Hall]]
 - [ ] [[Malcolm Harris]]
@@ -48,7 +56,7 @@ type: könyv
 - [ ] [[Martin Hägglund - This Life]]
 - [ ] [[Paul Sagar - On Going On and On and On]] [cikk](https://aeon.co/essays/theres-a-big-problem-with-immortality-it-goes-on-and-on)
 - [ ] [[David Cain - Your Whole Life Is Borrowed Time]]
-- [ ] Gregg Krech - The Art of Taking Action
+- [ ] [[Gregg Krech - The Art of Taking Action]]
 - [ ] [[DeMaria Barry - Personal Kanban]]
 - [ ] [[Costica Bradatan - Why Do Anything]] NY Times, 2016
 - [ ] [[Henri Bergson - Idő és szabadság]]
@@ -121,7 +129,7 @@ type: könyv
 - [ ] [[Blaise Pascal - Gondolatok]]
 - [ ] [[Jenny Odell - How to Do Nothing]]
 
-### Bevezetés: Hosszú távon mindenki halott
+## Bevezetés: Hosszú távon mindenki halott
 
 - kevés jut, és az is egyre gyorsul
 - minél többet akarsz elvégezni, annál több marad hátra/zúdul rád
