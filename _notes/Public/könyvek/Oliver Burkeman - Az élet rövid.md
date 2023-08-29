@@ -12,17 +12,23 @@ type: könyv
 
 # Tartalom
 
-> [!NOTE] Tartalom
-> [[#Említések]]
-> 	[[#Bevezetés Hosszú távon mindenki halott]]
-> [[#1. Ha úgy döntesz, hogy te döntesz]]
-> 	[[#Az élet korlátai]]
-> 	[[#Hatékonyságcsapda]]
+
+- [[Említések::#Említések]]
+- [[Oliver Burkeman - Az élet rövid#Bevezetés Hosszú távon mindenki halott]]
+- [[#1. Ha úgy döntesz, hogy te döntesz]]
+	- [[#Az élet korlátai]]
+	- [[#Hatékonyságcsapda]]
+	- [[#Szemtől szemben a végességgel]]
+	- [[#Halogatás magas fokon]]
+	- [[#A görögdinnye-probléma]]
+	- [[#A belső megszakító]]
+- [[#2. Túl az irányításon]]
+
 
 
 ### Említések
 
-- [ ] [[Edward T Hall]]
+- [x] [[Edward T Hall]]
 - [ ] [[Malcolm Harris]]
 - [ ] [[Carl Jung]]
 - [ ] [[Gary Eberle]]
