@@ -28,7 +28,7 @@ type: könyv
 
 ### Említések
 
-- [x] [[Edward T Hall]]
+- [ ] [[Edward T Hall]]
 - [ ] [[Malcolm Harris]]
 - [ ] [[Carl Jung]]
 - [ ] [[Gary Eberle]]
