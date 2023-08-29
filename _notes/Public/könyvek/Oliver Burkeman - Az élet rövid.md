@@ -35,6 +35,7 @@ type: könyv
 - [[Tíz módszer a véges emberi lét elfogadására::#Tíz módszer a véges emberi lét elfogadására]]
 
 ## Említések
+<a id="Említések"></a>
 
 - [ ] [[Edward T Hall]]
 - [ ] [[Malcolm Harris]]
