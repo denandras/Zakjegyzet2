@@ -579,7 +579,7 @@ type: témakör
 > avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával jelentőset akar alkotni
 
 #### Film ajánlások
-<Áa id="Film ajánlások"></a>
+<a id="Film ajánlások"></a>
 <img src="https://denandras.github.io/zakjegyzet/assets/img/K%C3%A9s%C5%91%20modern%20m%C5%B1v%C3%A9szfilmek.jpg" width="100%">
 
 - [[Huszárik - Elégia]], igazi avantgárd
