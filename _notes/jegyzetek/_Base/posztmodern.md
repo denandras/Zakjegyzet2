@@ -125,7 +125,7 @@ type: témakör
 - [ ] [[Régi idők focija]] - film
 - [ ] [[Liza, a rókatündér]] film
 - [ ] [[Enyedi Ildikó - A bűvös vadász]] film
-- [ ] [[10 perc trombita]] filmnovella sorozat
+- [ ] [[10 perc trombita]] [filmnovella sorozat](https://ok.ru/video/3717822745197)
 - [ ] [[Eva Baronsky - Mozart felébred]] könyv (olyasmi, mint a [[Nézd, ki van itt]])
 ### Fogalma
 <a id="Fogalma"></a>
