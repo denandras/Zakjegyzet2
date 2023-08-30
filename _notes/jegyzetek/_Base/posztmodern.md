@@ -8,43 +8,131 @@ subject: posztmodern
 type: témakör
 ---
 
-P. Sloterdijk: *"Aki szédül, az nincs informálva"*
-(de nem mindenki szeret szédülni)
+> [[P Sloterdijk]]: *"Aki szédül, az nincs informálva"*
+> (de nem mindenki szeret szédülni)
 
-- [[Kovács Zoltán]], bölcsész
-- esszé, vagy jelenléti jegykérés
+> - [[Kovács Zoltán]], bölcsész
+> - esszé, vagy jelenléti jegykérés
 
-#### Említések
-- [[Vajda Mihály]]
-- [[Varró Dániel]]
-- [[Nemes Z Márió]]
-- [[Pethő Barnabás]] filozófus
-- [[Agyak a tartályban]] (Putnam, filozófiai szemle)
-- [[Bibó István]]
-- [[Joh Luck]]
-- [[A holtak nem halnak meg]] film
-- [[Kosztolányi - Édes Anna]]
-- [[Krúdy - Szindbád-regények]]
-- [[Márai - Szindbád hazamegy]]
-- [[Orbán Ottó - Vanitatum vanitas]] (későmodern)
-- [[Hadik]] film - nem ajánlott
-- [[Ich bin dein Mensch]] film
-- [[Koyaanisqatsi]] film
-- [[Lázár Ervin - Szegény Dzsoni és Árnika]]
-- [[A szurkos kezű királyfiak]]
-- [[Báró Kemény Zsigmond]]
-- [[Jean Paul Sartre - A fal]]
-- [[Tóth Krisztina - Porhó]]
-- [[Szinyei - Eigel István]]
-- [[Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok]]
-- [[Jihn Adams - Nixon Kínában]]
-- [[Melis László - Bakkhánsnők]]
-
+# Tartalom
+<a id="Tartalom"></a>
+- [[Említések::#Említések]]
+- [[Fogalma::#Fogalma]]
+- [[Modernitás::#Modernitás]]
+	- [[Későmodernitás, 20. sz. második fele::#Későmodernitás, 20. sz. második fele]]
+- [[Posztmodern::#Posztmodern]]
+- [[Kultúra::#Kultúra]]
+- [[Globalizáció::#Globalizáció]]
+- [[Filozófia::#Filozófia]]
+- [[Művészet::#Művészet]]
+- [[Posztmodern film::#Posztmodern film]]
+	- [[Film ajánlások::#Film ajánlások]]
+### Említések
+<a id="Említések"></a>
+- [ ] [[P Sloterdijk]] - filozófus
+- [ ] [[Francis Bacon]] - filozófus
+- [ ] [[René Descartes]], [[Rousseau]], [[Diderot]] - filozófusok
+- [ ] [[Sigmund Baumann]] - szociológus
+- [ ] [[Freud]] - pszichoanalitikus
+- [ ] [[Platón]] - filozófus
+- [ ] [[Nietzsche]] - filozófus
+- [ ] [[Dragomán - Fehér király]] - regény
+- [ ] [[Koyaanisqatsi]] - film
+- [ ] [[I'm your man]] film
+- [ ] [[Legújabb testamentum]] film
+- [ ] [[Világba borult apokalipszis]] film
+- [ ] [[Patricia Piccinini]] - képzőművész
+- [ ] [[Bukta Imre]] - képzőművész
+- [ ] [[Mátrix]] - film
+- [ ] [[Jacques Lacan]] - pszichoanalitikus
+- [ ] [[Wittgenstein]] - filozófus
+- [ ] [[Gadamer]] - [[hermeneutika]] - filozófus, hermeneutika szakértője
+- [ ] [[Igazság és módszer]] - filozófiai mű
+- [ ] [[Thomas Kuhn]] - tudományfilozófus
+- [ ] [[Lakatos Imre]] - tudományfilozófus
+- [ ] [[Rorty]] - filozófus
+- [ ] [[R Barthes - A szerző halála]] esszé - esszéíró, filozófus ([link](http://www.irodalomelmelet.atw.hu/barthes.pdf))
+- [ ] [[Derrida]] - filozófus
+- [ ] [[Vajda Mihály]] - festőművész
+- [ ] [[Kafka]] egypercesei
+- [ ] [[Varró Dániel]] - költő
+- [ ] [[Nemes Z Márió]] - író
+- [ ] [[Pethő Barnabás]] filozófus
+- [ ] [[Agyak a tartályban]] (Putnam, filozófiai szemle) - filozófiai írás
+- [ ] [[Bibó István]] - politikai gondolkodó
+- [ ] [[John Locke]] - filozófus
+- [ ] [[A holtak nem halnak meg]] film
+- [ ] [[Kosztolányi - Édes Anna]] - regény
+- [ ] [[Krúdy - Szindbád-regények]] - regények
+- [ ] [[Márai - Szindbád hazamegy]] - regény
+- [ ] [[Lázár Ervin - Szegény Dzsoni és Árnika]] - mese
+- [ ] [[A szurkos kezű királyfiak]] - regény
+- [ ] [[Az ember tragédiája]] - dráma
+- [ ] [[Báró Kemény Zsigmond]] - író
+- [ ] [[Jean Paul Sartre - A fal]] - novella
+- [ ] [[Martin McDonald]] - [festőművész](https://www.martinmacdonaldartist.com/)
+- [ ] [[Tóth Krisztina - Porhó]] - regény
+- [ ] [[Szinyei - Eigel István]] - festőművész
+- [ ] [[Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok]] - regény
+- [ ] [[Örkény - Egypercesek]] - novellák
+- [ ] [[Prokofiev]] - zeneszerző
+- [ ] [[Charles Batteux]] - filozófus
+- [ ] [[John Adams - Nixon Kínában]] - zeneszerző, opera
+- [ ] [[Melis László - Bakkhánsnők]] - regény
+- [ ] [[Hume]] - filozófus
+- [ ] [[Új Zenei Újság]] - zenei folyóirat
+- [ ] [[Bach]] - [[Mátépassió]] - zenei kompozíció
+- [ ] [[Schiller]] - író, filozófus
+- [ ] [[Kant]] - filozófus
+- [ ] [[Philippe Glass]] - zeneszerző
+- [ ] [[Hundertwasser]] építész
+- [ ] [[Fudzsimoto Szószuke]] - építész
+- [ ] [[Bak Imre]] - festőművész
+- [ ] [[Vera Molnár]] - képzőművész
+- [ ] [[Maurer Dóra]] - festőművész
+- [ ] [[Josef Kosut]] - művész
+- [ ] [[Zbigniew Libera]] - művész
+- [ ] [[Paul Feyerabend]] - filozófus
+- [ ] [[Karl Popper]] - filozófus
+- [ ] [[Keresztes Zsófia]] - képzőművész
+- [ ] [[David Hockney]] - festőművész
+- [ ] [[John Baldessari]] - művész
+- [ ] [[Liza Lou]] - (The Kitchen) - művész
+- [ ] [[Banksy]] - street art művész
+- [ ] [Societé Realiste](http://mezosfera.org/the-obscure-object-of-desire/) - művészeti csoport
+- [ ] [[Esterházy Péter]] - író
+- [ ] [[Elekes Károly]] - író
+- [ ] [[Konkoly Gyula]] - festőművész
+- [ ] [[Orbán Ottó - Vanitatum vanitas]] (későmodern) - [vers](https://konyvtar.dia.hu/html/muvek/ORBAN/orban00963/orban00965/orban00965.html)
+- [ ] [[Hadik]] film - nem ajánlott
+- [ ] [[Ich bin dein Mensch]] film
+- [ ] [[Koyaanisqatsi]] film
+- [ ] [[Lázár Ervin - Szegény Dzsoni és Árnika]] - mese
+- [ ] [[A szurkos kezű királyfiak]] - regény
+- [ ] [[Báró Kemény Zsigmond]] - író
+- [ ] [[Jean Paul Sartre - A fal]] - novella
+- [ ] [[Tóth Krisztina - Porhó]] - regény
+- [ ] [[Szinyei - Eigel István]] - festőművész
+- [ ] [[Pasi Ilmari Jääskeläinen - Don városi rejtekjáratok]] - regény
+- [ ] [[Jihn Adams - Nixon Kínában]] - zeneszerző, opera
+- [ ] [[Melis László - Bakkhánsnők]] - regény
+- [ ] [[A szomorúság háromszöge]] film
+- [ ] [[Az andalúziai kutya]] - film
+- [ ] [[Az élet értelme]] - film
+- [ ] [[Huszárik - Elégia]] - film
+- [ ] [[Huszárik - Szindbád]] - film
+- [ ] [[Kávé és cigaretta]] - film
+- [ ] [[Régi idők focija]] - film
+- [ ] [[Liza, a rókatündér]] film
+- [ ] [[Enyedi Ildikó - A bűvös vadász]] film
+- [ ] [[10 perc trombita]] filmnovella sorozat
+- [ ] [[Eva Baronsky - Mozart felébred]] könyv (olyasmi, mint a [[Nézd, ki van itt]])
 ### Fogalma
+<a id="Fogalma"></a>
 - egy olyan korszakjelölő fogalom, amely egy másik korszakhoz viszonyítja magát
 - nem modernellenes, hanem kritikával viszonyul a modernitáshoz
 - *korszak*: postmodernity, kb. 1960-
-	- [[Liotar]] esszéje
+	- [[Lyotard]] esszéje
 - *stílus*: postmodernism
 	- a magyarban nincs különválasztva
 - a korszaknak nincs vége, kivéve egy posztapokaliptikus világban, vagy Észak-Koreában
@@ -60,10 +148,10 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 		- arab országok, tudósok
 	- gondolkodó vallásos vezetők nem premodernek
 
-> 	posztmodern az, aki azt állítja, hogy együtt létezik sokminden (nem minden törvény együttműködő egymással, de ettől még létezhet minden együtt. pl. Isten létezik, de a tudomány is jó)
+> posztmodern az, aki azt állítja, hogy együtt létezik sokminden (nem minden törvény együttműködő egymással, de ettől még létezhet minden együtt. pl. Isten létezik, de a tudomány is jó)
 
 ### Modernitás
-
+<a id="Modernitás"></a>
 - 1620-1960
 - [[Francis Bacon]]: Novum Organum
 	- 1620: az életet tudományos kutatásokkal, matematikával meg tudjuk érteni
@@ -96,7 +184,8 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 - már akkor is pluralizmus volt, mostmár ezt látjuk
 	- az absztrakt geometrikusok utálják a velük párhuzamosan jelen lévő szürrealistákat
 
-#### Későmodernitás 20. sz. második fele
+#### Későmodernitás, 20. sz. második fele
+<a id="Későmodernitás, 20. sz. második fele"></a>
 - irodalomban
 - szkepszis
 - Sigmund [[Freud]] pszichoanalízis-elmélete
@@ -112,7 +201,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- zene-szöveg-mozgás
 
 ### Posztmodern
-
+<a id="Posztmodern"></a>
 - filozófiai érveink vannak arra, hogy a pluraliznusban lehetetlen dönteni
 - csak ott lehetséges, ahol demokrácia van
 	- a vitahelyzetet nem zárjuk le erőszakkal
@@ -166,7 +255,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 		- ha elutasítunk, át kell gondolnunk, hogy mit utasítunk el
 	- neo-avantgárd
 	- hiperrealizmus
-	- <mark>Bukta Imre kiállítás Godot labor</mark>
+	- <mark>[[Bukta Imre]] kiállítás Godot labor</mark>
 		- leszámol a vidég-ideállal
 		- az okoskapa - kapitalizmus-kritika (mit ad helyébe?)
 		- marxizmus as helyette valamit (ami még rosszabb)
@@ -181,7 +270,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 		- abortuszellenes mozgalom
 
 ### Kultúra
-
+<a id="Kultúra"></a>
 - iskolázottság
 	- nagyon egyszerű ember nem posztmodern
 	- türelmesebbé és nyitottabbá tesz
@@ -194,7 +283,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- manipulálás: a közönség irányít, élő adás egyénektől (addigi riporterek, stb)
 
 ### Globalizáció
-
+<a id="Globalizáció"></a>
 - konzerválja az egyenlőtlenséget és elnyomást
 - a kultúra teljesen elérhetővé vált
 - túláradás
@@ -207,7 +296,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 		- kulturális szempontból nem elfogadható ez a buborék
 
 ### Filozófia
-
+<a id="Filozófia"></a>
 - különböző stílusú filozófiák
 - dekonstruálja a metafizikát
 - végeredmény: detotalizál, dekonstruál, szkepszis
@@ -257,7 +346,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- neopragmatizmus: az igazság relatív
 - posztstrukturaliznus
 	- [[R Barthes]]: a szöveg öröme
-		- [[A szerző halála]]
+		- [[R Barthes - A szerző halála]]
 - dekonstrukció
 	- [[Derrida]]
 	- szétbontok és újraértelmezve felépítek
@@ -268,7 +357,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- sok kis narratíva lesz
 
 ### Művészet
-
+<a id="Művészet"></a>
 - high art - low art
 	- osztályozó jelleg
 	- a posztmodern összemos
@@ -328,6 +417,9 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- alternatív megoldás
 - patetikusság vége, de gondolkodás a kérdésről
 	- [[Örkény - Egypercesek]]
+	- short story = rövidtörténet (a novellánál is rövidebb, sokminden van kihagyva)
+	- a dúsítást úgy éri el, hogy a hiányra épít
+	- [[Kafka]] egypercesei
 - ha a szerző nyilatkozik, az sem ad bizonyosságot
 	- ő is hazudhat
 	- [[Prokofiev]] - Klasszikus szimfónia
@@ -346,7 +438,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- osztályozás eltűnt (nincs besorolás és értelmezés)
 	- minden elképzelhető, ha van közönsége
 	- példák:
-		- [[Jihn Adams - Nixon Kínában]]
+		- [[John Adams - Nixon Kínában]]
 		- [[Melis László - Bakkhánsnők]]
 - esztétika
 	- amikor ítélek, hogyan működik, milyen alapelvek alapján?
@@ -356,7 +448,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- -> bárki bármit megítélhet?
 		- [[Hume]]: bevezetünk kritériumokat, bárkinek a véleményét nem fogadjuk el
 		- (értelmező közösségek elmélete)
-		- [[Új Zenei Újság! ]]- mai művészetkritika
+		- [[Új Zenei Újság]]- mai művészetkritika
 		- wittgensteini nyelvjáték a kritika is (tehát folytatni tudjuk az értelmezést)
 		- ízlésünk igazodik, érzékenységünk mélyül
 - minek van műalkotás?
@@ -399,7 +491,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 - képzőművészet
 	- együtt él a késő modern és a posztmodern
 	- [[Bak Imre]], Ráder(?) András
-	- [[Mauer Dóra]], [[Vera Molnár]]
+	- [[Maurer Dóra]], [[Vera Molnár]]
 	- angolszász újrealizmus
 	- [[Liszt]]-szobrok
 		- Liszt-tér, avantgárd, expresszionista
@@ -423,7 +515,7 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 - gender-téma
 	- politikában pénzkérdés
 	- nem lehet etikai téma, mert etikai hiányosságra mutat rá
-- "Anything Goes" - [[Paul Feierabend]]
+- "Anything Goes" - [[Paul Feyerabend]]
 	- tudásszociológiai kifejezés
 	- a régi metafizikai bázisok eltűnnek
 		- tehát elismeri, hogy nem ismerhető meg az igazság
@@ -472,26 +564,28 @@ P. Sloterdijk: *"Aki szédül, az nincs informálva"*
 	- posztmodern, amely felidéz valamit (pl. ókort)
 	- magánmitológia
 ### Posztmodern film
+<a id="Posztmodern film"></a>
+- egyszerre van jelen a posztmodern film a (kevés) modernnel és a szórakoztatóval
+	- a modern nem ironikus, csak ha elutasít egy elutasítható rendszert
+	- [[A szomorúság háromszöge]]
+- a művészet képes a leginkább valóságutánzattá válni, a fotó statikus -> a film valóságutánzatnak **tűnik** - mimézis
+- minden irodalmi mű a kihagyásra épül, az a lényeg, ami nincs benne - az a lényeg, ami benne van
+- lehet szórakoztatva tanítani
+	- az eszközök által egyértelművé tehető
+- jelentősség (nem kelk értelem, mindenki számára lehet jelentős)
+- [[Az andalúziai kutya]] film
+- [[Az élet értelme]] film
 
-> - egyszerre van jelen a posztmodern film a (kevés) modernnel és a szórakoztatóval
-> 	- a modern nem ironikus, csak ha elutasít egy elutasítható rendszert
-> 	- [[A szomorúság háromszöge]]
-> - a művészet képes a leginkább valóságutánzattá válni, a fotó statikus -> a film valóságutánzatnak **tűnik** - mimézis
-> - minden irodalmi mű a kihagyásra épül, az a lényeg, ami nincs benne - az a lényeg, ami benne van
-> - lehet szórakoztatva tanítani
-> 	- az eszközök által egyértelművé tehető
-> - jelentősség (nem kelk értelem, mindenki számára lehet jelentős)
-> - [[Az andalúziai kutya]] film
-> - [[Az élet értelme]] film
+> avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával jelentőset akar alkotni
 
-avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával jelentőset akar alkotni
-
+#### Film ajánlások
+<Áa id="Film ajánlások"></a>
 <img src="https://denandras.github.io/zakjegyzet/assets/img/K%C3%A9s%C5%91%20modern%20m%C5%B1v%C3%A9szfilmek.jpg" width="100%">
 
 - [[Huszárik - Elégia]], igazi avantgárd
-- Szindbád
+- [[Huszárik - Szindbád]]
 - posztmodern film: nevetségesnek tartja az alaphelyzetet, a komoly kinyilatkoztatást
-	- nem akar társadalmilag történelmit és történelmi szinten alkotni, hanem egy ember egyéni helyzete pl. a fontos
+	- nem akar társadalmilag történelmit és történelmi szinten alkotni, hanem pl. egy ember egyéni helyzete a fontos
 	- a "kisvilág" konfliktusai
 		- [[Kávé és cigaretta]]
 - önreflexivitás
@@ -499,5 +593,32 @@ avantgárddal dúsított, de a realisztikán nem igazán túlmenő poétikával 
 	- pl. a néző szemébe belenéz
 	- [[Régi idők focija]]
 	- tévét/mozifilmet néz a filmszereplő
-
-#később óra bepótolandusz
+- [ ] [[Liza, a rókatündér]] film
+- [ ] [[Enyedi Ildikó - A bűvös vadász]] film
+- [ ] [[10 perc trombita]] filmnovella sorozat
+	- nincs cselekménye
+	- filmzene tökéletessége
+		- [[Bach#^68ecc9]] Goldberg variációk (nem sorrendben)
+		- miért ezt a zenét választotta?
+		- idő és tér: filmforgatáson, lakókocsiban (otthon hiánya, bárhol lehet)
+			- a lejátszó is hordozható
+			- ironikus, nem nevetséges (realisztikus) otthontalanság
+			- nem történik meg az izoláció, pedig 10 perc pihenést ígérnek
+			- csendélet jellegű (barokk) beállítással van vége
+			- szabadon döntünk, de nem érezzük jól magunkat
+				- sajnáltatjuk magunkat
+			- kevés szereplő, de sok rassz
+			- nem csak jelenidő
+				- filmzene legalább 3 évszázad
+				- kosztüm: '20-as évek
+				- *nemcsak a térben van otthontalanság, hanem az időben is: minden egyszerre elérhető, nem vagyunk otthon*
+	- boldogtalan vagyok, de ez ellen tehetek (romantika óta így van)
+		- de aki panaszkodik, nevetséges lesz
+		- (jelen: nem minden kultúrkörben panaszkodnak)
+	- miért [[Bach]]ot választott (amikor a legjobban valami swing/blues/lazulós illett volna a filmbe)?
+		- *kultúrkritikát ad a mai világról*
+			- nem heroikus, vagy didaktikus
+			- tágabb ellentétet nem is lehetne összeállítani
+		- tömegek nem hallgatnak már [[Bach]]ot
+		- a [[A barokk zenéről általában|barokk]]ban áll az idő, "rend van" (vallásos központja van a világban)
+			- dinamizmusban élő világban *miért* vet fel ilyet?

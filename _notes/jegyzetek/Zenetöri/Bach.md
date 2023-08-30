@@ -134,7 +134,7 @@ Johann Sebastian Bach
 			- (nem mindig követte a librettókat)
 		- lipcseiek
 			- heti rendszeresség
-	- Goldberg-variációk
+	- Goldberg-variációk ^68ecc9
 		- **Clavier Übung** sorozat
 		- (~~elmélet~~ & gyakorlat)
 	- [[Wohltemperiertes Klavier]]
