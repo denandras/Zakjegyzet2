@@ -9,6 +9,7 @@ type:
 ---
 
 Humanista gondolkodás
+
 > Visszatérés az ókori görög-római hagyományokhoz
 > egy szólamban éneklés, elementáris hatás
 

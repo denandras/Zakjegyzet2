@@ -387,7 +387,7 @@ type: könyv
 - politikai következmények: autokrata vezetők könnyebben elérik az egymástól elidegenedett polgárokat
 - megoldás: a fizikai világ, emberi kapcsolatok és közösségi tevékenységek előnyben részesítése
 
-> Egy átlagbéren foglalkoztatott munkavállaló sokkal boldogabbnak érzi magát a rugalmas munkaidő mellett, mint az a gazdag menedzser, akinek be van táblázva az egész napja ([[Scott Adams - How to Fail at Almost Everything snd Still Win Big|Scott Adams könyve]])
+> Egy átlagbéren foglalkoztatott munkavállaló sokkal boldogabbnak érzi magát a rugalmas munkaidő mellett, mint az a gazdag menedzser, akinek be van táblázva az egész napja ([[Scott Adams - How to Fail at Almost Everything snd Still Win Big]])
 
 ### Kozmikus jelentéktelenség terápia
 <a id="Kozmikus jelentéktelenség terápia"></a>

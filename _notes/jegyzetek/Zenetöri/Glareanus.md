@@ -8,4 +8,4 @@ subject: zenetöri
 type: 
 ---
 
-Svájci [[Humanizmus|humanista]]
+Svájci [humanista](humanizmus)

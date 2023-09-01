@@ -620,5 +620,5 @@ type: témakör
 			- nem heroikus, vagy didaktikus
 			- tágabb ellentétet nem is lehetne összeállítani
 		- tömegek nem hallgatnak már [[Bach]]ot
-		- a [[A barokk zenéről általában|barokk]]ban áll az idő, "rend van" (vallásos központja van a világban)
+		- a barokkban áll az idő, "rend van" (vallásos központja van a világban)
 			- dinamizmusban élő világban *miért* vet fel ilyet?
