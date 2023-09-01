@@ -3,7 +3,7 @@ title: népzene
 feed: show
 created: 2023-08-21 20:35
 date: 2022-08-27 22:55
-permalink: népzene
+permalink: nepzene
 subject: népzene
 type: témakör
 ---

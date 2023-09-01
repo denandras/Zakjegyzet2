@@ -77,7 +77,6 @@ type: könyv
 
 - a lehetőség felelősséggel jár: rajtad múlik, hogy végigmész-e a kijelölt úton, hogy mikor változtatsz irányt, és hogy élvezed-e a foglalkozásod egy akár 50 éves karrier útján
 	- ehhez meg kell ismerned önmagad, hogy hogyan tudsz másokkal jól együttműködni, hogy milyen értékeket képviselsz, és hogy milyen környezet hozza ki a legtöbbet belőled
-
 - a történelem nagy alakjai jól menedzselték magukat
 - régebben beleszülettél egy munkába, nem volt választásod, ezért nem volt fontos, miben vagy jó
 - sokan úgy hiszik, tudják, miben jók és rosszak, de sokszor tévednek
@@ -143,17 +142,32 @@ type: könyv
 	- kommunikálni
 		- és ezáltal megismerni mások értékeit, személyét és munkamódszerét
 		- elvárások helyett türelmesnek lenni és kérdezni, beszélgetni
-	- 
+- 40 év munka után régen nem kellett az unalom miatt aggódni
+	- mert az átlagos munka nem tudásalapú volt, hanem fizikai
+	- ma tovább kell dolgozni akkor is, ha a csúcson vagyunk
+	- megoldás: második karrier
+		- új fajta munka
+			- ok: közösség, pénz, kihívás
+		- párhuzamos karrier
+			- általában non-profit szervezeteknél
+		- szociális előadók
+			- egyre kevesebb időt/energiát fektetnek az elsődleges munkába, közben elkezdenek valami mást is
+	- hamarabb kell elkezdeni, mint hogy belevágnál a tényleges munkába
+		- ez akkor főleg jól jön, ha a az elsődleges állással, vagy az életben valami történik
+- átalakult a társadalmi-gazdasági berendezkedés
+	- már az emberek élnek több ideig, mint egy szervezet, és nem maradnak ott, ahova először felvették őket
+	- mindenkinek a saját főnökének kell lennie
 
 > 	He believes that ideas move mountains. But bulldozers move mountains; ideas show where the bulldozers should go work.
 
 > 	Organizations are no longer built on force but on trust. The existence of trust between people does not necessarily mean that they like one another.
 
+## Are You a High Potential?
+[[Douglas A Ready]], [[Jay A Conger]], [[Linda A Hill]]
 
+- rengeteg szervezetnek megvan a maga "nagy potenciál-listája"
+	- főleg ott, ahol korlátozottak az erőforrások
+- hogyan kerülj rá?
 
-
-
-
-
-
-
+### The Anatomy of a High Potential
+- 
