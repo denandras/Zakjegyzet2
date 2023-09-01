@@ -7,9 +7,11 @@ permalink: wagner
 subject: zenetöri
 type: 
 ---
+![](https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2017/10/Richard-Wagner.jpg)
 
 > az alábbi oldalt javasolt **<mark>asztali nézetben</mark>** megtekinteni
 
+<meta name="viewport" content="width=1024">
 ### Karrierének kezdete
 
 > Lipcse, <mark>1813-1883</mark>

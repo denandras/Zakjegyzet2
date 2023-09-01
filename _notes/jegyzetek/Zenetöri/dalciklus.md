@@ -18,8 +18,8 @@ type:
 		- strófikus variáció
 		- természeti környezet
 		- sokan hivatkoztak rá/idézték
-- [[Schubert dalciklusai]]
-- [[Schumann]] [dalciklusai](Schumann)
+- [[Schubert#Schubert dalciklusai]] [dalciklusai](Schubert)
+- [[Schumann#Dalciklusai - 1840 (a dalok éve)|Schumann]] [dalciklusai](Schumann)
 - [[Brahms]] dalciklusai
 - [[Hugo Wolf]]
 

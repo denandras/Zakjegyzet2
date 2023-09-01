@@ -8,8 +8,7 @@ subject: zenetöri
 type: 
 ---
 
-[[Robert Schumann - Válogatott írások]]
-
+<3 [[Clara Schumann]]
 ### Robert Schumann
 
 - virtuóz előadónak készült
@@ -61,3 +60,15 @@ type:
 	- "egy szép reggelre rímelő szép este"
 	- **4. tétel egy kölni utazás élménye**
 		- barokkos (kölni Dóm)
+
+### Robert Schumann - Válogatott írások
+- Bécs
+- währingi temető említése
+	- [[Beethoven]] és [[Schubert]] sírja
+- felkeresi [[Schubert]] fivérét ([[Ferdinand Schubert]]et)
+	- **ki nem adott szimfóniát (Nagy C-dúr) elküldi Lipcsébe** (Gewandhaus-koncertek igazgatóságának)
+	- csodálják, kiadó megvásárolja
+	- **[[Mendelssohn]] mutatja be**
+- “[[Berlioz]] Franciaországhoz tartozik, és csak érdekes, bolondos külföldiként említik"
+	- [[Schubert]] képes volt egyéni és a tömegek számára élvezetes módon szimfóniát komponálni.”
+- "Bécs [...] gyümölcsöző környezet a muzsikus fantáziája számára"

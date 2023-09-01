@@ -31,9 +31,57 @@ Ajánlott irodalom: [[Christopher H Gibbs - The life of Schubert]]
 	- széles költészeti perspektíva
 		- [[Goethe]], [[Schiller]], [[A W Schlegel]], [[Novalis]], [[Matthias Claudius]], [[Heine]], [[Anakreón]], [[Petrarca]], skót balladák, stb.
 - **8 szimfónia**
+### Dalciklusai
 
-----
-- [[Schubert dalciklusai]]
-- [[Schubert C-dúr szimfónia]]
+- op. 3-tól 3-5 dalt kapcsol egybe
+- *Hattyúdal* - halála után kiadott gyűjtemény, nem fontos
+- *Die schöne Müllerin*
+	- tonálisan zárt
+	- Liederspielként (társasjáték) született
+		- [[Stägemann]] bankár szalonjában
+		- ők maguk a szereplők ([[Stägemann]], **[[Wilhelm Müller]]**, [[Wilhelm Hensel]])
+	- [[Ludwig Berger]]-versek
+	- hangnemek a cselekmény alapján
+- *Die Winterreise*
+	- [[Wilhelm Müller]] szövegei
+	- halála előtt egy évvel született
+		- depresszív hangulat
+		- kilátástalan téli vándorlás
+	- Müller két részletben adta ki verseit
+		- az első 12-t komponálta meg először, majd kezébe került a 2. sor, aminek sorrendjén módosításokat hajtott végre
+	- maga a versciklus egységes
+	- utolsó: A kintornás
+		- költ. kérdés: ne menjen-e vele?
+		- muzsikáló koldus képében önmagára ismer [[Schubert]]
+- *Die liebe Farbe* (zöld)
+	- a vadász színe
+	- az eleje lelkes, a végén a temetéséről beszél
+
+### C-dúr szimfónia
+
+![[Schumann#Robert Schumann - Válogatott írások]]
+
+- mennyeien hosszú
+	- ragyogás
+	- mese, varázsdarab
+	- forma szélessége
+- egyéni módon kezelte az egyes hangszereket, csakúgy, mint a teljes zenekart
+	- újfajta hangszerelés
+	- úgy szól, mint az emberi hang
+	- [[Beethoven]]en kívül senki más
+- kerüli a [[Beethoven]]-féle groteszk formát, merész váltásokat
+	- szépen formált mű
+	- sohasem megy túl messzire a harmóniai középponttól
+
+> 1. Andante - Allegro - Piú moto
+> 2. Andante con moto
+> 3. Scherzo - Allegro vivace, Trio
+> 4. Finale - Allegro vivace
+
 ---
 [^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
+
+
+
+
+

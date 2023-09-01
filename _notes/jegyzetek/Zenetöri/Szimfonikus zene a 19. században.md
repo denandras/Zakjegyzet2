@@ -15,7 +15,7 @@ type:
 		- kellemetlen előzmény
 	- [[Schumann]] írása arról, hogy [[Berlioz]]nak nem elég a 4 tétel 1820-ban
 - **[[Berlioz]]**
-- [[Schubert]] [C-dúr szimfónia](Schubert%20C-dúr%20szimfónia.md)
+- [[Schubert]] [C-dúr szimfónia](Schubert.md)
 - [[Mendelssohn]]
 - [[Schumann]]: 3. "Rajna" szimfónia
 - [[Brahms]]
