@@ -4,14 +4,15 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:25
 permalink: paganini
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
+Nicolo Paganini
 
-> Nicolo Paganini
-
-> <mark>1782-1840</mark>
+1782-1840
 
 ### Élete
 

@@ -19,13 +19,13 @@ type: poszt
 
 ### Menedzsment
 
-- [[Oliver Burkeman - Az élet rövid]]
-- [[Arnold Bennett - How to Live on 24 Hours a Day]]
-- [[HBR's 10 Must-reads on High Performance]]
+- [x] [[Oliver Burkeman - Az élet rövid]]
+- [ ] [[Arnold Bennett - How to Live on 24 Hours a Day]]
+- [ ] [[HBR's 10 Must-reads on High Performance]]
 
 ### Meditáció
 
-- [[Dr. Steven Laureys - A meditációról érthetően]]
-- [[Osho - The Book of Secrets]]
+- [x] [[Dr. Steven Laureys - A meditációról érthetően]]
+- [ ] [[Osho - The Book of Secrets]]
 
 ### [[légzés]]

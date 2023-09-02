@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:01
 permalink: klasszika-fogalma
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 ![](https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232)

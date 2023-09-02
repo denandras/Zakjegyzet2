@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:34
 permalink: romantika-fogalma
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 > szó, irodalom, [[Schlegel-fivérek]], [[E T A Hoffmann]], irodalmi-zenei jelentés, kontrasztos ellentét, műfajok, kritikák és koncertélet, abszolút zene, nacionalizmus, *újromantika/későromantika*

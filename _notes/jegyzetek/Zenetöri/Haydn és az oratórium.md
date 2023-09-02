@@ -4,9 +4,13 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:53
 permalink: haydn-es-az-oratorium
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
+  - személy
 ---
+[[Haydn]]
 
 - 4 mű
 	- *Il ritorno di Tobia (Tóbiás hazatérése)* - 1774-75, Bécs

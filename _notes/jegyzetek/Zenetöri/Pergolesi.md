@@ -4,11 +4,15 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:27
 permalink: pergolesi
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 Giovanni Battista Pergolesi
+
+<mark>1710-1736</mark>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Giovanni_Battista_Pergolesi.jpg)
 
@@ -16,3 +20,4 @@ Giovanni Battista Pergolesi
 - ősei Pergolaból származnak
 - tanárai [[Gaetano Greco]], [[Leonardo Vinci]] és [[Francesco Durante]]
 - majd' minden művét Nápolyban mutatták be
+

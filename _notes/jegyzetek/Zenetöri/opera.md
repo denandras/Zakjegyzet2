@@ -4,16 +4,18 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:25
 permalink: opera
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
 ---
 
-[[Humanizmus]], [[semi-opera]], [[opera buffa]], [[opera seria]], udvari opera, velencei opera, [[monódikus stílus]], [[Hyppolyte et Aricie]]
+[[humanizmus]], [[semi-opera]], [[opera buffa]], [[opera seria]], udvari opera, velencei opera, [[monódikus stílus]], [[Hyppolyte et Aricie]]
 __________________
 
 > Milyen közegben jött létre ez a műfaj?
 
-* [[Firenzei camerata]]
+* Firenzei camerata
 * [[intermedio]]kkal a cél a közönségre való hatás
 
 - rendszeres működés, évadok
@@ -46,7 +48,7 @@ __________________
 	- ókor: kórus, nem zenekar
 	- szólistákat nem dughatjuk el
 	- többszólamúság
-- nem érvekre szoruló, ösztönszerű megmozdulás, ettől [humanista](Humanizmus)
+- nem érvekre szoruló, ösztönszerű megmozdulás, ettől [humanista](humanizmus.md)
 	- drámai hajlam, tragédia vágya
 
 ## Fázisai
@@ -92,6 +94,7 @@ __________________
 		- dózse és szenátus
 		- karnevál
 		- Pápa kiközösíti
+- [[Francesco Cavalli]]
 
 ## Adalék
 ###  [[Rupert Christiansen - The Faber Pocket Guide to Opera]]

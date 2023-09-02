@@ -4,12 +4,14 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:19
 permalink: lully
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 Giovanni Battista Lully
-[[Francia barokk]] megteremtője, olasz táncos-énekes
+[[francia barokk]] megteremtője, olasz táncos-énekes
 
 - [[Lully]] 1671-től 13 operát írt
     -   háttér
@@ -22,7 +24,7 @@ Giovanni Battista Lully
     -   recitativo és aria elválik egymástól
     -   legalább felvonásonként megvan a hármas egység
     -   5 felvonás
-        -   Mindegyikhez egy-egy prológus ([[XIV Lajos]] dícsérete)
+        -   Mindegyikhez egy-egy prológus ([[XIV. Lajos]] dícsérete)
     -   kórus nagy szerepet kap
     -   divertissement/Entrée (zenés betét)
     -   középső szólamok kiadva fiatal zeneszerzőknek

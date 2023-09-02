@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:48
 permalink: zenetori-2-felev-osszefoglalas
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - témakör
 ---
 
 1.  **Barokk zene**
@@ -33,26 +35,26 @@ type:
 		- Kleine geistliche Koncerte - copy Monteverditől, izgatott stílus
 	- Monteverdi és az egyházi zene
 	- egyházi feszültségek
-1.  **Francia barokk**
+6.  **Francia barokk**
 	- Lully és környezete, Acadeémie de Musique
 	- tánc, balett fajtái
 	- operák (Racine és Moliére alap) kötöttsége
-2.  **Angol barokk**
+7.  **Angol barokk**
 	- consort és fajtái
 	- Purcell és a 10 éves forradalmi lyuk
 		- triószonáták (3-4, szabálytalan ritmus, játék)
 		- Corelli hatással van rá (gyors hírek)
-1.  **Szonáta**
+8.  **Szonáta**
 	- Purcell és a 10 éves forradalmi lyuk
 		- triószonáták (3-4, szabálytalan ritmus, játék)
 		- Corelli hatással van rá (gyors hírek)
 	- olasz fajták, műfajkáosz, mi a mű?
-2.  **Concerto**
+9.  **Concerto**
 	- verseny, versengés
 	- grosso: Corelli, Händel, 3 szólista + 4 fő a zenekar, Anglia, Itália
 	- concerto a cinque: Vivaldi, Velence, szóló hegedű
 	- ritornello forma
-3. **Bach**
+10. **Bach**
 	- emberi mivolta
 	- élete
 	- kantátasorozat és Clavier-Übung

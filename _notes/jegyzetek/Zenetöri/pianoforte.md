@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:29
 permalink: pianoforte
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - fogalom
 ---
 
 A "pianoforte" egy régebbi elnevezés a zongorára, amelyet a hangsúlyozott dinamikai változásokra képes hangszerként a XVIII. században találtak fel. A kifejezés tulajdonképpen az olasz "piano e forte" kifejezés rövidítése, ami annyit jelent, hogy "halk és erős". Ez a név azért alakult ki, mert a zongora képes volt a hangok dinamikus változásaira reagálni, szemben a korábbi zongorakulcsos hangszerrel, a csembalóval vagy a klavikorddal.

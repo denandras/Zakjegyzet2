@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:34
 permalink: beethoven
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 ![](https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg)
@@ -25,7 +27,7 @@ type:
 	- meghatározó alak: [[Neefe]]
 	- szedett-vedett háztartás
 - Bécs
-	- [[II József]] miatti bécsi orientáció hatására telepedett le itt
+	- [[II. József]] miatti bécsi orientáció hatására telepedett le itt
 	- koncertező virtuóz
 	- 26 évesen fertőző betegség támadja meg (a hallása is ennek szövődménye lehetett egyre rosszabb)
 		- 5 évvel később mondja el barátainak, hogy süketül

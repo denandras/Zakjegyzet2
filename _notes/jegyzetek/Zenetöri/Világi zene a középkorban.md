@@ -8,12 +8,12 @@ subject: zenetöri
 type: 
 ---
 
--   `19.  századig` a világi zene nagyban hasonlít az egyházi zenére, a kezdetekben volt, hogy vallásos énekek dallamaira új szövegeket írtak
+-   `19. századig` a világi zene nagyban hasonlít az egyházi zenére, a kezdetekben volt, hogy vallásos énekek dallamaira új szövegeket írtak
     
     -   funkcióiban és helyileg különbözik, de hasonlít maga a zene
     -   (pl. [[Bach]] 3. Brandenburgi verseny)
     -   a hangok nem vallásosak, az emberek azok
--   `11.  század`
+-   `11. század`
     -   hódító hadjáratok
     -   Hódító Vilmos - Brit szigetek
     -   siratóének (egyházi jellegű zene)
@@ -42,7 +42,7 @@ type:
     -   tekerés = improvizáció
     -   volt, hogy hangszeren adták elő az énekes zenéket
     -   ikonográfia
-        -   Canti Gaz da Santa Maria
+        -   [[Cantigas da Santa Maria]]
         -   citerák, hármas sípok, harántfurulyák, tekerőlant, lant, vonóshangszer, kézi orgona
     -   rögzült versformák - rondeau
         -   [[Weöres Sándor]] - Csavargó Dani

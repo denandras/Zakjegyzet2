@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:34
 permalink: romantikus-dal
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
 ---
 
 [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]

@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:48
 permalink: galans-stilus
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
 ---
 
 <mark>~1720~1770</mark>

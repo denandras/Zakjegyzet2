@@ -4,17 +4,19 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:21
 permalink: medians
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - fogalom
 ---
 
 tercrokon
 
-<mark>Három és négy kvint távolságú</mark> dúrok *(pl. C-dúr — Á-dúr, C-dúr — Eszdúr,
+**Három és négy kvint távolságú** dúrok *(pl. C-dúr — Á-dúr, C-dúr — Eszdúr,
 C-dúr — É-dúr, C-dúr — Ász-dúr)*, valamint mollok *(pl. á-moll — fiszmoll,
-á-moll — c-moll, á-moll — cisz-moll, á-moll — f-moll)* <mark>egymáshoz fűzését</mark>
-tercrokon (mediáns) kapcsolatnak nevezzük, mert <mark>alaphangjuk terc távolságra
-van egymástól</mark>. A tercrokonság inkább a 19. sz. romantikus zenéjére
+á-moll — c-moll, á-moll — cisz-moll, á-moll — f-moll)* **egymáshoz fűzését**
+tercrokon (mediáns) kapcsolatnak nevezzük, mert **alaphangjuk terc távolságra
+van egymástól**. A tercrokonság inkább a 19. sz. romantikus zenéjére
 jellemző (különösen akkor, ha a két hangnem közti távolságot nem hidalja át
 az új hangnem dominánsa), de a bécsi klasszikusok — különösen Beethoven —
 későbbi műveiben erre is gyakran találunk példát. Ide sorolhatjuk azt a jelenséget

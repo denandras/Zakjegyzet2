@@ -4,9 +4,12 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:54
 permalink: idomeneo
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - mű
 ---
+[[Mozart]]
 
 > A mű színpadra állítása nem kis feladat. Technikai és hangi követelmények szempontjából az Idomeneo nagy igényeket támaszt. Nagyszabású és bonyolult színházi apparátust, nagy létszámú kórust igényel.
 > Keletkezése egy hosszú folyamat volt, a darabot mostohán kezelték. Mozart szerint hosszú volt a szövegkönyv, a zenészek tehetségtelenek.

@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:34
 permalink: c-p-e-bach
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 Carl Philipp Emanuel Bach

@@ -4,11 +4,13 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:36
 permalink: schubert-an-der-mond
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - mű
 ---
 
-[A Holdoz]
+A Holdoz
 
 [[Schubert]]
 

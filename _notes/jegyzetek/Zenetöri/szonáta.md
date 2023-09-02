@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:38
 permalink: szonata
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
 ---
 
 `16. sz-ban` az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar

@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:59
 permalink: john-field
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 - ír virtuóz
@@ -13,7 +15,7 @@ type:
 - [[M Clementi]] tanítványa
 - London, Párizs, Szentpétervár, Moszkva
 
-### **18 noktürnje**
+### 18 noktürnje
 - díszes jobb, akkordfelbontásos bal kéz
 	- *bel canto*t idéz
 - nem egyszerű [[Alberti-basszus]]

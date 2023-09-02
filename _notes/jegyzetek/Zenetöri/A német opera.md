@@ -4,11 +4,11 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:30
 permalink: a-nemet-opera
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
 ---
-
-[[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]
 
 [[Pierre Gaveaux]] - Fidelio
 

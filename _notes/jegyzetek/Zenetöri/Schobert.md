@@ -8,6 +8,6 @@ subject: zenetöri
 type: 
 ---
 
-<mark>véletlen sem</mark> Schubert
+<mark>véletlen sem</mark> [[Schubert]]
 
 Johann Schobert (Szilézia)

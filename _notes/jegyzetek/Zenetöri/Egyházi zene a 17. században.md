@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:39
 permalink: egyhazi-zene-a-17-szazadban
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 -   [[opera]] és [[madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben
@@ -30,7 +32,6 @@ type:
         -   Angol polgári forradalom
         -   A hívekért való küzdelem eszköze a zene, meghatja, tehát leköti a hallgatót
         -   Ez a harc csak a felszín
-
 -   [[Schütz]]
     -   Fennmaradt életműve nyomtatott kottákból áll - csak egyházi művek
     -   Első német [[opera]] szerzője - nem maradt fenn
@@ -41,32 +42,28 @@ type:
         -   Drezdai választófejedelem udvarában működött
         -   30 éves háború elől Dániába menekült
         -   Madrigálkötet: belépő, ezt ki is nyomtatták
-	    
-	> Concertálás: különböző előadó apparátusok egymásnak felelgetnek. A kórus néha két oldalon kapott helyet (a karzaton).
-	    
-    > [[oratórium]]: az [[opera]] zenei eszköztárával mondanak el egyházi történeteket
-		
-    -   Kleine geistliche Koncerte kötetek - a harmincéves háború alatt kis együttesek maradtak csak
-        -   Es steh Gott auf (SWV 356)
-            -   megjelenik [[Monteverdi]]: két madrigálját mixel egy német nyelvű zsoltárfeldolgozásba pár saját gondolattal
-            -   találkozhatott vele: egy évet töltöttek Velencében
-            -   [[stile concitato]] [izgatott stílus] hangismétlés/tremolo
-            -   basszusvariáció: [[ciaccona]] (d ds lm fs)
-                -   ([[passacaglia]] a másik, ereszkedő basszus)
-                
-    -   *Hangszeres zenét írni nehéz, mert az egész gondolkodás a vokális zenére alapul.*
-		-   nagyszabású hangszeres formák csak a 18. sz. Elején jönnek létre (dúr-moll, kvintkör, moduláció)
-    -   Szöveges zene
-        -   Szöveg inspirálja a zenei gondolatokat
-            
-            -   Újra meg újra
-            -   Szónoklat rokonsága
-            
-            1.  Invenció (rátalálás)
-            2.  Dispositio (a gondolat elhelyezése)
-            3.  Elaboráció (kidolgozás, véglegesítés)
-            
-            -   hangszeres bevezető a témával
-            -   Affektus-tan (bevett elemek, ezekből jön létre egy mű, zenei figurák)
-        -   Madrigálirodalom "szótára" (közhelyes zenei metaforák)
-        -   [[Bach]]-[[Händel]] korszakra már egy aria is sokkal "zeneibb", megeszi a zene a szöveget
+
+> Concertálás: különböző előadó apparátusok egymásnak felelgetnek. A kórus néha két oldalon kapott helyet (a karzaton). ([[concerto]])
+
+> [[oratórium]]: az [[opera]] zenei eszköztárával mondanak el egyházi történeteket
+
+-   Kleine geistliche Koncerte kötetek - a harmincéves háború alatt kis együttesek maradtak csak
+	-   Es steh Gott auf (SWV 356)
+		-   megjelenik [[Monteverdi]]: két madrigálját mixel egy német nyelvű zsoltárfeldolgozásba pár saját gondolattal
+		-   találkozhatott vele: egy évet töltöttek Velencében
+		-   [[stile concitato]] [izgatott stílus] hangismétlés/tremolo
+		-   basszusvariáció: [[ciaccona]] (d ds lm fs)
+			-   ([[passacaglia]] a másik, ereszkedő basszus)
+-   *Hangszeres zenét írni nehéz, mert az egész gondolkodás a vokális zenére alapul.*
+	-   nagyszabású hangszeres formák csak a 18. sz. Elején jönnek létre (dúr-moll, kvintkör, moduláció)
+-   Szöveges zene
+	-   Szöveg inspirálja a zenei gondolatokat
+		-   Újra meg újra
+		-   Szónoklat rokonsága
+		1.  Invenció (rátalálás)
+		2.  Dispositio (a gondolat elhelyezése)
+		3.  Elaboráció (kidolgozás, véglegesítés)
+		-   hangszeres bevezető a témával
+		-   Affektus-tan (bevett elemek, ezekből jön létre egy mű, zenei figurák)
+	-   madrigálirodalom "szótára" (közhelyes zenei metaforák)
+	-   [[Bach]]-[[Händel]] korszakra már egy aria is sokkal "zeneibb", megeszi a zene a szöveget

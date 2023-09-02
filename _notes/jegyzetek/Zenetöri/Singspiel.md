@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:37
 permalink: singspiel
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
 ---
 
 > Hamburg: nagyobb opera
@@ -19,7 +21,7 @@ type:
 - német nyelvterület (nagyobb, mint ma)
 	- politikailag tagolt (színházak városonként)
 - 18. sz. közepe
-- bécsi Burgtheater kifejezetten a Singspielre koncentrál -> Deutsches Nationalsingspielt a Monarchiának ([[II József]]) (tiltakozást váltott ki)
+- bécsi Burgtheater kifejezetten a Singspielre koncentrál -> Deutsches Nationalsingspielt a Monarchiának ([[II. József]]) (tiltakozást váltott ki)
 
 ### Jellemzői
 

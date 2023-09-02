@@ -4,15 +4,17 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:23
 permalink: monodikus-stilus
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - fogalom
 ---
 
 > hangszerkíséretes szólóének
 > "színpadi stílus", "énekelt recitálás" - beszéd és ének között
 
 ### Eredete
-[[Humanizmus]]
+[[humanizmus]]
 - "a mai, a polifonikus zene egyenessn arculcsapása az antik gondolatnak, otromba germán modor"
 - szó, ritmus, hang
 - [[Glareanus]]: énekeljük így a klasszikus ódákat

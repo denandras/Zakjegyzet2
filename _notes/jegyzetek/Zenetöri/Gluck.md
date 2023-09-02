@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:51
 permalink: gluck
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 Christoph Willibald Gluck
@@ -24,4 +26,4 @@ Christoph Willibald Gluck
 		- zene a dráma szolgálatában
 		- vokális virtuozitási túlzások eltüntetése
 		- ariak és recitativok váltakozása
-		- [[Gluck - Orfeo]] és [[Alceste]] (francia változatban is megkomponálta)
+		- [[Gluck - Orfeo]] és [[Gluck - Alceste]] (francia változatban is megkomponálta)

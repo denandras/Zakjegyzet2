@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:41
 permalink: vonosnegyes
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - fogalom
 ---
 
 - a klasszika legfontosabb kamarazenei műfaja
@@ -22,7 +24,7 @@ type:
 - [[Dittersdorf]], [[Vanhal]]
 - [[Haydn]] vonósnégyesei
 	- Nap-, Orosz-kvártettek
-	- [[Erdődy]]-, [[Lobkovitz]]-kvártettek
+	- [[Erdődy-kvártett]]-, [[Lobkovitz]]-kvártett
 	- tonalitásában eredeti
 	- szólamok kontrapunktikus önállósága
 - [[Mozart]] ~

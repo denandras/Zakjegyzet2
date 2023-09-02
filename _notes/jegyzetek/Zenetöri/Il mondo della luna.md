@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:54
 permalink: il-mondo-della-luna
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - mű
 ---
 
 - [[Baldassare Galuppi]] 1750-es [[opera buffa]]ja

@@ -4,13 +4,14 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:53
 permalink: hangszeres-zene-a-17-szazadban
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 - korabeli gondolkodás: vokális zene az első, hangszeres a vokális szolgája
 	- ma: a hangszeres zene a 17. században ért a tetőpontra
-
 - [[Orfeo]] közepe
 	- az énekhez két hangszer csatlakozik
 		- vonós, rézfúvós, majd dupla hárfa 

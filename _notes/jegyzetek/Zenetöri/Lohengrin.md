@@ -4,9 +4,12 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:19
 permalink: lohengrin
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - mű
 ---
+[[Wagner]]
 
 - **középkori legenda**
 	- [[Eschenbach]] és egy ismeretlen szerző eposzából ismerte meg

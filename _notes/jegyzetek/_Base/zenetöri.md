@@ -1,11 +1,13 @@
 ---
-title: zenetöri
+title: Zenetöri
 feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 22:52
 permalink: zenetori
-subject: zenetöri
-type: témakör
+subject:
+  - zenetöri
+type:
+  - témakör
 ---
 
 [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
@@ -15,9 +17,9 @@ type: témakör
 
 1. [[A középkori zene]]
 
-2. [[Zenei írásbeliség, gregorián]]
+2. [[zenei írásbeliség, gregorián]]
 
-3. [[Világi zene a középkorban]]
+3. [[világi zene a középkorban]]
 
 4. [[A 13-14. sz. művészi zenéje]]
 
@@ -27,9 +29,9 @@ type: témakör
 
 7. [[Josquin de Prez és a kottanyomtatás]]
 
-8. [[Világi műfajok a 16. században]]
+8. [[világi műfajok a 16. században]]
 
-9. [[Humanizmus]] és az első operák
+9. [[humanizmus]] és az első operák
 
 
 ## Második félév - Barokk (FG)
@@ -40,17 +42,17 @@ type: témakör
 
 2. A barokk [[opera]]
 
-3. [[Hangszeres zene a 17. században]]
+3. [[hangszeres zene a 17. században]]
 
 4. [[Egyházi zene a 17. században]]
 
-5. [[Francia barokk]]
+5. [[francia barokk]]
 
 6. [[Angol zenei kultúra]]
 
 7. [[szonáta]]
 
-8. [[Hangszeres concerto]]
+8. [[hangszeres concerto]]
 
 9. Johann Sebastian [[Bach]]
 
@@ -91,13 +93,13 @@ type: témakör
 
 2. A [[romantikus dal]], [[Schubert]], a [[ballada]], [[Brahms]], [[dalciklus]]
 
-3. [[Olasz és francia opera a 19. században]]
+3. [[olasz és francia opera a 19. században]]
 
 4. [[A német opera]]
 
-5. [[Hangszeres virtuózok és műveik a 19. században]]
+5. [[hangszeres virtuózok és műveik a 19. században]]
 
-6. [[Szimfonikus zene a 19. században]]
+6. [[szimfonikus zene a 19. században]]
 
 ## Ötödik félév - (KS)
 [Az órák anyaga](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok/Kov%C3%A1cs%20S%C3%A1ndor)

@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:30
 permalink: a-barokk-zenerol-altalaban
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 > *[[Bach]] túl nagy hangsúlyt kapott az oktatásban, saját idejében kevésbé volt meghatározó*

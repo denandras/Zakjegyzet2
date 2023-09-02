@@ -4,8 +4,11 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:38
 permalink: szimfonikus-zene-a-19-szazadban
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
+  - műfaj
 ---
 
 > szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az abszolút zene eszméje és az Újnémet Iskola]

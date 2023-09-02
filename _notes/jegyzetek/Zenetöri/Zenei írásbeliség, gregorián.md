@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:47
 permalink: zenei-irasbeliseg-gregorian
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 -   nyitógondolatok
@@ -65,7 +67,7 @@ type:
                 -   generációk építenek egymásra - katedrálisok
                 -   végén: _"resurrexi"_ úgyis tudják
                 -   az egész egy nagy puzzle: Winchester-tropáriumban lévő neumás plusz szólamok
--   symphonia/organum: másik szólam
+-   sinfonia/[organum](https://www.wikiwand.com/en/Organum): másik szólam
 -   meghatározó írásbeliség
     -   dallam íve, rezgés = szám, kisgyerekek, sok metafora
 -   modusok: a Karoling-kori szerzetesek kidolgozták a hangnemek rendszerét
@@ -75,7 +77,7 @@ type:
         -   Miért nem az maradt fönn? Nem volt rá szükség.
     -   külön a szólamokat
     -   partitúraszerűen (bonyolultabb zenéknél)
-        -   Codex Callixtinus
+        -   [[Codex Calixtinus]]
         -   relatív időbeliséget mutat, konkrétat nem
         -   ligatúrák - kitekintés
 -   zárógondolat: a gregorián nem tűnik el, inkább a polifónia tűnik elő

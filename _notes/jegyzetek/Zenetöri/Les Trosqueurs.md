@@ -4,10 +4,12 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:19
 permalink: les-trosqueurs
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - mű
 ---
-
+[[Dauvergne]]
 A csereberélők
 
 - A csereberélők (két férfi menyasszonyt cserél)

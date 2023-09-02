@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:53
 permalink: haydn
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 Joseph Haydn
@@ -68,5 +70,8 @@ Joseph Haydn
 		- témákon belüli kontraszt
 	- [[45. szimfónia]]
 ^szimfoniai
+
+## ![[Haydn és az oratórium]]
+
 ---------------
 [^1]: [[45. szimfónia]]

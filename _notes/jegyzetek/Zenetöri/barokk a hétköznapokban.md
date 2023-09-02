@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:33
 permalink: barokk-a-hetkoznapokban
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 - a barokk a zenében olyan, mint egy évben a nyár
@@ -24,5 +26,6 @@ type:
 		- Velence a központ
 - folyamatosan formálódik, változik az ízlés
 - a díszítés nem megengedett, hanem elvárt
-	> "A dísz, az ékesítés minden zenének legfőbb szabadsága s legfőbb konvenciója" - [[Szabolcsi Bence Művei]]
+
+> "A dísz, az ékesítés minden zenének legfőbb szabadsága s legfőbb konvenciója" - [[Szabolcsi Bence Művei]]
 

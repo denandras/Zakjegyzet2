@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:53
 permalink: hangszeres-concerto
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
 ---
 
 - mindenféle hangszeres darab
@@ -40,7 +42,7 @@ type:
 			- szólista kilép néha a zenekarból
 			- szólista fogja össze a zenekart, sokszor maga a zeneszerző
 		- gyors - lassú - gyors
-		- nyitótétel [[ritornello]] forma
+		- nyitótétel [[ritornello forma]]
 			- egyszerűségében a varázsa, rugalmas
 			- ritornellók + szólók váltakoznak
 			- moduláció a szólóban (I-V-VI-I)

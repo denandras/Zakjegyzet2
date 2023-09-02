@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:35
 permalink: chopin
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 <mark>1810-1849</mark>

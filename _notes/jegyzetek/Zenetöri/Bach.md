@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:33
 permalink: bach
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 
 Johann Sebastian Bach
@@ -56,7 +58,7 @@ Johann Sebastian Bach
 - 1729: Kollegium Musicum irányítása, hetente koncert kávéházban
 ## zenei gondolkodása
 - E-dúr hegedűverseny (concerto)
-	- [[ritornello]] forma kicsit összevissza
+	- [[ritornello forma]] kicsit összevissza
 	- da capo forma (nem létezik Bachon kívül a concertoban): A rész, káoszos B gisz moll véggel, A rész
 - ### kantáták
 	- egyházi állásokat tölt be kántorként/Kapelmeisterként

@@ -4,21 +4,24 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:59
 permalink: josquin-de-prez-es-a-kottanyomtatas
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
+  - fogalom
 ---
 
 -   Ki volt [[Josquin]]?
     -   a legjelentősebb zeneszerző a 16. században
         -   halálát követő évtizedekben a neve alatt született sok darab
-        -   15.  század: mise, 16. század: **motetta**
+        -   `15.`  század: mise, 16. század: **motetta**
         -   Luther: mestere a hangoknak, másokkal ellentétben (úgy kell tenniük, ahogy a hangok akarják)
     -   Észak-Európában született, bejárta Európát (Vatikánban is volt)
         -   Ferrara-i udvar, szerette volna megszerezni a herceg
             -   mise: [[Missa Hercules]], elrejtette a herceget a darabban
             -   szekvencia
         -   mindenképpen **Josquin**t kell megszerezni -> <- **[[Isaac]]** jobb viszonyt ápol környezetével, és gyakrabban ír darabokat
--   Josquin chanzon
+-   [[Josquin]] chanzon
     -   [[Ockeghem]] halálára (szokás)
     -   Az erdők nimfáihoz, a vizek istennőihez szól (keveredik a mitológiai világ az egyistenhittel)
     -   nagyon hosszú mondatokból áll, a **zene világossá teszi a szöveg szerkezetét**
@@ -37,7 +40,7 @@ type:
         -   néhány évvel későbbi kiadvány csak Josquin darabjait tartalmazza
 -   **[[Attaignant]]** új módszere
     -   betűfémhez hasonló "kottafém"
-        -   nem annyira szép, mint Petruccié
+        -   nem annyira szép, mint [[Ottavio Petrucci]]é
     -   kapcsolat a betűkkel, ligatúra jelentése
     -   fametszet, linovágat
     -   a szár a közepéről megy fel-le, de ahhoz, hogy meg lehessen fordítani egy-egy hangjegyet, standarddá tették, hogy ha felfelé megy a szár, akkor a jobboldalon van, stb.

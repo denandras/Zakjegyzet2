@@ -4,8 +4,10 @@ feed: show
 created: 2023-08-21 20:34
 date: 2023-08-27 07:31
 permalink: angol-zenei-kultura
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 - ### **Angol polgári forradalom** (válság) 1642-51
@@ -25,12 +27,12 @@ type:
 - ### Henry [[Purcell]] (1659-95)
     -   [[Oliver Cromwell]]
     -   10 éves lyuk a kultúrában
-    -   Visszacsapás a kulturális életben
-    -   Nagyszabású színpadi játék megteremtése a cél, de itt is volt már hasonló fennálló dolog
+    -   visszacsapás a kulturális életben
+    -   nagyszabású színpadi játék megteremtése a cél, de itt is volt már hasonló fennálló dolog
     -   [[Dido és Aeneas]] (torzó, melléktermék)
     -   ([[Thomas Betterton]]) [[semi-opera]], drammatick opera)
-        -   Főszereplők sose énekelnek, elválasztja a két feladatot
-        -   Minden felvonás végén nagy 'divertissement'
+        -   főszereplők sose énekelnek, elválasztja a két feladatot
+        -   minden felvonás végén nagy 'divertissement'
         -   [[King Arthur]]
         -   1691-2-3 Fairy Queen (Szentivánéji álom)
 	- consort fantáziák és In nominék

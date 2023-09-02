@@ -4,8 +4,11 @@ feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 08:24
 permalink: olasz-es-francia-opera-a-19-szazadban
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - műfaj
+  - korszak
 ---
 
 [[Julian Budden - Verdi]]
@@ -13,6 +16,8 @@ type:
 - nemzeti operák, nemzeti törekvések a 19. században
 - nagy opera az lesz, ami általános témát dolgoz fel
 - népszerű **történelmi témák**
+
+### Műfaj, sémák
 
 - divatok hatása -> népszerű írók, költők művei
 	- [[Walter Schott]], [[Victor Hugo]]
@@ -71,8 +76,8 @@ type:
 	- az opera végén kitör a Vezúv
 - [[Halévy]] - *A zsidónő*
 
-![[Verdi]]
-![[Don Carlos]]
+### ![[Verdi]]
+#### ![[Don Carlos]]
 
 ---
-[^]: [[Olasz és francia opera a 19. században]]
+[^]: [[olasz és francia opera a 19. században]]
