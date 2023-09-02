@@ -15,16 +15,15 @@ type: könyv
 - [[Benjamin Bloom - Developing Talent in Young People]]
 - [[Cambridge University Press - The Cambridge Handbook of Expertise and Expert Performance]]
 
-## Tartalom
+# Tartalom
 <a id="Tartalom"></a>
-<p>
 - [[The Making of an Expert::#The Making of an Expert]]
 - [[Managing Oneself::#Managing Oneself]]
 	- [[Munkamódszer::Munkamódszer]]
 	- [[Kapcsolatok::#Kapcsolatok]]
 - [[Are You a High Potential?::#Are You a High Potential?]]
 	- [[The Anatomy of a High Potential::#The Anatomy of a High Potential]]
-</p>
+
 ## The Making of an Expert
 <a id="The Making of an Expert"></a>
 [[K Anders Ericsson]], [[Michael J Prietula]], [[Edward T Cokely]]
