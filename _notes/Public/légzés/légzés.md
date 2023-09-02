@@ -4,8 +4,10 @@ feed: hide
 created: 2023-08-21 20:34
 date: 2023-08-27 08:51
 permalink: legzes
-subject: légzés
-type: 
+subject:
+  - légzés
+type:
+  - témakör
 ---
 
 - [[JN-Lélegzet]]

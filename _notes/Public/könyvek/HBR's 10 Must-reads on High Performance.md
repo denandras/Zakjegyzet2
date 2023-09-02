@@ -15,13 +15,16 @@ type: könyv
 - [[Benjamin Bloom - Developing Talent in Young People]]
 - [[Cambridge University Press - The Cambridge Handbook of Expertise and Expert Performance]]
 
-# Tartalom
+## Tartalom
 <a id="Tartalom"></a>
+<p>
 - [[The Making of an Expert::#The Making of an Expert]]
 - [[Managing Oneself::#Managing Oneself]]
 	- [[Munkamódszer::Munkamódszer]]
 	- [[Kapcsolatok::#Kapcsolatok]]
-
+- [[Are You a High Potential?::#Are You a High Potential?]]
+	- [[The Anatomy of a High Potential::#The Anatomy of a High Potential]]
+</p>
 ## The Making of an Expert
 <a id="The Making of an Expert"></a>
 [[K Anders Ericsson]], [[Michael J Prietula]], [[Edward T Cokely]]
@@ -163,6 +166,7 @@ type: könyv
 > 	Organizations are no longer built on force but on trust. The existence of trust between people does not necessarily mean that they like one another.
 
 ## Are You a High Potential?
+<a id="Are You a High Potential?"></a>
 [[Douglas A Ready]], [[Jay A Conger]], [[Linda A Hill]]
 
 - rengeteg szervezetnek megvan a maga "nagy potenciál-listája"
@@ -170,4 +174,19 @@ type: könyv
 - hogyan kerülj rá?
 
 ### The Anatomy of a High Potential
+<a id="The Anatomy of a High Potential"></a>
+- top 3-5 %
+	- konzisztensen kiemelkedően teljesítenek
+	- a szervezet értékrendjéhez illően viselkednek
+	- karrierjükben gyorsabban haladnak
+
+#### A szervezetek szempontjai
+
+1. a jó eredmények mellett megbízhatóan kell viszonyulni a kollégákhoz és a főnökökhöz is
+2. az elején elég a technikai dolgokban kimagaslónak lenni, ezután a több lábon állás, pl. a vezető szerep tanulása a megfelelő lépés
+3. ismerd be, hogy a viselkedés számít
+	- a "megfelelő"-ből a "példakép/tanár" kategóriába
+
+#### A saját szempontok
+
 - 

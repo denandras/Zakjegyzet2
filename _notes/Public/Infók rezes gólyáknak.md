@@ -31,8 +31,8 @@ type: poszt
 	- inkább emailt írj, ha van rá lehetőség
 		- azt is lehetőleg a megfelelő személynek, ezzel időt spórolsz
 		- "Tisztelt Ügyintéző!" mindig beválik
-	- Rézfúvósok ügyintézője: **[Vadon Andrea](mailto:vadon.andrea@zeneakademia.hu)**
-	- tanulmányi osztályvezető: [Gazsi Olívia](mailto:gazsi.olivia@zeneakademia.hu)
+	- Rézfúvósok ügyintézője: **Vadon Andrea (vadon.andrea[kukac]zeneakademia.hu)**
+	- tanulmányi osztályvezető: Gazsi Olívia (mailto:gazsi.olivia[kukac]zeneakademia.hu)
 
 > Félfogadási idő hallgatók részére a szorgalmi időszakban:
 >
