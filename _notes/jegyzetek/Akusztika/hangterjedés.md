@@ -83,4 +83,5 @@ type:
 	- 1,2-1,5 kamarazene, szóló
 	- 2-2,5 mp szimfonikus zene
 	- oratórium 2-3 mp
-[[teremtörténet]]
+
+- ![[teremtörténet]]

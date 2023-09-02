@@ -16,11 +16,11 @@ type:
 - *A zenei akusztika alapjai*
 - *Hang-ember-hang*
 - http://www.hangoskola.hu
-- *Daniel Coleman* szociálpszichológiai könyvei
+- *[[Daniel Coleman]]* szociálpszichológiai könyvei
 - *Fellini: Amarcord*
 - "A világűr zenéje csendes"
-- [Quizlet](https://quizlet.com/558890153/akusztika-fogalmak-flash-cards/)
 
+### [Quizlet](https://quizlet.com/558890153/akusztika-fogalmak-flash-cards/)
 ## [[akuszika képek]] - [link](https://ibb.co/album/XSczxC)
 
 - Athéni hangiskola

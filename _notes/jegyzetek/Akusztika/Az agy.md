@@ -97,6 +97,6 @@ adalék:
 				- IQ növekedés (*Gardner*: kommunikációs, zenei, matekatikai, stb.)
 				- agyra célzottan ható zenék (Binaural beats, dichotikusság)
 					- zenei drog
-					- két fülbe más frekvenciák, az agyban lebegnek össze
+					- két fülbe más frekvenciák, az agyban lebegnek össze - [[binaural beats meditáció]]
 				- Mozart és az agy
 					- Don Campbell Business

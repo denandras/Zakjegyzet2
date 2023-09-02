@@ -19,7 +19,7 @@ type: könyv
 <a id="Tartalom"></a>
 - [[The Making of an Expert::#The Making of an Expert]]
 - [[Managing Oneself::#Managing Oneself]]
-	- [[Munkamódszer::Munkamódszer]]
+	- [[Munkamódszer::#Munkamódszer]]
 	- [[Kapcsolatok::#Kapcsolatok]]
 - [[Are You a High Potential?::#Are You a High Potential?]]
 	- [[The Anatomy of a High Potential::#The Anatomy of a High Potential]]
