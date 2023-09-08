@@ -17,7 +17,7 @@ type:
 
 1. [[A középkori zene]]
 
-2. [[zenei írásbeliség, gregorián]]
+2. [[Zenei írásbeliség & gregorián]]
 
 3. [[világi zene a középkorban]]
 
