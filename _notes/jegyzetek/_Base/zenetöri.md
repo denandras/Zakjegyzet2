@@ -97,7 +97,7 @@ type:
 
 4. [[A német opera]]
 
-5. [[hangszeres virtuózok és műveik a tizenkilencedik században]]
+5. [[hangszeres virtuózok és műveik a 19. században]]
 
 6. [[szimfonikus zene a 19. században]]
 

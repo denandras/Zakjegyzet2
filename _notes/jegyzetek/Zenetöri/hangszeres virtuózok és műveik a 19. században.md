@@ -38,4 +38,4 @@ type:
 - pedálhasználat
 
 ---
-[^]: [[hangszeres virtuózok és műveik a tizenkilencedik században]]
+[^]: [[hangszeres virtuózok és műveik a 19. században]]
