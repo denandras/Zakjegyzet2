@@ -40,7 +40,7 @@ type:
 
 1. [[A barokk zenéről általában]]
 
-2. [A barokk opera](opera)
+2. [a barokk opera](opera)
 
 3. [[hangszeres zene a 17. században]]
 
@@ -48,7 +48,7 @@ type:
 
 5. [[francia barokk]]
 
-6. [[fngol zenei kultúra]]
+6. [[angol zenei kultúra]]
 
 7. [[szonáta]]
 
@@ -97,7 +97,7 @@ type:
 
 4. [[A német opera]]
 
-5. [[hangszeres virtuózok és műveik a 19. században]]
+5. [[hangszeres virtuózok és műveik a tizenkilencedik században]]
 
 6. [[szimfonikus zene a 19. században]]
 

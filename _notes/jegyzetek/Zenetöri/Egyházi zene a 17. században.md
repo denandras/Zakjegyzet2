@@ -1,5 +1,5 @@
 ---
-title: Egyházi zene a 17. században
+title: egyházi zene a 17. században
 feed: show
 created: 2023-08-21 20:35
 date: 2023-08-27 07:39
