@@ -1,13 +1,11 @@
 ---
-title: Zenei írásbeliség, gregorián
+title: zenei írásbeliség és a gregorián
 feed: show
-created: 2023-08-21 20:35
-date: 2023-08-27 08:47
-permalink: zenei-irasbeliseg-gregorian
-subject:
-  - zenetöri
-type:
-  - korszak
+created: 2023-09-08 08:17
+date: 2023-09-08 13:00
+permalink: zenei-irasbeliseg-es-a-gregorian
+subject: zenetöri
+type: 
 ---
 
 -   nyitógondolatok
