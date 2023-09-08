@@ -9,4 +9,4 @@ subject:
 type:
   - korszak
 ---
-![[A 15. sz. meghatározó műfajai]]
+![[a 15. sz. meghatározó műfajai]]

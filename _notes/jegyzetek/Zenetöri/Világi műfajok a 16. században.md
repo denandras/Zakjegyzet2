@@ -1,14 +1,13 @@
 ---
-title: Világi műfajok a 16. században
+title: világi műfajok a 16. században
 feed: show
-created: 2023-08-21 20:35
-date: 2023-08-27 08:41
+created: 2023-09-08 08:17
+date: 2023-09-08 13:03
 permalink: vilagi-mufajok-a-16-szazadban
 subject:
   - zenetöri
 type:
   - korszak
-  - fogalom
 ---
 
 -   francia területeken lévő műfajok

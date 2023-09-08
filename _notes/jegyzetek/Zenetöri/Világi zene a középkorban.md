@@ -1,15 +1,16 @@
 ---
-title: Világi zene a középkorban
+title: világi zene a középkorban
 feed: show
-created: 2023-08-21 20:35
-date: 2023-08-27 08:41
+created: 2023-09-08 08:17
+date: 2023-09-08 13:03
 permalink: vilagi-zene-a-kozepkorban
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - korszak
 ---
 
 -   `19. századig` a világi zene nagyban hasonlít az egyházi zenére, a kezdetekben volt, hogy vallásos énekek dallamaira új szövegeket írtak
-    
     -   funkcióiban és helyileg különbözik, de hasonlít maga a zene
     -   (pl. [[Bach]] 3. Brandenburgi verseny)
     -   a hangok nem vallásosak, az emberek azok

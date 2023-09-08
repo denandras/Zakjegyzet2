@@ -1,13 +1,11 @@
 ---
 title: Hangszeres virtuózok és műveik a 19. században
 feed: show
-created: 2023-08-21 20:35
-date: 2023-08-27 07:53
+created: 2023-09-08 08:17
+date: 2023-09-08 13:11
 permalink: hangszeres-virtuozok-es-muveik-a-19-szazadban
-subject:
-  - zenetöri
-type:
-  - korszak
+subject: zenetöri
+type: korszak
 ---
 
 > Hangversenyetűd, hangszeres átiratok, noktürn, mazurka, polonéz, [[Paganini]], [[Liszt]], [[Chopin]]

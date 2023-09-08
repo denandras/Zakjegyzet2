@@ -1,14 +1,11 @@
 ---
 title: Olasz és francia opera a 19. században
 feed: show
-created: 2023-08-21 20:35
-date: 2023-08-27 08:24
+created: 2023-09-08 08:17
+date: 2023-09-08 13:10
 permalink: olasz-es-francia-opera-a-19-szazadban
-subject:
-  - zenetöri
-type:
-  - műfaj
-  - korszak
+subject: zenetöri
+type: műfaj
 ---
 
 [[Julian Budden - Verdi]]

@@ -1,13 +1,11 @@
 ---
-title: Francia barokk
+title: francia barokk
 feed: show
-created: 2023-08-21 20:35
-date: 2023-08-27 07:46
+created: 2023-09-08 08:17
+date: 2023-09-08 13:06
 permalink: francia-barokk
-subject:
-  - zenetöri
-type:
-  - korszak
+subject: zenetöri
+type: 
 ---
 
 -   barokk zene a feledésbe merül

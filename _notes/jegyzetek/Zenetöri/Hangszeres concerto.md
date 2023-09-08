@@ -1,13 +1,11 @@
 ---
 title: Hangszeres concerto
 feed: show
-created: 2023-08-21 20:35
-date: 2023-08-27 07:53
+created: 2023-09-08 08:17
+date: 2023-09-08 13:07
 permalink: hangszeres-concerto
-subject:
-  - zenetöri
-type:
-  - műfaj
+subject: zenetöri
+type: 
 ---
 
 - mindenféle hangszeres darab
