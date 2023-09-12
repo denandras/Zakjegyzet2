@@ -10,4 +10,4 @@ type:
   - személy
 ---
 
-[[Moliére]] kortársa, drámaíró
+[[Moliere]] kortársa, drámaíró

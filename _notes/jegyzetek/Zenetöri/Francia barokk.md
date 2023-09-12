@@ -46,7 +46,7 @@ type:
 - ### Műfajok 
     -   [[udvari balett]] (ballet de court) - vokális zene sok tétellel, mindegyik műnek van témája) - dinamizmus nélküli [[opera]]
     -   [[comédie ballet]] - zenei színház és prózai között (tételek között próza) - akkori musical
-        -   [[Moliére]]
+        -   [[Moliere]]
             -   és [[Lully]] együtt írt sok [[comédie ballet]]-t
             -   kordában tartott udvarokban lehetett kritikát megfogalmazni
     -   [[tragedie en musique]] (= francia barokk [[opera]]/[[opera seria]])

@@ -188,4 +188,14 @@ type: könyv
 
 #### A saját szempontok
 
-- 
+- áldozatokat hoznak, mert szeretnének a jón és a nagyon jón túl kimagasló eredményeket
+- nem csak gyorsan tanulnak, hanem könnyen lesznek kreatív ötleteik, amiket lefordítanak a szakmai nyelvre, produktív gyakorlatba
+- az új és izgalmas dolgok nem állnak a döntések útjába, többet számít a kihívás a kockázatnál
+	- ahhoz, hogy ez ne katasztrofális hibákhoz vezessen, kell egy érzék a szituációk áthátásához, a lehetőségek kiszagolásához és jó időzítési képesség
+
+- önanalízis
+- érdemes-e elmondani az alkalmazottnak, hogy "nagy potenciál"
+	- igen, mert sokszor nincsenek tisztában saját képességeikkel
+	- mostanra 85% fölé emelkedett ez az arány (hogy elmondják nekik)
+	- transzparencia, ami nyomást helyez rájuk
+	- 

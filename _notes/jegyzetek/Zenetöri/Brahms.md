@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+## Negyedik félév - Romantika (BP)
 
 > <mark>1833-1897</mark>
 > Johannes Brahms
@@ -51,3 +52,17 @@ type:
 
 ---
 [^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
+
+## Ötödik félév - (KS)
+<mark>1833-1897</mark>
+> Hiába abszolút a zene, attól még van mondanivalója
+
+- Virágvasárnap - Jeruzsálem, megváltó
+	- Brahms életében kétszer fordult elő hasonló pillanat
+	- [[Beethoven]] halála után volt egy űr
+		- [[Schumann]]-szimfóniák, [[Mendelssohn]] 5.-je nem kaptak olyan rangot a kortársak szemében
+		- [[Liszt]] még nem írta meg az őt igazán naggyá tevő szimfóniákat ([[Chopin]] ezért sem tartotta nagyra)
+- német zenetöri két részre oszlik
+	- Új német iskola ([[Berlioz]], [[Wagner]], [[Liszt]])
+	- Konzervatív ág ([[Brahms]], **hiány**) - elfordulnak a programzenétől
+	- #később 
