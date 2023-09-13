@@ -11,6 +11,7 @@ type:
 ---
 ![](https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/e3/ec/da/e3ecdab5-438d-a8f9-f61d-d8d1b9d85392/mzl.mwehucyv.png/256x256bb.jpg)
 ## Negyedik félév - Romantika (BP)
+<a id="Negyedikfélév"></a>
 
 > <mark>1833-1897</mark>
 > Johannes Brahms
@@ -43,9 +44,9 @@ type:
 
 ### Szimfóniái (kimaradt)
 
-- 4. e-moll (5 tétel)
+- `4.` e-moll (5 tétel)
 	- e-E-e
-	- 4. tétel, minore
+	- `4.` tétel, minore
 		- passacaglia témája [[Bach]](?) kantátájából ereteztethető
 			- feldolgozásmódja más
 		- ostinato téma nem marad végig a basszusban
@@ -55,8 +56,12 @@ type:
 [^]: [[Általános zenetörténet IV. szemeszter - 2.tétel A dal.pdf]]
 
 ## Ötödik félév - (KS)
-<mark>1833-1897</mark>
-> Hiába abszolút a zene, attól még van mondanivalója
+<a id="Ötödikfélév"></a>
+<mark>1833-1897</mark>[^1]
+
+> Hiába abszolút a zene, attól még van mondanivalója.
+
+> Az összes zeneszerző kora-gyermekkorától csodagyerek, és többnyire jogot tanulnak.
 
 - Virágvasárnap - Jeruzsálem, megváltó
 	- Brahms életében kétszer fordult elő hasonló pillanat
@@ -65,5 +70,43 @@ type:
 		- [[Liszt]] még nem írta meg az őt igazán naggyá tevő szimfóniákat ([[Chopin]] ezért sem tartotta nagyra)
 - német zenetöri két részre oszlik
 	- Új német iskola ([[Berlioz]], [[Wagner]], [[Liszt]])
-	- Konzervatív ág ([[Brahms]], **hiány**) - elfordulnak a programzenétől
-	- #később 
+	- Konzervatív ág ([[Brahms]] és a [többiek](https://notes.andrasdenes.com/brahms#kiáltvány)) - elfordulnak a programzenétől
+- korrajz: gyertyák és lovak
+	- talán ő az első nagy, aki beleszületik ebbe, és budapesti villamosokat látva hal meg
+	- emberiség: haladunk (félelmek alakulnak ki; bármely pillanatban meghalhatunk)
+- **Hamburg**
+	- kikötőváros
+	- 1678 - első német operaház (kuplerájnegyedben)
+		- német értelmiség lenézi az operát ([[Mátépassió]]ban da capo áriáknál egy öregasszony azon húzza fel magát, hogy "ez egy vígopera")
+		- [[Brahms]] idősebb korában is körülvette magát "könnyűvérű" hölgyekkel
+- **édesapja** zenész volt (sok hangszeren játszott)
+	- egy nővére és öccse van
+	- anyja 14 évvel idősebb apjánál
+	- zongorát tanul, kocsmákban keresi kenyerét
+	- tanára 3 évig tanítja, majd elviszi saját mesteréhez, [[Eduard Marxsen]]hez
+		- zeneszerzést is tanul nála
+- **[[Reményi Ede]]**
+	- miskolci hegedűs, eredeti nevén Hoffmann
+	- '48-49-es forradalomban [[Görgei]] mellett vesz részt -> Amerikába emigrál -> vissza Európába
+	- 1853 nyarán Weimarba mennek [[Brahms]]szal, [[Liszt]]nél látogatást tesznek
+		- ([[Liszt]] '47 után már nem koncertezett, volt elég pénze)
+		- egy bizonyos [[Mason]] tanúja volt a találkának: (- Látom, hozott kottákat, játssza el! - Nem szeretném, mert Önt túl nagyra tartom. - Akkor majd én leblattolom. - Azt hittem, ez nehéz. - Nehéz.)
+		- elvileg kinézett [[Liszt]] a kommentárokkal teletűzdelt blatt közben, [[Brahms]] aludt, ezért kiment
+	- 1853 október: [[Schumann]]nál Düsseldorfban
+		- szorongott tőle is
+		- kottákat küldött, de bontatlanul visszakapta
+		- C-dúr szonáta (op. 1)
+		- [[Schumann]] feláll, kimegy, majd visszajön feleségével és kéri, játssza el még egyszer az első tételt
+		- *"végre eljött, akit vártunk"-momentum*
+- 1860 - kiáltvány a programzene ellen <a id="kiáltvány"></a>
+	- [[Brahms]], [[Joachim]], [[Julius Otto Grimm]], [[Bernhard Scholz]]
+	- nem mondják ki [[Liszt]] nevét, de ő ellene szól a dokumentum
+	- "a zene önmagában érték, nem kell, hogy valamiről szóljon"
+	- [[Eduard Hanslick]]
+		- sokszor van igaza, de alapvetően mégse
+		- #később 
+
+
+
+---
+[^1]: nagy zeneszerzők két legfontosabb évszámát tudni kell

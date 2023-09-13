@@ -91,7 +91,7 @@ type:
 
 1. A [[romantika fogalma]]
 
-2. A [[romantikus dal]], [[Schubert]], a [[ballada]], [[Brahms]], [[dalciklus]]
+2. A [[romantikus dal]], [[Schubert]], a [[ballada]], [Brahms](https://notes.andrasdenes.com/brahms#Negyedikfélév)[^1], [[dalciklus]]
 
 3. [[olasz és francia opera a 19. században]]
 
@@ -102,6 +102,20 @@ type:
 6. [[szimfonikus zene a 19. században]]
 
 ## Ötödik félév - (KS)
-[Az órák anyaga](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok/Kov%C3%A1cs%20S%C3%A1ndor)
+- [Az órák anyaga](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok/Kov%C3%A1cs%20S%C3%A1ndor)
+- [[zenetöri 5. félév]]
 
-1. [[Brahms]]
+1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév)[^1]
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+---
+[^1]: [[Brahms]]
