@@ -59,7 +59,7 @@ type:
 <a id="Ötödikfélév"></a>
 <mark>1833-1897</mark>[^1]
 
-> Hiába abszolút a zene, attól még van mondanivalója.
+> Hiába [[abszolút zene|abszolút a zene]], attól még van mondanivalója.
 
 > Az összes zeneszerző kora-gyermekkorától csodagyerek, és többnyire jogot tanulnak.
 

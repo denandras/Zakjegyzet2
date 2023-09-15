@@ -11,7 +11,7 @@ type:
   - műfaj
 ---
 
-> szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az abszolút zene eszméje és az Újnémet Iskola]
+> szimfónia és szimfonikus költemény, BERLIOZ, SCHUBERT, MENDELSSOHN, SCHUMANN, LISZT, BRAHMS, az [[abszolút zene]] eszméje és az Újnémet Iskola]
 
 - a [[Beethoven]] utáni helyzet
 	- **kimerültek a lehetőségek?**
@@ -31,7 +31,7 @@ type:
 	- -> [[Brahms]] hagyománytisztelő tiltakozása
 		- [[Eduard Hanslick]] ([[Liszt]] és [[Wagner]] másik nagy kritikusa)
 		- [[Schumann]], [[Mendelssohn]], [[Brahms]]
-- abszolút zene eszméje
+- [[abszolút zene]] eszméje
 	- zene mint autonóm művészet
 	- [[Eduard Hanslick]] - *a zenei szép*
 	- nem függ rajta kívüli tartalomtól, egyedül a hangokban és azok művészi összekapcsolásában rejlik szépsége, önmagukban vonzó hangzások

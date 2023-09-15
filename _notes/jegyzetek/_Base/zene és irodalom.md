@@ -48,6 +48,6 @@ type: témakör
 - [[10 perc trombita]]
 
 
-
+---
 [^1]: rövid, rendsz. prózában írt elbeszélés mint írói műfaj; novella. ([forrás](https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/b-1EF8E/beszely-209B4/))
 [^2]: a megértéshez az összes mű (és annak műértelmezéséről) szóló mű elolvasása
