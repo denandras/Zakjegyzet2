@@ -10,6 +10,7 @@ format: list
 - <a href="{{'/zenetori' | relative_url}}">Zenetöri</a>
 - <a href="{{'/magyar-zenetori' | relative_url}}">Magyar zenetöri</a>
 - <a href="{{'/akusztika' | relative_url}}">Akusztika</a>
+- <a href="{{'/muveszettortenet' | relative_url}}">Művészettörténet</a>
 - <a href="{{'/nepzene' | relative_url}}">Népzene</a>
 
 ## Szabválok
