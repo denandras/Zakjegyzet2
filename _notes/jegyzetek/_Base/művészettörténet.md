@@ -17,9 +17,9 @@ type:
 - MOME (Képíró utca) kiállítás
 - design [[szemiotika]] védés
 ## Ajánlott irodalom
-[[E H Bombrich - A művészet története]]
-[[Tatai Erzsébet - Művészettörténeti ismeretek]]
-[[Rajkó Andrea, S Nagy Katalin - Művészettörténet I-II]]
+- E H Bombrich - A művészet története
+- Tatai Erzsébet - Művészettörténeti ismeretek
+- Rajkó Andrea, S Nagy Katalin - Művészettörténet I-II
 ## Információk
 - `43.` héten csak kedden lesz óra
 - félév végén írásos feladat
