@@ -2,8 +2,8 @@
 title: Művésztettörténet
 feed: show
 created: 2023-09-15 09:53
-date: 2023-09-15 09:53
-permalink: muvesztettortenet
+date: 2023-09-14 09:53
+permalink: muveszettortenet
 subject:
   - művészettörténet
 type:
