@@ -34,13 +34,16 @@ type: témakör
 - akárhogy értelmezhető
 	- hermeneutika ([[Hirsch]]): a jó értelmezések sora végtelen, a rosszakat észre lehet venni
 - esztétika-filozófia
-	- '30-as évek: strukturalizmus - a mű tudományosan értelmezhető
+	- '30-as évek: [[strukturalizmus]] - a mű tudományosan értelmezhető
 	- ma: alkotó-műalkotás-befogadó
 		- a befogadó lesz a fontos (befogadásesztétika)
 		- [[Derrida]]-féle dekonstrukció -> totális szubjektivitás
 		- hermeneutika: vegyük észre saját előítéleteinket
 - az órákon inkább foglalkozunk befogadásesztétikával, mint háttértörténetekkel
 	- valamint fontos még a technikaibb dolgok elemzése (forma, **prózapoétika**, elbeszélő személye, stb.)
+- a formáról ne csak deskriptíven beszéljünk, hanem a tartalommal való kapcsolatot is nézzük
+- más a költeményekben a "sor" és a "mondat"
+	- tehetnénk pontot egyes helyeken?
 ### Ajánlások
 - [[Iskola a határon]] (beszély[^1])
 - [[Bacsó Béla - Szép-e a szép]]
