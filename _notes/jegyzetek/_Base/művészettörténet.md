@@ -1,5 +1,5 @@
 ---
-title: Művésztettörténet
+title: Művészettörténet
 feed: show
 created: 2023-09-15 09:53
 date: 2023-09-14 09:53
