@@ -580,7 +580,7 @@ type: témakör
 
 #### Film ajánlások
 <a id="Film ajánlások"></a>
-<img src="https://denandras.github.io/zakjegyzet/assets/img/K%C3%A9s%C5%91%20modern%20m%C5%B1v%C3%A9szfilmek.jpg" width="100%">
+<img src="https://notes.andrasdenes.com/assets/img/K%C3%A9s%C5%91%20modern%20m%C5%B1v%C3%A9szfilmek.jpg" width="100%">
 
 - [[Huszárik - Elégia]], igazi avantgárd
 - [[Huszárik - Szindbád]]
