@@ -11,7 +11,8 @@ type:
 ---
 >  Körösvölgyi Zoltán
 
-> A műalkotás mindenképpen kapcsolódik saját korához, feltesz kérdéseket. A művész felfedező, előörs egy olyan fajta érzékenység miatt, ami a többi emberben nincs meg. (eml. [Loch Gergely PhD](https://apps.lfze.hu/netfolder/PublicNet/Doktori%20dolgozatok/loch_gergely/tezis_hu.pdf); [Vadászi Zoltán "1/0"](https://www.zoltanvadaszi.com/1-0))
+> A műalkotás mindenképpen kapcsolódik saját korához, feltesz kérdéseket. A művész felfedező, előörs egy olyan fajta érzékenység miatt, ami a többi emberben nincs meg. (eml. [Loch Gergely PhD](https://apps.lfze.hu/netfolder/PublicNet/Doktori%20dolgozatok/loch_gergely/tezis_hu.pdf); [Vadászi Zoltán - "1/0"](https://www.zoltanvadaszi.com/1-0))
+
 # Tartalom
 - [[Aktuális ajánlott művelődnivaló::#Aktuális ajánlott művelődnivaló]]
 - [[Ajánlott irodalom::#Ajánlott irodalom]]

@@ -107,7 +107,7 @@ type:
 
 1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév)[^1]
 
-2. 
+2. [Wagner](https://notes.andrasdenes.com/wagner#Ötödikfélév)[^2]
 
 3. 
 
@@ -119,3 +119,4 @@ type:
 
 ---
 [^1]: [[Brahms]]
+[^2]: [[Wagner]]

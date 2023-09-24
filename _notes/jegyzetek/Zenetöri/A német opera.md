@@ -52,6 +52,8 @@ type:
 	- [[Lohengrin]]
 	- [[Trisztán és Izolda]]
 
+![[Wagner#Negyedik félév - Romantika (BP)]]
+
 ---
 [^]: [[10. Beethoven operája.pdf]]
 [^]: [[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]

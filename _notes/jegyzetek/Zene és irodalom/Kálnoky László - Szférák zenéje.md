@@ -9,10 +9,9 @@ subject:
 type:
   - mű
 ---
-yi## [Link](https://reader.dia.hu/document/Kalnoky_Laszlo-Osszegyujtott_versek-1000)
+[Link](https://reader.dia.hu/document/Kalnoky_Laszlo-Osszegyujtott_versek-1000)
 
-# Szférák zenéje
-
+## Szférák zenéje
 Meg-megrezdülök, mint hangvilla-ág,
 ha olykor álmélkodva fedezem fel,
 hogy mossa sziklabörtönöm falát
@@ -48,28 +47,38 @@ ha hívogat a mindenség zenéje,
 melyből pár alamizsna-porszemecskét
 hullat a gúnyos Könyörületesség.
 
-# Értelmezés
-## Forma
+## Értelmezés
+[[Kálnoky László - Szférák zenéje (értelmezés).canvas|Értelmezés canvas]]
+
+
+### Forma
 - egy kereszt, és egy páros rím, ABABCC
 - szótagszám 10+11+10+11+11+11
-## Tartalom
-- a cím kapcsolata a [[Kepler]]i bolygómozgás törvényeivel
+- kapcsolat a tartalommal: minden versszak egy gondolat
+### Tartalom
+- a **cím** kapcsolata a [[Kepler]]i bolygómozgás törvényeivel
+	- + szférák: #később 
 - egy világtól való elszakadásról beszél
 - változás az életfilozófiában: *"örök tudás lángja helyett a tudat halvány mécséért esengtem"*
-- a boldog hangok hazáját elvesztette (itt nincs szenvedés)
+- a boldog hangok hazáját elvesztette (ahol nincs szenvedés)
 	- sorsa ellen lázadó paránnyal azonosítja önmagát
-## Műfaj
+- folyamatosan képekben beszél, sok melléknevet használ
+	- fokozás (derűje a boldog harmóniának)
+### Műfaj
 - líra
 
-# Hatástörténeti háttér
+## Hatástörténeti háttér
 - [[Kálnoky László]] ([wiki](https://www.wikiwand.com/hu/K%C3%A1lnoky_L%C3%A1szl%C3%B3))
 	- 1912-1985
 	- a Nyugat harmadik nemzedékébe tartozott
 	- költészetére, világképére végletes **pesszimizmus**, a tragikumot groteszkbe fordító látásmód jellemző
+	- '47-től műfordító is
+	- [[Iszlai Zoltán]] utal arra, hogy nem utolérte, hanem megteremtette az elvárásokat
+		- "eltussolandó visszásságaink egyike volt, s már-már kultúrbotrány számba megy, hogy tilos és ildomtalan lehetett-légyen pesszimista költészetet mívelni"
 - a mű eredetileg magyar nyelven íródott
-## Recepciótörténet
-- Az igazság az, hogy a filozófus teljes rangjára csak bölcselő emelkedhet, költő nem. Ugyanakkor napnál világosabb, miszerint a LÉTEZÉS RÉMSÉGEI-nek öt darabja (a _Gyászos végű kaland,_ a _Szférák zenéje, A dicsőség törmelékei, A kárhozottak hímnusza_ és az _Óda a reménytelenséghez)_ oly versek, amelyek valamely [[neoegzisztencializmus|neoegzisztencialista]][^1] filozófiához Prolegomenául szolgálhatnának, s az egy Szabó Lőrincen kívül kevesen írtak hozzájuk foghatót. ([[Határ Győző - Irodalomtörténet]] - [link](https://reader.dia.hu/document/Hatar_Gyozo-Irodalomtortenet-273))
-- '47-től műfordító is
+### Recepciótörténet
+- Az igazság az, hogy a filozófus teljes rangjára csak bölcselő emelkedhet, költő nem. Ugyanakkor napnál világosabb, miszerint a LÉTEZÉS RÉMSÉGEI-nek öt darabja (a _Gyászos végű kaland,_ a _Szférák zenéje, A dicsőség törmelékei, A kárhozottak hímnusza_ és az _Óda a reménytelenséghez)_ oly versek, amelyek valamely [[neoegzisztencializmus|neoegzisztencialista]][^1] filozófiához Prolegomenául[^2] szolgálhatnának, s az egy [[Szabó Lőrinc]]en kívül kevesen írtak hozzájuk foghatót. ([[Határ Győző - Irodalomtörténet]] - [link](https://reader.dia.hu/document/Hatar_Gyozo-Irodalomtortenet-273))
 
 ---
 [^1]: Az egzisztencializmus egy filozófiai irányzat, amely az emberi létezés, a szabadság, a felelősség és a létezés abszurditása iránti érdeklődést helyezi előtérbe. A **neoegzisztencializmus** pedig az egzisztencialista gondolatokat továbbfejleszti és modernizálja.
+[^2]: előtanulmány, nagyobb mű bevezetése ([etimológiai szótár](https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-magyar-etimologiai-szotar-F14D3/p-F3534/prolegomena-F38DE/))

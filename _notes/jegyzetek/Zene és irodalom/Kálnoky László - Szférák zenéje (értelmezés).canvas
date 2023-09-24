@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"5fd9f28887d4e382","type":"group","x":120,"y":-280,"width":300,"height":814,"label":"értelmezés"},
+		{"id":"73677513147e5eb9","type":"group","x":460,"y":-280,"width":300,"height":814,"label":"zene"},
+		{"id":"ac8632b10a126a25","type":"group","x":800,"y":-280,"width":342,"height":224,"label":"rész-egész"},
+		{"id":"d20b55e3e3aba23b","type":"text","text":"világ, melytől elszakadt: gyermekkor","x":140,"y":-71,"width":260,"height":60},
+		{"id":"5eda2599dbe74ca0","type":"text","text":"sziklabörtön: kőszívű ember, pesszimista, de eljut hozzá pár boldogságfoszlány","x":140,"y":-212,"width":260,"height":112},
+		{"id":"a5bf07b4c67628ef","type":"file","file":"public/public/Zakjegyzet2/_notes/jegyzetek/Zene és irodalom/Kálnoky László - Szférák zenéje.md","subpath":"#Szférák zenéje","x":-320,"y":-280,"width":400,"height":814},
+		{"id":"301f2d74b9e96e92","type":"text","text":"költő lett és nem tudós/filozófus (akart-e?)\negyéniség -> költő","x":140,"y":348,"width":260,"height":86},
+		{"id":"1e9450fab25f8ec3","type":"text","text":"nem lehet tökéleteset alkotni, de van ihlet -> alamizsna-porszemecskék","x":140,"y":434,"width":260,"height":80},
+		{"id":"4d9309c81a593e85","type":"text","text":"remény: mindent tudni akarás, művelődés\nkegyelem: beéri a költő szereppel is","x":140,"y":75,"width":260,"height":105},
+		{"id":"139102ed799c9949","type":"text","text":"megérett, felfogta, hogy ez lehetetlen","x":140,"y":211,"width":260,"height":60},
+		{"id":"872c93c3a9be153c","type":"text","text":"bűzös emberalakok: tudni nem akarók","x":140,"y":271,"width":210,"height":50},
+		{"id":"eee30a1a55d42b10","type":"file","file":"public/public/Zakjegyzet2/_notes/jegyzetek/Zene és irodalom/Kálnoky László - Szférák zenéje.md","subpath":"#Értelmezés","x":-760,"y":-280,"width":400,"height":814},
+		{"id":"87e3817e05861f1b","type":"file","file":"public/public/Zakjegyzet2/_notes/jegyzetek/Zene és irodalom/Kálnoky László - Szférák zenéje.md","subpath":"#Hatástörténeti háttér","x":-1200,"y":-280,"width":400,"height":814},
+		{"id":"b744739b1b3407d8","type":"text","text":"zene: általános jelentés","x":480,"y":-212,"width":260,"height":60},
+		{"id":"c7e14aa606f7c43a","type":"text","text":"kepleri bolygómozgás","x":480,"y":-71,"width":260,"height":60},
+		{"id":"8e77d2a9a0e182db","type":"text","text":"szebb világ zenéje: a remény maga","x":480,"y":75,"width":260,"height":60},
+		{"id":"fca6214c1acda555","type":"text","text":"a boldog hangok hazájában nincsen szenvedés, nem földi világ","x":480,"y":211,"width":260,"height":89},
+		{"id":"235fc336ab0b6a67","type":"text","text":"egyetemes , örök zenetenger; örökös tudás lángja, nagy haza, mindenség zenéje, végtelen szeszélye","x":815,"y":-260,"width":312,"height":184},
+		{"id":"edae292557f1a765","type":"text","text":"tudat halvány mécse, pár alamizsna-porszemecske","x":846,"y":-159,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c78e5c73f2cfa4af","fromNode":"b744739b1b3407d8","fromSide":"bottom","toNode":"c7e14aa606f7c43a","toSide":"top"},
+		{"id":"0dce2cc14b269eea","fromNode":"c7e14aa606f7c43a","fromSide":"bottom","toNode":"8e77d2a9a0e182db","toSide":"top"},
+		{"id":"2abb454d29684416","fromNode":"5eda2599dbe74ca0","fromSide":"bottom","toNode":"d20b55e3e3aba23b","toSide":"top"},
+		{"id":"e07be2b6817a6674","fromNode":"d20b55e3e3aba23b","fromSide":"bottom","toNode":"4d9309c81a593e85","toSide":"top"},
+		{"id":"540eb283aafc65cd","fromNode":"4d9309c81a593e85","fromSide":"bottom","toNode":"139102ed799c9949","toSide":"top"},
+		{"id":"8acc5c8ceca753c1","fromNode":"139102ed799c9949","fromSide":"bottom","toNode":"301f2d74b9e96e92","toSide":"top"},
+		{"id":"ecc6385bc716421f","fromNode":"8e77d2a9a0e182db","fromSide":"bottom","toNode":"fca6214c1acda555","toSide":"top"}
+	]
+}
