@@ -10,7 +10,7 @@ type: témakör
 
 > - szabvál
 > - [[Kovács Zoltán]] bölcsész
-
+## Művek
 - [[John Milton - Zenehallgatás közben]]
 - [[Kálnoky László - Szférák zenéje]]
 - [[Ady Endre - A fekete zongora]]
@@ -24,7 +24,7 @@ type: témakör
 	- szerzővel nem kell foglalkozni - végtelen örvény indul el
 		- ő maga is félreértheti saját művét
 - [[Jim Jarmusch - Lakókocsi, belső, éjjel]]
-
+## Módszer
 - a fordítások is kritizálhatók
 - az irodalom (és nem a zenével való kapcsolat) a lényeg
 	- közhelyek a zenéről
