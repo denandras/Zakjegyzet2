@@ -84,7 +84,7 @@ type:
 10. [[Haydn és az oratórium]] (kimaradt, kész)
 
 ## Negyedik félév - Romantika (BP)
-<a href="https://denandras.github.io/zakjegyzet/assets/img/4.%20f%C3%A9l%C3%A9v.png">
+<a href="https://notes.andrasdenes.com/assets/img/4.%20f%C3%A9l%C3%A9v.png">
 <img src="../assets/img/4. félév.png" width="100%">
 </a>
 ![[4. félév.canvas|4. félév]]

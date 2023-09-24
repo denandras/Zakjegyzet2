@@ -126,7 +126,7 @@ type: poszt
 		- eddig órarend szerinti óra volt (felirakozásos alapú, de minden próbán teljes szólamnak kell lennie)
 		- most lesz koncert is (elvileg)
 		- péntekenként 14:00-16:00, Kupola
-- [kötelező tárgyak jegyzetei](denandras.github.io/zakjegyzet)
+- [kötelező tárgyak jegyzetei](https://notes.andrasdenes.com)
 - vizsgák
 	- fel kell venni egyenként a neptunban a vizsgaidőszak kezdetekor (gyakorlatilag előtte már egy héttel le lehet csapni a legjobb időpontokra)
 

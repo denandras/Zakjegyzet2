@@ -49,8 +49,9 @@ hullat a gúnyos Könyörületesség.
 
 ## Értelmezés
 [[Kálnoky László - Szférák zenéje (értelmezés).canvas|Értelmezés canvas]]
-
-![](https://notes.andrasdenes.com/assets/img/K%C3%A1lnoky%20L%C3%A1szl%C3%B3%20-%20Szf%C3%A9r%C3%A1k%20zen%C3%A9je%20%C3%A9rtelmez%C3%A9s.png)
+<a href="https://notes.andrasdenes.com/assets/img/K%C3%A1lnoky%20L%C3%A1szl%C3%B3%20-%20Szf%C3%A9r%C3%A1k%20zen%C3%A9je%20%C3%A9rtelmez%C3%A9s.png">
+<img src="../assets/img/Kálnoky László - Szférák zenéje értelmezés.png" width="100%">
+</a>
 ### Forma
 - egy kereszt, és egy páros rím, ABABCC
 - szótagszám 10+11+10+11+11+11
