@@ -58,7 +58,7 @@ hullat a gúnyos Könyörületesség.
 - kapcsolat a tartalommal: minden versszak egy gondolat
 ### Tartalom
 - a **cím** kapcsolata a [[Kepler]]i bolygómozgás törvényeivel
-	- + szférák: #később 
+	- + szférák: a bolygók szférákon (gömbökön) mozognak, a zene célja matematikai utánzás
 - egy világtól való elszakadásról beszél
 - változás az életfilozófiában: *"örök tudás lángja helyett a tudat halvány mécséért esengtem"*
 - a boldog hangok hazáját elvesztette (ahol nincs szenvedés)

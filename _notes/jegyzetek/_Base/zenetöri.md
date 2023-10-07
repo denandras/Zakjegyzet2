@@ -109,7 +109,7 @@ type:
 
 2. [Wagner](https://notes.andrasdenes.com/wagner#Ötödikfélév)[^2]
 
-3. 
+3. [[Verdi]]
 
 4. 
 

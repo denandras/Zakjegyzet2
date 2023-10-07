@@ -91,7 +91,7 @@ type:
 		- törpék világa, "kincseket" (fegyvereket) gyártanak
 		- 1853, aktuális helyzet, fegyvergyárak
 		- szinte 20. századi zene
-	- **A valkűrök** ('70)
+	- **A valkűrök** ('70) [^7]
 		- nyitány
 			- dühös előjáték
 			- függöny mögött vihar van, előző nap láttam a sorozat előző részét (akkori hallgatóként)
@@ -118,7 +118,40 @@ type:
 		- "ki/mi üldöz?"
 		- "balsors" (Miswende)
 		- "maradj, nem hozhatsz rám balsorsot, mert balsorsnak háza ez"
-		- "Jaj! *Hundig* jöttét megvárom"
+		- "Jaj! Nevem Wehnwalt (~Jajfi). *Hundig* jöttét megvárom"
+		- vacsi; "meséljen magáról"
+			- apjával sokat járták az erdőt
+			- hazamentek, anyját megölték, húgát elvitték
+			- apja furán nevelte
+			- egy lány vőlegényét lekaszabolta, ezért üldözik
+			- csatában eltört a kardja, menekül
+		- *Hundig*ék egész este őt üldözték
+		- ma este még maradhat, mert a vendégbaráaság szent
+		- nő italt készít (mert ráparancsolt férje)
+			- összeadták őket, rettenetes kényszerházasság
+		- a férfi nézegeti a fát, "de fura ott ni!"
+		- egyedül marad
+			- "apám azt ígérte, a legbagyobb vészben találok egy kardot"
+			- a fán megcsillan valami, majd teljes sötétség lesz
+			- kard motívuma (g c' c, e g c' e')
+			- random felvesz a földről egy kardot
+			- *Wotan* = E-dúr
+		- nő be (oldalajtón)
+			- "Alszol?"
+			- történet: akarata ellenére adták *Hundig*hoz
+			- *Wotan* megjelenik, belevágja kardját a kőrisfába, aki kihúzza, az övé lesz
+			- "bárcsak tudnék valakit, aki kihúzza"
+		- "senki nem jött, csak a tavasz"
+			- tavasz-dal (majdnem zárt szám)[^8]
+			- költészet[^9]
+		- "milyen ismerős az arcod, hangod... a tekinteted mint *Wotan*é"
+			- "hogy is hívnak?"
+			- "a családnevem Wälsung"
+			- a nő rájön **valamire**
+			- "elnevezlek hát én, legyen a neved *Sigmund*" (siegen = győzni), "terád vár a kard"
+				- (egy csata van, azt is elveszti)
+			- kihúzza a kardot
+			- **Sieglinde vagyok, a húgod** -> fajtiszta *Wotan*-gyermek
 	- **Siegfried** ('76)
 		- *Siegfried* *Mimével* él egy barlangban (aki egy undorító törpe)
 		- folyton kovácsolgat valamit, egy kardot, amit *S.* mindig kettétör
@@ -196,7 +229,7 @@ type:
 
 ![](https://www.br-klassik.de/aktuell/news-kritik/querschnitt-bayreuther-festspielhaus-100~_h-364_v-img__16__9__xl_w-648_-be6819cc57a5436fe2e22755fd9495d5c6ac08f6.jpg?version=f4cf0)
 
-
+"végtelen dallam" - a zene, a dráma és a szöveg a színészet, és a látvány egységet alkot
 
 
 
@@ -207,3 +240,6 @@ type:
 [^4]: a fasiszta szó erős túlzás. Élete vége felé jobbos. [[Marx]] antiszemita zsidó volt. [1847-es kommunista kiáltvány](https://www.wikiwand.com/hu/Kommunista_ki%C3%A1ltv%C3%A1ny) - nyomor
 [^5]: hímnemű fennkölt alakot használ - felmerülhet a kérdés, hogy vészhelyzetben miért használná ezt a nyelvet valaki? - az élet fája mellett ott az élet forrása, erre utal
 [^6]: használhatná a die Frau alakot, de semlegesnek és erősnek tűnik így
+[^7]: bemutatott DVD: Patrice Chéreau énekel, készült Bayreuth 100 éves évfordulója alkalmából. Látjuk a nőt a nyitány vége felé, aki mintha várná a vihart. Van forrás, a csellószóló közben a nő ahhoz húzza oda a férfit. Túlzó rendezés.
+[^8]: [[Wagner]] szerint a zárt számokat kerülni kell, ódivatú dolog, eljárt fölötte az idő. A szabad deklamáció és a zenei próza a nyerő.
+[^9]: Nibelungen: a költészetet meg kell fosztani a rímtől, de a tőrím (alliteráció) jó. Nem véletlen [[Wagner]] szerint, hogy a szavak milyen betűvel kezdődnek, pl. az anya a legtöbb nyelvben M betűvel kezdődik a szopás miatt.
