@@ -16,7 +16,7 @@ type:
 
 > az alábbi oldalt javasolt **<mark>asztali nézetben</mark>** megtekinteni
 
-<meta name="viewport" content="width=1024">
+<meta name="viewport" content="width=2048">
 ### Karrierének kezdete
 
 > Lipcse, <mark>1813-1883</mark>

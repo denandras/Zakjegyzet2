@@ -22,6 +22,9 @@ type:
 	- [[Fogalmak::#Fogalmak]]
 	- [[Kérdések::#Kérdések]]
 - [[Az őskor::#Az őskor]]
+	- [[Az őskorból az ókorba::#Az őskorból az ókorba]]
+- [[Bronzkor és társai::#Bronzkor és társai]]
+- 
 - [[Idegen szavak::#Idegen szavak]]
 ## Aktuális ajánlott művelődnivaló
 <a id="Aktuális ajánlott művelődnivaló"></a>
@@ -144,6 +147,97 @@ type:
 - kortárs társadalomban a művészet és a tudomány összefonódik
 
 > egy zenében is több van, mint csak a hangjegyek
+
+### Az őskorból az ókorba
+<a id="Az őskorból az ókorba"></a>
+> tele van a Föld talányokkal - pl. 19. századi élmények és fotók a piramisokkal
+
+> a designban megtalálni az affordanciát[^5]
+
+- képlékenység a tudásban
+	- egyre több dolog kerül elő
+	- nem volt történetírás
+	- a dolgok vélt (keletkezési) ideje "változik"
+- az átmenet
+	- **írás**, Lascaux-i barlangban 4 pötty
+	- mégis miről írtak? - a "kultúra" szó is a kultiválás szóból ered, az emberiség fenntartásához szükséges dolgokról írtak, pl. anyagi, könyvelési dolgok, törvények, hadjáratokkal kapcsolatos dolgok
+	- a korai írás exkluzív volt, nem mindenki tudta elolvasni
+		- a héber írás máig ilyen
+		- innen aztán nagy lépés a demokratikusabb latin/görög
+- emlékek
+	- Mezopotámia, i. e. 3500, "Kis" városból két pici kő
+	- summér eposz, *Enmerkár és Aratta* - a két társadalom versengése, i. e. 2600-2500
+	- Egyiptom, Kína, Mezoamerika
+	- piramisok
+- piramisok
+	- az idő (mely emberi konstruktum) összefoglalja a piramisok célját
+		- tervezés, kollaboráció kellett hozzá
+		- rendszer birtoklásának vágya hajtotta
+		- kiszámíthatóság jellemzi
+		- kapcsolat a transzcendenssel (örökkévalóság részévé teszi a fáraót)
+- mezőgazdasági forradalmak
+## Bronzkor és társai
+<a id="Bronzkor és társai"></a>
+> kompozit istenségek
+
+- **Egyiptom** - folyami kultúra
+	- stabilan tudunk szervezett életről 5000 évig visszamenőleg, műalkotások, megnyilvánulások révén
+	- időtlen formák, absztrakció
+	- hogyan lehet az isteni fáraók életét végteleníteni, az örökkévalóság részévé tenni?
+		- múmiák, szarkofágok
+		- eml. [[Vörös Géza]]
+	- statikus, hierarchikus ábrázolás
+		- egyértelműség (aki/ami nagy, az fontos)
+		- nem perspektivikus ábrázolásmód
+	- politeizmus -> monoteizmus (Aton isten, Echaton fáraó alatt)
+- **Mezopotámia** - folyamközi kultúra
+	- mai Irak, Irán, Szíria
+	- sok háborút megélt terület
+	- babilóni asszír kultúra
+	- hasonlít az egyiptomi kultúrára
+	- "zikkurat" építmények
+	- minőségi szobrászati technika
+	- *írás* - írnokok
+		- meghódított területek szélén területfoglaló kövek
+- **Minósz** - tengeri kultúra
+	- mai Kréta
+	- bronzkor
+	- többen éltek ott akkor, mint ma
+	- békés közeg
+	- nem erődített épületek
+	- nem a harcot, hanem az életet jelenítik meg
+- **Mükéné**
+	- i. e. 16-12. sz.
+	- erődítmények
+	- kultúra
+		- hősi cselekedetek, harc
+		- vadászat
+		- temetkezés - *Agamemnón király arany maszkja*
+- **Kus** (kusita királyság)
+	- mai Szudán
+	- i. e. 200-től
+	- piramisok
+	- az egyiptomihoz hasonló szobrászat
+		- de el is tér, jellegzetes
+- **Nok**
+	- mai Nigéria
+	- szimbolikus szobrászat
+- **Kína**
+	- geometrikus jellegű díszítőművészet
+	- mitológiai jelleg
+	- Csin Si Huang Ti sírja - agyagkatonák
+- **India**
+	- Mohenjo Daro - indusvölgyi civilizáció
+	- építészeti szobrászat
+- **"Prekolumbián"** kultúrák (minden Kolumbusz előtti)
+	- Közép/Dél-Amerika
+	- gigantikus dolgok
+	- olmék hatalmas fej
+- *Nazca-vonalak*
+
+#később kijegyzetelendő 40. heti óra
+
+
 ## Idegen szavak
 <a id="Idegen szavak"></a>
 - [[vernakuláris]]
@@ -154,3 +248,4 @@ type:
 [^2]: több különböző tudományág vagy diszciplína együttműködik vagy kombinálódik egy adott probléma vagy kutatási terület megértése és megoldása érdekében (*ChatGPT*)
 [^3]: olyan pszichológiai, bölcseleti irányzatot jelent, amely szerint az embernek vannak vele született eszméi, képességei vagy készségei, amelyekkel születése után azonnal rendelkezik és ami segít neki értelmezni a világot. ([wiki](https://www.wikiwand.com/hu/Nativizmus_(pszichol%C3%B3gia)))
 [^4]: egy olyan filozófiai és teológiai megközelítés, amelynek központi elve az, hogy Isten lényét vagy jellemzőit nem lehet pozitív módon kifejezni vagy megérteni, hanem csak annak tagadásával vagy az elvonással lehet megközelíteni (ChatGPT) - [Pierre Hadot - Apofatizmus és negatív teológia](https://epa.oszk.hu/03500/03594/00003/pdf/EPA03594_2009_02_079-088.pdf)
+[^5]: használhatóság
