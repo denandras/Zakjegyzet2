@@ -111,9 +111,9 @@ type:
 
 3. [[Verdi]]
 
-4. 
+4. [[Bruckner]]
 
-5. 
+5. [[Mahler]]
 
 6. 
 

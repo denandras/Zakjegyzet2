@@ -21,7 +21,7 @@ type: témakör
 - [[Orbán Ottó - Öreg hegedűsök találkozója]]
 - [[Bartók Béla - Cantata profana]]
 	- történet és annak kapcsolata [[Bartók]]kal
-	- szerzővel nem kell foglalkozni - végtelen örvény indul el
+	- szerzővel nem kell foglalkozni - (végtelen örvény indul el)
 		- ő maga is félreértheti saját művét
 - [[Jim Jarmusch - Lakókocsi, belső, éjjel]]
 ## Módszer

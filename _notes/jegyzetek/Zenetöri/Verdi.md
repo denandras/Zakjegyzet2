@@ -61,7 +61,7 @@ type:
 		- "a gályarabság évei" - folyton rossz librettók megzenésítése
 	- *Ernari*
 		- `19.` sz: óriási népszerűség
-		- [[Victor Hugo]]-rémtörténet
+		- [[Victor Hugo 1]]-rémtörténet
 	- további jelentéktelenek
 		- *A két Foscari*
 		- *Giovanna D’Arco* (Jean d'Arc)
@@ -86,7 +86,7 @@ type:
 		- "Viva Vittorio Emanuel regni in Italia"
 		- ismert volt
 	- ***Rigoletto*** - bem. 1851, 1852-ben már Pesten
-		- [[Victor Hugo]] - *A király mulat*
+		- [[Victor Hugo 1]] - *A király mulat*
 		- [[Piave]]
 		- [[I. Ferenc francia király]]
 			- reneszánsz uralkodó

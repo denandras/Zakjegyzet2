@@ -19,7 +19,7 @@ type:
 ### Műfaj, sémák
 
 - divatok hatása -> népszerű írók, költők művei
-	- [[Walter Schott]], [[Victor Hugo]]
+	- [[Walter Schott]], [[Victor Hugo 1]]
 - **nem elválasztható egymástól az olasz és francia**
 - **olasz komponisták mind megfordultak Párizsban**
 	- központi hely, viszonyítási pont

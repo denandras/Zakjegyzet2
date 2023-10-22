@@ -38,7 +38,7 @@ Liszt Ferenc
 	- [[Berlioz]]
 	- [[Chopin]]
 	- [[Rossini]]
-	- [[Victor Hugo]]
+	- [[Victor Hugo 1]]
 	- [[Alfred Musset]]
 	- [[George Sand]]
 - 1835: **Genfbe szökik szerelmével** ([[Marie d'Agoult grófné]])

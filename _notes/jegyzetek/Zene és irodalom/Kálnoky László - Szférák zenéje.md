@@ -10,7 +10,6 @@ type:
   - mű
 ---
 [Link](https://reader.dia.hu/document/Kalnoky_Laszlo-Osszegyujtott_versek-1000)
-
 ## Szférák zenéje
 Meg-megrezdülök, mint hangvilla-ág,
 ha olykor álmélkodva fedezem fel,
@@ -46,28 +45,6 @@ Egyéniségem terhe visszaránt,
 ha hívogat a mindenség zenéje,
 melyből pár alamizsna-porszemecskét
 hullat a gúnyos Könyörületesség.
-
-## Értelmezés
-[[Kálnoky László - Szférák zenéje (értelmezés).canvas|Értelmezés canvas]]
-<a href="https://notes.andrasdenes.com/assets/img/K%C3%A1lnoky%20L%C3%A1szl%C3%B3%20-%20Szf%C3%A9r%C3%A1k%20zen%C3%A9je%20%C3%A9rtelmez%C3%A9s.png">
-<img src="../assets/img/Kálnoky László - Szférák zenéje értelmezés.png" width="100%">
-</a>
-### Forma
-- egy kereszt, és egy páros rím, ABABCC
-- szótagszám 10+11+10+11+11+11
-- kapcsolat a tartalommal: minden versszak egy gondolat
-### Tartalom
-- a **cím** kapcsolata a [[Kepler]]i bolygómozgás törvényeivel
-	- + szférák: a bolygók szférákon (gömbökön) mozognak, a zene célja matematikai utánzás
-- egy világtól való elszakadásról beszél
-- változás az életfilozófiában: *"örök tudás lángja helyett a tudat halvány mécséért esengtem"*
-- a boldog hangok hazáját elvesztette (ahol nincs szenvedés)
-	- sorsa ellen lázadó paránnyal azonosítja önmagát
-- folyamatosan képekben beszél, sok melléknevet használ
-	- fokozás (derűje a boldog harmóniának)
-### Műfaj
-- líra
-
 ## Hatástörténeti háttér
 - [[Kálnoky László]] ([wiki](https://www.wikiwand.com/hu/K%C3%A1lnoky_L%C3%A1szl%C3%B3))
 	- 1912-1985
