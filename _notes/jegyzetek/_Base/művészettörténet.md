@@ -24,6 +24,8 @@ type:
 - [[Az őskor::#Az őskor]]
 	- [[Az őskorból az ókorba::#Az őskorból az ókorba]]
 - [[Bronzkor és társai::#Bronzkor és társai]]
+- [[A görög csoda (antik görög kultúra)::#A görög csoda (antik görög kultúra)]]
+- [[Antik római kultúra::#Antik római kultúra]]
 - 
 - [[Idegen szavak::#Idegen szavak]]
 ## Aktuális ajánlott művelődnivaló
@@ -40,7 +42,7 @@ type:
 - [Rajkó Andrea, S Nagy Katalin - Művészettörténet II](https://github.com/denandras/Zakjegyzet2/blob/main/_notes/jegyzetek/Files/f_m%C5%B1vt%C3%B6ri/Rajko_Andrea_S._Nagy_Katalin--Muveszettortenet_II..pdf)
 ## Információk
 <a id="Információk"></a>
-- `43.` héten csak kedden lesz óra
+- `43.` héten csak kedden lesz óra (őszi szünet miatt)
 - félév végén írásos feladat
 - `38.` hétig inaktívként teljesíthető (max. elégségessel)
 ## Mi a művtöri?
@@ -235,9 +237,97 @@ type:
 	- olmék hatalmas fej
 - *Nazca-vonalak*
 
-#később kijegyzetelendő 40. heti óra
-
-
+## A görög csoda (antik görög kultúra)
+<a id="A görög csoda (antik görög kultúra)"></a>
+- radikális változás
+	- görög-római kultúra a mainak fontos része, alapjául szolgál
+	- sok helyen és időben visszaköszön
+- példa: Rolls Royce hűtőrácsa -- antik görög homlokzat
+- építészet: nem csak épít, hanem az ember alkotta mesterséges tereket formálja
+- (exkluzív) piramisok -> <- inkluzív antik görög építészet
+	- gondolatok [[Nietzsche]]től
+		- görögök fokozatosan megtanulták szervezetté tenni a káoszt
+		- saját szükségleteikre formálták a világukat
+		- a kultúra több, mint az élet dekorációja - élet, gondolkodás, látszat és akarás egyetmondása
+- a mediterráneum nagy részét bekapcsolta körforgásába
+- **új hódítók**
+	- i. e. 1000
+	- théba: Harangbálvány - geometrikusabb szobrok
+- **archaikus korszak**
+	- i. e. 750-500
+	- Kouroi szobrok - statikusak, emberibbek, oldottabb
+	- nem feltétlen bálványok/istenek
+	- Pitsa panel
+- **művészeti forradalom**
+	- i. e. 500-330 - klasszikus korszak
+	- Parthenon épülete
+		- egy ilyen épületet közösségi elhatározás hoz létre
+	- Sztoa (publikus sétálócsarnok)
+		- -> sztoicizmus (sétálva beszélgetésből)
+	- dór, ión, korintusi oszlopok
+	- hatalmas fejlődés pár száz év alatt
+		- [[Pheidiász]]: Athéné, Aphrodité, Perthenon-fríz
+		- [[Mürón]]: Minotaurosz, Diszkobolusz
+		- [[Polükleitosz]]
+	- vörös alakos vázafestés (a fekete hátteret festik meg)
+		- itt már van perspektíva, rövidülés
+- **hellenisztikus kor** (i. e. 4. sz.)
+	- dór -> ión
+	- filigránabb
+	- Erekhteión (szelek temploma)
+	- új fajta művészeti koncepció -> szépség, túllépés az ábrázoláson, idealizálás, megjelenítés
+		- [[Praxitelész]], [[Szkópász]]
+		- kontraposztó[^6]
+	- lezárás
+		- görög gyarmatosítás kora
+		- pergamoni Zeusz-oltár i. e. 170 (ma Berlinben)
+		- *Laokón és fiai* (magasfokú komplikáció)
+			- téma: drámai történet, Laokón pap nem fogadja meg az istenek parancsát
+			- i. e. 1. sz.
+			- Celeusz könnyvtára (két szintes)
+		- [[Püthokritosz]]
+			- anyagválasztásilag furcsa, merész
+## Antik római kultúra
+<a id="Antik római kultúra"></a>
+- hatalmas, eddigi legnagyobb egybefüggő közigazgatási egység
+	- amihez kell
+		- hadsereg
+		- infrastruktúra
+		- közös nyelv
+		- kisebb szervezeti egységek
+	- amit magával hozott
+		- élethűbb portrészobrok
+		- boltív, diadalív, félkörív használata
+		- emlékművek (hadjárat, diadaloszlop, dombormű)
+- kultúrában átvettek dolgokat a görögöktől
+	- építészet (kolosszális, monumentális) - gyakorlati szempont mellett reprezentálja a birodalom nagyságát
+	- istenek (más nevek)
+	- művészet
+	- díszítésben nem kell újat mutatni
+- előzmények
+	- italikus (villa nova) művészet
+	- etruszk művészet
+	- italióta (hellenisztikus) művészet
+- boltív szerepe
+	- vízvezeték
+	- hidak
+	- vertikális építkezés
+	- diadalív
+		- hatalmi reprezentáció; a prefektus menő bevonulása
+		- az építmény ott marad és emlékeztet
+	- Pantheon
+	- diadaloszlopok
+- Mitől buknak el a nagy birodalmak?
+	- több támadás egyszerre
+	- belső feszültségek (a nagy hatalmi koncentráció miatt)
+	- monoteizmus
+- szarkofág
+	- felismerhető ábrázolás attribútumokkal
+	- realisztikus
+- Róma hanyatlásával a tartalom is gyengül
+	- felértékelődik
+	- "az antik világ eltűnt" - tényleg így lenne?
+##
 ## Idegen szavak
 <a id="Idegen szavak"></a>
 - [[vernakuláris]]
@@ -249,3 +339,6 @@ type:
 [^3]: olyan pszichológiai, bölcseleti irányzatot jelent, amely szerint az embernek vannak vele született eszméi, képességei vagy készségei, amelyekkel születése után azonnal rendelkezik és ami segít neki értelmezni a világot. ([wiki](https://www.wikiwand.com/hu/Nativizmus_(pszichol%C3%B3gia)))
 [^4]: egy olyan filozófiai és teológiai megközelítés, amelynek központi elve az, hogy Isten lényét vagy jellemzőit nem lehet pozitív módon kifejezni vagy megérteni, hanem csak annak tagadásával vagy az elvonással lehet megközelíteni (ChatGPT) - [Pierre Hadot - Apofatizmus és negatív teológia](https://epa.oszk.hu/03500/03594/00003/pdf/EPA03594_2009_02_079-088.pdf)
 [^5]: használhatóság
+[^6]: ellentétes testtartás művészeti alkotáson
+
+
