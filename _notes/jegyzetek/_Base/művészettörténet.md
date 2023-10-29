@@ -26,6 +26,7 @@ type:
 - [[Bronzkor és társai::#Bronzkor és társai]]
 - [[A görög csoda (antik görög kultúra)::#A görög csoda (antik görög kultúra)]]
 - [[Antik római kultúra::#Antik római kultúra]]
+- [[Bizánc::#Bizánc]]
 - 
 - [[Idegen szavak::#Idegen szavak]]
 ## Aktuális ajánlott művelődnivaló
@@ -327,7 +328,87 @@ type:
 - Róma hanyatlásával a tartalom is gyengül
 	- felértékelődik
 	- "az antik világ eltűnt" - tényleg így lenne?
-##
+## Bizánc
+<a id="Bizánc"></a>
+- retronim kifejezés[^7]
+	- 1557: [[Hieronymus Wolf]] (Corpus Hystoriae Byzantinae)
+	- korábban a történelemírásban **Imperium Graecomm**
+- csúcskor: a Makedón-dinasztia alatt (9-11. sz.)
+- végleges egyházszakadás 1054-ben
+- hanyatlás: normannok, szeldzsukok (Kelet)
+	- keresztes hadjáratok (Nyugat)
+- művészet
+	- római gyökerek, görög hatás
+	- rómaihoz képest
+		- absztraktabb
+		- kevésbé naturalisztikus
+		- szimbolikusabb
+		- monumentálisabb
+- jellegzetes
+	- templom (első keresztény ~300 körül)
+		- alaprajz
+			- görögkereszt
+			- négyzet
+			- kör
+		- nyugaton hartex
+		- keleten szentély az ikonosztáz[^8] mögött
+	- festészet
+		- arany alapú (gyakran mozaik is)
+		- az egész alapja
+	- ikon[^9] (keleti felfogásban kommunikációs felület, ablak)
+		- bal sarokban van a legfontosabb
+- San Vitale, Ravenna, 402-425
+	- [[Iusztinianusz császár]], 547, mozaik
+	- [[Theodora császárné]]
+- [[Galla Placidia]] mauzóleuma (5. sz. eleje)
+	- alapból temetkezés céljából épült
+- [[Areobindus Dagalaiphus konstantinápolyi konzul]]
+- Barberini lemez (6. sz.)
+- Hagia Sophia (532-'37)
+	- centrális alaprajz, kupola
+	- Hagia Eirené temploma mellette
+- San Apallinare Nuovo
+	- három királyok
+- Rabula kódex (6. sz.)
+	- ketté választott tér
+- [[Daphné]] kolostor, Athén
+- [[Feofan Grek]]: Jézus színeváltozása, 1408
+	- görög festő
+	- expresszív
+	- tojástempera
+	- Tretyakov Galéria, Moszkva
+- F. G.: Doni miasszonyunk, 1390
+	- Theotokosz
+	- Istenszülő elszenderedése, 1392
+- Andrej Rubljov
+	- szentháromság
+	- /ószövetségi szentháromság
+	- /Ábrahám vendégszeretete
+	- ~1411/1425
+	- Rubljov filmje (lassú, 3 órás)
+- A. R.: Megváltó, ~1410
+- Krisztus IX. Konstantinápolyi császárral és Zoé császárnéval
+	- Hagia Sophia, 11. sz.
+	- (donátorokkal)
+	- Krisztus pantokrátor (utolsó ítélet)
+		- kéztartás
+		- könyv
+		- dicsfény
+		- frontalitás
+- [[II. (Szép) Ióannész Komnénosz]] biz. császár
+- Deesis mozaik
+- **Szicília**
+	- San Marco, Velence (978-1092)
+	- Santa Maria Assunta, Torcello, 15. sz.
+	- Monreale Katedrális, Palermo, 1174-1182
+		- három hosszhajós
+		- trifórium zóna mozaikos
+			- bibliai történetek képregényszerűen
+	- Cefalú Katedrális
+	- Palazzo Normani, Capella Platina, Palermo
+	- St. Sophia, Kijev, 11. sz.
+	- Gelati kolostor, Grúzia, 12-13. sz.
+	- Angyali üdvözlet, Ohrid, 14. sz. (mozaik)
 ## Idegen szavak
 <a id="Idegen szavak"></a>
 - [[vernakuláris]]
@@ -340,5 +421,6 @@ type:
 [^4]: egy olyan filozófiai és teológiai megközelítés, amelynek központi elve az, hogy Isten lényét vagy jellemzőit nem lehet pozitív módon kifejezni vagy megérteni, hanem csak annak tagadásával vagy az elvonással lehet megközelíteni (ChatGPT) - [Pierre Hadot - Apofatizmus és negatív teológia](https://epa.oszk.hu/03500/03594/00003/pdf/EPA03594_2009_02_079-088.pdf)
 [^5]: használhatóság
 [^6]: ellentétes testtartás művészeti alkotáson
-
-
+[^7]: az adott korban nem így hívták, pl. középkor
+[^8]: az ikonosztáz (vagy ikonosztázion) a görögkeleti (más néven ortodox), görögkatolikus, illetve más keleti katolikus egyházak templomainak a templomszentélyt a templomhajótól elválasztó, képekkel ellátott fala
+[^9]: pár hét alatt "meg kell imádkozni" a témát, elkészítés kb. 3 hónap, aranyat jáde kővel a végén ki lehet fényesíteni

@@ -10,5 +10,5 @@ type:
   - személy
 ---
 
-[[St Alessio]] szerzője
-A [[Barberini család]] foglalkoztatta 1630 körül
+- [[St Alessio]] szerzője
+- A [[Barberini család]] foglalkoztatta 1630 körül

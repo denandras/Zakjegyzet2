@@ -1,12 +1,25 @@
 ---
 title: Oliver Burkeman - Az élet rövid
-feed: 
-created: 2023-08-25 22:10
-date: 2023-08-27 08:49
+author: "[[Oliver Burkeman]]"
+booktitle: Az élet rövid
+feed: hide
+date: 2023-08-27
+started: 2022-11-01
+finished: 2023-08-31
 permalink: oliver-burkeman-az-elet-rovid
+cover: https://s01.static.libri.hu/cover/f1/4/8455928_4.jpg
+isbn: 9789633109724
 subject: 
-type: könyv
+category: életmód
+type:
+  - könyv
+pages: 268
+rating: 5
+status:
+  - read
+  - lent
 ---
+[[Vincze Nándor]]nál
 
 [[Oliver Burkeman]] - 4000 Weeks
 

@@ -1,11 +1,23 @@
 ---
 title: Dr. Steven Laureys - A meditációról érthetően
-feed: 
-created: 2023-08-21 20:34
-date: 2023-08-27 08:56
+author: "[[Dr. Steven Laureys]]"
+booktitle: A meditációról érthetően
+feed: hide
+date: 2023-08-27
+started: 2022
+finished: 2022
 permalink: dr-steven-laureys-a-meditaciorol-erthetoen
-subject: meditáció
-type: könyv
+cover: https://s01.static.libri.hu/cover/b1/f/7844451_4.jpg
+isbn: 9789635093700
+subject:
+  - meditáció
+category: életmód
+type:
+  - könyv
+pages: 272
+rating: 5
+status:
+  - read
 ---
 
 [[Dr. Steven Laureys]]

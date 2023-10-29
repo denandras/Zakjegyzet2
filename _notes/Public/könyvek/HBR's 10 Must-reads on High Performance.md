@@ -1,15 +1,23 @@
 ---
 title: HBR's 10 Must-reads on High Performance
-feed: 
-created: 2023-08-26 21:30
+booktitle: HBR's 10 Must-reads on High Performance
+author: "[[Harvard Business Review]]"
+feed: hide
 date: 2023-08-27 08:49
+started: 2023-08-27
+finished: 
+cover: https://cdn11.bigcommerce.com/s-yneuaokjib/images/stencil/250x260/attribute_rule_images/139358_source_1695399363.png?imbypass=on
 permalink: hbr-s-10-must-reads-on-high-performance
+isbn: 9781647823467
 subject: 
-type: könyv
+category: életmód
+type:
+  - könyv
+pages: 192
+rating: 5
+status:
+  - reading
 ---
-
-[[Harvard Business Review]]
-
 ## Említések
 <a id="Említések"></a>
 - [[Benjamin Bloom - Developing Talent in Young People]]

@@ -1,15 +1,23 @@
 ---
 title: Arnold Bennett - How to Live on 24 Hours a Day
-feed: 
-created: 2023-08-21 20:34
-date: 2023-08-27 08:48
+author: "[[Arnold Bennett]]"
+booktitle: How to Live on 24 Hours a Day
+feed: hide
+date: 2023-08-27
+started: 2023-07-16
+finished: 
 permalink: arnold-bennett-how-to-live-on-24-hours-a-day
+cover: https://m.media-amazon.com/images/I/71EAEDCkxbL._AC_UF1000,1000_QL80_.jpg
+isbn: 
 subject: 
-type: könyv
+category: életmód
+type:
+  - könyv
+pages: 37
+rating: 5
+status:
+  - reading
 ---
-
-[[Arnold Bennett]]
-
 [link a könyvhöz](https://gutenberg.org/files/2274/2274-h/2274-h.htm)
 ## Említések
 <a id="Említések"></a>
@@ -42,7 +50,7 @@ type: könyv
 > Philosophers have explained space. They have not explained time. It is the inexplicable raw material of everything. With it all is possible, without it nothing
 
 - az idő pénz, de előbbi jobb, mert nem veheti el senki, és mindenkinek egy nap ugyanannyi ideje van
-- demokratikus, és nem kapsz kevesebbet, ha nem jól használod ki
+- egyenlő, és nem kapsz kevesebbet, ha nem jól használod ki
 
 > You have to live on this twenty four hours of daily time. Out of it you have to spin health, pleasure, money, content, respect and the evolution of your immortal soul.
 

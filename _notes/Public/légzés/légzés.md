@@ -10,7 +10,7 @@ type:
   - témakör
 ---
 
-- [[JN-Lélegzet]]
+- [[James Nestor - Lélegzet]]
 - [[Osho - The Book of Secrets]]
 
 
