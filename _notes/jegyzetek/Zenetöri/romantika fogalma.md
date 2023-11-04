@@ -32,11 +32,11 @@ type:
 		- [[Chopin]], [[Schumann]], [[Berlioz]], [[Liszt]], [[Mendelssohn]], [[Schubert]], [[Wagner]]
 		- két szembenálló irányzat
 			- [[Mendelssohn]], [[Schumann]], [[Brahms]]
-			- [[Wagner]], [[Liszt]] és [[Strauss]] a progresszívebb, kevésbé hagyományőrző alak
+			- [[Wagner]], [[Liszt]] és [[Richard Strauss]] a progresszívebb, kevésbé hagyományőrző alak
 				- `19.` század második felében is alkottak utóbbiak
 				- *újromantika/későromantika*
 			- késő-romantika, 
-			- [[Franz Brendel]]: "új német iskola": [[Liszt]], [[Berlioz]], [[Wagner]], ([[Strauss]])
+			- [[Franz Brendel]]: "új német iskola": [[Liszt]], [[Berlioz]], [[Wagner]], ([[Richard Strauss]])
 			- [[Alan Walker]]: romantikusok háborúja, [[Brahms]] és társai 1860 körül elítéli [[Liszt]] és [[Wagner]] zenéjét (ezt megelőző ülés)
 		- `19.` században a zenet. átveszi az irodalmi kifejezést
 		- fontos **műfajok**

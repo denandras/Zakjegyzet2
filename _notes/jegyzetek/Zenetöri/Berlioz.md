@@ -30,7 +30,7 @@ type:
 
 - **nagyzenekari hangszerelés** mestere
 	- tankönyvet írt (**Nagy modern hangszerelés**)
-	- [[Strauss]] német fordítása (és bővítése)
+	- [[Richard Strauss]] német fordítása (és bővítése)
 
 ### *Symphonie fantastique* *(1830)*
 

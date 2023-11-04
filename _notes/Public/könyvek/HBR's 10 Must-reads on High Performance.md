@@ -13,6 +13,7 @@ subject:
 category: életmód
 type:
   - könyv
+  - "[[könyv]]"
 pages: 192
 rating: 5
 status:

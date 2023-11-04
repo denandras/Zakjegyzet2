@@ -115,7 +115,7 @@ type:
 
 5. [[Mahler]]
 
-6. 
+6. [[Richard Strauss]]
 
 ---
 [^1]: [[Brahms]]
