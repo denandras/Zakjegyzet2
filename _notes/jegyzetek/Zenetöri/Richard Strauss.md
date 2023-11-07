@@ -1,9 +1,9 @@
 ---
-title: Strauss
+title: Richard Strauss
 feed: show
 created: 2023-11-02 14:09
 date: 2023-11-02 14:10
-permalink: strauss
+permalink: richard-strauss
 subject:
   - zenetöri
 type:
