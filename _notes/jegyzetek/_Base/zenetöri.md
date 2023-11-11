@@ -117,6 +117,8 @@ type:
 
 6. [[Richard Strauss]]
 
+7. [[Debussy]]
+
 ---
 [^1]: [[Brahms]]
 [^2]: [[Wagner]]
