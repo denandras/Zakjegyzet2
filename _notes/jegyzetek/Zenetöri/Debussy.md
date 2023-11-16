@@ -1,0 +1,203 @@
+---
+title: Debussy
+feed: show
+created: 2023-11-09 14:03
+date: 2023-11-09 14:03
+permalink: debussy
+subject:
+  - zenetöri
+type:
+  - személy
+---
+- <mark>1862-1918</mark>
+- Suite bergamasque (1890 körül kezdte)
+	- Prelude
+	- Menuet
+	- Clair de lune
+	- Passepied
+- 19. század végi ~Franciaország
+	- impresszionizmus (filozófia! - Bécs, csak a pillanat létezik, minden más fikció)
+		- az emlékezet gondolkodás, a gondolkodás csalóka
+		- az ember alkalmatlan a valóság befogadására
+		- csak a nyelv alapján tudunk gondolkodni
+		- az én is hamis?
+	- naturalizmus
+		- a világot meg akarja ragadni "úgy, ahogy van"
+		- "keresi az undorító dolgokat"
+	- szimbolizmus
+		- teljesen más a többi kettőtől
+		- **intuíció**
+		- képzőművészet
+			- [[Monet]] - Rouen-i katedrális
+		- költészet
+			- [[Charles Baudelaire]]
+			- [[Paul Verlaine]]
+			- [[Arthur Rimbaud]]
+		- zene
+			- [[Jules Massenet]]
+			- [[Camille Saint-Saens]]
+				- első filmzene
+			- [[Gounod]]
+			- [[Vincent d'Indy]] [Venszan Dendi]
+			- [[Paul Dukas]] [Dükász]
+				- görög ősök
+			- [[Gabriel Fauré]]
+			- [[César Franck]]
+				- belga
+				- d-moll szimfónia
+				- A-dúr szonáta
+			- [[Guillaume Lekeu]]
+				- [[César Franck]]-növendék
+				- Trisztánon elájult
+			- [[Charles Marie Widor]]
+				- orgonista
+				- 10 orgonaszimfónia
+- francia zeneművészetet az értelmiség nem tartotta igazán nagyszerűnek
+	- [[Wagner]] töltötte be az ürt
+	- párizsi Tannhäuser-bemutató (átírta balettesre)
+
+## Élete
+- 1862, St. Germain en Laye
+- nincs zenész a családban
+- párizsi kommünbe az apja belekeveredett, elmenekültek Cannes-be
+- francia forradalom alatt pározsi Conservatoire
+	- sok jó eszme, majd vérengzés
+	- elkezdett helyrejönni a konzervatórium
+	- 6-6 legtehetségesebb a 18 megyéből (kiszseni-képző)
+- Római díj
+	- medici család összes birtokát a francia ház örökölte
+	- akik megnyerik a díjat, elmehetnek a római Medici-palotába, ellátják őket 3 évre, dolgozni kell (nem szabad hazajönni)
+	- verseny
+		- fúgát kell írni
+		- kantáta szövegkönyvre zenét egy bezárt szobában
+	- *L'enfant prodigue*
+- [[Karl Otto Meck]] özvegye, Nagyesda asszony
+	- aki mikor megözvegyült, sok pénze lett
+	- [[Csajkovszkij]]-nak küldte a pénzt
+	- felfogadta a lányait kísérni (de máshogy is kísérte őket)
+- 1888-ban elment a Parsifal-ra, majd a Trisztánra
+	- besokallt
+- 1889 - világkiállítás
+	- Párizs, Eiffel-torony
+	- gamelán, annami zene, kínai ételek
+	- [[Debussy]] hallgatva ezeket a zenéket egy új, egyszerűbb világban találta magát - pentatónia
+- [[Pierre Louys]]
+	- ógörög verseket hamisított
+	- *Bilitis-dalok*
+- [[Stephane Mallarmé]], a *Faun* költője
+	- *Prelűd a Faun délutánjához* (a többi nem készült el) - 1894
+	- cselekmény
+		- kecskelábú ifjú, aki csak henyél
+		- milyen jó lenne nimfákkal lenni, de ahhoz fel kell kelni
+		- nem kel fel
+	- ugyanazon témát más reflektorral (hangszereléssel) világítja
+- Vasnier-család pártolta, [[Blanche Vasnier]] volt a kedvese
+- [[Gabrielle Dupont]] (nem a legélesebb kés)
+	- öngyilkos akart lenni
+- [[Lily Rolasie Texier]]
+- *Trois Nocturnes*
+	- Felhők
+	- Ünnepek
+	- Szirének
+- kritikák "Monsieur Croche (nyolcadhang), Antidilettante" címen
+- *Pelléas és Melisande* (10 éves munka 1893-)
+	- szinte nincs befejezett mondata
+	- olyan szöveg, ahol a zenével lehet be/kifejezni a gondolatokat
+	- sok azonos dolog a *Trisztán és Izoldával*, de jól láthatő különbségek
+	- francia prozódia (ez a darab veszte)
+		- a nyelv szereti az utolsó kiejtett szótagot hangsúlyozni
+		- nem úgy használná az utcai francia a nyelvet, nem érthető a színpadról
+		- [[Jean Racine]]-féle suínpadi dikciótól eltér
+			- [[Arthur Honegger]]hozza vissza
+	- 5 rövid felvonás
+	- a párizsi fiatalság megpróbálja sikerre vinni a darabot (kif: elmegyek pelleálni)
+	- [[Maurice Maeterlinck]] költő
+		- élete első felében jelentős, hatásos
+		- barátnőjének felajánlották a szerepet, majd lecserélték
+		- Maeterlinck megtudta, fogott egy pisztolyt, hogy lelője Debussyt, majd szóltak neki, erre kiugrott az ablakon
+	- színészek
+		- Mary Garden, az első Melisande
+			- a karmester kedvese, rá cserélték ki
+	- cselekmény
+		- szürkület, erdő
+			- Golo/Goleaud: eltévedt, hall egy hölgyet sírni (Melisandee)
+			- valaki bántott talán?
+			- ó, igen, igen, igen
+			- ki bántott?
+			- ők
+			- de kik azok az ők?
+			- ne kérdezősködj, úgyse érted
+			- miért, tündérlány vagy?
+			- nem ez az én hazám, az messze van, távol
+			- mi csillog a vízben?
+			- korona, amit ő adott, zokogtam, beleesett
+			- kivegyem?
+			- hozzá ne érj
+			- pedig... de hát jó. Mire vársz még, közeleg az éjjel
+			- te hová mégy?
+			- tudja az ég
+		- Genovéva, anyakirálynő felolvas egy levelet, amelyet bátyjától kapott Pelleász
+			- Golo egy vénember, Pelleász testvére
+			- a hölgyről írt, 6 hónapja a felesége
+			- szószólóm légy
+			- Arkel lehet, hogy nem kedveli majd őt
+			- mit gondolsz, Arkel? - nem tudom még, olyan, mint egy álom, de **talán álom az egész életünk**
+		- Golo elmegy vadászni állandóan, Pelleászra bízza Melisandeot
+			- egyszer elmennek egy kúthoz az erdőbe, beszűrődik a napfény
+			- puha a mohás márvány, de szép
+			- beleejti a gyűrűt, amit testvérétől kapott
+			- Pelleásszal elmennek "megkeresni" a tengerpartra a gyűrűt
+		- Iniold (Golo fia) akkora követ akar felemelni, amekkorát nem tud
+			- jönnek és hirtelen elnémulnak a birkák
+			- kisfiú megszólal, hogy miért nem bégetnek a birkák?
+			- pásztor: mert nem a szokott úton megyünk
+		- hosszú hajú Melisande
+			- fésülködik, vár a hosszú haja Pelleászra a torony lábánál
+			- P.: másnap megyek, add ide legalább a kezed
+		- Golo elviszi Pelleászt egy barlangba egy víztározóhoz, majdnem megöli
+			- mert féltékeny
+		- Pelleász megkéri Melisande-ot, hogy jöjjenek ki a parkba
+			- tudod, miért vagyunk itt?
+			- nem
+			- mert többé nem látsz
+			- jaj, ne mondd
+			- mondom, hisz sejted
+			- na
+			- szeretlek
+			- én is
+			- régen szeretsz már?
+			- az első pillanat óta
+			- leeresztik a kaput, kívül marad Melisande
+			- a Hold miatt megnő az árnyékuk, csók, Golo elő, lekaszabolja Pelleászt, Melisande menekül
+		- Melisande szül egy gyereket, Goloét
+			- belehal a szülésbe
+			- Arkel: már nekünk kell vigyáznunk erre a gyerekre, szegényre még vár az élet
+	- [[Bartók]]ra hatott, *Kékszakállú*
+- Emma
+	- bankár felesége
+		- 16 év körüli fiuk zenét tanul, anyja elkíséri mindig
+	- otthagyja [[Lily Rolasie Texier]]-t, aki mellkason lövi magát, de túléli
+	- lányuk: Chouchu [Susu]
+	- jó otthont tudott teremteni a férfinak
+- 1910: Budapest
+	- koncert, ő zongorázik
+	- [[Fazekas Gergely]] cikke #később 
+	- a magyarok petyhüdtnek és fáradznak érezték
+- La mer (3 szimfonikus vázlat)
+	- Hajnaltól délig a tengeren
+	- A hullámok játéka
+	- A hullámok és a szél párbeszéde
+- Boulez vezényel - jó lemez
+- Gyermekkuckó c. darab
+	- Chouchu-nak ajánlva
+	- egy elefántnak írt népdal
+	- eml. [[Stravinsky]] cirkuszpolka, amit egy elefántnak írt
+	- egészhangúság
+- Gollowogg's Cakewalk
+	- amerikai szokás, aki a legjobban táncol, az kapja a tortát
+	- cakewalk: jazz, ragtime
+		- Párizs, London
+		- később, világháború idején amerikai katonákkal jöttek jazz-bandák is
+- 1910-1913: Prelüdök, 2 kötet
+	- Delphi táncosnők szobor ihlette
+- 1915 Szonáták
