@@ -4,8 +4,10 @@ feed: show
 created: 2023-10-22 23:39
 date: 2023-10-22 23:39
 permalink: mahler
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 ![](https://images.universal-music.de/img/assets/278/278414/992/720/gustav-mahler-c-dg.jpg)
 

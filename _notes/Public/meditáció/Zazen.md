@@ -25,7 +25,7 @@ Zazent ülni roppant egyszerű; azt mondják, hogy épp ez az egyszerűség a ne
 5.  A szemek maradjanak félig nyitva, a tekintet essen nagyjából egy méterre előre, kb. 45 fokos szögben. A gyakorlati megfontolás emögött egyrészt az, hogy a szerzetesek a hosszabb meditációk alatt hajlamosak elaludni, ami nyitott szemmel valamivel nehezebb; másrészt az, hogy a gyakorló ne tekintsen a világra kizárandó hatásként, hanem **a külső világot a zen szerves részének tekintse**. A tekintet ne koncentráljon kifejezetten semmire.
 6.  A lélegzet ne a mellkasba, hanem a hasba áramoljon. Legyen mélyek és lassú, ilyenkor általában 5-7-szer vesznek levegőt percenként, de gyakorlottabbaknál ez kevesebb is lehet. A levegővételek ne legyenek erőltetettek, törekedni kell a természetességre. Úgy jó, ha a mellkas és a has tájéka laza, ezt nem könnyű egyenes gerincoszlop nélkül megcsinálni. A kilégzés legyen hosszabb a belégzésnél, kezdeti mércének a 2 : 1 arány is megfelelő.
 
-Egyszerre általában 30-40 percet szokás így ülni. Hogy ez alatt a gyakorló mit csinál, igények válogatják. **Számolhatja például a kilégzéseit, koncentrálhat a harájára, azaz a köldöke alatt két ujjnyira lévő területre, vagy ha már nagyobb tapasztalata van, meditálhat egy kóanon vagy megpróbálhatja kiüríteni a fejéből a gondolatait.**
+Egyszerre általában 30-40 percet szokás így ülni. Hogy ez alatt a gyakorló mit csinál, igények válogatják. **Számolhatja például a kilégzéseit, koncentrálhat a harájára, azaz a köldöke alatt két ujjnyira lévő területre, vagy ha már nagyobb tapasztalata van, meditálhat egy [[kóan]]on vagy megpróbálhatja kiüríteni a fejéből a gondolatait.**
 
 <p style="text-align: right;">Wikipedia</p>
 

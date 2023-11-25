@@ -4,8 +4,10 @@ feed: show
 created: 2023-10-07 11:15
 date: 2023-10-07 11:15
 permalink: victor-hugo
-subject: zenetöri
-type: 
+subject:
+  - zenetöri
+type:
+  - személy
 ---
 - *A Notre Dame-i toronyőr* - érzékenyítés, a testi fogyatékkal élők
 - milyen szép is a gótika -> neogótikus épületek, angol parlament
