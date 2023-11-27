@@ -103,11 +103,10 @@ type:
 
 ## Ötödik félév - (KS)
 - [Az órák anyaga](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok/Kov%C3%A1cs%20S%C3%A1ndor)
-- [[zenetöri 5. félév]]
 
-1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév)[^1]
+1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév) ([->](Brahms))
 
-2. [Wagner](https://notes.andrasdenes.com/wagner#Ötödikfélév)[^2]
+2. [Wagner] ([->](Wagner))
 
 3. [[Verdi]]
 
@@ -121,6 +120,5 @@ type:
 
 8. [[19. századi francia zene]]
 
----
-[^1]: [[Brahms]]
-[^2]: [[Wagner]]
+## Hatodik félév - (KS)
+1. 
