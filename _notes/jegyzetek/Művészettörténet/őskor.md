@@ -49,7 +49,7 @@ type:
 	- test védelme
 	- törzs fenntartása
 - "*~~Art Primitive~~*" - kevésbé szerencsés álláspont
-- Lascaux barlang
+- **Lascaux barlang**
 - kortárs társadalomban a művészet és a tudomány összefonódik
 
 > egy zenében is több van, mint csak a hangjegyek

@@ -16,7 +16,6 @@ type:
 
 ## A művészettörténetben
 <a id="A művészettörténetben"></a>
-<a id="A művészettörténetben"></a>
 - Alpok nagyon meghatározók, kultúrai határt is húz
 - Itália sokkal tengeribb, kereskedőbb, kevésbé centralizált
 - ókori emlékek a mindennapok részei
@@ -98,3 +97,86 @@ type:
 		- és Jézusé
 		- kufárok kiűzetése
 			- Jeruzsálemben értelemszerűen nem voltak ilyen templomok, saját világát festi meg oda
+### Quattrocento
+- humanizmus
+- könyvnyomtatás
+- társadalmi változások
+	- erősebb polgárság
+	- laposabb szerkezet
+- tudomány és művészet szekularizációja
+- az építészetnél nem alsóbbrendű már a szobrászat
+#### Építészet
+- transzcendenssel szemben az ember, a földi dolgok a fontosak
+- vízszintes dominál
+- harmónia
+- nem csak az egyház a megrendelő
+	- polgári megrendelői oldal
+	- paloták, villák, házak
+- különböző boldozások, kupolák
+- tagoltabb homlokzat
+- ballusztrád - bábos korlát
+- stukkó
+- loggia
+- sgrafitto (kétrétegű és színű vakolat)
+
+- Filippo Brunelleschi
+	- firenzei dóm kupolája (amit Giotto kezdett el)
+	- Pazzi-kápolna, Firenze
+- Michelozzo di Bartolomeo
+	- városi nemesi palota mintapéldája: Palazzo Medici
+- Leon Battista Alberti
+	- építész és teoretikus
+		- Tíz könyv az építészetről
+	- Santa Maria Novella, Firenze
+- emberábrázolás tilalma belép
+- Donato Bramante
+	- Róma, Tempietto körtemplom
+- Andrea Palladio
+	- görög templom szerű privát villaépítészet
+#### Szobrászat
+- kezd önálló művészeti ágként teret nyerni
+- immanens földi világgal párhuzamban az emberi test, az akt központi témává válik
+	- teremtett világ
+	- matematika, aránytan, perspektíva, geometria
+- Lorenzo Ghiberti
+	- Porta del Battistero
+	- Porta del Paradiso
+	- vonalperspektíva, enyészpont a képben
+- Donatello
+	- Firenze, **David szobor**
+		- *identitásképző eszköz*
+	- Padova, Gattamelata
+- Jacopo della Queroca
+	- Porta Magna (bélletes kapu)
+- Andrea del Verocchio
+	- Dávid
+	- Colleoni (zsoldosvezér), Velence
+#### Festészet
+- szépség, megfigyelés
+- szín-, levegőperspektíva
+- Perugino
+	- táj nem kulisszaszerű
+	- valóságos perspektíva
+- Masaccio
+	- illúziófestészet-szerű, teret nyit számunkra
+- Andrea Mantegna
+	- halott Krisztus, rövidülés
+	- Szt. Sebestyén
+- Paolo Ucello
+	- csatajelenet
+	- tökéletes szobor-festmény
+- Sandro Boticelli
+	- megragadó
+- Piero della Francesca
+	- matematikus, művész
+	- kiesett a kánonból halála után
+	- Misericorda szárnyasoltás (Köpenyes Madonna)
+		- enigmatikus finomságú arcok és színharmónia
+	- **Krisztus keresztelése**
+	- Madonna del Parto
+	- A Szent Kereszt legendája
+		- nagy freskóciklus, Arezzo
+		- Jacopo Voragine - Legenda Aurea (a szentek élettörténeteinek alapkönyve)
+	- Battista Sforza és Federico da Montefeltro
+	- Krisztus ostorozása
+	- Brera Madonna
