@@ -9,8 +9,6 @@ subject:
 type:
   - korszak
 ---
-Bronzkor, vaskor
-<a id="Bronzkor és társai"></a>
 > kompozit istenségek
 
 - **Egyiptom** - folyami kultúra

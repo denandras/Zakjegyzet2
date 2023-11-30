@@ -14,7 +14,6 @@ type:
 > A műalkotás mindenképpen kapcsolódik saját korához, feltesz kérdéseket. A művész felfedező, előörs egy olyan fajta érzékenység miatt, ami a többi emberben nincs meg. (eml. [Loch Gergely PhD](https://apps.lfze.hu/netfolder/PublicNet/Doktori%20dolgozatok/loch_gergely/tezis_hu.pdf); [Vadászi Zoltán - "1/0"](https://www.zoltanvadaszi.com/1-0))
 
 ## Aktuális ajánlott művelődnivaló
-<a id="Aktuális ajánlott művelődnivaló"></a>
 - [Vác, egyházművészeti gyűjtemény](https://vaciegyhazmegye.hu/egyhazmegyei_muzeum.html)
 	- **szeptember 16**., szombat 15:00 (nyitva **november 12-ig**)
 - MOME (Képíró utca) kiállítás
@@ -22,7 +21,6 @@ type:
 - 2B kiállítás
 - Mondva csinált dolgok
 - Nagy Ella
-
 
 ## Ajánlott irodalom
 - E H Gombrich - A művészet története
