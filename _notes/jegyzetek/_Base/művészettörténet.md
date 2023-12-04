@@ -23,7 +23,7 @@ type:
 - Nagy Ella
 
 ## Ajánlott irodalom
-- E H Gombrich - A művészet története
+- [E H Gombrich - A művészet története]([Gombrich.pdf](https://lfze-my.sharepoint.com/:b:/g/personal/c62e93_student_lfze_hu/EfdZV0CT7oNDm8dGxu42AAcB3jF87420N1Dw8CP_FeQ3NA?e=KFZYfq))
 - [Tatai Erzsébet - Művészettörténeti ismeretek](https://github.com/denandras/Zakjegyzet2/blob/main/_notes/jegyzetek/Files/f_m%C5%B1vt%C3%B6ri/Tatai-Erzsebet_M%C5%B1veszettorteneti-Ismeretek.pdf)
 - [Rajkó Andrea, S Nagy Katalin - Művészettörténet I](https://github.com/denandras/Zakjegyzet2/blob/main/_notes/jegyzetek/Files/f_m%C5%B1vt%C3%B6ri/Rajko_Andrea_S._Nagy_Katalin--Muveszettortenet_I._.pdf)
 - [Rajkó Andrea, S Nagy Katalin - Művészettörténet II](https://github.com/denandras/Zakjegyzet2/blob/main/_notes/jegyzetek/Files/f_m%C5%B1vt%C3%B6ri/Rajko_Andrea_S._Nagy_Katalin--Muveszettortenet_II..pdf)

@@ -17,16 +17,16 @@ type:
 	- hogyan lehet az isteni fáraók életét végteleníteni, az örökkévalóság részévé tenni?
 		- múmiák, szarkofágok
 		- eml. [[Vörös Géza]]
-	- statikus, hierarchikus ábrázolás
+	- *statikus, hierarchikus ábrázolás*
 		- egyértelműség (aki/ami nagy, az fontos)
 		- nem perspektivikus ábrázolásmód
-	- politeizmus -> monoteizmus (Aton isten, Echaton fáraó alatt)
+	- politeizmus -> monoteizmus (Aton isten, [[Echaton fáraó]] alatt)
 - **Mezopotámia** - folyamközi kultúra
 	- mai Irak, Irán, Szíria
 	- sok háborút megélt terület
 	- babilóni asszír kultúra
 	- hasonlít az egyiptomi kultúrára
-	- "zikkurat" építmények
+	- "**zikkurat**" építmények
 	- minőségi szobrászati technika
 	- *írás* - írnokok
 		- meghódított területek szélén területfoglaló kövek
@@ -43,7 +43,7 @@ type:
 	- kultúra
 		- hősi cselekedetek, harc
 		- vadászat
-		- temetkezés - *Agamemnón király arany maszkja*
+		- temetkezés - **Agamemnón király arany maszkja**
 ## Vaskor
 - **Kus** (Kusita Királyság)
 	- mai Szudán
@@ -57,9 +57,9 @@ type:
 - **Kína**
 	- geometrikus jellegű díszítőművészet
 	- mitológiai jelleg
-	- Csin Si Huang Ti sírja - agyagkatonák
+	- [[Csin Si Huang Ti]] sírja - **agyagkatonák**
 - **India**
-	- Mohenjo Daro - indusvölgyi civilizáció
+	- [[Mohenjo Daro]] - indusvölgyi civilizáció
 	- építészeti szobrászat
 - **"Prekolumbián"** kultúrák (minden Kolumbusz előtti)
 	- Közép/Dél-Amerika

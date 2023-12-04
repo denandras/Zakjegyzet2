@@ -45,7 +45,7 @@ type:
     3.  Musica instrumentalis (eszközök zenéje)
         -   az ember zenéjének tükörképe
         -   hangszeres," eszközös" zene
--   első 4-szólamú kompozíciók egyike - firenzei Biblioteca mediceo laurenzia kódexben
+-   első négyszólamú kompozíciók egyike - firenzei Biblioteca mediceo laurenzia kódexben
     -   súrlódások
     -   ismétlődések
     -   bourdonhang
