@@ -124,6 +124,8 @@ type:
 
 8. [[19. századi francia zene]]
 
+9. [[Charles Ives]]
+
 ## Hatodik félév - (KS)
 
 
