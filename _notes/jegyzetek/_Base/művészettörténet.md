@@ -36,7 +36,6 @@ type:
 - [[román kor]]
 - [[gótika]]
 - [reneszánsz](https://notes.andrasdenes.com/reneszansz#A%20művészettörténetben) ([->](reneszánsz.md))
-- [[gótika]]
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik
 	- műfajok, korstílusok, stílusirányzatok

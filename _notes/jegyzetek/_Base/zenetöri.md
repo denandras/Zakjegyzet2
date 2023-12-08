@@ -103,6 +103,10 @@ type:
 
 ## Ötödik félév - (KS)
 - [Az órák anyaga](https://apps.lfze.hu/netfolder/StudentNet/Oktat%C3%A1si%20anyagok/Kov%C3%A1cs%20S%C3%A1ndor)
+- első mondat fontos
+- konkrétumok
+- ne legyen csata
+- Puccini 2 operájának cselekményét tudni érdemes
 
 1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév) ([->](Brahms))
 
@@ -121,4 +125,7 @@ type:
 8. [[19. századi francia zene]]
 
 ## Hatodik félév - (KS)
-1. 
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
