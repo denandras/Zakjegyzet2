@@ -10,7 +10,7 @@ type:
   - korszak
 ---
 - retronim kifejezés[^7]
-	- 1557: Hieronymus Wolf (Corpus Hystoriae Byzantinae)
+	- 1557: [[Hieronymus Wolf]] (Corpus Hystoriae Byzantinae)
 	- korábban a történelemírásban **Imperium Graecomm**
 - csúcskor: a Makedón-dinasztia alatt (9-11. sz.)
 - végleges egyházszakadás 1054-ben

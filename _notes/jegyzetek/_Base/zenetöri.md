@@ -107,12 +107,17 @@ type:
 - konkrétumok
 - ne legyen csata
 - Puccini 2 operájának cselekményét tudni érdemes
+- Lexikon cikk [[Ravel]]ről
+- mi a verizmus?
 
 1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév) ([->](Brahms))
+	- élete, fő művek
 
-2. [Wagner] ([->](Wagner))
+2. [[Wagner]] ([->](Wagner))
+	- 2 opera
 
 3. [[Verdi]]
+	- 2 opera
 
 4. [[Bruckner]]
 
@@ -126,6 +131,7 @@ type:
 
 9. [[Charles Ives]]
 
+10. [[Bartók]]
 ## Hatodik félév - (KS)
 
 
