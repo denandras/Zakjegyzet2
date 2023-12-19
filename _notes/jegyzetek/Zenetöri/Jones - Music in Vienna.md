@@ -10,4 +10,6 @@ type:
   - forrás
 ---
 
-[[David Wyn Jones]] - Music in Vienna
+[[David Wyn Jones]] - [Music in Vienna](https://www.jstor.org/stable/10.7722/j.ctt1d39244)
+
+[[klasszika fogalma]]
