@@ -10,7 +10,8 @@ type:
   - témakör
 ---
 
-[Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
+- [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
+- [egy random jó honlap](https://varkonyitanarur.hu)
 
 ## Első félév - Középkor-reneszánsz (FG)
 [[zenetöri 1 félév vizsga]]

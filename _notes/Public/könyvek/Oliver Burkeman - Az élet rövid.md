@@ -18,10 +18,7 @@ pages: 268
 rating: 5
 status:
   - read
-  - lent
 ---
-[[Vincze Nándor]]nál
-
 [[Oliver Burkeman]] - 4000 Weeks
 
 ## Tartalom

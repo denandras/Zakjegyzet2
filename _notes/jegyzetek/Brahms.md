@@ -93,7 +93,7 @@ type:
 		- [[Schumann]]-szimfóniák, [[Mendelssohn]] 5.-je nem kaptak olyan rangot a kortársak szemében
 		- [[Liszt]] még nem írta meg az őt igazán naggyá tevő szimfóniákat ([[Chopin]] ezért sem tartotta nagyra)
 - **[[Reményi Ede]]**
-	- miskolci hegedűs, eredeti nevén Hoffmann #később 
+	- miskolci hegedűs, eredeti nevén Eduard Hoffmann
 	- '48-49-es forradalomban [[Görgei]] mellett vesz részt -> Amerikába emigrál -> vissza Európába
 	- 1853 nyarán Weimarba mennek [[Brahms]]szal, [[Liszt]]nél látogatást tesznek
 		- ([[Liszt]] '47 után már nem koncertezett, volt elég pénze)
