@@ -65,3 +65,9 @@ A hindu mitológiában és a tantrikus hagyományban Bhairava és Shakti gyakran
 - a kérdés az emberi agy alapja
 - egy kétkedő agy az marad
 
+
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/tantra&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -43,3 +43,8 @@ type:
 >There’s more to be said. A lot of dialogue and experimenting is needed to make sense of this, but it’s not rocket science. As you practice, it makes more and more sense. Feel free to message me. That goes for anyone.
 
 > [link](https://www.quora.com/How-do-I-meditate-in-a-non-dual-way)
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/osztatlan-meditacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

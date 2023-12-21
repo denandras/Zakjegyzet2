@@ -208,3 +208,8 @@ status:
 	- mostanra 85% fölé emelkedett ez az arány (hogy elmondják nekik)
 	- transzparencia, ami nyomást helyez rájuk
 	- 
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/hbr-s-10-must-reads-on-high-performance&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

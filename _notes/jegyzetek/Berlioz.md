@@ -67,3 +67,8 @@ type:
 	- a kedves dallam itt piszkos tánctéma
 	- Dies irae paródiája
 	- kísérteties atmoszféra, egyedi hangzás, fuvolaglisszandó
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/berlioz&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

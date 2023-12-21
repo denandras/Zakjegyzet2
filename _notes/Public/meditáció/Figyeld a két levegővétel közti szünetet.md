@@ -27,3 +27,8 @@ ne gondolkozz se előre, se hátra, figyeld a légzésed, és a technikát autom
 	- ha beállítasz időzítőt, azt a kreatív állapotot érheted el, amit sok más ember alkalmazott
 	- [[Mason Currey - Daily Rituals - How Artists Work]]
 - nehéz a levegővételt nem kontrollálni, amikor sikerül, majdnem elalszol
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/figyeld-a-ket-levegovetel-kozti-szunetet&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

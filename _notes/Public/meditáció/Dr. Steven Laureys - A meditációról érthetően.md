@@ -71,3 +71,9 @@ Muse (viselhető eszköz)
 #### Külső tényező
 - [[binaural beats meditáció]]
 * [[nyitott figyelmű szemlélődés meditáció]]
+
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/dr-steven-laureys-a-meditaciorol-erthetoen&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

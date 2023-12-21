@@ -35,3 +35,8 @@ type:
 	- ahol találkoznak, élet születik
 
 [^1]: A test energiájától mentes, kozmikus, természetes eredetű energiával telített
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/figyeld-meg-ket-lelegzeted-fuziojat&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

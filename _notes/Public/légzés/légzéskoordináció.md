@@ -19,3 +19,8 @@ type:
 4. a természetes kilégzés után is folytasd, suttogva, egészen míg van egy kis levegőd
 
 10-30 ciklus
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/legzeskoordinacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

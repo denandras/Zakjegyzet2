@@ -93,3 +93,8 @@ type:
 [^7]: az adott korban nem így hívták, pl. középkor
 [^8]: az ikonosztáz (vagy ikonosztázion) a görögkeleti (más néven ortodox), görögkatolikus, illetve más keleti katolikus egyházak templomainak a templomszentélyt a templomhajótól elválasztó, képekkel ellátott fala
 [^9]: pár hét alatt "meg kell imádkozni" a témát, elkészítés kb. 3 hónap, aranyat jáde kővel a végén ki lehet fényesíteni
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bizanc&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

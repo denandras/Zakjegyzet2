@@ -42,3 +42,8 @@ A Vadszjrajána jelentése "a gyémánt útja" vagy "a villámút". Ez a név ar
 A Vadszjrajána buddhizmusban számos iskola található, köztük a tibeti buddhizmus különböző ágai, mint a *Nyingma*, a *Kagyu*, a *Sakya* és a *Gelug*. Ezek az iskolák különböző szent tanítók és mesteri vonalak mentén alakultak ki, de közösül tekintetben a tantrikus gyakorlatok és a gyors ösvény elérésének hangsúlyozása a Vadszjrajána buddhizmus központi jellemzője.
 
 - [[Tantra]]
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/buddhizmus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

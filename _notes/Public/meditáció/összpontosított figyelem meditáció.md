@@ -17,3 +17,8 @@ Első alkalommal több dolgot is észrevettem a gyakorlat során:
 1. Nehéz.
 2. Olyan vagyok, mint a gyertya: néha gondolataim nyugodtak, máskor táncolnak egyik dologról a másikra.
 3. Nem is annyira nehéz egyszerre két dologra figyelni. Simán jöttek újabbnál újabb gondolatok, miközben folyamatosan követtem szememmel a gyertya lángját.
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/osszpontositott-figyelem-meditacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

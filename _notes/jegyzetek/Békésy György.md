@@ -15,3 +15,8 @@ type:
 	- nem állóhullám jut el a csigacsúcsba
 - oktáv és kvint belénk van kódolva
 - az alaphártya hangolt, pontról pontra változik (vízzel és koponyákkal végzett kísérlet)
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bekesy-gyorgy&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

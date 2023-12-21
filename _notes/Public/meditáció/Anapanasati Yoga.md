@@ -19,3 +19,8 @@ Az anapánasati jóga segít a figyelem koncentrációjának fejlesztésében é
 Az anapánasati jóga továbbfejlesztett formái szerepelnek a buddhista meditációs rendszerekben, például a Vipasszana meditációban. A gyakorlók ezen meditációs formák segítségével elmélyíthetik a tudatosságot, megérthetik a jelenségek természetét és elérhetik a valóság mélyebb megértését és megvilágosodást.
 
 Az anapánasati jóga tehát a légzés tudatos figyelmének gyakorlata, amely segíthet a tudatosság és a jelenlét állapotának elérésében, valamint a belső béke és a tudatosság növelésében.
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/anapanasati-yoga&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

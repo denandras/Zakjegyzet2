@@ -21,3 +21,8 @@ A zen mester hagyományosan fontos szerepet játszik a tanításban, és a taní
 A zen filozófiája és gyakorlata jelentős hatást gyakorolt a művészetre, például a festészetben és a teával kapcsolatos ceremóniákban is. Az egyszerűség, a csend és a jelenlét az alapvető értékek, amelyeket a zen hagyományában hangsúlyoznak.
 
 Összességében a zen az éber jelenlét, a csend és a tudatos tapasztalat gyakorlását hivatott elősegíteni, és az élet mélyebb valóságának felfedezését célozza, azáltal hogy túllépünk a gondolatokon és a dualitáson.
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zen&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

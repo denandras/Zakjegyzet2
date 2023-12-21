@@ -54,3 +54,8 @@ type: témakör
 ---
 [^1]: rövid, rendsz. prózában írt elbeszélés mint írói műfaj; novella. ([forrás](https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/b-1EF8E/beszely-209B4/))
 [^2]: a megértéshez az összes mű (és annak műértelmezéséről) szóló mű elolvasása
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zene-es-irodalom&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

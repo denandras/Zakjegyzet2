@@ -37,3 +37,8 @@ Az [[Ayurveda]] levegőkben méri az életet. Éppen ezért ha túl sokat léleg
 > [[Freud]] says that sex is the best tranquilizer, and it is – at least for modern man.
 
 > On this path, the small self vanishes and you attain to the higher self, the supreme self.
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/figyeld-meg-a-levegoveteled-megallasat&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

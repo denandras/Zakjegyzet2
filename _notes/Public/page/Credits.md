@@ -20,3 +20,8 @@ format: list
 - [Anish](https://github.com/anishsheela), for JS corrections
 - [Binny](https://github.com/binnyva) for making [Gatsby version](https://github.com/binnyva/gatsby-garden) of the same theme
 - [Gnuanu](https://github.com/gnuanu) for beta testing and private bug reporting
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/credits&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -29,3 +29,9 @@ type:
 
 > "A dísz, az ékesítés minden zenének legfőbb szabadsága s legfőbb konvenciója" - [[Szabolcsi Bence Művei]]
 
+
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/barokk-a-hetkoznapokban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

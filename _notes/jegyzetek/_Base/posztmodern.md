@@ -622,3 +622,8 @@ type: témakör
 		- tömegek nem hallgatnak már [[Bach]]ot
 		- a barokkban áll az idő, "rend van" (vallásos központja van a világban)
 			- dinamizmusban élő világban *miért* vet fel ilyet?
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/posztmodern&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

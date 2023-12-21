@@ -100,3 +100,8 @@ adalék:
 					- két fülbe más frekvenciák, az agyban lebegnek össze - [[binaural beats meditáció]]
 				- Mozart és az agy
 					- Don Campbell Business
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/az-agy&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -186,8 +186,9 @@ type: poszt
 
 ---
 
-![](https://i.ibb.co/qW668QB/qrchimp-X256.png)
-*(erre az oldalra mutató QR kód)*
 
 
-[^1]: BA tanterv ![[ba_tanterv_-_2023.xlsx]]
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/infok-rezes-golyaknak&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+
+

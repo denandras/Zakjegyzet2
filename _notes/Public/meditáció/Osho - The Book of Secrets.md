@@ -53,3 +53,9 @@ status:
 > You cannot do a simple thing, you cannot do a difficult thing. What are you going to do? Tell me! If you want to do a difficult thing, I will make it difficult. If you are going to do a simple thing, I will make it simple. It is both – it depends on how it is interpreted. But one thing is needed, that you are going to _do_. If you are not going to do then the mind will always give you explanations.
 
 > In reality there is no dilemma; in reality there is no problem. There never has been, there never will be. In mind there are problems, and you look at reality through the mind; thus, the reality becomes problematic. Your mind works like a prison. It divides and creates problems. And not only that, it creates solutions which become deeper problems, because in fact there are no problems to be solved. Reality is absolutely unproblematic; there is no problem. But you cannot see anything without problems. Wherever you look, you create problems. Your “look” is problematic.
+
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/osho-the-book-of-secrets&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+
