@@ -9,7 +9,6 @@ subject:
 type:
   - korszak
 ---
-
 - a barokk a zenében olyan, mint egy évben a nyár
 - burjánzó, túlzó, fülledt
 - tér, fény, mozgás, izgalom, csoda
@@ -33,5 +32,5 @@ type:
 
 
 
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/barokk-a-hetkoznapokban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/barokk-a-hetkoznapokban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

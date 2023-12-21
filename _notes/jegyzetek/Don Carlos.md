@@ -9,7 +9,6 @@ subject:
 type:
   - mű
 ---
-
 [[Verdi]], **[[Giacomo Meyerbeer]]**
 
 > 1867 -- 48-as politikai [[idealizmus]], az emberek hisznek a haladásban -> az emberekben realizálódik a reménytelenség
@@ -47,5 +46,5 @@ type:
 
 
 
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/don-carlos&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/don-carlos&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

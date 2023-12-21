@@ -82,7 +82,7 @@ type:
 
 9. *[[Beethoven operája]]* (kimaradt -> [[A német opera]])
 
-10. [[Haydn és az oratórium]] (kimaradt, kész)
+10. [[Haydn és az oratórium]] (kimaradt)
 
 ## Negyedik félév - Romantika (BP)
 <a href="https://notes.andrasdenes.com/assets/img/4.%20f%C3%A9l%C3%A9v.png">
@@ -114,11 +114,11 @@ type:
 1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév) ([->](Brahms))
 	- élete, fő művek
 
-2. [[Wagner]] ([->](Wagner))
-	- 2 opera
+2. [[Wagner]]
+	- 2 opera cselekménye
 
 3. [[Verdi]]
-	- 2 opera
+	- 2 opera cselekménye
 
 4. [[Bruckner]]
 
@@ -135,6 +135,7 @@ type:
 10. [[Bartók]]
 ## Hatodik félév - (KS)
 
+1. 
 
 
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>

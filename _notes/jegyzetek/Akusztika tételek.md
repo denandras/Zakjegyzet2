@@ -7,6 +7,7 @@ permalink: akusztika-tetelek
 subject: akusztika
 type: 
 ---
+# Akusztika tételek
 
 - A csillaggal jelzett tételekhez használható segédanyag: Pap János: A zenei akusztika alapjai.
 
@@ -39,5 +40,5 @@ type:
 
 
 
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/akusztika-tetelek&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+# <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/akusztika-tetelek&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

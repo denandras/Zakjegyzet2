@@ -106,7 +106,7 @@ type:
 		- [[Schumann]] feláll, kimegy, majd visszajön feleségével és kéri, játssza el még egyszer az első tételt
 		- *"végre eljött, akit vártunk"-momentum*
 - 1860 - kiáltvány a programzene ellen <a id="kiáltvány"></a>
-	- [[Brahms]], [[Joachim]], [[Julius Otto Grimm]], [[Bernhard Scholz]] #később 
+	- [[Brahms]], [[Joseph Joachim]], [[Julius Otto Grimm]], [[Bernhard Scholz]]
 	- nem mondják ki [[Liszt]] nevét, de ő ellene szól a dokumentum
 	- "a zene önmagában érték, nem kell, hogy valamiről szóljon"
 	- [[Eduard Hanslick]]
@@ -116,7 +116,7 @@ type:
 - 1867-91 - évente Pestre jár bemutatókra
 - 1869 - *Német Requiem*
 ### Szimfóniái
-- 1875 - szerződés a Simrock kiadóval
+- 1875 - szerződés a **Simrock** kiadóval
 	- "kéne szimfóniát írni"
 	- `20.` századi cikk szerint a zene teteje
 	- eddig nem mert [[Beethoven]] árnyéka miatt írni
@@ -166,5 +166,5 @@ type:
 
 
 
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/brahms&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/brahms&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

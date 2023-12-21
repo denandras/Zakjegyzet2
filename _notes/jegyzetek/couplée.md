@@ -14,5 +14,5 @@ A "couplée" kifejezés a francia "couple" szóból ered, ami párt jelent, és 
 
 
 
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/couplee&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/couplee&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

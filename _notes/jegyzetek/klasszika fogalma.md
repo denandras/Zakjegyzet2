@@ -27,7 +27,7 @@ egyszerűsége -><- barokk polifónia
 - különbségek
 	- b. k. **stílus** [[Fischer - a klasszikáról]]
 	- b. k. iskola [[Adler - a bécsi klasszikus iskola]]
-	- k. korszak [[Dent - Italian Opera]]
+	- k. korszak [[Dent - Italian Opera in the 18th Century]]
 - [[E T A Hoffmann]] romantikusnak mondta [[Beethoven]]t, pedig már akkoriban a klasszikussal szemben állt jelentése
 
 ### Fogalma, periodizálása

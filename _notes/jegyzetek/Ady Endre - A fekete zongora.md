@@ -7,6 +7,7 @@ permalink: ady-endre-a-fekete-zongora
 subject: zene és irodalom
 type: mű
 ---
+# Ady Endre - A fekete zongora
 
 Bolond hangszer: sír, nyerit és búg.  
 Fusson, akinek nincs bora,  
@@ -24,5 +25,5 @@ Ez a fekete zongora.
 
 
 
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/ady-endre-a-fekete-zongora&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+# <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/ady-endre-a-fekete-zongora&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,6 +9,7 @@ subject:
 type:
   - korszak
 ---
+# A barokk zenéről általában
 
 > *[[Bach]] túl nagy hangsúlyt kapott az oktatásban, saját idejében kevésbé volt meghatározó*
 
@@ -26,11 +27,11 @@ type:
 	- igazgyöngy-halászok elnevezése
 	- túlhajtott [[szillogizmus]], nyakatekert okoskodás
 	- [[Rousseau]]: Zenei lexikon: negatív jelzőkkel illetett, bonyolult stílus
-	* Jacob Burckhardt: a [[reneszánsz]] rontott dialektusa
-	* Heinrich Wölfflin: racionális, kontrollált, kiegyensúlyozott
+	* [[Jacob Burckhardt]]: a [[reneszánsz]] rontott dialektusa
+	* [[Heinrich Wölfflin]]: racionális, kontrollált, kiegyensúlyozott
 	érzelmes, teátrális, szélsőséges
-	* Hugo Riemann: Generalbass-Zeitalter
-	* Guido Adler: Dritte Stilperiode
+	* [[Hugo Riemann]]: Generalbass-Zeitalter
+	* [[Guido Adler]]: Dritte Stilperiode
 	* 19. század vége: neutrális kifejezéssé vált
 	
 - [[monódikus stílus]], [[opera]]
@@ -73,5 +74,5 @@ type:
 
 
 
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/a-barokk-zenerol-altalaban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+# <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/a-barokk-zenerol-altalaban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 
