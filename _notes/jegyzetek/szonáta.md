@@ -42,3 +42,9 @@ type:
 	* [[Johann Gottfried Walter]] (**1733**):
 		- 4 tételből álló mű, ami általában ezekre a hangszerekre íródott
 
+
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/szonata&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

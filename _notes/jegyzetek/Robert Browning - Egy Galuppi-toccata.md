@@ -61,3 +61,8 @@ vajon még maradt-e lélek, mikor a csók megfagyott?
 Hát az ékkő melletekről? Hűvösödik. Vénülök.  
 
 [Vas István](https://www.magyarulbabelben.net/works/en-hu/Vas_Istv%C3%A1n-1910)
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/robert-browning-egy-galuppi-toccata&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

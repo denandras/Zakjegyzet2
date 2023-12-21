@@ -79,3 +79,8 @@ type:
         -   relatív időbeliséget mutat, konkrétat nem
         -   ligatúrák - kitekintés
 -   zárógondolat: a gregorián nem tűnik el, inkább a polifónia tűnik elő
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenei-irasbeliseg-es-a-gregorian&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

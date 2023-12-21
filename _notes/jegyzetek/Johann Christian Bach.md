@@ -32,3 +32,8 @@ type:
 		- no. 6: moll ciklus
 			- barokkos, van benne fúga
 	- op. 17/12 (kiadói opus számok)
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/johann-christian-bach&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -13,3 +13,8 @@ type:
 Sevillai borbély
 
 - vígjátéknak indult
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/le-barber-de-seville&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

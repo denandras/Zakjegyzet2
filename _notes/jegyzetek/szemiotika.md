@@ -15,3 +15,9 @@ type:
 - [Design szemiotika és design szociológia](https://prezi.com/zlo867fa7cmm/design-szemiotika-es-design-szociologia/)
 - [„A rácsodálkozás a lényeg” – Interjú Wunderlich Péter szemiotikussal](https://designisso.com/2022/04/08/a-racsodalkozas-a-lenyeg-interju-wunderlich-peter-szemiotikussal/)
 - [Hubbes László – Tamás Dénes: Szemiotika - a jel tudománya (jegyzet)](https://jelkepesseg.files.wordpress.com/2010/06/szemiotikajegyzet.pdf)
+
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/szemiotika&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

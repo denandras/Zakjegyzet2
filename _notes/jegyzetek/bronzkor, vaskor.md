@@ -66,3 +66,8 @@ type:
 	- gigantikus dolgok
 	- olmék hatalmas fej
 - *Nazca-vonalak*
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bronzkor-vaskor&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

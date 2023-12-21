@@ -23,3 +23,9 @@ type:
 	- [[madrigál]]jai
 	- bármilyen mély hangszer kísérhet, ami kitölti az űrt: [[basso continuo]]
 	- [[Le nuove musiche]] (1602)
+
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/monodikus-stilus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

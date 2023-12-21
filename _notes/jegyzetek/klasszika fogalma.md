@@ -66,3 +66,8 @@ egyszerűsége -><- barokk polifónia
 ---
 [^1]: [[Edward J Dent Italian Opera in the 18th Century]], [[Fischer A bécsi klasszikus stílus fejlődéséhez]], [[Adler a bécsi klasszikus iskola]], [[Charles Rosen A klasszikus stílus]], [[Jones Music in Vienna]], [[Webster 19th Century Music]], [[Komlós Katalin Fortepianók és zenéjük]]
 [^]: [[1. A „bécsi klasszika” fogalma és a 18. századi zenetörténet periodizálásának problémái.pdf]]
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/klasszika-fogalma&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -22,7 +22,7 @@ __________________
 	- fix elemek: szerelmi duett, elalvás
 
 - versengés
-	- [[Giulio Caccini]], [[Emilio Cavaliere]], [[Jacopo Peri]]
+	- [[Giulio Caccini]], [[Emilio Cavalieri]], [[Jacopo Peri]]
 		- versengő együttműködés
 		- mindenki első
 			- [Emilioé] az első, amit színpadon bemutatták
@@ -53,7 +53,7 @@ __________________
 
 ## Fázisai
 ### Udvari opera ~1630-ig
-* [[Jacopo Peri]], [[Giulio Caccini]], [[Emilio Cavaliere]]
+* [[Jacopo Peri]], [[Giulio Caccini]], [[Emilio Cavalieri]]
 * `1608:` egy esküvő
 	* vendégek főleg Itáliából
 	* Gonzaga család villája
@@ -105,3 +105,9 @@ __________________
 	- nagyobb ária -> [[opera seria]] fontos eleme
 	- `1710:` London - 30 év munka, [[opera seria]]k
 	- - [[Antonio Vivaldi]] 40 opera seriaja
+
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -44,10 +44,15 @@ Az első operák - azt hitték, hogy az antik drámákat végigénekelték -> ba
 
 -   **[[Jacopo Peri]]**: Daphne
     -   **[[Marco da Gagliano]]**: Daphne
--   **[[Emilio Cavaliere]]**: Rappresentatione di Anima e di Corpo
+-   **[[Emilio Cavalieri]]**: Rappresentatione di Anima e di Corpo
 -   **[[Jacopo Peri]]**: Euridice
     -   **[[Giulio Caccini]]**: Euridice
     -   mindkettő darabjának ötvözete szólalt meg az esküvőn
 -   **[[Monteverdi]]**: [[Orfeo]]
 -   [[Monteverdi]]: Arianna
 -   [[Monteverdi]] - Artuzi a lényeg a szöveg, de Artuzi absztrakt zeneként kezeli [[Monteverdi]] darabját
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/humanizmus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -33,3 +33,8 @@ Szerkezete da capo jellegű, ABAv díszített formával.
 		- glucki opera-alapok
 	- választófejedelem vitte magával az udvart Münchenbe
 	- ![[Idomeneo]]
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera-seria&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

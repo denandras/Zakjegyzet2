@@ -44,3 +44,8 @@ type:
 
 ---
 [^]: [[2. A billentyűs szonáta a 18. század közepén és a késő 18. században.pdf]]
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/klasszikus-billentyus-szonata&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

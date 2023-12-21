@@ -18,3 +18,9 @@ A Cristofori-féle [[fortepiano]] és a későbbi pianoforte közötti fő kül�
 
 Összességében a pianoforte és a Cristofori-féle fortepiano közötti különbség a hangszer evolúciójának és technológiai fejlődésének történetében rejlik. A pianoforte az elődjeinek fejlesztésével és további újításokkal vált a modern zongorává, amelyet ma is ismerünk és használunk.
 
+
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/pianoforte&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

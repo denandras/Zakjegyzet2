@@ -9,5 +9,11 @@ subject:
 type:
   - forrás
 ---
+## [Link](https://www.jstor.org/stable/10.1525/ncm.2001.25.2-3.108)
 
 [[James Webster]]
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/james-webster-19th-century-music&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

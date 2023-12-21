@@ -38,3 +38,9 @@ Carl Philipp Emanuel Bach
 		- (főrangúaknak: a zenész itt szolga)
 - 1760-80-as évek: Haydn-ék javában írják a szonátáikat
 	- **meghosszabbította a [[gáláns stílus]]t**
+
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/c-p-e-bach&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

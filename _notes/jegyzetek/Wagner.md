@@ -243,3 +243,8 @@ type:
 [^7]: bemutatott DVD: Patrice Chéreau énekel, készült Bayreuth 100 éves évfordulója alkalmából. Látjuk a nőt a nyitány vége felé, aki mintha várná a vihart. Van forrás, a csellószóló közben a nő ahhoz húzza oda a férfit. Túlzó rendezés.
 [^8]: [[Wagner]] szerint a zárt számokat kerülni kell, ódivatú dolog, eljárt fölötte az idő. A szabad deklamáció és a zenei próza a nyerő.
 [^9]: Nibelungen: a költészetet meg kell fosztani a rímtől, de a tőrím (alliteráció) jó. Nem véletlen [[Wagner]] szerint, hogy a szavak milyen betűvel kezdődnek, pl. az anya a legtöbb nyelvben M betűvel kezdődik a szopás miatt.
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/wagner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

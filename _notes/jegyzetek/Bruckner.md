@@ -62,3 +62,9 @@ type:
 		- "meg kell halni" - "miért is?"
 		- utolsó ítélet harsonái
 	- furcsa vég, Wotan-szerű vég, ő az isten, elaltatja (most nem Brünnhildét, hanem) [[Brahms]]-t
+
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bruckner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

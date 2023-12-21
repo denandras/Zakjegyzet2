@@ -65,3 +65,8 @@ Az élet bonyolult, szövődményes dolog, nem különül el egymástól jó és
 	- zeneszerzői és előadói szempontból is nehéz
 - a basszus szólam körkörössége
 	- az őrület, negatív, vagy pozitív
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/poppea-megkoronazasa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -74,3 +74,9 @@ type:
 - “[[Berlioz]] Franciaországhoz tartozik, és csak érdekes, bolondos külföldiként említik"
 	- [[Schubert]] képes volt egyéni és a tömegek számára élvezetes módon szimfóniát komponálni.”
 - "Bécs [...] gyümölcsöző környezet a muzsikus fantáziája számára"
+
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/schumann&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

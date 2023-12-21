@@ -31,3 +31,8 @@ type:
 [^1]: gyermekkorában hatással volt rá az olasz billentyűs gyakorlat
 míg az olaszoknál az orgona dominált, az angolok elismerték, a németek tökélyre fejlesztették az európai csembalózenét
 [[Girolamo Frescobaldi]] után csak az olaszok mikor emigráltak, kezdett népszerűsödni az ágazat
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/domenico-scarlatti&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

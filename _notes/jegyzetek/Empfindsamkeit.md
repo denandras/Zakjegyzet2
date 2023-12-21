@@ -21,3 +21,8 @@ szentimentalizmus, Empfindsamer Stil
 - átmenet a preklasszika és az érett k. között
 
 [[C P E Bach]]
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/empfindsamkeit&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

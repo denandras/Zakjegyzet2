@@ -16,3 +16,8 @@ type:
 	2. lassú
 	3. ált. rondó
 - zongoraverseny: [[Mozart]] - szinte kamarazenei viszony zenekar és zongora közt
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/concerto&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

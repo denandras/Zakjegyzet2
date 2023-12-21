@@ -19,3 +19,8 @@ type:
 7.  JOSQUIN MŰVÉSZETE ÉS A KOTTANYOMTATÁS Josquin életútjának körvonalai; a Josquin által kultivált műfajok; a kottanyomtatás feltalálása (Petruccitól Attaignant-ig); a kottanyomtatás hatása Josquin életművének fogadtatástörténetére; Josquin hírneve a 16. században; a kottanyomtatás hatására népszerűvé váló világi műfajok (párizsi chanson, madrigál, villanella, frottola stb.)
 8.  A 16. SZÁZAD VILÁGI MŰFAJAI A párizsi chanson; a madrigál; a madrigál társműfajai: villanella, frottola; zene és szöveg kapcsolata; a madrigál története (egyre komplexebbé válása); fontos madrigálszerzők.
 9.  HUMANIZMUS A ZENÉBEN Az antikvitás felfedezése a zenetörténetben; akadémiák; a firenzei „Camerata” működése; Mei, Bardi, Galilei szerepe; az 1589-es intermediók; Cavalieri, Caccini és Peri szerepe; az első operák; a Monteverdi-Artusi vita.
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori-1-felev-vizsga&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

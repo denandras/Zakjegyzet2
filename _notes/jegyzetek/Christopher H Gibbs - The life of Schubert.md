@@ -36,3 +36,8 @@ type:
 		- kivéve a [Mein Traum](https://allaboutheaven.org/observations/schubert-mein-traum-020645/221)
 - igazi szabadúszó, elsők között
 - tetszettek neki a korbeli virtuózok, de Beethoven volt az etalon
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/christopher-h-gibbs-the-life-of-schubert&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

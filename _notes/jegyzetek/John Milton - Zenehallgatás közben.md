@@ -42,4 +42,9 @@ type:
 		- minden szférákra oszlik, mindegyiknek van szirénje ([[Milton]] már csak kettőt említ ezekből, *"Voice and Verse"* - az egyik a világból, a másik Istentől fakadó)
 
 [^1]: #később 
-[^2]: 
+[^2]: #később 
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/john-milton-zenehallgatas-kozben&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

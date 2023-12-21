@@ -16,3 +16,8 @@ Jan Stamic
 - [[menüett]] tételt illesztett a 3 tétel közé, így elterjesztve a 4 tételességet
 - visszatérésben jellemző a tükrös repríz (nem feltétlenül szabályos)
 - zenekari crescendo alkalmazása
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/johann-stamitz&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

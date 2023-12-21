@@ -13,3 +13,8 @@ type:
 [[Sophocles]] operája, [[monódikus stílus]]
 fordította: [[Orsatto Giustiniani]]
 kísérőzene: [[Andrea Gabrieli]]
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/oedipus-kiralya&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -67,3 +67,8 @@ type:
 		-   Affektus-tan (bevett elemek, ezekből jön létre egy mű, zenei figurák)
 	-   madrigálirodalom "szótára" (közhelyes zenei metaforák)
 	-   [[Bach]]-[[Händel]] korszakra már egy aria is sokkal "zeneibb", megeszi a zene a szöveget
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/egyhazi-zene-a-17-szazadban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

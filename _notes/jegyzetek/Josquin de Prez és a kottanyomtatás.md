@@ -11,16 +11,7 @@ type:
   - fogalom
 ---
 
--   Ki volt [[Josquin]]?
-    -   a legjelentősebb zeneszerző a 16. században
-        -   halálát követő évtizedekben a neve alatt született sok darab
-        -   `15.`  század: mise, 16. század: **motetta**
-        -   Luther: mestere a hangoknak, másokkal ellentétben (úgy kell tenniük, ahogy a hangok akarják)
-    -   Észak-Európában született, bejárta Európát (Vatikánban is volt)
-        -   Ferrara-i udvar, szerette volna megszerezni a herceg
-            -   mise: [[Missa Hercules]], elrejtette a herceget a darabban
-            -   szekvencia
-        -   mindenképpen **Josquin**t kell megszerezni -> <- **[[Isaac]]** jobb viszonyt ápol környezetével, és gyakrabban ír darabokat
+-   Ki volt ![[Josquin#Josquin de Prez]]?
 -   [[Josquin]] chanzon
     -   [[Ockeghem]] halálára (szokás)
     -   Az erdők nimfáihoz, a vizek istennőihez szól (keveredik a mitológiai világ az egyistenhittel)
@@ -52,3 +43,8 @@ type:
     -   kottaírás
     -   kottanyomtatás
     -   digitalizáció
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/josquin-de-prez-es-a-kottanyomtatas&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

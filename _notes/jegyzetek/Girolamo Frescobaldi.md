@@ -20,3 +20,8 @@ type:
 		- partita = variációsorozat, vagy tánctételek gyűjteménye
 		- **a díszítésre még nem volt jelzés**
 		- *Egy zenét muszáj befejezni abban a hangnemben, amiben elkezdtük?*
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/girolamo-frescobaldi&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

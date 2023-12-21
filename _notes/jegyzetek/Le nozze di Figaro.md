@@ -36,3 +36,8 @@ type:
 - *Susanna* egy *mezzo caratteré*
 	- és áriái előtt accompaniata-k is hallhatóak (szokatlan)
 - szerepcserénél Susannanak új áriákat írt
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/le-nozze-di-figaro&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

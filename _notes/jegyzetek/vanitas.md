@@ -29,3 +29,8 @@ A vanitas műveknek a célja az emberi létezésnek az elmúlás és a halál t�
 A vanitas művészet a 16. és 17. századi holland festészetben volt rendkívül elterjedt, de hasonló témákat más művészeti irányzatokban is megtalálhatunk, például a barokk művészetben és az antik művészetben is.
 
 (ChatGPT)
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/vanitas&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

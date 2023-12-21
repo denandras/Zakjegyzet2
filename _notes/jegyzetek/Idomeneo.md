@@ -38,3 +38,8 @@ type:
 - hatásos, akkor még szokatlan akkordvezetések
 - harsonák továbbra is az isteni/szent jeleneteknél játszik fontos szerepet
 - égi hang a végén igazságot tesz
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/idomeneo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

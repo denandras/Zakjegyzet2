@@ -45,3 +45,8 @@ Első német [[opera]] szerzője
         -   hangszeres bevezető a témával
         -   Affektus-tan (bevett elemek, ezekből jön létre egy mű, zenei figurák) a másik
     -   Madrigálirodalom "szótára" (közhelyes zenei metaforák)
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/schutz&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

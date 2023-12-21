@@ -15,3 +15,9 @@ type:
 - (Szökött katona Népszínmű ennek a feldolgozása)
 - külön műfajtípus: [[szabadító opera]]
 - [[Grétry]] feldolgozott történelmi és hazafias témákat (pl. Oroszlánszívű Richárd)
+
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/le-deserteur&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

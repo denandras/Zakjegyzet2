@@ -11,3 +11,8 @@ type:
 ---
 
 # [link](https://www.youtube.com/watch?v=0_rH2a-rg6Y)
+
+
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/fumeux-fux-parfume&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

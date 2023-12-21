@@ -80,3 +80,8 @@ Orfeo et Eurudice
 - régisége miatt tisztán, "simán", egyszerűen, de meghatóan éneklendő, nem lehet általános trükköket alkalmazni
 - Orfeo szerepében [megszólal](https://open.spotify.com/track/22dlKltr2MAM0GGdXxDXo6?si=44acbe3a9d2c460a) egy kontra D
 - a zenének elementáris hatása van a művészetek között is, elég egy egyszerű szólam is
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/orfeo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

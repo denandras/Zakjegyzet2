@@ -39,3 +39,8 @@ Felix Mendelssohnn-Bartholdy
 - 1833-35: Düsseldorf, zenei igazgató
 - 1835~> **lipcsei Gewandhaus karmestere**
 	- 1843: új konzervatórium tanára
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/mendelssohn&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+

@@ -60,3 +60,8 @@ hullat a gúnyos Könyörületesség.
 ---
 [^1]: Az egzisztencializmus egy filozófiai irányzat, amely az emberi létezés, a szabadság, a felelősség és a létezés abszurditása iránti érdeklődést helyezi előtérbe. A **neoegzisztencializmus** pedig az egzisztencialista gondolatokat továbbfejleszti és modernizálja.
 [^2]: előtanulmány, nagyobb mű bevezetése ([etimológiai szótár](https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-magyar-etimologiai-szotar-F14D3/p-F3534/prolegomena-F38DE/))
+
+
+
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/kalnoky-laszlo-szferak-zeneje&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+
