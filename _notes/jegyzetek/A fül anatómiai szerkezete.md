@@ -7,8 +7,6 @@ permalink: a-ful-anatomiai-szerkezete
 subject: akusztika
 type: 
 ---
-# A fül anatómiai szerkezete
-
 - *Hajtóvadászat öregekre* novella
 
 ### Fül

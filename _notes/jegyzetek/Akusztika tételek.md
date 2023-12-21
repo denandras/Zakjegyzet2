@@ -7,8 +7,6 @@ permalink: akusztika-tetelek
 subject: akusztika
 type: 
 ---
-# Akusztika tételek
-
 - A csillaggal jelzett tételekhez használható segédanyag: Pap János: A zenei akusztika alapjai.
 
 - Főiskolai jegyzet,  Tarnóczy Tamás: Zenei akusztika – termekkel foglalkozó fejezet.

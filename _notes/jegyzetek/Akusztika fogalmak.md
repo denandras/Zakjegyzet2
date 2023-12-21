@@ -7,7 +7,6 @@ permalink: akusztika-fogalmak
 subject: akusztika
 type: 
 ---
-# Akusztika fogalmak
 
 afferens
 

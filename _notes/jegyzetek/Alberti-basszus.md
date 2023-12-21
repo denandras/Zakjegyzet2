@@ -9,8 +9,6 @@ subject:
 type:
   - fogalom
 ---
-# Alberti-basszus
-
 - akkordfelbontás, elmossa a szólamok kontrapunktikus önállóságát
 
 

@@ -9,8 +9,6 @@ subject:
 type:
   - műfaj
 ---
-# A német opera
-
 [[Pierre Gaveaux]] - Fidelio
 
 - [[Beethoven]] - ![[Fidelio]]

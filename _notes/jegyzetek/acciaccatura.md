@@ -9,8 +9,6 @@ subject:
 type:
   - fogalom
 ---
-# acciaccatura
-
 > = szimultán mordent
 > = egy alsó szomszédos hangnak a **feloldással együtt** történő leütése
 

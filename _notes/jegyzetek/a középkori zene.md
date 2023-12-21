@@ -9,8 +9,6 @@ subject:
 type:
   - korszak
 ---
-# A középkori zene
-
 ### Idő
 -   történelmi középkor
     -   (korszakok nem léteznek, hanem mi hozzuk létre őket)
