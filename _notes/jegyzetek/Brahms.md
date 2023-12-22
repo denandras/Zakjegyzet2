@@ -67,7 +67,7 @@ type:
 
 > A digók operát, a németek hangszeres zenét írnak, a többiek semmit.
 
-> [[Susan McClary]] feminista zenetudós (a [[Beethoven 9]] második tétele nemi erőszak, a [[Brahms]] 3. szimfónia első tétele férfi és nő)
+> [[Susan McClary]] feminista zenetudós (a [[Beethoven]] 9 második tétele nemi erőszak, a [[Brahms]] 3. szimfónia első tétele férfi és nő)
 ### Háttere
 <a id="Ötödikfélév"></a><mark>1833-1897</mark>^1
 - német zenetöri két részre oszlik
@@ -120,12 +120,13 @@ type:
 - 1875 - szerződés a **Simrock** kiadóval
 	- "kéne szimfóniát írni"
 	- `20.` századi cikk szerint a zene teteje
-	- eddig nem mert [[Beethoven]] árnyéka miatt írni
+- eddig nem mert [[Beethoven]] árnyéka miatt írni
+	- 1876
 	- [[Hans von Bülow]] elterjeszti, hogy ez az *Első szimfónia* tulajdonképpen [[Beethoven]] tizedikje
 	- Örömóda-jelleg, húzza az időt, aztán elérkezik a pillanat
 	- *végre eljött valaki*
 	- neki még szöveg sem kellett
-- 1871 - felbátorodva, *D-dúr szimfónia*
+- 1876 - felbátorodva, *D-dúr szimfónia*
 	- sok apró [[Haydn]]-i ötlet
 - 1879 - *D-dúr hegedűverseny*
 - 1881 - *B-dúr zongoraverseny*
@@ -137,7 +138,6 @@ type:
 		- a motívumnak mindig van ritmusa, ez nem motívum
 		- megkérdőjeleződik, hogy [[Brahms]] valóban konzervatív volt-e
 		- *m-d-l-f* halál-motívum
-		- ([[Schumann]]-opera egyik jelenete: alkoholista férjet szanatóriumba küld a feleség 8 gyerek után, egyszer bemegy: Vigyázz Clara-ra!)
 	2. tétel
 		- zenei kör, varázsgömb
 		- régies, modális
@@ -156,7 +156,7 @@ type:
 				- "milyen jó is lenne szimfonikus zenében megeleveníteni"
 				- de azt nem lehet, hogy nincs benne kromatika
 				- "az összhangzattan pofán van csapva"
-		- megpróbál túlcsordulni a 8 ütemen, de az életbe bele kell férni
+		- megpróbál túlcsordulni a 8 ütemen, de **az életbe bele kell férni**
 		- halál-motívum
 		- boldog sziget - kicsit elfelejti minden gondját
 			- kicsit jobban lesz, de ez nem meggyógyulást, hanem közeli halált jelent
