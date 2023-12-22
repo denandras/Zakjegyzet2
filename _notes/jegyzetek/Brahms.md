@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+#
 ![](https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/e3/ec/da/e3ecdab5-438d-a8f9-f61d-d8d1b9d85392/mzl.mwehucyv.png/256x256bb.jpg)
 ## Negyedik félév - Romantika (BP)
 <a id="Negyedikfélév"></a>
@@ -166,5 +167,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/brahms&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/brahms&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,10 +9,12 @@ subject:
 type:
   - fogalom
 ---
+#
 A házasság kivételes esetben való, hatóság általi engedélyezése, vagy a kihirdetés elhagyásának engedélye.
 Jelentheti magát a dokumentumot is.
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/diszpenzacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/diszpenzacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

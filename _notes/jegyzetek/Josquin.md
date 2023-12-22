@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+#
 ## Josquin de Prez
 
 -   a legjelentősebb zeneszerző a 16. században
@@ -22,5 +23,6 @@ type:
 	-   mindenképpen **Josquin**t kell megszerezni -> <- **[[Isaac]]** jobb viszonyt ápol környezetével, és gyakrabban ír darabokat
 
 ##
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/josquin&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+p
+style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/josquin&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

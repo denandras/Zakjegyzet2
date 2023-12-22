@@ -9,7 +9,7 @@ subject:
 type:
   - műfaj
 ---
-
+#
 Marcia funébre
 
 - [[Gossec]] Marche lugubre - katonai felkelés áldozatainak emlékére, valamint [[Voltaire]] és [[Rousseau]] temetésekor is játszották
@@ -18,5 +18,6 @@ Marcia funébre
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/gyaszindulo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/gyaszindulo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

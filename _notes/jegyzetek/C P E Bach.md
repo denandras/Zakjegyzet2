@@ -9,8 +9,7 @@ subject:
 type:
   - személy
 ---
-
-Carl Philipp Emanuel Bach
+# Carl Philipp Emanuel Bach
 
 > [[Bach]] gyermeke, <mark>1714-1788</mark>, Weimarban született
 > A 18. sz. legtermékenyebb billentyűs szerzője
@@ -42,5 +41,6 @@ Carl Philipp Emanuel Bach
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/c-p-e-bach&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/c-p-e-bach&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

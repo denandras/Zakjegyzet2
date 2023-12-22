@@ -10,6 +10,7 @@ type:
   - korszak
   - műfaj
 ---
+#
 
 - [[opera buffa]] vált jellemzővé
 - áriák mellett duettek és nagyobb énekes együttesek jelennek meg
@@ -29,5 +30,6 @@ német [[Singspiel]]
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera-a-18-szazad-kozepen&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera-a-18-szazad-kozepen&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

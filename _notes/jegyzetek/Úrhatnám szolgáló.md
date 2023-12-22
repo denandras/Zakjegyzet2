@@ -9,6 +9,7 @@ subject:
 type:
   - mű
 ---
+#
 
 La serva padrona
 
@@ -25,5 +26,6 @@ La serva padrona
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/-rhatnam-szolgalo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/-rhatnam-szolgalo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,6 +9,7 @@ subject:
 type:
   - mű
 ---
+#
 
 - pár évvel [[Monteverdi]] halála előtt (1643) mutatták be
 - ([[Francesco Cavalli]] archívumot hozott létre, ezért fennmaradtak operák)
@@ -68,5 +69,6 @@ Az élet bonyolult, szövődményes dolog, nem különül el egymástól jó és
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/poppea-megkoronazasa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/poppea-megkoronazasa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

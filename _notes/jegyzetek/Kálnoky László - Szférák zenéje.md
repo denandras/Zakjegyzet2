@@ -9,6 +9,7 @@ subject:
 type:
   - mű
 ---
+#
 [Link](https://reader.dia.hu/document/Kalnoky_Laszlo-Osszegyujtott_versek-1000)
 ## Szférák zenéje
 Meg-megrezdülök, mint hangvilla-ág,
@@ -63,5 +64,6 @@ hullat a gúnyos Könyörületesség.
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/kalnoky-laszlo-szferak-zeneje&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/kalnoky-laszlo-szferak-zeneje&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

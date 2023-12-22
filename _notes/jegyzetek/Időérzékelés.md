@@ -7,7 +7,7 @@ permalink: idoerzekeles
 subject: akusztika
 type: 
 ---
-
+#
 - relatív
 - vannak olyan sejtjeing, amelyek ezt mérik
 - vannak olyan emberek, akiknél hiányzik az alváshoz szükséges hormon, ami biztosítja, hogy sötétben elaludjunk
@@ -15,5 +15,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/idoerzekeles&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/idoerzekeles&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

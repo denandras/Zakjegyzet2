@@ -9,7 +9,7 @@ subject:
 type:
   - személy
 ---
-
+#
 <mark>1810-1849</mark>
 
 ### Pályafutása
@@ -50,5 +50,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/chopin&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/chopin&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

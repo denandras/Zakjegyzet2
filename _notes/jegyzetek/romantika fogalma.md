@@ -9,6 +9,7 @@ subject:
 type:
   - korszak
 ---
+#
 
 > szó, irodalom, [[Schlegel-fivérek]], [[E T A Hoffmann]], irodalmi-zenei jelentés, kontrasztos ellentét, műfajok, kritikák és koncertélet, [[abszolút zene]], nacionalizmus, *újromantika/későromantika*
 
@@ -68,5 +69,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/romantika-fogalma&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/romantika-fogalma&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

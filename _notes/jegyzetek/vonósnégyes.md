@@ -9,6 +9,7 @@ subject:
 type:
   - fogalom
 ---
+#
 
 - a klasszika legfontosabb kamarazenei műfaja
 	- kamara = szoba
@@ -55,5 +56,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/vonosnegyes&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/vonosnegyes&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

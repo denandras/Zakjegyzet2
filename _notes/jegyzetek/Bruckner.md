@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+#
 ![](https://www.orchestralart.com/wp-content/uploads/2022/01/bruckner_anton-800x800.jpg)
 # Anton Bruckner
 <mark>1824-1896</mark>
@@ -66,5 +67,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bruckner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bruckner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

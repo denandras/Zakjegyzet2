@@ -1,3 +1,4 @@
+#
 ### Egy Galuppi-toccata (Magyar)
 
 Ó, Galuppi, Baldassaro, szomorú, hogy rád lelek!  
@@ -64,5 +65,6 @@ Hát az ékkő melletekről? Hűvösödik. Vénülök.
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/robert-browning-egy-galuppi-toccata&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/robert-browning-egy-galuppi-toccata&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,6 +9,7 @@ subject:
 type:
   - műfaj
 ---
+#
 
 > komikus intermezzo: rövid
 > rövid és éles [[opera]], általában úr-szolga vagy szerető-szobalány viszony intrikáit mutatja be.
@@ -26,5 +27,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera-buffa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/opera-buffa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -10,6 +10,7 @@ type:
   - forrás
 author: "[[Farkas András]]"
 ---
+#
 "Hasonlóan a [[Richard Strauss]] "[[Imígyen szóla Zarathustra]]" című szimfonikus költeményéhez mindig valami misztikus dolognak tűnt a Liszt Ferenc "Mazeppa" című szimfonikus költeménye. Nem tudtam, ki az a Mazeppa. És most a Hangversenykalauz és a Google segítségével utánanézhettem, és találtam egy YouTube-videót a "mazeppa liszt" címszó mellett, amit saját álló képeire [[Kóta Sára]] készített [[Liszt]] zenéjének részleteivel, és a képeken idézetekkel a Byron-féle Mazeppa-változatból [[Kosztolányi]] [fordításában](https://www.arcanum.com/en/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/kosztolanyi-dezso-19890/anglia-es-irorszag-1ACF9/mazeppa-1AE1C/). Hát csodálatos, nézzék meg feltétlen.
 
 Mazeppa egy kozák hetman volt, akit elfogtak, és egy megvadított lóhoz kötöztek, és ostorral elindították halálos száguldásra a rákötött emberrel. A ló rohant és rohant, és a [[Liszt]] "Mazeppa" zene is rohant.
@@ -20,5 +21,6 @@ Mazeppa egy kozák hetman volt, akit elfogtak, és egy megvadított lóhoz köt�
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/farkas-andras-liszt-mazeppa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/farkas-andras-liszt-mazeppa&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

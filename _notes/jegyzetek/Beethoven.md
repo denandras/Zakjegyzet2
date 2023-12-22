@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+#
 ![](https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg)
 
 > - <mark>1770-1827</mark>, Bonn, flamand származású
@@ -93,5 +94,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/beethoven&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/beethoven&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,8 +9,7 @@ subject:
 type:
   - személy
 ---
-
-Giovanni Battista Pergolesi
+# Giovanni Battista Pergolesi
 
 <mark>1710-1736</mark>
 
@@ -25,5 +24,6 @@ Giovanni Battista Pergolesi
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/pergolesi&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/pergolesi&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

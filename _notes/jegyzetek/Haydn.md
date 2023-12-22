@@ -9,7 +9,7 @@ subject:
 type:
   - személy
 ---
-
+#
 Joseph Haydn
 
 ![](https://www.mainpost.de/storage/image/1/1/7/5/2235711_fancybox_1u-pup_EomADw.jpg)
@@ -79,5 +79,6 @@ Joseph Haydn
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/haydn&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/haydn&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

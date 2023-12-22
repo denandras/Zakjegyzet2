@@ -9,7 +9,7 @@ subject:
 type:
   - személy
 ---
-
+#
 ## [Wiki](https://www.wikiwand.com/hu/Emilio_de_Cavalieri)
 
 
@@ -17,6 +17,5 @@ type:
 
 
 ## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/emilio-cavalieri&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
 
 

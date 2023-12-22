@@ -9,6 +9,7 @@ subject:
 type:
   - fogalom
 ---
+#
 
 > hangszerkíséretes szólóének
 > "színpadi stílus", "énekelt recitálás" - beszéd és ének között
@@ -27,5 +28,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/monodikus-stilus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/monodikus-stilus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

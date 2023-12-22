@@ -9,6 +9,7 @@ subject:
 type:
   - témakör
 ---
+#
 
 1. BAROKK ZENE?
 A „barokk” kifejezés jelentése; a zenetörténeti korszak időbeli határai (a stílusváltozás 1600
@@ -57,5 +58,6 @@ a Clavier-Übung vállalkozás.
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori-2-felev-syllabus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori-2-felev-syllabus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

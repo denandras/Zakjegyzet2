@@ -9,11 +9,12 @@ subject:
 type:
   - személy
 ---
-
+#
 Svájci [humanista](humanizmus.md)
 
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/glareanus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/glareanus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

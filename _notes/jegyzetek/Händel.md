@@ -9,7 +9,7 @@ subject:
 type:
   - személy
 ---
-
+#
 Georg Friedrich Händel
 - <mark>1685-1759</mark>
 
@@ -20,5 +20,6 @@ Georg Friedrich Händel
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/handel&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/handel&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

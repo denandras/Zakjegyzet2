@@ -7,7 +7,7 @@ permalink: francia-barokk
 subject: zenetöri
 type: 
 ---
-
+#
 -   barokk zene a feledésbe merül
 -   `20.` század eleje, 2. vh után újrafelfedezés
 -   francia forradalommal kettévágva
@@ -56,5 +56,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/francia-barokk&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/francia-barokk&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

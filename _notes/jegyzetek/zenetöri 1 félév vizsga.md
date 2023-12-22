@@ -9,6 +9,7 @@ subject:
 type:
   - témakör
 ---
+#
 
 1.  A „KÖZÉPKOR” ÉS A „RENESZÁNSZ” FOGALMA Korszakolás (mikor kezdődött, meddig tartott?); a „középkor” és a „reneszánsz” szó jelentése; a középkorra általánosan jellemző jelenségek (a zene három szintje, hét szabad művészet); a reneszánsz viszonya az antikvitáshoz; a középkori zene néhány sajátossága (gregorián, gregorián központú többszólamúság, a szólamok horizontális kezelése); a reneszánsz zene néhány sajátossága (világi műfajok hangsúlyosabb jelenléte, a szólamok vertikális kezelése); fontos középkori és reneszánsz zenei műfajok.
 2.  A ZENEI ÍRÁSBELISÉG KEZDETEI ÉS A GREGORIÁN A 9. században rendelkezésre álló notációs lehetőségek (pontos hangmagasságot jelölő lejegyzés a Musica Enchiriadisban, neumák); a neumák elterjedésének oka (Nagy Károly központosító törekvései); Nagy Szent Gergely legendája; a gregorián jellegzetességei és használata (szerzetesi közösségek, zsolozsma és mise); a kottavanolas notáció megjelenése (11. század, Arezzói Guido); kvadrátnotáció (12. század).
@@ -22,5 +23,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori-1-felev-vizsga&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori-1-felev-vizsga&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

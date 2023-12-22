@@ -9,6 +9,7 @@ subject:
 type:
   - korszak
 ---
+#
 
 ![](https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232)
 
@@ -69,5 +70,6 @@ egyszerűsége -><- barokk polifónia
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/klasszika-fogalma&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/klasszika-fogalma&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

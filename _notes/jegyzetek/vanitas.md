@@ -9,6 +9,7 @@ subject:
 type:
   - fogalom
 ---
+#
 A "vanitas" egy művészeti és filozófiai koncepció, amely a memento mori („emlékezz a halálra”) üzenetét hordozza. A vanitas a 17. századi holland festészetben és más európai művészeti irányzatokban is megjelenő motívum, amely a múlandóság és az emberi élet rövidségének emlékeztetése mellett az élet földi örömeinek hiábavalóságát hangsúlyozza.
 
 A vanitas képek általában olyan elemeket tartalmaznak, amelyek az elmúlásra és a mulandóságra utalnak. Néhány tipikus motívum és jellemzője a vanitas művészetnek:
@@ -32,5 +33,6 @@ A vanitas művészet a 16. és 17. századi holland festészetben volt rendkív�
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/vanitas&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/vanitas&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+#
 ![](https://english-national-opera-live.s3.amazonaws.com/wp-content/uploads/2017/10/Richard-Wagner.jpg)
 
 ## Negyedik félév - Romantika (BP)
@@ -246,5 +247,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/wagner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/wagner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code">/
+>
 

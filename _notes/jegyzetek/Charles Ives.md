@@ -9,7 +9,7 @@ subject:
 type:
   - személy
 ---
-
+#
 <mark>1874-1954</mark>
 - Danbury
 
@@ -57,4 +57,5 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/charles-ives&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=t
+ps://notes.andrasdenes.com/charles-ives&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>

@@ -9,6 +9,7 @@ subject:
 type:
   - fogalom
 ---
+#
 > A neoegzisztencialista filozófia egy olyan filozófiai irányzat, amely az egzisztencializmustól származik, de későbbi fejleményekre és változásokra épít. Az egzisztencializmus egy filozófiai irányzat, amely az emberi létezés, a szabadság, a felelősség és a létezés abszurditása iránti érdeklődést helyezi előtérbe. A neoegzisztencializmus pedig az egzisztencialista gondolatokat továbbfejleszti és modernizálja.
 > 
 > A neoegzisztencializmus egyik jellemző vonása az, hogy ötvözi az egzisztencialista elméleteket más filozófiai irányzatokkal, például posztmodernizmussal vagy fenomenológiával. Ezenkívül a neoegzisztencialista gondolkodók gyakran foglalkoznak a modern társadalmi és kulturális kérdésekkel, például az identitással, az információs társadalommal és a technológia hatásával az emberi létezésre.
@@ -19,5 +20,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/neoegzisztencializmus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/neoegzisztencializmus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

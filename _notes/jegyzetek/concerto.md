@@ -9,7 +9,7 @@ subject:
 type:
   - műfaj
 ---
-
+#
 - szólóhangszerre és zenekarra írt zenemű, amely a barokk zenében már ismert műfaj, de a klasszikus stílus ezt is a maga képére formálta
 - 3 tételes
 	1. szonátaforma
@@ -19,5 +19,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/concerto&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/concerto&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

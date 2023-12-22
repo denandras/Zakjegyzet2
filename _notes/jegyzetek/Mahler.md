@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+#
 ![](https://images.universal-music.de/img/assets/278/278414/992/720/gustav-mahler-c-dg.jpg)
 
 # Gustav Mahler
@@ -88,5 +89,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/mahler&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/mahler&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,6 +9,7 @@ subject:
 type:
   - mű
 ---
+#
 [[Mozart]]
 
 > A mű színpadra állítása nem kis feladat. Technikai és hangi követelmények szempontjából az Idomeneo nagy igényeket támaszt. Nagyszabású és bonyolult színházi apparátust, nagy létszámú kórust igényel.
@@ -41,5 +42,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/idomeneo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/idomeneo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

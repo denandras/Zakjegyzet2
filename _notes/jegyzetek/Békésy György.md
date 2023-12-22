@@ -7,7 +7,7 @@ permalink: bekesy-gyorgy
 subject: akusztika
 type: 
 ---
-
+#
 - Nobel-díj a halláskutatásért
 - alapkutatásba kezdett, mert nem hitt a halláselméletekben
 - hazavitt koponyákat (aktatáskában)
@@ -18,5 +18,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bekesy-gyorgy&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bekesy-gyorgy&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

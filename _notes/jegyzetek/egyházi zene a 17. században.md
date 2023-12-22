@@ -9,7 +9,7 @@ subject:
 type:
   - korszak
 ---
-
+#
 -   [[opera]] és [[madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben
 -   bárki által hallgatható: templomban
 -   nagyobb város - komplexebb zene
@@ -70,5 +70,6 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/egyhazi-zene-a-17-szazadban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/egyhazi-zene-a-17-szazadban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 
