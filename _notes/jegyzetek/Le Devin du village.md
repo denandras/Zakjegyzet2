@@ -14,7 +14,7 @@ type:
 
 - szerelmes pár, akiket egy varázsló összeboronál
 - [[Favart]] a librettista
-- német fordítása ebből lett [[Mozart]] [[Bastien]] darabja
+- német fordítása ebből lett [[Mozart]] [[Bastien]] c. darabja
 - egyszerűség, életközeliség
 
 

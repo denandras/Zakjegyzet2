@@ -7,7 +7,7 @@ permalink: buddhizmus
 subject: meditáció
 type: 
 ---
-
+#
 
 > A buddhizmus nem rendelkezik saját védikus szövegekkel. A buddhista hagyományokban a buddhista kánonnak nevezett kollekción belül találhatóak a buddhizmus szent szövegei, amelyek a buddhista tanításokat és gyakorlatokat tartalmazzák.
 
@@ -44,6 +44,6 @@ A Vadszjrajána buddhizmusban számos iskola található, köztük a tibeti budd
 - [[Tantra]]
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/buddhizmus&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

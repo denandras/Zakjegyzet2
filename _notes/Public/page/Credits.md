@@ -5,7 +5,7 @@ date: 11-05-2022
 permalink: /credits
 format: list
 ---
-
+#
 - [Hiran Venugopalan](https://hiran.in/index.html)
 
 -   [Raghuveer](https://github.com/rgvr), who created [Simply Jekyll theme](https://github.com/rgvr/simply-jekyll)
@@ -22,6 +22,6 @@ format: list
 - [Gnuanu](https://github.com/gnuanu) for beta testing and private bug reporting
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/credits&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

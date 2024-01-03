@@ -7,7 +7,7 @@ permalink: rezonans-legzes
 subject: légzés
 type: 
 ---
-
+#
 - csúcshatékonyságú rendszer
 
 1. egyenes hát, laza váll és has
@@ -21,6 +21,6 @@ type:
 [[My Cardiac Coherence]] app
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/rezonans-legzes&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

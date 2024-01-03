@@ -7,7 +7,7 @@ permalink: vizualizacios-meditacio
 subject: meditáció
 type: 
 ---
-
+#
 - lassú/lassuló légzés
 - emelkedj fel a házak/erdők fölé, majd a felhők fölé, ki a légkörből, a gravitációból, a naprendszerből, a galaxisból
 - hagyd el a gondjaidat, teendőidet, embereidet és minden egyebet
@@ -43,6 +43,6 @@ Now, you can start going back to your body, step by step. Slowly fly back to the
 Now, that you can see Earth enter the atmosphere of this huge and beautiful planet. Look at the continent you are on. Just like doing a space jump, you are slowly coming to your place and entering the building from where you have left off. You can see yourself now being in a deeply relaxed state. Approach your body and jump back in. You can open your eyes now. Give yourself a stretch and a few breaths before continuing your day. Thank you for joining me and see you next time.
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/vizualizacios-meditacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

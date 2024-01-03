@@ -60,8 +60,8 @@ type:
 ## Élete
 - 1862, St. Germain en Laye
 - nincs zenész a családban
-- párizsi kommünbe az apja belekeveredett, elmenekültek Cannes-be
-- francia forradalom alatt pározsi Conservatoire
+- párizsi kommünbe az apja belekeveredett, elmenekültek Cannes-ba
+- francia forradalom alatt párizsi Conservatoire
 	- sok jó eszme, majd vérengzés
 	- elkezdett helyrejönni a konzervatórium
 	- 6-6 legtehetségesebb a 18 megyéből (kiszseni-képző)

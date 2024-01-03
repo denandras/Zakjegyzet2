@@ -23,9 +23,9 @@ type:
 
 > apja hamar meghalt
 
-> 	Richard Geyer mostohaapa
+> Richard Geyer mostohaapa
 
-> 	apja kiléte identitásproblémákhoz vezet
+> apja kiléte identitásproblémákhoz vezet
 
 - lipcsei muzsikusoktól, [[Christian Gottlieb Müller]]től és a Tamás-templom karnagyától, [[Christian Theodor Weinlig]]től tanult
 - színházi karmester egy vándortársulatnál (34-36)
@@ -166,9 +166,9 @@ type:
 - Wagner antiszemitizmusa és művészete
 	- cáfolták, hogy apja zsidó lett volna
 	- a művészi hajlam nem apjától, hanem anyjától, [[Johanna Pätz]]től származik
-		- az előző 8 testvéréből 2 művész lett
-	- állandóan színházba járt fiatalon, erősen hatott rá a hangolás
-		- A Rajna kincse - első 136 ütem Esz-dúr
+		- előző 8 testvéréből 2 művész lett
+	- állandóan színházba járt fiatalon, erősen hatott rá a **hangolás**
+		- *A Rajna kincse* - első 136 ütem Esz-dúr
 - filozófus barátai voltak
 	- az egyik [[Nietzsche]], aki tervez neki egy címert rajta a göncölszekérrel és egy keselyűvel (Wagen + Geier)
 
@@ -184,11 +184,11 @@ type:
 	- volt egy szeretője, aki után folyton utazott, ahova csak hívták
 	- 1836: Königsberg (a mai kalinyingrádi hadikikötő)
 	- 1837: Riga
-	- sok-sok kölcsönt kért, menekülnie kellett -> Thetis nevű teherhajón megvesztegették a kapitányt
+	- sok-sok kölcsönt kért, menekülnie kellett -> **Thetis** nevű teherhajón megvesztegették a kapitányt
 		- londoni vihar
 		- Norvégia partjainál bemennek egy öbölbe (= Sandvike, Boroynál)
-		- (Jens Jenssen lánya fogadja őket)
-		- A bolygó hollandi ötlete itt merülhetett fel benne
+		- ([[Jens Jenssen]] lánya fogadja őket)
+		- *A bolygó holland*i ötlete itt merülhetett fel benne
 	- 1839: Párizs
 		- ismerősök: [[Liszt]], [[Berlioz]], [[Heine]] (megzenésítette egy francia versét is), [[Giacomo Meyerbeer]] (az volt az érzése, hogy miatta nem jut előrébb)
 		- *Rienzi* 5 felvonásos francia operája
@@ -229,7 +229,7 @@ type:
 
 ![](https://www.br-klassik.de/aktuell/news-kritik/querschnitt-bayreuther-festspielhaus-100~_h-364_v-img__16__9__xl_w-648_-be6819cc57a5436fe2e22755fd9495d5c6ac08f6.jpg?version=f4cf0)
 
-"végtelen dallam" - a zene, a dráma és a szöveg a színészet, és a látvány egységet alkot
+> "végtelen dallam" - a zene, a dráma és a szöveg a színészet, és a látvány egységet alkot
 
 
 
@@ -246,6 +246,7 @@ type:
 
 
 
-## <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/wagner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code">/
->
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/wagner&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code">
+
 

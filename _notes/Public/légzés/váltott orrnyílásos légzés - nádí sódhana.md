@@ -7,7 +7,7 @@ permalink: valtott-orrnyilasos-legzes-nadi-sodhana
 subject: légzés
 type: 
 ---
-
+#
 #### Nádí sódhana
 
 [[pránajámatechnika]]
@@ -24,6 +24,6 @@ type:
 5-10 ciklus
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/valtott-orrnyilasos-legzes-nadi-sodhana&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

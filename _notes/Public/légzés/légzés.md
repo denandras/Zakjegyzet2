@@ -9,7 +9,7 @@ subject:
 type:
   - témakör
 ---
-
+#
 - [[James Nestor - Lélegzet]]
 - [[Osho - The Book of Secrets]]
 
@@ -17,6 +17,6 @@ type:
 
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/legzes&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

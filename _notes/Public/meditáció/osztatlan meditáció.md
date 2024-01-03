@@ -7,7 +7,7 @@ permalink: osztatlan-meditacio
 subject: meditáció
 type: 
 ---
-
+#
 
 * nincs az eseményeket megélő alany
 * magunk vagyunk az élmény, a történések, a nyitottság
@@ -45,6 +45,6 @@ type:
 > [link](https://www.quora.com/How-do-I-meditate-in-a-non-dual-way)
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/osztatlan-meditacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

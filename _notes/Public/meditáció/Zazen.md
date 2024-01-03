@@ -7,7 +7,7 @@ permalink: zazen
 subject: meditáció
 type: 
 ---
-
+#
 Japán [[meditáció]]s technika
 
 ### A Lényeg
@@ -45,6 +45,6 @@ Egyszerre általában 30-40 percet szokás így ülni. Hogy ez alatt a gyakorló
 -   https://tricycle.org/magazine/hara-breathing-meditation/
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zazen&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

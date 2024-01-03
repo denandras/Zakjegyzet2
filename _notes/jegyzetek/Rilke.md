@@ -4,7 +4,8 @@ feed: show
 created: 2023-12-21 10:11
 date: 2023-12-21 10:11
 permalink: rilke
-subject: 
+subject:
+  - zenetöri
 type:
   - személy
 ---

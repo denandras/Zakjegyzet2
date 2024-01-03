@@ -7,7 +7,7 @@ permalink: szereto-kedvesseg-meditacio
 subject: meditáció
 type: 
 ---
-
+#
 * feltétel nélküli szeretet
 * kellemes, otthonos hely
 * légzésed a szívedből eredjen
@@ -18,6 +18,6 @@ type:
 * válassz ezután barátot, semleges személyt, konfliktusos személyt, majd mindenkit
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/szereto-kedvesseg-meditacio&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

@@ -9,7 +9,7 @@ subject:
 type:
   - témakör
 ---
-
+#
 - [Zenetöri olvasnivalók, ajánlott irodalmak](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
 - [egy random jó honlap](https://varkonyitanarur.hu)
 
@@ -138,4 +138,5 @@ type:
 1. 
 
 
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zenetori&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>

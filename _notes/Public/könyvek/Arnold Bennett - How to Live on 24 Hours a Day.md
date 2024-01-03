@@ -19,6 +19,7 @@ rating: 5
 status:
   - reading
 ---
+#
 [link a könyvhöz](https://gutenberg.org/files/2274/2274-h/2274-h.htm)
 ## Említések
 <a id="Említések"></a>
@@ -177,6 +178,7 @@ status:
 - 
 
 
+#
 
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/arnold-bennett-how-to-live-on-24-hours-a-day&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

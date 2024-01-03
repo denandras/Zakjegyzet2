@@ -7,7 +7,7 @@ permalink: figyeld-meg-a-levegoveteled-megallasat
 subject: meditáció
 type: 
 ---
-
+#
 [[Ayurveda]], [[Zen]], [wisdomlib.org]([Forrás](https://www.wisdomlib.org/definition/tantra))
 
 > Or, when breath is all out (up) and stopped of itself, or all in (down) and stopped – in such universal pause, one’s small self vanishes. This is difficult only for the impure.
@@ -39,6 +39,6 @@ Az [[Ayurveda]] levegőkben méri az életet. Éppen ezért ha túl sokat léleg
 > On this path, the small self vanishes and you attain to the higher self, the supreme self.
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/figyeld-meg-a-levegoveteled-megallasat&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

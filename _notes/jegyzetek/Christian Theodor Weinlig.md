@@ -9,7 +9,7 @@ type: személy
 ---
 #
 - a lipcsei Tamás templom kántora
-	- (csakúgy, mint [[Bach]])
+	- (csakúgy, mint [[Bach]] volt)
 
 
 

@@ -7,7 +7,7 @@ permalink: megadas-a-tantraban
 subject: meditáció
 type: 
 ---
-
+#
 [[Tantra]], [[osztatlan meditáció]]
 
 - a szerelmen alapszik, tulajdonképpen maga a szerelem
@@ -23,6 +23,6 @@ type:
 
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/megadas-a-tantraban&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

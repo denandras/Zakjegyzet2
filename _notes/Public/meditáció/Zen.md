@@ -7,7 +7,7 @@ permalink: zen
 subject: meditáció
 type: 
 ---
-
+#
 A zen egy meditatív gyakorlat és filozófiai irányzat, amely eredetileg a kínai Chán buddhizmusból fejlődött ki, majd Japánba került és ott Zen buddhizmus néven vált ismertté. A zen a **közvetlen megélés**re és az **éber jelenlét** állapotára helyezi a hangsúlyt.
 
 A zen meditáció fő gyakorlata a [[zazen]], amelyben a gyakorló ülő meditációs pózban, általában keresztbe tett lábakkal, csendesíti a gondolatait és megfigyeli a légzését. A [[zazen]] során az egyén igyekszik elengedni a mindennapi gondolatokat és elmélyedni a tiszta tapasztalatban, az itt és mostban.
@@ -23,6 +23,6 @@ A zen filozófiája és gyakorlata jelentős hatást gyakorolt a művészetre, p
 Összességében a zen az éber jelenlét, a csend és a tudatos tapasztalat gyakorlását hivatott elősegíteni, és az élet mélyebb valóságának felfedezését célozza, azáltal hogy túllépünk a gondolatokon és a dualitáson.
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zen&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

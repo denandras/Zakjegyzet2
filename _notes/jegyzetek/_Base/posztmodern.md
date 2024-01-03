@@ -7,7 +7,7 @@ permalink: posztmodern
 subject: posztmodern
 type: témakör
 ---
-
+#
 > [[P Sloterdijk]]: *"Aki szédül, az nincs informálva"*
 > (de nem mindenki szeret szédülni)
 
@@ -624,6 +624,6 @@ type: témakör
 			- dinamizmusban élő világban *miért* vet fel ilyet?
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/posztmodern&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

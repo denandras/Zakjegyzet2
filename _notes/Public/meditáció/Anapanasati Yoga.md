@@ -7,7 +7,7 @@ permalink: anapanasati-yoga
 subject: meditáció
 type: 
 ---
-
+#
 Buddha said, “Be aware of your breath as it is coming in, going out – coming in, going out.” He never mentions the gap because there is no need. Buddha thought and felt that if you become concerned with the gap, the gap between two breaths, that concern may disturb your awareness. So he simply said, “Be aware. When the breath is going in move with it, and when the breath is going out move with it. Do simply this: going in, going out, with the breath.” He never says anything about the latter part of the technique.
 <p style="text-align:right;">Vigyan Bhairav Tantra</p>
 Az anapánasati jóga (vagy anapánasati meditáció) a buddhista meditációs gyakorlatok közé tartozik, és a tudatos légzés figyelmére összpontosít. Az anapánasati jelentése a páli nyelven "a légzés tudatos megfigyelése". Ez a meditációs forma az egyik alapvető gyakorlat a buddhizmusban, különösen a theraváda hagyományban.
@@ -21,6 +21,6 @@ Az anapánasati jóga továbbfejlesztett formái szerepelnek a buddhista meditá
 Az anapánasati jóga tehát a légzés tudatos figyelmének gyakorlata, amely segíthet a tudatosság és a jelenlét állapotának elérésében, valamint a belső béke és a tudatosság növelésében.
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/anapanasati-yoga&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

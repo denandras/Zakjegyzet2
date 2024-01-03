@@ -16,9 +16,9 @@ type:
   - "[[könyv]]"
 pages: 192
 rating: 5
-status:
-  - reading
+status: reading
 ---
+#
 ## Említések
 <a id="Említések"></a>
 - [[Benjamin Bloom - Developing Talent in Young People]]
@@ -210,6 +210,7 @@ status:
 	- 
 
 
+#
 
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/hbr-s-10-must-reads-on-high-performance&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

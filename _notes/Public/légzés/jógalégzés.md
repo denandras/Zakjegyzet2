@@ -7,6 +7,7 @@ permalink: jogalegzes
 subject: légzés
 type: 
 ---
+#
 
 ### 1. fázis
 
@@ -27,6 +28,6 @@ type:
 ism. 10x
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/jogalegzes&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

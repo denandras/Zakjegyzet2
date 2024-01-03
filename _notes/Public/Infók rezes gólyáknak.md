@@ -7,6 +7,7 @@ permalink: infok-rezes-golyaknak
 subject: 
 type: poszt
 ---
+#
 ## [SOS email](mailto:denesandras@akademista.hu)
 
 ## [INFORMÁCIÓK FELVETT HALLGATÓK RÉSZÉRE](https://lfze.hu/tanulmanyi-hirek/informaciok-felvett-hallgatok-reszere-125156)
@@ -188,7 +189,7 @@ type: poszt
 
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/infok-rezes-golyaknak&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 
 

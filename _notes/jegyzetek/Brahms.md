@@ -116,7 +116,7 @@ type:
 - 1862 - letelepedés Bécsben
 - 1867-91 - évente Pestre jár bemutatókra
 - 1869 - *Német Requiem*
-### Szimfóniái
+### Művei
 - 1875 - szerződés a **Simrock** kiadóval
 	- "kéne szimfóniát írni"
 	- `20.` századi cikk szerint a zene teteje
@@ -142,7 +142,7 @@ type:
 		- zenei kör, varázsgömb
 		- régies, modális
 		- C, majd E-dúr
-		- fúvósok dominálnak, majd elfüstölődik a gömb, megjelenik a múlt a sóvárgó, vágyakozó vonósokkal (szinte követelőzve, mint egy kisgyerek, akar visszamenni)
+		- fúvósok dominálnak, majd elfüstölődik a gömb, megjelenik a múlt a sóvárgó, vágyakozó vonósokkal (szinte követelőzve, mint egy kisgyerek, vissza akar menni)
 		- német zene: hideg fúvósok, invokáló kürtök, érzelmes, vágyakozó vonósok
 	3. tétel
 		- scherzo

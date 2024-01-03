@@ -7,7 +7,7 @@ permalink: zene-es-irodalom
 subject: zene és irodalom
 type: témakör
 ---
-
+#
 > - szabvál
 > - [[Kovács Zoltán]] bölcsész
 ## Művek
@@ -56,6 +56,6 @@ type: témakör
 [^2]: a megértéshez az összes mű (és annak műértelmezéséről) szóló mű elolvasása
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/zene-es-irodalom&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

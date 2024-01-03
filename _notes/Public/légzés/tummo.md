@@ -7,7 +7,7 @@ permalink: tummo
 subject: légzés
 type: 
 ---
-
+#
 ### [[Wim Hof]]-féle, a szimpatikus idegrendszert stimuláló tummo
 
 1. feküdj hanyatt, párnát fej alá, lazíts
@@ -48,6 +48,6 @@ In Alexandra David-Neel’s book Magic and Mystery in Tibet , contains her early
 ### paraszimpatikust stimuláló(?)
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/tummo&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

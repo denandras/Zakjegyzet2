@@ -7,7 +7,7 @@ permalink: tantra
 subject: meditáció
 type: 
 ---
-
+#
 [[Osho - The Book of Secrets]]
 
 ### Eredet
@@ -68,6 +68,6 @@ A hindu mitológiában és a tantrikus hagyományban Bhairava és Shakti gyakran
 
 
 
-
+#
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/tantra&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 
