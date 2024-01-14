@@ -16,7 +16,7 @@ type:
 
 - csembalista és énekes
 - velencei követ apródjaként Spanyolországban is megfordult
-- Molinari [[márki]] csembalistája lett Rómában (haláláig)
+- [[Molinari]] [[márki]] csembalistája lett Rómában (haláláig)
 - [[Alberti-basszus]]
 - 40 billentyűs szonáta (8 nyomtatva)
 	- 1747: kalózkiadás, tanítványa ([[Giuseppe Jozzi]]) sajátjaként kiadta

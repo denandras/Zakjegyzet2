@@ -8,6 +8,7 @@ subject:
   - zenetöri
 type:
   - műfaj
+  - témakör
 ---
 #
 

@@ -41,7 +41,7 @@ type:
 	- [[Antonio Barezzi]]
 	- lányát (Margherita) elvette feleségül, két gyermek
 	- mind meghaltak rövid időn belül
-- [[Ferdinando Provesi]]től tanult összhangzattanra és egyebekre
+- [[Ferdinando Provesi]]től tanult összhangzattant és egyebeket
 - Milanói Conservatoire-be felvételizik
 	- zongoristaként
 		- rossz, "javíthatatlan" kéztartás
@@ -51,7 +51,7 @@ type:
 	- [[Vincenzo Lavigna]] mestere (jó karmester, aránylag neves tanár)
 	- egyszer csak elkezd operákat írni
 	- *Oberto* operája, siker
-	- *Pünkösdi királyság* vígopera (ekkor halt meg az egész családja
+	- *Pünkösdi királyság* vígopera (ekkor halt meg az egész családja)
 	- [[Merelli]] nevű impresszárió[^1] rábeszéli, hogy ne hagyja ott az operát
 		- "itt egy libretto, csinálj belőle valamit" (elvileg így volt)
 		- ledobta az asztalra, majd megnézte, hol nyílt ki: *Nabucco*-nál

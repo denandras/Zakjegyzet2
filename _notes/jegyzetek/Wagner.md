@@ -80,7 +80,7 @@ type:
 ## Ötödik félév - (KS)
 <a id="Ötödikfélév"></a>
 
-- <mark>1813-1883</mark>
+<mark>1813-1883</mark>
 
 > [[Kroó György - Richard Wagner]]
 
@@ -126,7 +126,7 @@ type:
 			- egy lány vőlegényét lekaszabolta, ezért üldözik
 			- csatában eltört a kardja, menekül
 		- *Hundig*ék egész este őt üldözték
-		- ma este még maradhat, mert a vendégbaráaság szent
+		- ma este még maradhat, mert a vendégbarátság szent
 		- nő italt készít (mert ráparancsolt férje)
 			- összeadták őket, rettenetes kényszerházasság
 		- a férfi nézegeti a fát, "de fura ott ni!"
@@ -171,11 +171,10 @@ type:
 		- *A Rajna kincse* - első 136 ütem Esz-dúr
 - filozófus barátai voltak
 	- az egyik [[Nietzsche]], aki tervez neki egy címert rajta a göncölszekérrel és egy keselyűvel (Wagen + Geier)
-
 - 1813: Lipcse
 - kisiskolás -> Drezda
 - 1828: Lipcse, [[Christian Theodor Weinlig]]
-	- korai zongoraszonáták (A- és B-dúr)
+	- korai zongoraszonáták (A és B-dúr)
 - 1830: forradalom (Párizsból szerteágazik)[^3]
 - 1833: Würzburg
 	- *A tündérek* operája (rossz)
@@ -189,15 +188,15 @@ type:
 		- Norvégia partjainál bemennek egy öbölbe (= Sandvike, Boroynál)
 		- ([[Jens Jenssen]] lánya fogadja őket)
 		- *A bolygó holland*i ötlete itt merülhetett fel benne
-	- 1839: Párizs
-		- ismerősök: [[Liszt]], [[Berlioz]], [[Heine]] (megzenésítette egy francia versét is), [[Giacomo Meyerbeer]] (az volt az érzése, hogy miatta nem jut előrébb)
-		- *Rienzi* 5 felvonásos francia operája
+- 1839: Párizs
+	- ismerősök: [[Liszt]], [[Berlioz]], [[Heine]] (megzenésítette egy francia versét is), [[Giacomo Meyerbeer]] (az volt az érzése, hogy miatta nem jut előrébb)
+	- *Rienzi* 5 felvonásos francia operája
 - 1843: *A bolygó hollandi*
 - 1845: *Tannhäuser*
 - 1848: *Lohengrin*
 	- bemutató: Weimar, [[Liszt]] vezényel
 		- drezdai forradalom, [[Wagner]] az egyik vezéralak (ultrabal antiszemita[^4])
-		- menekülnie kell -> Weimar -> Párizs -> Zürich -> Luzern (a német egység hiánya miatt tudott lavíroznin a területek között)
+		- menekülnie kell -> Weimar -> Párizs -> Zürich -> Luzern (a német egység hiánya miatt tudott lavírozni a területek között)
 		- [[Otto Wesendonck]] kereskedő szponzorálta
 			- <3 [[Mathilde Wesendonck]] - 1852 - *Wesendonck-Lieder*
 - 1848: *A Nibelung gyűrűje* szöveg
@@ -229,7 +228,7 @@ type:
 
 ![](https://www.br-klassik.de/aktuell/news-kritik/querschnitt-bayreuther-festspielhaus-100~_h-364_v-img__16__9__xl_w-648_-be6819cc57a5436fe2e22755fd9495d5c6ac08f6.jpg?version=f4cf0)
 
-> "végtelen dallam" - a zene, a dráma és a szöveg a színészet, és a látvány egységet alkot
+> "végtelen dallam" - a zene, a dráma a szöveg, a színészet és a látvány egységet alkot
 
 
 
