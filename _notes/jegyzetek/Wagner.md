@@ -134,8 +134,8 @@ type:
 			- "apám azt ígérte, a legbagyobb vészben találok egy kardot"
 			- a fán megcsillan valami, majd teljes sötétség lesz
 			- kard motívuma (g c' c, e g c' e')
-			- random felvesz a földről egy kardot
-			- *Wotan* = E-dúr
+			- kihúzza a kardot, ami Wotané
+				- *Wotan* = E-dúr
 		- nő be (oldalajtón)
 			- "Alszol?"
 			- történet: akarata ellenére adták *Hundig*hoz
@@ -152,16 +152,45 @@ type:
 				- (egy csata van, azt is elveszti)
 			- kihúzza a kardot
 			- **Sieglinde vagyok, a húgod** -> fajtiszta *Wotan*-gyermek
+		- párbaj, *Hundig* és *Sigmund*
+			- *Brünhilde* besegítene *Sigmund*nak *Wotan* akarata/parancsa ellenére
+			- mielőtt a Notunggal lesújtana *Hundig*ra, *Wotan* megállítja *Brünhildé*t
+			- *Brünhildét* *Wotan* örök álomba szenderíti, hogy bárki azt tehessen vele, ha megtalálja, amit akar
+				- meggondolja magát, körbeveszi tűzzel és pajzsával
 	- **Siegfried** ('76)
-		- *Siegfried* *Mimével* él egy barlangban (aki egy undorító törpe)
-		- folyton kovácsolgat valamit, egy kardot, amit *S.* mindig kettétör
+		- *Siegfried* *Mimével* él egy barlangban (aki egy undorító törpe, *Alberich* testvére)
+		- folyton kovácsolgat valamit, egy kardot, amit *S.* mindig kettétör (nem tudják, hogy az a Notung, és nem tudja összekovácsolni, mert félelem van benne)
 		- *S. az erdőt járja általában*
+			- azt mondja *Mimé*nek, hogy legyen kész a kard, mire hazaér
+			- közben eljön egy vándor (*Wotan*!), tudja, hogy mit akarsz, a sárkányt csak az ölheti meg, akinek nincs a szívében félelem
 			- miért megy vissza *Miméhez* mindig? - **apai problémák** ([[Wagner]] maga sem tudja, ki volt saját apja[^2])
 				- "apád, anyád én vagyok egy személyben"
 				- "a tóba belenéztem, s megláttam, hogy én szép vagyok, te meg ronda"
 				- "én voltam ott, mikor anyád belehalt a szülésbe, s elcsentelek" (nem jóságból, hanem mert hőst akart nevelni belőle)
-				- utolsó kérés: csinálja meg *Mime* az apja rég elveszett kardjának másolatát
-				- nem képes rá, ezért megcsinálja ő (lereszelve, beolvasztva az előzőt)
+				- utolsó kérés: csinálja meg *Mime* az apja rég elveszett kardját
+				- nem képes rá, ezért megcsinálja ő (nincs benne félelem)
+		- *S.* kimegy az erdőbe, próbál rájönni, hogy mi az a félelem, mert *Mime* meg akarta tanítani a félelemre
+			- keresi a *sárkányt*, akiről *Mime* mesélt
+			- *Mime* utánamegy
+			- a madarat utánozva megpróbálja azt leutánozni, nádból farag egy sípot
+				- de van egy kürtöm - kürtös állás d smd rmfmr s
+				- hörgés - felébred a *sárkány*
+			- *Siegfried* megy a hang után, *Mime* is ott van a barlangnál, aki találkozott közben *Alberich*el, elkezdtek veszekedni
+			- *S.* bemegy megölni a *sárkány*t (rácseppen a sárkány vére, megfürdik a sárkány vérében)
+				- sebezhetetlen lesz
+				- az igazat hallja az emberek hazugsága mögött
+				- ért az állatok nyelvén
+			- *Mime*nél ott a méreg, de hallja az igazságot, meg hogy meg akarja ölni (a Ringért) lekaszabolja
+		- megjön a madárka, akinek érti a szavát
+			- ott van fenn *Brünhilde* a hegyen
+			- útközben előlép a bokrok közül a vándor, *Wotan*
+			- márpedig most itt nem mész tovább -><- márpedig de
+			- itt a lándzsa törik el! - *Wotan* továbbáll
+				- az igazság jelképe, eddig *Wotan* szavahihető volt, az egész sztori emiatt van - [[Wagner]] filozófiája, a balga bölcs
+			- *Gaia* megjelenik, hú de jók vagytok tik
+			- átkel a tűzön, fölébreszti
+				- először fél!
+				- felébreszti, dúl a láv - /[[Mákszem Fanni]]/
 	- **Az istenek alkonya** ('76)
 - Wagner antiszemitizmusa és művészete
 	- cáfolták, hogy apja zsidó lett volna

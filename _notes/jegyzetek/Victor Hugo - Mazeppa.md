@@ -11,7 +11,7 @@ type:
 ---
 #
 
-[[Victor Hugo 1]]
+[[Victor Hugo]]
 
 [[George Byron]] is feldolgozta ezt a romantikában felkapott történetet ([[Farkas András - Liszt - Mazeppa]])
 

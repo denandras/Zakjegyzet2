@@ -59,10 +59,10 @@ type:
 			- álmodozik arról, hogy mily jó volna hazatérni
 			- az olaszok is hasonlóan éreztek
 			- első Verdi-opera, amit magyarul bemutattak (Nemzeti Színház)
-		- "a gályarabság évei" - folyton rossz librettók megzenésítése
+		- Verdi maga így nevezte: "a gályarabság évei" - folyton rossz librettók megzenésítése
 	- *Ernari*
 		- `19.` sz: óriási népszerűség
-		- [[Victor Hugo 1]]-rémtörténet
+		- [[Victor Hugo]]-rémtörténet
 	- további jelentéktelenek
 		- *A két Foscari*
 		- *Giovanna D’Arco* (Jean d'Arc)
@@ -87,7 +87,7 @@ type:
 		- "Viva Vittorio Emanuel regni in Italia"
 		- ismert volt
 	- ***Rigoletto*** - bem. 1851, 1852-ben már Pesten
-		- [[Victor Hugo 1]] - *A király mulat*
+		- [[Victor Hugo]] - *A király mulat*
 		- [[Piave]]
 		- [[I. Ferenc francia király]]
 			- reneszánsz uralkodó
@@ -96,7 +96,7 @@ type:
 			- kedvelte a nőket
 		- bemutatja, mennyire erkölcstelen, egy elegáns [[Borkai Zsolt]]
 		- nem Ferenc a főszereplő
-			- hanem a mantovai Gonzaga *herceg* (kihalt a család akkorra)
+			- hanem a mantovai Gonzaga *herceg* (kihalt a család akkorra, ezért lehetett használni a nevet)
 		- **szereplők**
 			- *Gottinwalde* vagyok (herceg álnéven, mert *Gilda* (*Rigoletto* lánya) nem tudja, hogy ő a herceg)
 			- *Maruno* udvaronc
@@ -123,7 +123,7 @@ type:
 			- *Rigoletto* hazafelé megy sötétben, megszólítja valaki (becsületes bérgyilkos)
 			- köröz az utcán, hogy vigyázzon *Ceprano*ra (lesi, hogy jön-e valaki)
 			- a *herceg* diák képében megjelenik, összemelegednek a lánnyal
-			- elmegy, a *Ceprano* magára marad, szerelemről álmodozik
+			- elmegy, *Ceprano* magára marad, szerelemről álmodozik
 			- közben *R.* szembetalálkozik egy csapattal (akik konkrétan megszöktetni jöttek *Ceprano*t)
 			- azt hiszik róla, hogy a szeretője - jöttünk, hogy *Ceprano* grófnőt elszöktessük
 				- erre *R.* beáll a csapatba (viselj te is álarcot, mint mi!) - kendőt tesznek rá, nem lát semmit
