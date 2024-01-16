@@ -14,9 +14,9 @@ type:
 # Anton Bruckner
 <mark>1824-1896</mark>
 
-> - sok anekdota, pl: [[Ferenc József]] a kitüntetése után azt mondta: "Most elégedett?" - "lenne egy kérésem: hogy az a kritikus ne írjon csúnyágat rólam" (itt [[Eduard Hanslick]]re utalt)
+> - sok anekdota, pl: [[Ferenc József]] a kitüntetése után azt mondta: "Most elégedett?" - "lenne egy kérésem: hogy az a kritikus ne írjon csúnyákat rólam" (itt [[Eduard Hanslick]]re utalt)
 > - [[Hans Richter]] zsebébe borravalót csúsztatott, mikor a próbát meghallgatta
-> - nőkkel való viszonyok "hiánya"
+> - nőkkel való viszonyok hiánya
 > - bizalmatlan/bizonytalan ember (minden művét sokszor átírta; állandóan vizsgázott pl. összhangból)
 
 ## Élete
@@ -24,7 +24,7 @@ type:
 - 13 évesen elveszti apját (aki zenész is volt) -> Szt. Flórián Apátság (katolikus közeg) - egyoldalú nevelés zeneileg is
 - Linz, tanítóképző (16 évesen)
 	- összhangzattan
-- Windhaag, Kronstorf városokban tanít (és trágyát hord)
+- Windhaag, Kronstorf városokban tanít (és trágyát hord(?))
 - Enns-ben megismeri [[Leopold von Zenetti]]t
 - ismét a Szt. Flóriánban, de már tanítóként
 - Linz, Dom - orgonista állás (nem mert pályázni, majd mindenki elbukott és megkérdezték)
@@ -51,7 +51,7 @@ type:
 	- nem ABA, hanem A1-B1, A2-B2, A3-??
 	- "[drezdai amen](https://www.wikiwand.com/en/Dresden_amen)" - többen idézik a zenetörténetben
 	- kis nónával indul
-		- kilép (halál) a világból, keretekből
+		- kilép a világból (halál), keretekből
 		- drezdai amen = "úgy legyen!"
 	- fényár, kicsit bitonális, hirtelen mintha reflektorokat kapcsolnának be; akkordsor ([[Bruckner]]: búcsú az élettől)
 	- C-dúr akkordfelbontás - zenei szimbólum, fehér tisztaság (de közben szól egy fisz - személyes megjegyzés: ez olyan, mintha még jelen lenne az életben is, visszahúzná őt a Földre)

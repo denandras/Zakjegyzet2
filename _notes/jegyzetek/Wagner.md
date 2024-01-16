@@ -188,7 +188,7 @@ type:
 			- itt a lándzsa törik el! - *Wotan* továbbáll
 				- az igazság jelképe, eddig *Wotan* szavahihető volt, az egész sztori emiatt van - [[Wagner]] filozófiája, a balga bölcs
 			- *Gaia* megjelenik, hú de jók vagytok tik
-			- átkel a tűzön, fölébreszti
+			- átkel a tűzön
 				- először fél!
 				- felébreszti, dúl a láv - /[[Mákszem Fanni]]/
 	- **Az istenek alkonya** ('76)

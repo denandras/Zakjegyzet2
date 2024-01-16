@@ -22,7 +22,7 @@ type:
 - [[Don Carlos]]
 
 ## Ötödik félév
-> vizsgára 3 opera cselekményét memorizálni!
+> vizsgára 3(?) opera cselekményét memorizálni!
 
 > Néha jót tud tenni, ha valakit nem vesznek fel valahova. Nem rontják el.
 
@@ -96,7 +96,7 @@ type:
 			- kedvelte a nőket
 		- bemutatja, mennyire erkölcstelen, egy elegáns [[Borkai Zsolt]]
 		- nem Ferenc a főszereplő
-			- hanem a mantovai Gonzaga *herceg* (kihalt a család akkorra, ezért lehetett használni a nevet)
+			- hanem a mantovai [[Gonzaga]] *herceg* (kihalt a család akkorra, ezért lehetett használni a nevet)
 		- **szereplők**
 			- *Gottinwalde* vagyok (herceg álnéven, mert *Gilda* (*Rigoletto* lánya) nem tudja, hogy ő a herceg)
 			- *Maruno* udvaronc

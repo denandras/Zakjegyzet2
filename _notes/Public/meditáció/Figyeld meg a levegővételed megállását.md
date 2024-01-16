@@ -34,7 +34,7 @@ Az [[Ayurveda]] levegőkben méri az életet. Éppen ezért ha túl sokat léleg
 
 > Modern medicine says that sex helps blood circulation, sex helps relaxation. And those who suppress their sex may get into trouble – particularly heart trouble. They are right and Ayurveda is also right, but they seem contradictory. But Ayurveda was invented five thousand years before. Every man was doing much labor: life was labor, so there was no need to relax, there was no need to create artificial devices for blood circulation.
 
-> [[Freud]] says that sex is the best tranquilizer, and it is – at least for modern man.
+> [[Sigmund Freud]] says that sex is the best tranquilizer, and it is – at least for modern man.
 
 > On this path, the small self vanishes and you attain to the higher self, the supreme self.
 

@@ -33,7 +33,7 @@ type: témakör
 - [ ] [[Francis Bacon]] - filozófus
 - [ ] [[René Descartes]], [[Rousseau]], [[Diderot]] - filozófusok
 - [ ] [[Sigmund Baumann]] - szociológus
-- [ ] [[Freud]] - pszichoanalitikus
+- [ ] [[Sigmund Freud]] - pszichoanalitikus
 - [ ] [[Platón]] - filozófus
 - [ ] [[Nietzsche]] - filozófus
 - [ ] [[Dragomán - Fehér király]] - regény
@@ -54,7 +54,7 @@ type: témakör
 - [ ] [[R Barthes - A szerző halála]] esszé - esszéíró, filozófus ([link](http://www.irodalomelmelet.atw.hu/barthes.pdf))
 - [ ] [[Derrida]] - filozófus
 - [ ] [[Vajda Mihály]] - festőművész
-- [ ] [[Kafka]] egypercesei
+- [ ] [[Franz Kafka]] egypercesei
 - [ ] [[Varró Dániel]] - költő
 - [ ] [[Nemes Z Márió]] - író
 - [ ] [[Pethő Barnabás]] filozófus
@@ -188,7 +188,7 @@ type: témakör
 <a id="Későmodernitás, 20. sz. második fele"></a>
 - irodalomban
 - szkepszis
-- Sigmund [[Freud]] pszichoanalízis-elmélete
+- Sigmund [[Sigmund Freud]] pszichoanalízis-elmélete
 	- a tudattalant soha sem érhetjük el, de irányít minket
 - csoport-, genderalapú politizálás
 - művészet
@@ -313,7 +313,7 @@ type: témakör
 	- ha a tigrisek verődnek nyájjá, az is nyáj
 	- ismerte [[Wagner]]t
 - pszichoanalízis
-	- [[Freud]]
+	- [[Sigmund Freud]]
 		- az emberi gondolkodás nem tudja kezelni magát a tudattalan jelenléte miatt
 		- nem az észhasználat a lényeges
 	- [[Jacques Lacan]]
@@ -419,7 +419,7 @@ type: témakör
 	- [[Örkény - Egypercesek]]
 	- short story = rövidtörténet (a novellánál is rövidebb, sokminden van kihagyva)
 	- a dúsítást úgy éri el, hogy a hiányra épít
-	- [[Kafka]] egypercesei
+	- [[Franz Kafka]] egypercesei
 - ha a szerző nyilatkozik, az sem ad bizonyosságot
 	- ő is hazudhat
 	- [[Prokofiev]] - Klasszikus szimfónia
