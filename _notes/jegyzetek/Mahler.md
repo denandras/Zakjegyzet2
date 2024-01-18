@@ -33,7 +33,7 @@ type:
 	- mindent tanult, kivéve karmesterséget (amit akkoriban még nem lehetett, csak az 1920-as évektől kezdve)
 - elkezd vezényelni
 - Bad Hall, Ljubljana, Olmütz, Prága, Lipcse
-- <mark>1888 okt. - 1891 tavasz</mark> - Budapest
+- <mark>1888 okt. - 1891 tavasz</mark> - Budapesti Operaház
 	- 1884-ben felavatták (a bécsi után 15 évvel)
 		- [[Ferenc József]] építtetett egyet, aminek kisebbnek kellett lennie az osztráknál (de sokkal szebb lett)
 		- [[Erkel Ferenc]] az igazgató, [[Podmaniczky Frigyes]] az intendáns egy évig, majd röviddel ezután [[Beniczky Ferenc]]

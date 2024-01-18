@@ -18,8 +18,8 @@ type:
     -   drága kódexek (leginkább állatbőrből, később papírból)
     -   az egyháznak könyvkészítési monopóliuma volt (-13. sz.)
 -   [[Boethius]]: ABC
--   neumák (helyenként más)
-    -   `10.  századi` kódex (Sankt Gallen)(Hartker antifóna)
+-   *neumák* (helyenként más)
+    -   `10.  századi` kódex (St. Gallen) (Hartker antifóna)
     -   sokáig nem nagyon használják
 -   600 körül [[Gergely pápa]] összegyűjti az egyházi énekeket
 -   meghatározó írásbeliség
@@ -33,12 +33,12 @@ type:
         -   nagyobb repertoár
         -   új műfajok (tropus-, sequentiaköltészet + miseordinárium)
 -   zsolozsma - kolostorban élő szerzetesek imája (150 zsoltár hetente)
--   `9.  századi` szöveges kotta
+-   `9.  századi` *szöveges kotta*
 -   [[Arezzói Guido]] (1000 környékén)
     -   guidoi kéz, ujjpercekre bontva, szolmizálva
         -   hexachordokból áll
-    -   "Út queant laxis" kezdetű himnusz Szent János tiszteletére
--   `12-13. századi` kódexek: hangok a térben elhelyezve - Franciaország (Párizs a kultúra központja)
+    -   "Út queant laxis" kezdetű himnusz [[Szent János]] tiszteletére
+-   `12-13. századi` kódexek: *hangok a térben elhelyezve* - Franciaország (Párizs a kultúra központja)
     -   francia kvadrátnotáció
     -   több hang összekötve: ligatúrák - legato = "kötött"
 -   hexachordokra alapul
@@ -49,7 +49,7 @@ type:
     -   az impro nem a semmiből jön
 -   kidíszítés, adalék, remix
     -   vox principalis, vox organalis - régi dallamhoz még egy-két szólam (pirossal a fő)
-    -   organum = symphonia
+    -   organum = sinfonia
     -   az adalék a 19. századig normális dolog
     -   remix akkori fajtái
         -   prosulálás: csak szöveg
@@ -65,7 +65,7 @@ type:
             -   húsvéti introitus
                 -   generációk építenek egymásra - katedrálisok
                 -   végén: _"resurrexi"_ úgyis tudják
-                -   az egész egy nagy puzzle: Winchester-tropáriumban lévő neumás plusz szólamok
+                -   az egész egy nagy puzzle:[[ Winchester-tropárium]]ban lévő neumás plusz szólamok
 -   sinfonia/[organum](https://www.wikiwand.com/en/Organum): másik szólam
 -   meghatározó írásbeliség
     -   dallam íve, rezgés = szám, kisgyerekek, sok metafora

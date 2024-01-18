@@ -111,7 +111,7 @@ type:
 - Lexikon cikk [[Ravel]]ről
 - mi a verizmus?
 
-1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév) ([->](Brahms))
+1. [Brahms](https://notes.andrasdenes.com/brahms#Ötödikfélév) ([[Brahms#Ötödik félév - (KS)|->]])
 	- élete, fő művek
 
 2. [[Wagner]]

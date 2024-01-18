@@ -38,12 +38,12 @@ type:
 
 ## Szimfóniái
 
-- 00. f-moll
-- "0." szimfónia
-- 3. "Wagner-szimfónia" (idézetekkel)
-- 4. "Romantikus"
-- 7. E-dúr (1., 3-4. tétel órán meghallgatva)
-- 9. d-moll
+- `00.` f-moll
+- `"0."` szimfónia
+- `3.` "Wagner-szimfónia" (idézetekkel)
+- `4.` "Romantikus"
+- `7.` E-dúr (1., 3-4. tétel órán meghallgatva)
+- `9.` d-moll
 	- [[Beethoven]] 9.-je is d-moll
 	- ajánlva: "A Jóistennek"
 	- 3 tétel (4. bőséges vázlata, de nem írta meg, az utolsó E-dúr lett volna)
@@ -62,7 +62,7 @@ type:
 		- megrendül, messzebbről szól a fényár
 		- "meg kell halni" - "miért is?"
 		- utolsó ítélet harsonái
-	- furcsa vég, Wotan-szerű vég, ő az isten, elaltatja (most nem Brünnhildét, hanem) [[Brahms]]-t
+	- furcsa, *Wotan*-szerű vég, ő az isten, elaltatja (most nem Brünnhildét, hanem) [[Brahms]]-t
 
 
 

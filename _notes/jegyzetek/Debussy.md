@@ -16,7 +16,7 @@ type:
 	- Menuet
 	- Clair de lune
 	- Passepied
-- 19. század végi ~Franciaország
+- `19.` század végi ~Franciaország
 	- impresszionizmus (filozófia! - Bécs, csak a pillanat létezik, minden más fikció)
 		- az emlékezet gondolkodás, a gondolkodás csalóka
 		- az ember alkalmatlan a valóság befogadására
@@ -40,7 +40,7 @@ type:
 				- első filmzene
 			- [[Gounod]]
 			- [[Vincent d'Indy]] [Venszan Dendi]
-			- [[Paul Dukas]] [Dükász]
+			- [[Paul Dukas]] [Dükász?/Düká]
 				- görög ősök
 			- [[Gabriel Fauré]]
 			- [[César Franck]]
@@ -54,7 +54,7 @@ type:
 				- orgonista
 				- 10 orgonaszimfónia
 - francia zeneművészetet az értelmiség nem tartotta igazán nagyszerűnek
-	- [[Wagner]] töltötte be az ürt
+	- [[Wagner]] töltötte be az űrt
 	- párizsi *Tannhäuser*-bemutató (átírta balettesre)
 
 ## Élete
