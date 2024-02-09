@@ -15,20 +15,22 @@ type:
 > A műalkotás mindenképpen kapcsolódik saját korához, feltesz kérdéseket. A művész felfedező, előörs egy olyan fajta érzékenység miatt, ami a többi emberben nincs meg. (eml. [Loch Gergely PhD](https://apps.lfze.hu/netfolder/PublicNet/Doktori%20dolgozatok/loch_gergely/tezis_hu.pdf); [Vadászi Zoltán - "1/0"](https://www.zoltanvadaszi.com/1-0))
 
 ## Aktuális ajánlott művelődnivaló
-- [Vác, egyházművészeti gyűjtemény](https://vaciegyhazmegye.hu/egyhazmegyei_muzeum.html)
-	- **szeptember 16**., szombat 15:00 (nyitva **november 12-ig**)
-- MOME (Képíró utca) kiállítás
-- design [[szemiotika]] védés
 - 2B kiállítás
 - Mondva csinált dolgok
 - Nagy Ella
-
+- Műcsarnok: [[Francoise Gilot]]
+- [K11](https://www.k11.hu/k11-labor/aktualis-kiallitas/)
+- [Finn filmnapok](https://port.hu/esemeny/fesztival/finn-filmnapok-2024/event-6043030)
+- [Vera Molnar](https://www.ludwigmuseum.hu/program/kiallitasmegnyito-la-recherche-de-vera-molnar-vera-molnar-muvei-es-kortars-reflexiok)
+- 
 ## Ajánlott irodalom
 - [E H Gombrich - A művészet története](https://icedrive.net/s/Xg3iyzDfNxPC2V6vvBTkfYXXbTNz)
 - [Tatai Erzsébet - Művészettörténeti ismeretek](https://github.com/denandras/Zakjegyzet2/blob/66ad933ecfdfd4916f51e869a78642116812ac7e/_notes/_Files/f_m%C5%B1vt%C3%B6ri/Tatai-Erzsebet_M%C5%B1veszettorteneti-Ismeretek.pdf)
 - [Rajkó Andrea, S Nagy Katalin - Művészettörténet I](https://github.com/denandras/Zakjegyzet2/blob/66ad933ecfdfd4916f51e869a78642116812ac7e/_notes/_Files/f_m%C5%B1vt%C3%B6ri/Rajko_Andrea_S._Nagy_Katalin--Muveszettortenet_I._.pdf)
 - [Rajkó Andrea, S Nagy Katalin - Művészettörténet II](https://github.com/denandras/Zakjegyzet2/blob/66ad933ecfdfd4916f51e869a78642116812ac7e/_notes/_Files/f_m%C5%B1vt%C3%B6ri/Rajko_Andrea_S._Nagy_Katalin--Muveszettortenet_II..pdf)
 ## Korszakolás
+### Első félév
+
 - [[őskor]]
 - [[bronzkor, vaskor]]
 - [[hellenisztikus kor]]
@@ -37,6 +39,13 @@ type:
 - [[román kor]]
 - [[gótika]]
 - [reneszánsz](https://notes.andrasdenes.com/reneszansz#A%20művészettörténetben) ([->](reneszánsz))
+
+### Második félév
+
+- [[manierizmus]]
+- barokk
+	- holland aranykor
+- rokokó
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik
 	- műfajok, korstílusok, stílusirányzatok
@@ -101,8 +110,6 @@ type:
 [^2]: Zeitgeist: "a kor szelleme" vagy "az idők szelleme" - arra utal, hogy egy adott időszak vagy korszak jellemzői, hangulata és kulturális vonásai hogyan hatnak az emberek gondolkodására, érzéseire és cselekedeteire (*ChatGPT*)
 [^3]: nativizmus: olyan pszichológiai, bölcseleti irányzatot jelent, amely szerint az embernek vannak vele született eszméi, képességei vagy készségei, amelyekkel születése után azonnal rendelkezik és ami segít neki értelmezni a világot. ([wiki](https://www.wikiwand.com/hu/Nativizmus_(pszichol%C3%B3gia)))
 [^4]: egy olyan filozófiai és teológiai megközelítés, amelynek központi elve az, hogy Isten lényét vagy jellemzőit nem lehet pozitív módon kifejezni vagy megérteni, hanem csak annak tagadásával vagy az elvonással lehet megközelíteni (ChatGPT) - [Pierre Hadot - Apofatizmus és negatív teológia](https://epa.oszk.hu/03500/03594/00003/pdf/EPA03594_2009_02_079-088.pdf)
-
-
 #
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/muveszettortenet&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 

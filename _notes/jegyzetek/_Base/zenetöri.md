@@ -132,10 +132,10 @@ type:
 
 9. [[Charles Ives]]
 
-10. [[Bartók]]
+10. [[Bartók]] (nem vizsgatétel)
 ## Hatodik félév - (KS)
 
-1. 
+1. [[Schönberg]]
 
 
 #

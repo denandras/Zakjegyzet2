@@ -28,13 +28,13 @@ type:
 	- [[Richard Strauss]]t Wagner ellen nevelték, Wagner-hívő lett
 	- [[Josephine Schorr]] az édesanyja
 - zongora, hegedű, elmélet, zeneszerzés
-- hallja a Parsifalt, [[Wagner]]hívő lesz
+- hallja a Parsifalt, [[Wagner]]-hívő lesz
 - *d-moll szimfónia*
 - Meiningenben [[Hans von Bülow]] volt a mester, felfogadta
-	- meg volt sértődve, mert [[Friedrich Wagner]] elszerette a szeretőjét, mégis nagyra tartotta, ezért Straussnak azt mondta, hogy ő "3. Richard"
+	- meg volt sértődve, mert [[Friedrich Wagner]](?) elszerette a szeretőjét, mégis nagyra tartotta, ezért Straussnak azt mondta, hogy ő "3. Richard"
 - olasz utazás
 - megismeri [[Cosima]]t, asszisztens Bayreuthban
-	- Tannhäusert vezényel
+	- *Tannhäuser*t vezényel
 - 3 nagy helyszín
 	- München - vezető karmester
 	- Berlinben 20 évig (opera és filharmónia; Berlin ekkor a világ közepe)
@@ -64,12 +64,12 @@ type:
 		- vásár, felborítja az árusok pultját (egy társadalom gazdasági élete)
 		- beáll papnak, kigúnyolja a vallást (egy társadalom ideológiai élete)
 		- szerelmes lesz (nincs idézőjelbe téve, a legtisztább emberi érzés)
-		- de visszautasítja, ezért bosszút esküszik az egész világ ellen
+		- de visszautasítják, ezért bosszút esküszik az egész világ ellen
 		- kigúnyolja a tudományt
 		- stb., elfogják, felakasztják, de szelleme örökké él
 	- *Also sprach Zarathustra* (egy istenség kipróbálja a világot, nem tetszik neki, visszamegy a sajátjába)
 		- [[Nietzsche]] szövegére
-		- Zarathustra találkozik az undorító tudomány fúgáját
+		- Zarathustra találkozik az undorító tudománnyal, fúga
 			- dodekafón téma, csúnya
 		- elundorodik a világtól
 		- közömbös lesz
@@ -82,7 +82,7 @@ type:
 ## Operái
 - *Salome*
 	- Máté evangéliumában
-	- cs
+	- cselekmény
 		- az opera cselekménye Heródes Antipás palotájában játszódik, ahol Heródes Antipás, Heródiás, Salome és más nemesek tartózkodnak
 		- Heródiás kifejezi elégedetlenségét, amiért férje Salome anyja helyett Salome után vonzódik, és azt szeretné, ha Heródes visszatérne hozzá
 		- Heródes és Heródiás közötti feszültség az opera egyik központi konfliktusa
@@ -100,6 +100,7 @@ type:
 		- ennek köszönhetően ír könnyedén
 		- ez bomlik fel a 20. században
 - *Elektra* (még hisztisebb, mint a Salome)
+	- apja halála miatt vérbosszút esküdő nő
 - *A rózsalovag*
 	- 35 éves hölgy, 18 éves szerető
 	- vidéki bunkó rokon érkezik, aki egy 16 éves lányt akar feleségül venni

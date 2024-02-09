@@ -77,7 +77,7 @@ type:
 		- 6 tétel
 		- 4-5. vokális
 		- [[Nietzsche]] (*Also Sprach Sarathustra*-idézet később megtagadva)
-			- + *Des Knaben Wunderhorn*
+			- `+` *Des Knaben Wunderhorn*
 	- *4. G-dúr*
 		- utolsó tételben szoprán szóló
 	- *5-7.* (1902-1905)

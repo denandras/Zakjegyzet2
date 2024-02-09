@@ -13,7 +13,11 @@ type:
 (MSz)
 
 ## Első félév
-- 
+
+- vizsga: kéthetente röpdolgozat (3p)
+	- előző óra anyaga
+	- akinek összejön 3, nem kell vizsgázni
+- [[Bartók]]
 
 
 #
