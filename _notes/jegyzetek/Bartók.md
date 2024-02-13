@@ -42,7 +42,7 @@ type:
 		- június 27: [[Bartók]] [[Paul Sacher]]nek
 			- szívesen vállalja, a feltételekkel egyetértek
 			- húros és ütőhangszerekre írt zenekar
-				- zongora, cseleszta, gárfa, xilofon, ütő
+				- zongora, cseleszta, hárfa, xilofon, ütő
 				- (már valószínűleg megírta, vagy Sacher tudta, mi van Bartók fiókjában)
 				- (nehéz lesz!)
 					- ritmikailag
@@ -87,7 +87,46 @@ type:
 	- harmadik: könnyek tava, furcsa emlék
 	- negyedik: furcsa scherzo
 	- ötödik
-
+- *Kossuth szimfónia*
+	- fiatalkori mű, egytételes szimfónikusnköltemény
+		- 10 szakasz (kottában, karakterek)
+		1. Kossuth
+		2. Miért vagy oly bánatos, kedves férjem?
+		3. Veszélyben a haza
+		4. Régen minden jobb volt
+		5. De aztán minden rosszra fordult
+		6. Föl, harcra
+		7. Gyertek, szép magyar leventék
+		8. ...
+		9. Mindennek vége!
+		10. Minden újra csendes
+	- Bartók 22 éves
+		- zeneszerzői válság
+		- [[Richard Strauss]] *Zarathustrája* felébresztette benne a motivációt
+			- 9 részre oszlik
+			- a szakaszmottók [[Nietzsche]] egyes fejezetcímei
+			- mű státusza, cikk a Pesti Naplóban
+				- Strauss "a modern német muzsikus"
+				- "alkotó erő nélkül szűkölködő zene"
+				- gondolatok közlésére a zene nem alkalmas
+				- [[Nikisch Artur]] vezényelte
+			- cikk a Magyarország lapban
+				- programzene létjogáról folyik a vita
+				- legmegosztóbb [[Richard Strauss]]
+				- "ultramodern"
+				- a mű torzszülött
+			- Zenelap, [[Kálmán Imre]]
+				- összefoglaló tanulmány (a szimfónia fejlődése a programszimfóniáig)
+				- természet, utálat és az ismeretlen utáni sóvárgás motívuma
+			- ez a darab radikálisan fölszámol 19. századi babonákat
+				- [[Bartók]] is hasonlóan zárja művét, ez ellen "az aestetika szent nevében tiltakoznunk kell"
+			- egyéb hírek
+				- Filharmóniai Társulat adja elő
+				- "kakofónia"
+				- [[Richard Strauss]] forradalmár
+				- "vezérfonal" (útleírás, elemzés, 22 motívum)
+				- 
+	- átírja és megtanulja a *Hősi élet*et
 
 
 #

@@ -43,7 +43,7 @@ type:
 ### Második félév
 
 - [[manierizmus]]
-- barokk
+- [[barokk a művészettörténetben]]
 	- holland aranykor
 - rokokó
 ## Mi a művtöri?

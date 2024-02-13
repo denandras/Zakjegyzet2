@@ -11,6 +11,8 @@ type:
 ---
 # Arnold Schönberg
 
+> [[Mozart]] után a zene kettészakad könnyű- és komolyzenére - [[Schönberg]] tehetséges, tehát rábízza magát az ihletre, mert az föntről jön; a zene fejlődik
+
 <mark>1874-1951</mark>
 - bécsi születésű
 
@@ -52,7 +54,7 @@ type:
 	- kromatika
 
 - zenéje
-	- [[Jens Peter Jacobsen]] szövegeire *"Gurre-dalok"* (opus nélkül)
+	- [[Jens Peter Jacobsen]] szövegeire ***"Gurre-dalok"*** (opus nélkül)
 	- *Verklärte Nacht (Megdicsőült éj)*
 		- történet: [[Richard Dehmel]]
 		- férfi sétál a nővel
@@ -65,22 +67,95 @@ type:
 		- ülésrend
 		- szakít a hagyományos összhangzattal
 			- nem a terc, hanem a kvárt az alapja
-	- ***II. vonósnégyes*** (fisz-moll)
+	- ***II. vonósnégyes*** (fisz-mollban indul)
 		- ének az egyik tételben
 		- botrány
 		- **[[Stefan George]]** [George] költő
 			- *Der siebente Ring*
 			- "érzem más bolygók levegőjét" (elhagyja a tonalitást, majd visszatér)
+		- negyedik tétel nincs semmilyen hangnemben
 	- *Három zongoradarab*
+		- eml. [[Ferrucio Busoni]] - van zongoraversenye kórussal, zongorista
+			- [[Új esztétika vázlata]] könyv
+			- harmad- és hatodhangok ötlete
+			- az igazi alkotó nem szabályok szerint alkot, hanem teljesen újszerűt
+				- [[Beethoven]] Hammerclavier szonáta egyik tétele ilyesmi
+			- zenei próza ([[Wagner]]i gondolat)
+		- végpont, mint [[John Cage]]
+			- ezért szöveges darabokat ír, mert azt meg kell zenésíteni -> Erwartung
 	- *Öt zenekari darab*
-		- *Vorgefühle*
-		- *Vergangenes*
-		- *Farben*
-		- *Peripetie*
-		- *Das obligate Rezitativ*
+		- *Vorgefühle* (előérzetek)
+		- *Vergangenes* (múlt)
+		- *Farben* (színek)
+			- avagy *Nyári reggel egy tó partján*
+			- tükörsima víz, nincs szél, a víz színei
+			- eml. [[Hernolz]](?) - A hangok története
+				- minden zenei hang akkord
+				- kivéve persze a sin
+			- eml. [[Stochkausen]]
+				- teremt egy hangrendszert, aminek az alapja nem az oktáv
+				- oktáv + tercet oszt ²⁵√2 részre
+			- Klangfarbenmelodie (hangszíndallam) - alaphang kitartva, a hangszín adja a dallamot
+				- [[Wagner]] - Nürnbergi mesterdalnokok
+				- részben megvalósul
+				- 
+		- *Peripetie* (fordulat)
+		- *Das obligate Rezitativ* (~zenei próza)
 	- *Erwartung*
+		- monodráma [[Marie Pappenheim]] szövegére
+			- pszichológiai tanulmány
+			- ideges nő az erdőbe megy, ahol találkája van a férfivel
+			- minden zajtól retteg
+			- megbotlik valamiben
+			- lenéz, ott a férfi hullája
+			- leül mellé, beszél tovább
+			- (világos, hogy ő ölte meg és csak visszatér hozzá)
 	- *Hat könnyű zongoradarab*
+		- mindegyikben van valamiféle rendszer
+		- `2.`
+			- tonálisnak mondhatóp
+		- `6.`
+			- rendszer
 	- *Pierrot lunaire*
+		- [[Albertin Zehme]] színésznő
+			- amatőr színésznő, lemond róla, háztartásbeli gazdag feleség
+			- rendelt egy művet [[Schönberg]]től, mert az ifjúság őt szereti
+			- de nem tudott énekelni
+			- írjon egy dalciklust, amiben nem kell énekelni
+			- **Sprachgesang**
+		- 21 tétel
+			- belga költő, [[Albert Giraud]] 50 verséből
+			- kicsit középkorias, rondó formára hajaz
+		- 5 hangszeres
+			- fuvola/piccolo
+			- hegedű/brácsa
+			- klarinét/basszusklarinét
+			- cselló
+			- zongora
+		- siker
+		- op. 21
+		- [[Stravinsky]] hallotta
+			- [[Schönberg]] elvitte őt, kottát adott neki
+		- eml. *A varsói túlélők* kantáta (notáció jellege hasonló)
+		- bem. 1912
+		- 1913: a botrányok éve
+			- botrány egy [[Alban Berg]] műnél
+			- Tavaszi áldozat
 	- dodekafónia
+		- a tonalitás erőtere kiküszöbölhetetlen, mert az alaphang felhangjai miatt tartalmazni fogja a többit, ezért csak érdessé tehető minden
+		- *Öt zongoradarab*
+		- *Szerenád*
+		- op. 25 *Szvit* első teljesen dodekafón darab
+		- 
+		- #később kép
+		- *Egy varsói menekült* kantáta
+			- kései mű
+			- 2. vh után, Amerikában élt
+			- varsói gettólázadás túlélőjének története
+				- féligazság, összekeveredik Varsó és Auschwitz
+				- nem ez a lényeg
+- vita: [[Adorno]], [[Stravinsky]], [[Schönberg]]
+
+eml. [[Kinberger 2]](?) hangolás
 #
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/schonberg&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
