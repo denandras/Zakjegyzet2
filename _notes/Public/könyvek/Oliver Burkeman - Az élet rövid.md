@@ -87,7 +87,8 @@ status:
 - [ ] [[Alexander Herzen]] filozófus
 - [ ] [[Sam Harris]] podcastja
 - [ ] [[Robert Pirsing - A zen és a motorkerékpár-ápolás művészete]]
-- [ ] [[Thich Nhat Hanh - The Miracle of Mindfulness]]
+- [ ] [[Thich Nhat Hanh]]
+	- [ ] [[Thich Nhat Hanh - The Miracle of Mindfulness]]
 - [ ] [[Jay Jennifer Matthews - Radically Condensed Instructions for Being Just as You Are]]
 - [ ] [[Walter Kerr - The Decline of Pleasure]]
 - [ ] [[Max Weber - A protestáns etika és a kapitalizmus szelleme]]
