@@ -44,7 +44,7 @@ type:
 
 - [[manierizmus]]
 - [[barokk a művészettörténetben]]
-	- holland aranykor
+	- [[holland aranykor]]
 - rokokó
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik

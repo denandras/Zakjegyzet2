@@ -57,7 +57,7 @@ status: reading
 	- a tudásmenedzsment minősége mindegy, ha hiányzik a tudás
 - a verseny általánosít és mérhetővé tesz
 - gyakorold azt, ami nem megy
-	- a hobbi azért marad sokszor hobbi, mert nem fejlesztjük tovább a skilleket, hanem a meglévőket használjuk
+	- a hobbi azért marad sokszor hobbi, mert nem fejlesztjük tovább a képességeket, hanem a meglévőket használjuk
 	- addig, amíg a koncentrációd kitart
 		- a koncentráció gyakorlása másik dolog
 	- az expert folyamatosan elemzi önmagát és hogy mit csinálhatott volna jobban
@@ -66,7 +66,7 @@ status: reading
 - mentorok
 	- fontos szerepet játszanak a profik életében
 	- először dicsérő, lelkesítő tanárra van szükség
-		- aztán olyanokra, amikké válni akarsz, nemzetközi szintű profikra
+		- aztán olyanokra, amilyenné válni akarsz, nemzetközi szintű profikra
 		- valamint konstruktív, építő kritikára, ami néha fájdalmas lehet
 - ha profi lettél
 	- ideális helyzetben a mentorod segített függetlenedni magától
@@ -76,11 +76,11 @@ status: reading
 		- próbáld meg lemásolni
 		- vesd össze, majd elemezd, hogy hol hibáztál
 
-> 	Experts are always made, not born.
+> idézet:: Experts are always made, not born.
 
-> 	Living in a cave doesn't make you a geologist.
+> idézet:: Living in a cave doesn't make you a geologist.
 
-> 	If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor Auer, violin)
+> idézet:: If you practice with your fingers, no amount is enough. If you practice with your head, two hours is plenty. (Professor [[Leopold Auer]], violin)
 
 ## Managing Oneself
 <a id="Managing Oneself"></a>
@@ -104,7 +104,7 @@ status: reading
 
 ### Munkamódszer
 <a id="Munkamódszer"></a>
-- a mit mellett a hogyan is ugyanolyan fontos
+- a *mit* mellett a *hogyan* is ugyanolyan fontos
 	- sokan nem ismerik a legjobb munkamódszerüket
 - olvasó vagy, vagy hallgató?
 	- egyszerű kérdés, mégsem tudják sokan, hogy ez a két típus létezik, főleg nem, hogy melyikbe tartoznak
@@ -127,7 +127,7 @@ status: reading
 	- ha a hatékony munkamódszer nem egyeztethető össze egy munka értékrendjével, nem érdemes egy életet rááldozni
 - hova tartozom?
 	- kevesen tudják korán a választ, pl. zenészek, séfek
-	- ezzel szemben sokaknak problémát jelent az elhelyezkedés
+	- sokaknak problémát jelent az elhelyezkedés
 	- érdemes tudni a húszas évekre, hogy hogyan dolgozol jól (és hogy hogyan nem, és nemet tudj mondani az ilyen lehetőségekre)
 		- egy állásnál ismerni a saját feltételeidet
 - a sikeres karrier nincs megtervezve
@@ -136,7 +136,7 @@ status: reading
 - változás a '60-as években
 	- pályaválasztás
 	- mit követel a szituáció?
-	- az erősségeim adottak, hogy tudok a legjobb módon hozzájárulni a közjóhoz?
+	- az erősségeim adottak; hogy tudok a legjobb módon hozzájárulni a közjóhoz?
 	- milyen eredmények szükségesek a változáshoz?
 - fontos az időkeret, ez 18 hónapnál ideálisan belátható
 - nehézség
@@ -169,9 +169,9 @@ status: reading
 	- már az emberek élnek több ideig, mint egy szervezet, és nem maradnak ott, ahova először felvették őket
 	- mindenkinek a saját főnökének kell lennie
 
-> 	He believes that ideas move mountains. But bulldozers move mountains; ideas show where the bulldozers should go work.
+> idézet:: He believes that ideas move mountains. But bulldozers move mountains; ideas show where the bulldozers should go work.
 
-> 	Organizations are no longer built on force but on trust. The existence of trust between people does not necessarily mean that they like one another.
+> idézet:: Organizations are no longer built on force but on trust. The existence of trust between people does not necessarily mean that they like one another.
 
 ## Are You a High Potential?
 <a id="Are You a High Potential?"></a>
@@ -200,15 +200,28 @@ status: reading
 - áldozatokat hoznak, mert szeretnének a jón és a nagyon jón túl kimagasló eredményeket
 - nem csak gyorsan tanulnak, hanem könnyen lesznek kreatív ötleteik, amiket lefordítanak a szakmai nyelvre, produktív gyakorlatba
 - az új és izgalmas dolgok nem állnak a döntések útjába, többet számít a kihívás a kockázatnál
-	- ahhoz, hogy ez ne katasztrofális hibákhoz vezessen, kell egy érzék a szituációk áthátásához, a lehetőségek kiszagolásához és jó időzítési képesség
-
+	- ahhoz, hogy ez ne katasztrofális hibákhoz vezessen, kell egy érzék a szituációk áthátásához, a lehetőségek kiszaglásához és jó időzítési képesség
 - önanalízis
 - érdemes-e elmondani az alkalmazottnak, hogy "nagy potenciál"
 	- igen, mert sokszor nincsenek tisztában saját képességeikkel
 	- mostanra 85% fölé emelkedett ez az arány (hogy elmondják nekik)
 	- transzparencia, ami nyomást helyez rájuk
-	- 
+- megítélés
+	- tudja, hogy lehetőség rejlik benne, ezért mások irigységét is latba veszi
+- cégként
+	- tiszta szándékok az alkalmazottak képességeit illetően
+	- tehetséget következetesen előtérbe hozni
+	- kreatív hozzáállás a jövőhöz
+- nem csak felkerülni lehet hasonló listákra
 
+
+
+
+
+## Making Yourself Indispensable
+[[John H Zenger]], [[Joseph R Folkmann]], [[Scott K Edinger]]
+
+- 
 
 #
 
