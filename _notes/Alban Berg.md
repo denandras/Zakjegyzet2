@@ -4,8 +4,10 @@ feed: show
 created: 2024-02-22 14:04
 date: 2024-02-22 14:04
 permalink: alban-berg
-subject: zenetöri
+subject:
+  - zenetöri
 type:
+  - személy
 ---
 
 - Alban Maria Johannes Berg
@@ -15,15 +17,15 @@ type:
 - asztmás
 - hozzákerül [[Karl Emil Franzos]] *Wozzeck*-darabja
 - nevelőnő tanítja
-	- biológiában hiányosan tanított, de egyébként jól
+	- biológiából hiányosan, de egyébként jól
 	- szeretők voltak
-	- lánya született, [[Albine Scheuchl]]
+	- terhes lett, később lányuk született, [[Albine Scheuchl]]
 	- öngyilkos akart lenni, megbukott az érettségin
 		- testvérek segítenek rajta
 		- elmentek [[Schönberg]]hez, elvitték Berg dalait
 		- 1904-1908-ig tanult nála
 - feleség, [[Helene Nachowski]]
-	- édesanyja, [[Anna Nachowski]] (Schönbrunn, kertész)
+	- kinek édesanyja [[Anna Nachowski]] (Schönbrunn, kertész)
 		- császárnak [[Ferenc József]]nek megtetszett a kedves kertészlány
 		- a férfi szót se szólt, kaptak sok pénzt
 - 1913 - botrány

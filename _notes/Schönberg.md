@@ -46,7 +46,7 @@ type:
 - [[Brahms]] és [[Wagner]] hatása
 	- "végtelen dallam"
 - festett is
-- Gerstl lakott felettük, Mathilde megszökött vele
+- [[Richard Gerstl]] lakott felettük, Mathilde megszökött vele
 	- [[Webern]] utánament, hogy tessék visszamenni
 	- a festő öngyilkos lett
 - [[Wassily Kandinsky]]
