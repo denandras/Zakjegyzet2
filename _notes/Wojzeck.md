@@ -1,7 +1,18 @@
-## Wojzeck 
+---
+title: Wojzeck
+feed: show
+created: 2024-02-23 14:29
+date: 2024-02-23 16:00
+permalink: wojzeck
+subject: zenetöri
+type: 
+---
 
 - <mark>1780-</mark>
 - Lipcse, korán árva lett
+- zsoldos katonának ált, -> Svédország
+	- két nő, otthagyja őket
+- vissza Lipcsébe, hölggyel összejön (egy sebész özvegye)
 - 1821 - felesége gyilkossága
 	- nem teljesen ép elméjű?
 	- nem normális, de a tette súlyát ismerte -> kivégezték
@@ -18,21 +29,19 @@
 				- tanulmány *A márnák idegzetéről*
 				- meghívják egyetemi tanárnak Zürichbe
 				- fertőzött víz, meghal
-			- *Wojzeck történet* maradványai megmaradtak
+			- *Wojzeck-történet* maradványai megmaradtak
 				- kéziratról lekopott a tinta
 				- alig van a történetből valami
 			- elkerül [[Karl Emil Franzos]]hoz
 				- aki nem ismerte Wojzeck-et
-				- Wozzeck lett
+				- Wozzeck lett (gót betűs folyóírás)
 				- összekavarodott kicsit a történet
 				- sztori: megöli a szeretőjét, aki megcsalta, bemegy egy kocsmába, lelepleződik, visszamegy a tóhoz, bedobja a kést, feljön a Hold, megcsillan a kés bemegy, tovább dobja a kést, feltűnik két alak, *+ megfullad* ([[Karl Emil Franzos]])
 				- félreértett drámatöredék, zseniális opera született belőle
 	- 1824-ben kivégezték, Lipcse egyik nagy tere, nyakazás
 		- szenzáció, nem volt szokás egy ideje
-- túl a francia forradalmon
+- a francia forradalom után
 	- kottaírás: demokratikusabbá vált, pl. túlpontozás
 	- egy bűnös beszámítható-e?
-- zsoldos katonának ált, -> Svédország
-	- két nő, otthagyja őket
-- vissza Lipcsébe, ismerős hölgy (sebész özvegye)
-	- gyilkosság
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/wojzeck&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
