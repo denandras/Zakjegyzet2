@@ -9,6 +9,7 @@ subject:
 type:
   - személy
 ---
+![](https://www.mphil.de/fileadmin/Redaktion-mphil/Personen_diverse/Komponisten/Berg_Alban.jpg)
 
 - Alban Maria Johannes Berg
 - gazdag, belvárosi bécsi család
@@ -26,8 +27,8 @@ type:
 		- 1904-1908-ig tanult nála
 - feleség, [[Helene Nachowski]]
 	- kinek édesanyja [[Anna Nachowski]] (Schönbrunn, kertész)
-		- császárnak [[Ferenc József]]nek megtetszett a kedves kertészlány
-		- a férfi szót se szólt, kaptak sok pénzt
+		- császárnak, [[Ferenc József]]nek megtetszett a kedves kertészlány
+		- a férj szót se szólt, kaptak sok pénzt
 - 1913 - botrány
 	- zenekari dalsorozat
 - darabok

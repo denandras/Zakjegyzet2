@@ -19,7 +19,7 @@ type:
 - jellemzés
 	- a modern zene atyja
 	- nem tűr el bírálatot
-	- a kőzönség sem érdekli
+	- a közönség sem érdekli
 	- 4 gyerek
 	- félt a 13-as számtól
 	- híres volt a sok botrányos koncertjéről
@@ -31,7 +31,7 @@ type:
 	- majd áttér a zsidó hitre
 - 1915: katonaság, önkéntes
 	- mégsem akar katona lenni, szolgálja a hazáját a zenéjével -> pozsonyi bevándorlók a szülei
-- kapcolatai
+- kapcsolatai
 	- vonósnégyes barátokkal (nagyméretű brácsa citerahúrokkal)
 	- **Polyhymnia** (egylet) - A. von [[Zemlinsky]]
 		- húgát feleségül veszi
@@ -57,15 +57,15 @@ type:
 	- [[Jens Peter Jacobsen]] szövegeire ***"Gurre-dalok"*** (opus nélkül)
 	- *Verklärte Nacht (Megdicsőült éj)*
 		- történet: [[Richard Dehmel]]
-		- férfi sétál a nővel
-		- gyermekem lesz, de nem tőled, hanem korábbról
+			- férfi sétál a nővel
+			- gyermekem lesz, de nem tőled, hanem korábbról
 	- *Pelléas et Mélisande*
 	- *"I." vonósnégyes*
 	- *Kamaraszimfónia 15 hangszerre*
 		- oximoron a címben
 		- vonósnégyes + bőgő + 10 fúvós
 		- ülésrend
-		- szakít a hagyományos összhangzattal
+		- szakít a hagyományos összhangzattannal
 			- nem a terc, hanem a kvárt az alapja
 	- ***II. vonósnégyes*** (fisz-mollban indul)
 		- ének az egyik tételben
@@ -73,13 +73,13 @@ type:
 		- **[[Stefan George]]** [George] költő
 			- *Der siebente Ring*
 			- "érzem más bolygók levegőjét" (elhagyja a tonalitást, majd visszatér)
-		- negyedik tétel nincs semmilyen hangnemben
+		- negyedik tételnek nincs hangneme
 	- *Három zongoradarab*
 		- eml. [[Ferrucio Busoni]] - van zongoraversenye kórussal, zongorista
 			- [[Új esztétika vázlata]] könyv
 			- harmad- és hatodhangok ötlete
-			- az igazi alkotó nem szabályok szerint alkot, hanem teljesen újszerűt
-				- [[Beethoven]] Hammerclavier szonáta egyik tétele ilyesmi
+			- "az igazi alkotó nem szabályok szerint alkot, hanem teljesen újszerűt"
+				- [[Beethoven]] - *Hammerclavier szonáta* egyik tétele ilyesmi
 			- zenei próza ([[Wagner]]i gondolat)
 		- végpont, mint [[John Cage]]
 			- ezért szöveges darabokat ír, mert azt meg kell zenésíteni -> Erwartung
@@ -113,16 +113,16 @@ type:
 	- *Hat könnyű zongoradarab*
 		- mindegyikben van valamiféle rendszer
 		- `2.`
-			- tonálisnak mondhatóp
+			- tonálisnak mondható
 		- `6.`
 			- rendszer
 	- *Pierrot lunaire*
 		- [[Albertin Zehme]] színésznő
-			- amatőr színésznő, lemond róla, háztartásbeli gazdag feleség
+			- amatőr színésznő, lemond róla -> háztartásbeli gazdag feleség
 			- rendelt egy művet [[Schönberg]]től, mert az ifjúság őt szereti
 			- de nem tudott énekelni
-			- írjon egy dalciklust, amiben nem kell énekelni
-			- **sprechgesang**
+			- "írjon egy dalciklust, amiben nem kell énekelni!"
+			- **Sprechgesang**
 		- 21 tétel
 			- belga költő, [[Albert Giraud]] 50 verséből
 			- kicsit középkorias, rondó formára hajaz
@@ -136,7 +136,7 @@ type:
 		- op. 21
 		- [[Stravinsky]] hallotta
 			- [[Schönberg]] elvitte őt, kottát adott neki
-		- eml. *A varsói túlélők* kantáta (notáció jellege hasonló)
+		- eml. *Egy varsói menekült* kantáta (notáció jellege hasonló)
 		- bem. 1912
 		- 1913: a botrányok éve
 			- botrány egy [[Alban Berg]] műnél
