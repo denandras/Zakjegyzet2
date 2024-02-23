@@ -122,7 +122,7 @@ type:
 			- rendelt egy művet [[Schönberg]]től, mert az ifjúság őt szereti
 			- de nem tudott énekelni
 			- írjon egy dalciklust, amiben nem kell énekelni
-			- **Sprachgesang**
+			- **sprechgesang**
 		- 21 tétel
 			- belga költő, [[Albert Giraud]] 50 verséből
 			- kicsit középkorias, rondó formára hajaz
