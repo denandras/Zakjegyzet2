@@ -1,0 +1,61 @@
+## Shostakovich 
+- Dmitrij Dmitrijevics Shostakovich
+- <mark>1906-1975</mark>
+	- Szentpétervár
+- 1919 - konzervatórium, [[Glazunov]]nál
+- 1926 - *I. szimfónia*
+- *II. és III. szimfónia*
+	- érdekes, merész, rossz programzenék
+- 1930 - *Orr* című opera ([[Gogol]])
+	- az első pillanatban "pofáncsapja" a közönséget ütőhangszerrel
+	- borotválja az egyik alak a másikat
+	- üldözés - ütőhangszerek
+	- botrányt okozó "ária" - Kovaljov ébredése (orrmentes)
+	- rohan az utcán, tipikus [[Shostakovich]]
+	- átkötőzenéje
+		- zenekari fúga, 15 hangszer
+		- csúcspont, lecsorog glissandoszerűen
+	- 20-as évek, a hangrendszer kibővítése
+	- fiatalkori mű
+- filmhez felhasznált zene
+	- Jazz Suite
+- *Leningrád* szimfónia
+- életműve felemás
+- elképesztő dolgokat tett, ameddig tönkre nem tették
+- *V. szimfónia*
+	- [[Mahler]] hatása
+- szocializmus
+	- 70-es troli, [[Sztálin]] 70. szülinapja alkalmából
+	- 1917 október 25
+	- 1918-21 - hadikommunizmus, éhínség
+	- 1922 NEP (új gazdasági politika)
+	- Lenin agyvérzést kap
+	- **1923 - RAPM (Orosz Proletár Zenészek Szővetsége)**
+		- az operát és nyugati zeneszerzőket ki kell dobni
+		- kivéve [[Beethoven]] és [[Muszorgszkij]]
+		- munkásdalok
+	- **ASZM - (Kortárs Zene Szövetsége)**
+	- 1924 - Lenin halála
+	- 1927 - Sztálin egyeduralma
+		- életérzés: "nem élünk rosszabbul, mint a nyugatiak" - szörnyen élünk, de legalább belekezdtünk valamibe, amibe mások még nem
+		- művészeteket békén hagyták
+		- ('29-ben [[Bartók]]ot is meghívták a Szovjetúnióba, ellentétes dolgokat tapasztalt, de nem vihette ki a Rubelt)
+		- szerette a zenét, [[Mozart]]ot különösen
+	- **1932 - Egységes szövetség**
+	- **1936 - Zűrzavar a Zenében**, cikk a Pravdában
+		- [[Shostakovich]]-opera ellen
+	- **1948 - Andrej Zsdanov felszólalása a zenészek kongresszusán**
+		- akik rossz zenét írnak
+		- [[Prokofiev]]
+			- visszaédesgették, elvették az útlevelét
+			- hiába jópofizott
+		- [[Kabaleszkij]]
+	- 1953 - Sztálin halála (és [[Prokofiev]]é ugyanazon a napon)
+	- 1956 - XX. Kongresszus
+	- 1964 - [[Brezsnyev]]
+- [[Hacsaturján]]
+	- [[Bartók]] szerint ő volt talán a legelviselhetőbb szovjet zeneszerző
+- [[Hrennyikov]]
+- eml. *[[Solomon Volkov]] - Testamentum*
+	- interjúk (és adalékok) [[Shostakovich]]csal
+	- 
