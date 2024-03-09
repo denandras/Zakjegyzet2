@@ -10,7 +10,7 @@ type:
   - személy
 ---
 # Bartók Béla (MSz-KS)
-- 1904-18-ig gyűjtött, amikor már útlevélre lett volna szükség erdélyi gyűjtésekhez
+- 1904-18-ig gyűjtött, amíg még nem volt szükség útlevélre erdélyi gyűjtésekhez
 	- + 1936-ban Törökországban is gyűjtött
 	- szlovák, román, szerb, német, arab
 ## Művek
@@ -25,7 +25,7 @@ type:
 			- az ő jubileumukra rendelte meg
 			- 18-19. század elejéig játszanak (mai "régi zene")
 		- felkér zeneszerzőket éveken keresztül
-			- neoklasszicizmus a menő (1. vh után mindenkinek elege lett a 19. századból, rosszul lett konstruálva a romantikabeli rendszer)
+			- neoklasszicizmus a menő (1. vh után mindenkinek elege lett a 19. századból, rosszul lett konstruálva a romantika-beli rendszer)
 			- honnan van pénze? feleségül vesz egy gazdag hölgyet [[Alicia Roche]]
 			- (*Sacher Stiftung* - 20. századi zene gyűjtőhelye)
 				- [[Stravinsky]]
@@ -40,7 +40,7 @@ type:
 			- "technikailag ne legyen túlságosan nehéz, szeretném átvenni vendégkoncertjeink műsorára is"
 			- (hallotta az egyik vonósnégyest, nagyon tetszett neki, de "nehézségei tetemesek")
 		- június 27: [[Bartók]] [[Paul Sacher]]nek
-			- szívesen vállalja, a feltételekkel egyetértek
+			- szívesen vállalja, a feltételekkel egyetért
 			- húros és ütőhangszerekre írt zenekar
 				- zongora, cseleszta, hárfa, xilofon, ütő
 				- (már valószínűleg megírta, vagy Sacher tudta, mi van Bartók fiókjában)
@@ -56,9 +56,9 @@ type:
 		- augusztus 21: titkár [[Bartók]]nak
 			- mi lesz a cím?
 		- augusztus 31: [[Bartók]] válasza
-			- Musique pour instrumente a cour, batterie et celeste(?) ~ zene húros hangszerekre
+			- Musique pour instrumente a cour, batterie et celeste(?) ~ zene húros hangszerekre, ütőkre és cselesztára
 				- valamit kínkeservesen kinyögött
-			- a mű csaknem kész, megvan 66 oldal, hiányzik kb. 4
+			- "a mű csaknem kész, megvan 66 oldal, hiányzik kb. 4"
 			- megoldható az ütő szólam, "nem nehéz a xilofon, egy amatőr is el tudná játszani"
 			- 24 perc, kettéosztott zenekar, continuo-csoport középen (concerto grosso elrendezés)
 			- "vannak-e pedálüstdobok? Ha nincsenek, az bizony rossz lenne" - ha nincs, a glissandókat át kellene tenni (egy harmadik) zongoristára (amihez csak egy plusz ember kell, zongora nem)
@@ -105,18 +105,26 @@ type:
 		- [[Richard Strauss]] *Zarathustrája* felébresztette benne a motivációt
 	- átírja és megtanulja a *Hősi élet*et
 	- nem az összes kortársat ismeri, csak a progresszív érdekli, mind [[Schönberg]]
-		- nem minőségi, hanem személyiségi kérdés
-	- 
+		- nem minőségi, hanem személyiségi kérdés, ettől [[Bartók]] nem lesz kevesebb
+	- itthon [[Richard Strauss]]t nem igazán szerették
+		- [[Bartók]] nem akart igazodni az átlaghoz
+	- sokáig doktriner szerűen elutasítja, ha valaki kizárólag verbunkos intonációval tud megjeleníteni egyes témákat (mint a darab *Mindennek vége* szakaszában, valamint később a *Hegedűverseny*ben)
+	- negatív befejezés (letargikus, moll)
+		- *Zarathustra*-szerű
+	- *Csodálatos mandarin*ban is vannak felhasznált zenei anyagok
+		- befejezésre is hasonlít
+		- visszatért fiatalkori művéhez
+		- zenedramaturgiai érzéke kitartott
 - *Zarathustra*
 	- 9 részre oszlik
 	- a szakaszmottók [[Nietzsche]] egyes fejezetcímei
 	- [[Kálmán Imre]] *Zarathustra*-elemzése
 	- mű státusza, cikk a Budapesti Naplóban
-		- frankfurti ősbemutató
+		- **frankfurti ősbemutató**
+		- [[Nikisch Artur]] vezényelte
 		- Strauss "a modern német muzsikus" - de már az sem, mert az is maradiságot jelentene
 		- "alkotó erő nélkül szűkölködő zene"
 		- gondolatok közlésére a zene nem alkalmas
-		- [[Nikisch Artur]] vezényelte
 	- cikk a Magyarország lapban
 		- programzene létjogáról folyik a vita
 		- legmegosztóbb [[Richard Strauss]]
@@ -126,20 +134,56 @@ type:
 		- összefoglaló tanulmány (a szimfónia fejlődése a programszimfóniáig)
 		- természet, utálat és az ismeretlen utáni sóvárgás motívuma
 	- ez a darab radikálisan fölszámol 19. századi babonákat
-		- [[Bartók]] is hasonlóan zárja művét, ez ellen "az aestetika szent nevében tiltakoznunk kell"
+		- [[Bartók]] is hasonlóan zárja művét
+		- ez ellen "az aestetika szent nevében tiltakoznunk kell"
 	- egyéb hírek
 		- Filharmóniai Társulat adja elő
 		- "kakofónia"
 		- [[Richard Strauss]] forradalmár
 		- "vezérfonal" (útleírás, elemzés, 22 motívum)
-		- szemlélet: ahogy a zene eszközeiben gazdagodik, úgy fejlődik a közönség füle -> de régi zenét kezdenek játszani
+		- szemlélet: ahogy a zene eszközeiben gazdagodik, úgy fejlődik a közönség füle -><- de régi zenét kezdenek játszani
 		- ha erről írunk zenét, miért nem bármi másról?
 		- [[Bartók]] tisztában volt azzal, hogy szembemegy az átlag véleménnyel
 		- [[Franz Strauss]] [[Nietzsche]]-értelmezése sokszor szembemegy azzal, amit [[Nietzsche]] állít, ezt [[Merkler Andor]] jól látja
+	- Pesti Napló ([[Bartók]] mellett kiálló zenekritika fontos fóruma lesz)
+		- legújabb német zenei irányzat legjelentősebb műve
+		- "szelíd"
+		- a momentumok csak formális kellékek
+		- a probléma, miszerint nem azonos [[Nietzsche]]vel, nem is létezik
+		- banális
+		- sablonos zenei eszközök
+		- úgy tesz, mintha programzenét írna
+		- illúzióhiányosság eltakarása
+		- műve program nélkül jobban hat, mint programmal
+	- Ady
+		- müncheni iskolamesternek hat [[Richard Strauss]] színpadi megjelenése
+		- nem tudja eldönteni, hogy művész vagy bűvész
+- [[Beethoven]] - *No. 14. Vonósnégyes*
+	- 14 évesen hallotta először (Pozsonyban) a kvártettet, rajongott érte
+	- szerette volna megismerni, a pénz szűken volt, a négykezes átirat olcsóbb volt, ezért azt kapta meg egy év múlva
+	- meghatódik a témától
+		- hangközlépések, amik [[Wagner]] *Trisztán és Izoldájára* utalnak
+		- érzelmi felindultságában (Geier bejött, aztán ki is ment) vonósnégyest ír (ami kifejezetten hasonlít [[Beethoven]]ére)
+	- *Zene húros hangszerekre...* ebből indult ki, hasonló jelleg
+		- espressivo
+		- sűrű polifónia
+		- hömpölyög, nincsenek benne klasdzikus cadenza/zárlatszerű nyugvópontok
+	- eml. [[Vizinger Zsolt]] - [[Beethoven]] kései vonósnégyeseinek fogadtatása Pest-Budán a 19. században
+		- miért nem a másik kvártetteket hallotta [[Bartók]]?
+			- (koncerten! -> már nem házi muzsika)
+			- mert ezt játszották a leggyakrabban a kései kvártettekből
+			- ez volt a népszerű, ez jött szembe
 
-Beethoven op 131
 
-Slavo Zizek
+- eml. [[Modell és inspiráció]] (könyv)
+
+- eml. [[Szabolcsi Bence Művei]], [[Tóth Aladár]]
+
+- Beethoven op 131
+
+- Slavo Zizek
+
+- eml. op. 2 rapszódia (hasonlóság [[Liszt]]tel)
 
 
 

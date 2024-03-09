@@ -45,7 +45,9 @@ type:
 - [[manierizmus]]
 - [[barokk a művészettörténetben]]
 	- [[holland aranykor]]
-- rokokó
+- [[rokokó]]
+- [[klasszicizmus]]
+- 
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik
 	- műfajok, korstílusok, stílusirányzatok

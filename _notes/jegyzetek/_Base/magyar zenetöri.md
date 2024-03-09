@@ -18,6 +18,7 @@ type:
 	- előző óra anyaga
 	- akinek összejön 3, nem kell vizsgázni
 - [[Bartók]]
+- 
 
 
 #

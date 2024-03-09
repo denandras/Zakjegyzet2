@@ -10,6 +10,7 @@ type:
   - személy
 ---
 # Arnold Schönberg
+[[Schönberg.jpg]]
 
 > [[Mozart]] után a zene kettészakad könnyű- és komolyzenére - [[Schönberg]] tehetséges, tehát rábízza magát az ihletre, mert az föntről jön; a zene fejlődik
 
@@ -40,13 +41,13 @@ type:
 - csehszlovák útlevél a pozsonyi származás miatt
 - '33-ban Berlinben van, menekül (USA)
 	- állampolgárság, angolul tanít
-- [[Dr Eugenie Schwartzwald]] iskolájában tanít
+- [[Dr Eugenie Schwarzwald]] iskolájában tanít
 	- szegény gyerekeknek megnyitja a tanulás útját
 	- növendéke [[Alban Berg]] és [[Webern]]
 - [[Brahms]] és [[Wagner]] hatása
 	- "végtelen dallam"
 - festett is
-- [[Richard Gerstl]] lakott felettük, Mathilde megszökött vele
+- [[Richard Gerstl]] festő lakott felettük, Mathilde megszökött vele
 	- [[Webern]] utánament, hogy tessék visszamenni
 	- a festő öngyilkos lett
 - [[Wassily Kandinsky]]
@@ -109,7 +110,7 @@ type:
 			- megbotlik valamiben
 			- lenéz, ott a férfi hullája
 			- leül mellé, beszél tovább
-			- (világos, hogy ő ölte meg és csak visszatér hozzá)
+			- (világos, hogy ő ölte meg és csak visszatér hozzá(?))
 	- *Hat könnyű zongoradarab*
 		- mindegyikben van valamiféle rendszer
 		- `2.`
@@ -145,7 +146,7 @@ type:
 		- a tonalitás erőtere kiküszöbölhetetlen, mert az alaphang felhangjai miatt tartalmazni fogja a többit, ezért csak érdessé tehető minden
 		- *Öt zongoradarab*
 		- *Szerenád*
-		- op. 25 *Szvit* első teljesen dodekafón darab
+		- op. 25 *Zongoraszvit* első teljesen dodekafón darab
 		- 
 		- #később kép
 		- *Egy varsói menekült* kantáta
