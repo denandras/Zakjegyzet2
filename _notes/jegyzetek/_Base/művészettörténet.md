@@ -47,7 +47,7 @@ type:
 	- [[holland aranykor]]
 - [[rokokó]]
 - [[klasszicizmus]]
-- 
+- [[romantika]]
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik
 	- műfajok, korstílusok, stílusirányzatok
