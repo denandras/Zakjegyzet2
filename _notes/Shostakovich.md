@@ -1,4 +1,13 @@
-## Shostakovich 
+---
+title: Shostakovich
+feed: show
+created: 2024-03-07 15:28
+date: 2024-03-14 14:03
+permalink: shostakovich
+subject: zenetöri
+type: 
+---
+
 - Dmitrij Dmitrijevics Shostakovich
 - <mark>1906-1975</mark>
 	- Szentpétervár
@@ -58,4 +67,124 @@
 - [[Hrennyikov]]
 - eml. *[[Solomon Volkov]] - Testamentum*
 	- interjúk (és adalékok) [[Shostakovich]]csal
-	- 
+- *A mcenszki járás Lady Macbethje* - nálunk *Kisvárosi Lady Macbeth* (mi különbséget teszünk az eredeti és az átdolgozott művek közt)
+	- [[Nyikolaj Szemjonovics Leszkov]] író
+		- nem egy nagy név
+		- [[Dosztojevszkij]] lapjában jelenik meg
+	- egy nő gyilkolászik össze-vissza (3 gyilkosság, 1 gyilkosság)
+		- megpróbál környezetéből valahogy kiemelkedni
+	- egyik szereplő szörnyebb, mint a másik
+	- kulák: gazdag paraszt - elvették birtokaikat, száműzték őket
+		- rokonszenvet keltett az emberekben
+		- jellemzően az anyjukat is eladták a pénzért, kapzsik voltak és kegyetlenek
+	- szereplők
+		- Borisz
+			- vénember, rosszindulatú, szörnyű arc
+			- kulák, csak a gazdagságnak él, 5 éve vette el Katyerinát
+		- Zinovij
+			- Borisz fia
+		- Katyerina
+		- Szergej
+			- falu bikája
+			- felfogadják a munkások közé, Katyerina szeretője, megcsalója
+		- Akszinyina
+			- pletykás asszony
+		- Szonyetka
+			- vele csalja meg Szergej Katyerinát
+		- részeges jöttment paraszt, Gergor pópa, rendőrök, stb.
+	- nincs nyitány
+	- a zene nem attraktív, a drámát szolgálja
+	- földhöz ragadt, realista
+	- cselekmény
+		- Katyerinának semmi dolga, gyerek nincs, gazdag feleség
+			- tipikus orosz dal
+		- bejön az após (fagott)
+			- Katyerinát szidja, amiért nincs gyerekük
+			- hibáztatja, veszekednek azon, hogy kinek a hibája ez
+			- felette őrködik mindenki, nehogy kiszökjön
+			- (készítsd a patkánymérget! - el, "te vagy a patkány, neked kéne a méreg)
+		- az öreg elújságolja fiának a gát elszakadását a birtokon
+			- fia maga megy oda
+			- apa: a gazda elmegy, ti munkások meg röhögtök?
+			- "Ó jaj!" - parodizáló kísérettel dalolnak, hogy mily keserű a sorsuk, ha a gazda elmegy
+		- bemutatja az új munkást, Szergejt
+		- a munkások elszabadulnak
+			- hajkurásznak egy pletykás nőt, letépik a ruháját
+			- Katyerina számonkéri őket, hogy miért alázzák meg
+			- a nők annyit érnek, mint a férfiak, ellöki Szergejt
+			- Szergej azt mondja, na jó, akkor birkózzunk, leteperi Katyerinát, ráfekszik
+			- bejön az após
+			- Katyerina: megbotlottam, Szergej fel akart segíteni, ő is elesett
+		- esteledik, Katyerina egyedül van
+			- Szergej az, mit akarsz?
+			- "könyvet"
+			- nincs könyvem, olvasni se tudok
+			- nem kell a szöveg, a zene mindent kifejez
+			- "jó, Szergej, mostmár megy. Megyek (marad)"
+		- após kijön (az emeleten)
+			- énekel a múltjáról
+			- mit csinálna ezzel a nővel, ha fiatalabb lenne 10 évvel
+			- elkezdi agyonverni Szergejt, a pincébe zárják
+			- Katyerina, hozd a gombalevest, a patkánymérget belekeveri
+			- (orosz babona, hogy ha az ember késő éjszaka gombát, meghalhat)
+		- hívd a pópát!
+			- hol a pince kulcsa?
+			- "nemsokára virrad már" - közben történnek a dolgok
+				- itt az idő dolgozni, megvolt a pihenés
+				- gazdánk pofája nagy és rút, mint egy krokodilnak
+			- elveszi a pince kulcsát, valaki híbja a pópát
+			- vegyétek el a kulcsot tőle!
+			- megjön a pópa, gyónni akar
+				- de nem úgy halok meg, mint egy ember, hanem mint egy patkány
+				- vádolja Katyerinát, mutogat, ő! ő!
+				- meghal - Katyerina "kétségbe esik" (védi magát)
+			- mi történhetett? Hisz jó erőben volt
+				- gombát evett, késő éjszaka
+				- pap éneke: ezt már [[Gogol]] is megmondta
+		- Szergej és Katyerina az ágyban
+			- megpróbálja felébreszteni, miért alszol, csókolj!
+				- úgy csókolj, hogy fájjon, hogy az ikon is leessen a falról
+				- már ott a fagott
+			- bármi áron Szergej lesz a férje
+			- látomásai vannak esténként, megjelenik Borisz, az apa
+			- felébreszti Szergejt
+			- mintha valaki kint lenne a háznál, de a kutyák nem ugatnak, hazajött a férj
+			- bújj a szekrénybe
+		- miért van bevetve az ágy kettőre?
+			- Önt vártam, férjem
+			- mi ez az öv?
+			- kékre-zöldre verlek
+			- az igazat mondd
+			- nen mondok semmit
+			- szuka! szuka!
+			- megölik ketten
+			- pópát! Nesze neked, pópa, leüti valamivel
+		- vidd a pincépe (Katyerina Szergejnek)
+			- gyászinduló szerű zene 6/8-ban
+			- lassan végzek, kész is!
+			- csókolj!
+			- mostmár te vagy a férjem
+			- ölelkeznek, szordínós harsonaállás
+		- 3. felvonás, több hónap eltelt
+			- elterjedt, hogy a férjet útközben megtámadta egy medve
+			- mennek az esküvőre, Katyerina állandóan a pinceajtón áll
+				- kontrafagott
+			- részeges jött-ment paraszt marad csak ott
+				- "ária" arról, hogy állandóan iszik
+			- fölfedezi a hullát, megy pánikban a rendőrségre
+			- a rendőrök unatkoznak, mert ők nem hívják meg, oda kéne valami ürüggyel
+			- megjelenik a paraszt, jelenteni szeretnék valami, hulla van a pincében, hurrá!
+			- berúg a pópa, Katyerina észreveszi a feltört zárat, elmennek
+			- viszik a pénzt, de jönnek a rendőrök
+		- elítélik őket, viszik Szibériába
+			- az őrök lekenyerezhetők
+			- Szergej otthagyja Katyerinát, kikezd Szonyetkával
+			- Katyerinát megalázzák
+			- pihenő után hídon megy át, Szonyetkát belöki a zajló vízbe, utánaugrik
+	- [[Csajkovszkij]]-szerű zenék
+	- sok visszatérő vezérmotívum
+	- eml. 20 éves felvétel, rendező, id. Vidnyánszki Attila
+	- Sztálin felháborodott
+	- Shostakovich elolvasta a cikket
+
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/shostakovich&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>

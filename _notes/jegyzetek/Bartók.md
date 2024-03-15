@@ -161,6 +161,7 @@ type:
 - [[Beethoven]] - *No. 14. Vonósnégyes*
 	- 14 évesen hallotta először (Pozsonyban) a kvártettet, rajongott érte
 	- szerette volna megismerni, a pénz szűken volt, a négykezes átirat olcsóbb volt, ezért azt kapta meg egy év múlva
+		- full amatőröknek van átírva négy kézre?
 	- meghatódik a témától
 		- hangközlépések, amik [[Wagner]] *Trisztán és Izoldájára* utalnak
 		- érzelmi felindultságában (Geier bejött, aztán ki is ment) vonósnégyest ír (ami kifejezetten hasonlít [[Beethoven]]ére)
@@ -173,6 +174,24 @@ type:
 			- (koncerten! -> már nem házi muzsika)
 			- mert ezt játszották a leggyakrabban a kései kvártettekből
 			- ez volt a népszerű, ez jött szembe
+## vonósnégyes a 19. századi Magyarországon
+- 1877, két éve van Zeneakadémia, zongora, hegedű
+- nincs meg a bázis, külföldiek zenéltek eddig
+	- hozzájuk hasonlítják a magyarokat
+- új vonósnégyes
+	- Hellmesberger József, Helmesberger kvártett
+	- régi repertoár, nem kísérletezik "kétes értékű új kompozíciókkal"
+	- [[Mozart]], [[Haydn]], [[Mendelssohn]], [[Beethoven]], [[Schumann]]
+	- 1901-ig fennállt
+	- **ifj. Hellmesberger operettszerzőként tüntette ki magát** (de operettjei itthon megbuktak)
+		- mikor ő vezette a vonósnégyest, a művészi színvonal ereszkedésnek indult
+		- [[Bartók]] tőlük hallotta a [[Beethoven]]-vonósnégyes
+	- megalakulása előtt volt bécsben egy fontos vonósnégyes ('30-as évekig)
+		- [[Beethoven]] vonósnégyeseinek bemutató együttese
+		- volt egy apály utánuk
+	- ez az egy társaság kielégítette a bécsi zenebarátok igényeit, monopólium voltak
+	- minden fontos 19. század 2. felében alkotó művésszel valahogy kapcsolatban álltak
+		- [[Popper Dávid]] is csellózott benne
 
 
 - eml. [[Modell és inspiráció]] (könyv)
@@ -184,6 +203,12 @@ type:
 - Slavo Zizek
 
 - eml. op. 2 rapszódia (hasonlóság [[Liszt]]tel)
+
+- eml. [[Paolo Coelho]]
+
+- eml. [[Kurtág Márta]] és [[Kurtág György]] tévében Carment néz: "Gyuri! Te most komponálsz!"
+
+- [[Jehudi Menuhin]] és [[Bartók]]: Menuhin inkább gyakorolta a lejátszhatatlan részeket ahelyett, hogy nemet mondott volna
 
 
 
