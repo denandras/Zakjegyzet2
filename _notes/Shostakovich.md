@@ -28,7 +28,7 @@ type:
 	- fiatalkori mű
 - filmhez felhasznált zene
 	- Jazz Suite
-- *Leningrád* szimfónia
+- *VII. Leningrád* szimfónia
 - életműve felemás
 - elképesztő dolgokat tett, ameddig tönkre nem tették
 - *V. szimfónia*
@@ -68,6 +68,7 @@ type:
 - eml. *[[Solomon Volkov]] - Testamentum*
 	- interjúk (és adalékok) [[Shostakovich]]csal
 - *A mcenszki járás Lady Macbethje* - nálunk *Kisvárosi Lady Macbeth* (mi különbséget teszünk az eredeti és az átdolgozott művek közt)
+	- 1934
 	- [[Nyikolaj Szemjonovics Leszkov]] író
 		- nem egy nagy név
 		- [[Dosztojevszkij]] lapjában jelenik meg
@@ -184,7 +185,71 @@ type:
 	- [[Csajkovszkij]]-szerű zenék
 	- sok visszatérő vezérmotívum
 	- eml. 20 éves felvétel, rendező, id. Vidnyánszki Attila
+	- a szovjet zene naturalista
 	- Sztálin felháborodott
 	- Shostakovich elolvasta a cikket
+		- nekitántorodott egy falnak
+- folyamatosan vitték el az embereket Szibériába
+- folyamatos rettegés
+- [[Gorkij]] közbenjárt, hogy őt ne vigyék el
+	- utolsó hónapjaiban
+	- [[Sztálin]] vele nem mert mit kezdeni
+	- írt neki egy levelet, "Shostakovich majd megjavul"
+	- (nem küldte el valószínűleg)
+	- de mindenki besúgó volt a környezetében
+- [[Shostakovich]] mégsem mutatta be a *4. szimfóniáját*
+- *5. szimfónia* a népszerűségre törekszik
+	- a népet felvonultatják, hogy örüljön
+	- menet (a vesztőhelyre) - idézet [[Berlioz]] *Fantasztikus szimfóniájából*
+	- d-moll
+	- "szikra" - zongora szimfonikus zenében
+	- témák
+		- 1. tépett, zaklatott
+		- 2. lágyabb, álmodozóbb
+		- kvibtpárhizam, C-dúr
+		- melléktéma (vágyakozás?)
+		- az egész ország alszik
+		- hatalom
+		- unisono, rengeteg ember egyetért
+		- '37-ben ez egy távoli emlék
+		- a forradalom le lett verve
+	- "A kocsma"
+		- megjelenik [[Mahler]] leginkább a hangszerelésben
+	- [[Tuhacsevszkij]] marsall
+		- legfontosabb katona volt, kivégezték
+	- 4. tétel
+		- nagy ünnep, kötelező
+		- igazi optimista nóta
+		- megjelenik [[Sztálin]], a tömegen vallásos áhítat/révület lesz úrrá
+		- várunk
+		- mostmár minden mindegy
+		- mindenki elindult a távolban, mindjárt mi jövünk
+		- haladunk előre
+		- kétoldalt az őrök
+	- rengetegen sírtak
+	- 35 percig tartott a taps
+	- nem jelent meg kritika a következő napokban
+	- [[Alekszej Tolsztoj]] hetek múlva: fontos és jó mű, [[Shostakovich]] nagy zeneszerző, arról szól, hogy [[Sztálin]] elvtárs vezet bennünket
+	- megbocsájtumk neki? - eml. *Testamentum*
+		- átmenetileg
+- *6. szimfónia*
+- *7. szimfónia*
+	- partitúrát elvitték az USAba
+	- [[Toscanini]] vezényelte
+	- "túl van értékelve"
+- *8. Sztálingrádi szimfónia*
+- *9. szimfónia*
+	- háború befejezése után
+	- [[Sztálin]] megharagudott, mert nem volt kórus
+	- megint kihúzta a gyufát
+		- félt egész életében
+- *12. szimfónia* - "1917-es év"
+- *I. csellóverseny*
+- *VIII. vonósnégyes*
+	- benne van a motívum, ami a *10. szimfónia* óta vele van
+	- D. eSz C H
+	- elmesélték neki a lebombázott Drezda tönkrebombázását
+	- 
+
 
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/shostakovich&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>

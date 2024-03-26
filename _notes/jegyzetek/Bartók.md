@@ -175,6 +175,7 @@ type:
 			- mert ezt játszották a leggyakrabban a kései kvártettekből
 			- ez volt a népszerű, ez jött szembe
 ## vonósnégyes a 19. századi Magyarországon
+
 - 1877, két éve van Zeneakadémia, zongora, hegedű
 - nincs meg a bázis, külföldiek zenéltek eddig
 	- hozzájuk hasonlítják a magyarokat
@@ -192,6 +193,38 @@ type:
 	- ez az egy társaság kielégítette a bécsi zenebarátok igényeit, monopólium voltak
 	- minden fontos 19. század 2. felében alkotó művésszel valahogy kapcsolatban álltak
 		- [[Popper Dávid]] is csellózott benne
+
+## Opera
+
+- Bartók pályázott egy lipótvárosi tenderre, nem nyert, az Operaház visszadobta a darabot (szünet nélkül)
+	- pályázat a Zeneakadémiáról kikerülő zeneszerzők számára?
+	- bírálat, nem érkezik be sok mű
+	- kritériumok sorozatos enyhítése
+	- díjak struktúrája mindig is ilyen volt
+- *Kékszakállú* + *Fából faragott királyfi*
+- sok dolog van Bartók életében, feleség, opera, stb
+- vezető bulvártéma az opera
+- opera 25. évfordulójának ünneplése elmaradt
+	- (évente 200 előadás)
+- előtte Nemzeti Színházban játszottak operákat
+	- magyar nyelv művelésének egyik fő intézménye
+- a mindennapok kulturális fogyasztásának egyik legnagyobb szelete az opera fogyasztása
+- az opera nem prózai színház
+	- **operaháború**
+- az operajátszás kifizetődőbb volt, mint a próza
+- [[Mihalovics Ödön]] - *Toldi szerelme*
+	- profi, tudatosan [[Wagner]]-klón
+	- az opera 5000. előadása alkalmából előadva
+	- néha nem működött, hullámvölgyekkel működött 25 éven át
+	- belső viszálykodás
+	- háromszor játszott darab, sikertelen
+	- [[Mihalovics Ödön]] a magyar zenei élet Winettou-ja
+		- egyik legjobb barátja [[gróf Aponyi Albert]]
+		- gúnyosan "a nemzet baritonja"
+	- [[Mészáros Imre]] - senki nem tufta, hogy hogy került az opera igazgatói posztjára
+	- az Operaház évtizedeken keresztül nem tudja kiosztani magyar anyanyelvű énekesekre a szerepeket
+		- eml. Jessie Norman - *Kékszakállú*
+	- minden felvonás után kijött a szerző meghajolni(?)
 
 
 - eml. [[Modell és inspiráció]] (könyv)

@@ -48,6 +48,8 @@ type:
 - [[rokokó]]
 - [[klasszicizmus]]
 - [[romantika]]
+- [[permanens forradalom]]
+- [[új utak]]
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik
 	- műfajok, korstílusok, stílusirányzatok
