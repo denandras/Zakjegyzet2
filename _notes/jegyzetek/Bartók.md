@@ -223,27 +223,34 @@ type:
 		- gúnyosan "a nemzet baritonja"
 	- [[Mészáros Imre]] - senki nem tufta, hogy hogy került az opera igazgatói posztjára
 	- az Operaház évtizedeken keresztül nem tudja kiosztani magyar anyanyelvű énekesekre a szerepeket
-		- eml. Jessie Norman - *Kékszakállú*
+		- eml. [[Jessie Norman]] - *Kékszakállú*
 	- minden felvonás után kijött a szerző meghajolni(?)
+	- 14 év alatt 15x előadva
+	- "magyar [[Trisztán és Izolda]]"
+	- [[Mészáros Imre]] [[Karol Burian]]nal szerette volna énekeltetni, aki nem vállalta el
+		- [[Anthes]] lett volna a következő
+		- [[Környei]] lett a befutó
+- 1911-16: [[Bartók]] belső emigrációba vonult (Rákoskeresztúr)
+	- UMZE, [[Kodály]]
+	- elkötelezett kollégák kellrnek
+	- szakmai, művészi csalódás
+	- alkotói válság
+- *Kékszakállú*
+	- hihetetlenül nehéz tenort találni
+	- triviális lenne szoprán + tenorra írni
+	- lehetetlen hangterjedelmű Judit
+	- 
 
-
+- az operajátszás jelzi a társadalmi szelet nívóját
+- eml. ambíció és realitásérzék egyensúlya
 - eml. [[Modell és inspiráció]] (könyv)
-
 - eml. [[Szabolcsi Bence Művei]], [[Tóth Aladár]]
-
 - Beethoven op 131
-
 - Slavo Zizek
-
 - eml. op. 2 rapszódia (hasonlóság [[Liszt]]tel)
-
 - eml. [[Paolo Coelho]]
-
 - eml. [[Kurtág Márta]] és [[Kurtág György]] tévében Carment néz: "Gyuri! Te most komponálsz!"
-
 - [[Jehudi Menuhin]] és [[Bartók]]: Menuhin inkább gyakorolta a lejátszhatatlan részeket ahelyett, hogy nemet mondott volna
-
-
 
 #
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bartok&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
