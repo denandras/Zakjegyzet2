@@ -50,6 +50,8 @@ type:
 - [[romantika]]
 - [[permanens forradalom]]
 - [[új utak]]
+- [[szecesszió]]
+- [[modern idők]]
 ## Mi a művtöri?
 - vizuális művészetekkel foglalkozik
 	- műfajok, korstílusok, stílusirányzatok

@@ -239,7 +239,6 @@ type:
 	- hihetetlenül nehéz tenort találni
 	- triviális lenne szoprán + tenorra írni
 	- lehetetlen hangterjedelmű Judit
-	- 
 
 - az operajátszás jelzi a társadalmi szelet nívóját
 - eml. ambíció és realitásérzék egyensúlya
@@ -251,6 +250,9 @@ type:
 - eml. [[Paolo Coelho]]
 - eml. [[Kurtág Márta]] és [[Kurtág György]] tévében Carment néz: "Gyuri! Te most komponálsz!"
 - [[Jehudi Menuhin]] és [[Bartók]]: Menuhin inkább gyakorolta a lejátszhatatlan részeket ahelyett, hogy nemet mondott volna
+
+## Gróf Aponyi Albert
+
 
 #
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/bartok&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
