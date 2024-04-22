@@ -1,0 +1,168 @@
+---
+title: modern idők
+feed: show
+created: 2024-04-16 11:34
+date: 2024-04-16 11:34
+permalink: modern-idok
+subject:
+  - művészettörténet
+type:
+---
+
+- modernitás, modernizmus
+	- jól periodizálható?
+	- mások szerint inkább folyamatos
+- stílus és filozófia
+- kísérleti
+- narratívától eltávolodva
+- absztrakció
+- röbbszólamú
+	- nincs egy fajta detektálható művészeti megközelítés
+	- párhuzamosan haladnak egymás mellett
+- ellentmondások ekkor is voltak, nem csak a [[posztmodern]]ben
+
+- [[Van Gogh]]
+- [[Cezanne]]
+- [[Paul Gaugin]]
+- [[Henri de Toulouse-Latrec]]
+
+- fauvizmus
+	- Fauve: vadállat (francia)
+	- 1900-1910
+	- expresszív mód, primer, erős színek, vadság
+	- [[Henri Matisse]]
+		- *Tálak és gyümölcs*
+		- *Kalapos nő*
+			- nem ábrázolás, hanem megjelenítés
+		- *[[Madame Matisse]]*
+		- *A tánc*
+			- eml. [[Stravinsky]]
+	- [[André Derain]]
+		- *Száradó vitorlák*
+		- *Aa londoni Charing Cross Bridge*
+- kubizmus
+	- század elején
+		- nem csupán geometrikus absztrakció, nem formai kísérletezés
+		- filozófiai kérdés: egy dologra ha ránézünk többféle szempontból, mennyivel komplexebb képet kapunk
+	- [[Georges Braque]]
+		- *Házak és fa*
+		- *A gitár*
+		- *Normandiai kikötő*
+	- [[Picasso]]
+		- *Az Avignoni kisasszonyok* (helyszín, párizsi kupleráj)
+		- jó orra volt ahhoz, hogy megérezze az érdekeset
+		- használja a kubizmus eszközeit
+		- *Lány mandolinnal
+		- *Guernica*
+			- spanyol polgárháború legmocskosabb történetének hatására
+			- civil várost rommá bombáztak, erődemonstráció
+			- eltörött valami
+- expresszionizmus
+	- valamennyi absztrachálódás van benne, de nem dominánsan geometrikus
+	- erős színek, festői gesztusok
+	- fauvizmus -><- 10-15 év különbség, kritikusabb, gyomorszorítóbb képeket megfogalmazó dolog
+	- hosszú történet, poszt-expresszionizmus
+	- [[Ernst Ludwig Kirchner]]
+		- *Nollendorfer Platz*
+		- *Önarckép katonaként*
+	- [[Ernst Barlach]]
+		- *Magdeburgi emlékmű*
+	- [[Otto Dix]]
+		- *Rohamosztagosok támadása gáztámadás...*
+		- *[[Sylvia von Harden]] újságíró portréja*
+	- [[Georg Grosz]]
+		- *Köztársasági automatonok*
+		- *Napfogyatkozás*
+	- **[[Emil Nolde]]**
+		- keresztény téma
+		- *Próféta
+		- *Temetés*
+	- **[[Chaim Soutine]]**
+		- *Önarckép*
+		- *Kettéhasított marha*
+			- eml. [[Van Gogh]]
+			- eml. [[Rembrant]]
+	- [[Wassily Kandinsky]]
+- bauhaus (1919-33)
+	- mai tárgykultúránk erős befolyásolója
+	- eml. Arts and Crafts
+	- kiüresedett, olcsó dizájn helyett valami jobbaz előállítani -> de ez drága
+		- jó feloldása a problémának
+	- '33 után kénytelenek voltak elhagyni Németországot
+	- Weimar -> Dessau -> Berlin
+	- iskola
+	- [[Walter Gropius]] alapító
+		- *Bauhaus in Dessau*
+	- [[Hannes Meyer]]
+	- [[Ludwig Mies van der Rohe]]
+	- [[Johannes Itten]]
+	- [[Breuer Marcel]]
+		- *Wassily-szék*
+	- [[Moholy-Nagy László]] ([Moholi])
+		- két nagy egyetemet alapított, pl. Chicago School of Arts
+		- fotográfia
+		- kollázs, fotogram
+	- nemzetközi diákok (radikálisabban gondolkodók, tenni akarók, felük nő volt, csúcskategóriás oktatók, heti 6 teljes nap, együtt éltek, jellemzően vegák voltak, bentlakásos suli, színházelőadások)
+		- színházban saját jelmezek & díszletek
+- konstruktivizmus
+	- Szovjetúnió
+	- 1919-
+	- autonóm művészet elutasítása
+	- *Zuev munkásklub*
+	- [[Vladimir Majakovszkij]]
+		- *Agritrop plakát*
+	- [[El Liszickij]]
+		- *Design*
+		- *Proun*
+	- [[Vladimir Tatlin]]
+		- *A harmadik internacionálé emlékműve*
+- De Stijl
+	- Hollandia
+	- neiplaszticizmus
+	- geometrikus absztrakció kimaxolása
+	- [[Gerrit Rietveld]]
+	- [[Piet Mondrian]]
+		- *Tableau I*
+- futurizmus
+	- [[Giacomo Balla]]
+		- *Pórázon vezetett kutya dinamizmusa*
+		- *Absztrakt sebesség + hang*
+	- [[Umberto Boccioni]]
+		- *Ébred a város*
+		- *Futballista dinamizmusa*
+		- *A folytonosság egyedi formái a térben* (szobor)
+- dadaizmus
+	- Avant-garde művészeti irányzat
+	- 1916 Zürich, Cabaret Voltaire
+	- az első vh retteneteire reagálva
+	- [[Tristan Tzara]]
+		- ha a világnak semmi értelme, a művészetnek miért kéne, hogy legyen
+		- *Dada I*
+	- *Versek*
+	- [[Marcel Duchamp]]
+		- *Szökőkút* (pissoire kiállítva, szignózva álnéven)
+	- [[Hanna Höch]]
+		- *Vágás a dadaista konyhakéssel az utolsó weimari sörhasú németországi kulturális....*
+- szürrealizmus
+	- [[André Breton]] vezéralak
+	- [[Max Ernst]]
+		- *Ubu Imperator*
+		- *Celebes*
+	- átfedések a Dadával
+	- mit tegyünk azzal, hogyha nem a létező valóságból indulunk ki? - a tudattalanból épít
+	- [[André Masson]]
+		- *Automatikus rajz*
+	- [[Man Ray]]
+		- *Ruhaállvány*
+	- [[Salvador Dalí]]
+	- **[[Giorgio de Chirico]]**
+	- [[René Magritte]]
+		- nettó belga nyárspolgár
+- Marc [[Chagall]]
+- [[Paul Klee]]
+	- szintetizáló, intellektuális művészet
+	- "a művészet nem arra van, hogy a láthatót visszaadja, hanem hogy rányissa a szemünket dolgokra"
+
+#
+<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/modern-idok&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
+
