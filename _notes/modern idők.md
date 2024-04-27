@@ -163,6 +163,123 @@ type:
 	- szintetizáló, intellektuális művészet
 	- "a művészet nem arra van, hogy a láthatót visszaadja, hanem hogy rányissa a szemünket dolgokra"
 
+## Második óra
+
+- 2. vh után
+- megváltozott politikai, társadalmi, geológiai helyzet
+- átjárás, globalizáció, ~~világfalu~~ (világváros)
+- a művészet önállósodása
+- párhuzamosságok
+
+### Építészet
+
+- vissza az időben
+	- Bauhaus
+	- 1851, London, Crystal Palace
+		- mérnöki építészet első modern példája, a struktúra maga a szép
+	- [[Walter Gropius]], Dessau, Bauhaus
+	- [[Frank Lloyd Wright]], Falling Water House, stb.
+	- Szent István Park
+- csúcsépületek
+	- [[Ludwig Mies van der Rohe]] pavilonja
+		- téralakítás, kompozíciós kérdések
+		- nem volt funkciója, kiállítási pavilon
+		- 1929
+		- eml. Exposition d'Art Decorative kiállítás
+	- [[Le Corbusier]] ([Lö Korbüziér])
+		- 1955, Franciaország, Ronchant
+			- falu plébániatemplomának újjáépítése
+			- az egyik falba beépítették az előző templom összes kövét
+			- esővíz begyűjtésre kerül, hátha kigyulladna megint
+			- keleti oldalon ablak, benne a Mária-szobor, amit egy nap kifelé fordítanak 15 ezer fős miséhez a hegyen
+		- egyetemi épület, India
+		- Marseille
+	- [[Oscar Niemeyer]]
+		- Brazíliaváros
+		- eml. Isten városa film
+	- [[Alvar Aalto]] finn
+		- skandináv, visszafogott plaszticitás
+- "starchitecture"
+	- sztárépítészek megvásárlása csilliárdokért húzóérőnek
+	- [[Cesar Pelli]]
+	- [[Frank Gehry]]
+	- [[Rem Kohlas]]
+		- Európai Unió zászlajának terve
+	- [[Zaha Hadid]]
+	- [[John Pawson]]
+	- [[Peter Zumthor]]
+		- eml. Sorrentino - Ifjúság film + zenéje
+		- nem tanult építésznek, műbútorasztalos
+		- Pritzker-díj
+		- Beuderklaus kápolna
+	- [[Tadao Ando]]
+		- profi boxoló és teherautósofőr
+		- Pritzker-díj
+- grafikon #később 
+- szuprematizmus
+	- [[Kazimir Malevics]]
+	- Die Objektlöse Welt
+- absztrakt expresszionizmus
+	- New York, 1940-50-
+	- abaztrakt művészet + szürrealizmus (automatikus alkotás)
+	- [[Jackson Pollock]]
+	- [[Mark Rothko]]
+		- Dallas, Rothko-Chapel
+		- ablakok a transzcendensbe
+		- non-denominációs templom
+		- meditatív
+		- eml. [[Morton Feldman]] zenéje az átadásra írva
+	- [[Barnett Newman]]
+	- [[Jasper Johns]]
+- op-art
+	- eredet: szürrealizmus
+	- [[Victor Vasarely]] (Vásárhelyi Győző)
+	- [[M. C. Escher]]
+- pop-art
+	- 1950-es évek, London
+	- félreértjük
+	- [[Robert Rauschenberg]]: "nem akarom, hogy a kép olyan legyen, amilyen nincs. Szerintem a kép valódibb, ha a valós világ részeiből készül"
+		- combined paintings
+		- restaurátorok gyűlölik
+	- [[Roy Liechtenstein]]
+		- kis comics kéoek felnagyítása
+	- [[Andy Warhol]]
+		- szerialitás, szitanyomat
+		- áruházi dekoratőr
+		- rutén, Szlovákiából
+- Arte Povera, Happening, Conceptualism
+	- [[Lucio Fontana]]
+	- [[Yves Klein]]
+		- judomester
+		- zenei irányultság, "Gesamtkunstwerk"
+		- egyetlen színt levédett
+	- [[Joseph Kosuth]]
+		- szék háromszor
+		- filozofikus megközelítés
+	- [[Andrew Wyeth]]
+		- *Krisztina Világa*
+	- [[Edward Hopper]]
+		- magányosodó, urbanizálódó USA
+	- [[David Hockney]]
+	- [[Francis Bacon]]
+		- [[Diego Velazquez]]-feldolgozás
+	- [[Lucien Freud]]
+		- [[Sigmund Freud]] unokája
+
+- [[Vajda Lajos]]
+- [[Bálint Endre]]
+- [[Kondor Béla]]
+- [[Tóth Menyhért]]
+- [[Országh Lili]]
+- [[Schár Erzsébet]]
+- [[Csernus Tibor]]
+	- neo-[[Caravaggio]]/Caravaggeszk
+
+- [[Hantai Simon]]
+- [[Reigl Judit]]
+
+
+
 #
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/modern-idok&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
 
