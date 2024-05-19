@@ -32,7 +32,7 @@ type:
 - 1913 - botrány
 	- zenekari dalsorozat
 - darabok
-	- op. 1 *Zongoraszonáta, egész tonális*
+	- op. 1 *Zongoraszonáta*, egész tonális
 	- op. 2 *Dalok*
 	- op. 3 *Vonósnégyes*
 	- op. 4 *Altenberg-dalok*
@@ -68,7 +68,7 @@ type:
 				- .....
 			- Maria - Katonazene, bölcsődal
 				- egészen tonális pillanatok
-				- refrénes dal - különálló koncertdarabbá tette, sikert aratott
+				- *refrénes dal* - különálló koncertdarabbá tette, sikert aratott
 				- gyerek elalszik, Marie megnyugszik (F - C)
 				- még egyszer felébred - F - H (végzet hangja, vész, szörnyűség)
 					- eml. *Lírikus szvit vége* - a cselló c húrja lehangolva h-ra

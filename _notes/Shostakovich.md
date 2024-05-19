@@ -27,7 +27,7 @@ type:
 	- 20-as évek, a hangrendszer kibővítése
 	- fiatalkori mű
 - filmhez felhasznált zene
-	- Jazz Suite
+	- *Jazz Suite*
 - *VII. Leningrád* szimfónia
 - életműve felemás
 - elképesztő dolgokat tett, ameddig tönkre nem tették
@@ -39,7 +39,7 @@ type:
 	- 1918-21 - hadikommunizmus, éhínség
 	- 1922 NEP (új gazdasági politika)
 	- Lenin agyvérzést kap
-	- **1923 - RAPM (Orosz Proletár Zenészek Szővetsége)**
+	- **1923 - RAPM (Orosz Proletár Zenészek Szövetsége)**
 		- az operát és nyugati zeneszerzőket ki kell dobni
 		- kivéve [[Beethoven]] és [[Muszorgszkij]]
 		- munkásdalok
@@ -121,7 +121,8 @@ type:
 			- "könyvet"
 			- nincs könyvem, olvasni se tudok
 			- nem kell a szöveg, a zene mindent kifejez
-			- "jó, Szergej, mostmár megy. Megyek (marad)"
+			- "jó, Szergej, mostmár menjen."
+			- "Megyek" (marad)
 		- após kijön (az emeleten)
 			- énekel a múltjáról
 			- mit csinálna ezzel a nővel, ha fiatalabb lenne 10 évvel
@@ -190,7 +191,7 @@ type:
 	- Shostakovich elolvasta a cikket
 		- nekitántorodott egy falnak
 - folyamatosan vitték el az embereket Szibériába
-- folyamatos rettegés
+	- állandó rettegés
 - [[Gorkij]] közbenjárt, hogy őt ne vigyék el
 	- utolsó hónapjaiban
 	- [[Sztálin]] vele nem mert mit kezdeni
@@ -248,8 +249,7 @@ type:
 - *VIII. vonósnégyes*
 	- benne van a motívum, ami a *10. szimfónia* óta vele van
 	- D. eSz C H
-	- elmesélték neki a lebombázott Drezda tönkrebombázását
-	- 
+	- elmesélték neki Drezda rommá bombázását
 
 
 <p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/shostakovich&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>

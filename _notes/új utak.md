@@ -47,9 +47,9 @@ type:
 	- folyamatos elmozdulás az absztrakció felé
 		- az érzet a lényeg egyre inkább
 	- *Mont Sainte-Victoire és a Chateau Noir*
-- [[Paul Gaugin]]
+- [[Paul Gauguin]]
 	- színintenzitás, színmezők, dekoratív körvonalakkal
-	- egyszer csak nekivágott a festészetnek, maga mögött hagyva egy decens polgári életek
+	- egyszer csak nekivágott a festészetnek, maga mögött hagyva egy decens polgári életet
 	- Pont Aven, Tahiti
 	- szintetizmus, egyéni stílus, szimbolizmus
 	- előképek: [[Edgard Degas]], japán művészet
@@ -96,7 +96,7 @@ type:
 		- *Moulin Rouge: La Goulue*
 - a Nabis-k
 	- héber: próféta
-	- trecento, japán, [[Paul Gaugin]]
+	- trecento, japán, [[Paul Gauguin]]
 	- hatás: szecesszió
 	- [[Paul Sérusier]]
 		- *A szent fák*

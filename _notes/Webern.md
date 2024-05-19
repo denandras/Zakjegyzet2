@@ -22,12 +22,12 @@ type:
 		- nehéz időkben próbált menteni zsidó barátokat
 		- figyelték a házat
 		- bementek a házba, hogy elfogják vejét, megpróbált nekimenni az amerikai katonáknak, lelőtték
-- életrajt
+- életrajz
 	- 1883, Bécs
 	- bányamérnök édesapja szakember zeneszerető
 	- korán elküldi
 		- Graz, Klagenfurt
-		- rettenetes tájszólás - 
+		- rettenetes tájszólás
 	- zongora, cselló, összhang - ([[Edward Komauer]])
 	- 1903 - Bécs zenetudomány [[Guido Adler]]nél
 		- 1906 - doktori cím, téma: Heinrich [[Isaac]]
@@ -43,7 +43,7 @@ type:
 		- "felsőbbrendűségi komplexus"
 		- meggyógyult (tényleg! - belátta)
 	- szerződés az Universal kiadóval
-	- [[Bartók]] nem vett tudomást róla, fel se vágta
+	- [[Bartók]] nem vett tudomást róla, fel se vágta levelét
 	- 1929-től 5 londoni út, siker, Winterthur (Svájc)
 	- Bécsi Munkás Énekegylet
 	- [[Kodály]] Psalmusát dirigálja
@@ -55,7 +55,7 @@ type:
 - a legtöbb darabját nem adta közre
 - rövid darabok - csak közhelyet lehet írni, mert a komponálás szabályrendszer kiépítésével, szüzsével indul
 - túláradó érzelmek
-- életművek opusszal
+- művek opusszal
 	- op. 1 Passacaglia zenekarra (diplomadarab)
 		- tartani kell magát valamihez
 		- d cisz b' **gisz** f e **a** d

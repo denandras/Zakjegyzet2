@@ -23,7 +23,7 @@ type:
 
 - [[Van Gogh]]
 - [[Cezanne]]
-- [[Paul Gaugin]]
+- [[Paul Gauguin]]
 - [[Henri de Toulouse-Latrec]]
 
 - fauvizmus

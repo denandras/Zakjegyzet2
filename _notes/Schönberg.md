@@ -34,14 +34,14 @@ type:
 	- mégsem akar katona lenni, szolgálja a hazáját a zenéjével -> pozsonyi bevándorlók a szülei
 - kapcsolatai
 	- vonósnégyes barátokkal (nagyméretű brácsa citerahúrokkal)
-	- **Polyhymnia** (egylet) - A. von [[Zemlinsky]]
+	- **Polyhymnia** (egylet) - **A. von [[Zemlinsky]]**
 		- húgát feleségül veszi
 - Berlin Buntes Theater
 	- kabarédarabok (*Brettl-Lieder*)
 - csehszlovák útlevél a pozsonyi származás miatt
 - '33-ban Berlinben van, menekül (USA)
 	- állampolgárság, angolul tanít
-- [[Dr Eugenie Schwarzwald]] iskolájában tanít
+- **[[Dr Eugenie Schwarzwald]]** iskolájában tanít
 	- szegény gyerekeknek megnyitja a tanulás útját
 	- növendéke [[Alban Berg]] és [[Webern]]
 - [[Brahms]] és [[Wagner]] hatása
