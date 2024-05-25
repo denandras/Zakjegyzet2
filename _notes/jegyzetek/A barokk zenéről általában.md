@@ -40,9 +40,7 @@ type:
 
 ### Jelentős operák
 - [[Monteverdi]]: [[Orfeo]] (1607)
-
 - [[Rameau]]: [[Hyppolyte et Aricie]] - 1733
-
 * a reneszánsztól való eltérések
 	* [[ars perfecta]] - [[Michelangelo]] Dávidja, statikus, tökéletes - [[reneszánsz]]
 		* meztelen, nyugodt
