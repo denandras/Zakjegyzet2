@@ -9,7 +9,6 @@ subject:
 type:
   - korszak
 ---
-#
 ### Idő
 -   történelmi középkor
     -   (korszakok nem léteznek, hanem mi hozzuk létre őket)
@@ -78,9 +77,3 @@ type:
 -   azért nem a görög zenétől indulunk, mert nem ismerjük konkrétan a zenét
 -   Euro-centrikus zenetörténeti könyvek
     -   ennek ellenére igenis nagyon fontos a keleti zene
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/a-kozepkori-zene&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

@@ -7,7 +7,6 @@ permalink: akusztika-tetelek
 subject: akusztika
 type: 
 ---
-#
 - A csillaggal jelzett tételekhez használható segédanyag: Pap János: A zenei akusztika alapjai.
 
 - Főiskolai jegyzet,  Tarnóczy Tamás: Zenei akusztika – termekkel foglalkozó fejezet.
@@ -36,9 +35,3 @@ type:
 22.  Teremakusztikai alapfogalmak általában (teremrezonancia, utózengés, időkésés-retesz, diffúzió, hangtisztaság)*
 23.  Az utózengési idő és a terem tulajdonságainak kapcsolata*
 24.  Az időkésés-retesz és a Haas-effektus*
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/akusztika-tetelek&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

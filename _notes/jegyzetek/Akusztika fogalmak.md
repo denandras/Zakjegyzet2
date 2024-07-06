@@ -7,8 +7,6 @@ permalink: akusztika-fogalmak
 subject: akusztika
 type: 
 ---
-#
-
 afferens
 
 alaphártya
@@ -184,9 +182,3 @@ zenei hang
 zenei konszonancia
 
 zengősugár
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/akusztika-fogalmak&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

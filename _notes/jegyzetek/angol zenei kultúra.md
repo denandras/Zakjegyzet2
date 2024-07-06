@@ -9,7 +9,6 @@ subject:
 type:
   - korszak
 ---
-#
 ### **Angol polgári forradalom** (válság) 1642-51
 -   Puritánok elől elmenekül a későbbi [[II Károly]] Párizsba, behozni szándékozza a kultúrát
 - vállalkozó polgárság, jelentős gazdag réteg azért hallgat zenét, mert szép
@@ -43,9 +42,3 @@ type:
 
 * [[John Blow]]
 * [[Bach]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/angol-zenei-kultura&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-

@@ -7,5 +7,4 @@ permalink: akuszika-kepek
 subject: akusztika
 type: 
 ---
-
 # [Link](https://ibb.co/album/XSczxC)

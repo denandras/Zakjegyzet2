@@ -9,7 +9,6 @@ subject:
 type:
   - műfaj
 ---
-#
 [[Pierre Gaveaux]] - Fidelio
 
 - [[Beethoven]] - ![[Fidelio]]
@@ -57,9 +56,3 @@ type:
 ---
 [^]: [[10. Beethoven operája.pdf]]
 [^]: [[Általános zenetörténet IV. szemeszter - 4.tétel A német opera.pdf]]
-
-
-
-#
-<p style="text-align: center;"><img src="https://chart.googleapis.com/chart?cht=qr&chl=https://notes.andrasdenes.com/a-nemet-opera&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"></p>
-
